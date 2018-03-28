@@ -337,12 +337,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" timestamp="1521727319899">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="97" column="38" />
-        <mark key="^" line="97" column="38" />
-        <mark key="." line="97" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" timestamp="1522232971050">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="9" />
+        <mark key="^" line="47" column="9" />
+        <mark key="." line="47" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/settings.py" timestamp="1508944385371">
         <mark key="[" line="32" column="0" />
@@ -2326,43 +2326,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text>4</text>
       </register>
       <register name="0" type="4">
-        <text>fuzz.token_set_ratio(actual_value, target)</text>
+        <text encoding="base64">UEhVX0xPT0tVUF9GSUVMRFNbJ251bWJlciddID0gZmllbGRzLkludChyZXF1aXJlZD1UcnVlLCB2YWxpZGF0ZT1sYW1iZGEgbjogbiA+IDAp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ym90X2xvZ2dlciA9IGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgIFBIVV9MT09LVVBfRklFTERTWydudW1iZXInXSA9IGZpZWxkcy5JbnQocmVxdWlyZWQ9VHJ1ZSwgdmFsaWRhdGU9bGFtYmRhIG46IG4gPiAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IGxvZ2dlcgo=</text>
+        <text encoding="base64">Ym90X2xvZ2dlciA9IGxvZ2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoY2FuZGlkYXRlcykK</text>
+        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IGxvZ2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkpCg==</text>
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoY2FuZGlkYXRlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5kaWRhdGVzCg==</text>
+        <text encoding="base64">ICAgICkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYW1iZGEgYzogc2ltaWxhcml0eV9zY29yZShjLmdldCgnbWVldGluZ19uYW1lJyksIGxvY2F0aW9uKSwK</text>
+        <text encoding="base64">ICAgICAgICBjYW5kaWRhdGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoZmlsdGVyKAo=</text>
+        <text encoding="base64">ICAgICAgICBsYW1iZGEgYzogc2ltaWxhcml0eV9zY29yZShjLmdldCgnbWVldGluZ19uYW1lJyksIGxvY2F0aW9uKSwK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKGNhLmdldCgnbWVldGluZ19uYW1lJykpCg==</text>
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoZmlsdGVyKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBjYSBpbiBjYW5kaWRhdGVzOgo=</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKGNhLmdldCgnbWVldGluZ19uYW1lJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

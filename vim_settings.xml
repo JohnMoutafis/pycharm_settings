@@ -144,6 +144,11 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q3_assign_property_function.sql" timestamp="1522259972418">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/Programs/Album-Splitter/tracks.txt" timestamp="1498645427885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -311,6 +316,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1522259815469">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/Dockerfile" timestamp="1514848307433">
         <mark key="[" line="41" column="17" />
@@ -804,10 +812,10 @@
         <mark key="." line="49" column="36" />
         <mark key="^" line="49" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522168954136">
+      <file name="/Dummy.txt" timestamp="1522260114217">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/LoginForm.js" timestamp="1503568207010">
         <mark key="[" line="60" column="25" />
@@ -1204,7 +1212,7 @@
         <mark key="^" line="171" column="7" />
         <mark key="." line="171" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1514491310130">
+      <file name="/Python Console" timestamp="1522259839117">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -1849,7 +1857,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>available_schemas</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -1858,7 +1866,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>available_schemas</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>

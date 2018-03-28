@@ -819,7 +819,7 @@
         <mark key="." line="49" column="36" />
         <mark key="^" line="49" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522260908415">
+      <file name="/Dummy.txt" timestamp="1522272647799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1830,10 +1830,11 @@
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_calculate_edges.sql" timestamp="1522266940938">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_calculate_edges.sql" timestamp="1522273321416">
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="7" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="50" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.connect_configurations/loki/productions/api/filters.py" timestamp="1506683618929">
         <mark key="[" line="10" column="63" />
@@ -1868,8 +1869,8 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">T1JERVIgQlkgQzEuY2lyY3VtZmVyZW5jZSwgQzEucHJvcGVydHlpZDsK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -1878,7 +1879,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>

@@ -254,6 +254,13 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" timestamp="1522235355982">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="27" column="57" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/Dockerfile" timestamp="1516271784872">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -2311,6 +2318,9 @@
       <jump line="103" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/correlation_strategies.py" />
       <jump line="5" column="22" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" />
       <jump line="91" column="7" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" />
+      <jump line="543" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" />
+      <jump line="3" column="22" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2326,43 +2336,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>4</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">UEhVX0xPT0tVUF9GSUVMRFNbJ251bWJlciddID0gZmllbGRzLkludChyZXF1aXJlZD1UcnVlLCB2YWxpZGF0ZT1sYW1iZGEgbjogbiA+IDAp</text>
+        <text>self.assertFalse(sieve_candidates(CANDIDATES, 'Grpoly'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBIVV9MT09LVVBfRklFTERTWydudW1iZXInXSA9IGZpZWxkcy5JbnQocmVxdWlyZWQ9VHJ1ZSwgdmFsaWRhdGU9bGFtYmRhIG46IG4gPiAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ym90X2xvZ2dlciA9IGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHNpZXZlX2NhbmRpZGF0ZXMoQ0FORElEQVRFUywgJ05pa29jaWEnKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgIHsibWVldGluZ19uYW1lIjogIk5pY29zaWEifSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoY2FuZGlkYXRlcykK</text>
+        <text encoding="base64">ICAgIHsibWVldGluZ19uYW1lIjogIk5pY29zaWEifSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkpCg==</text>
+        <text encoding="base64">ICAgIHsibWVldGluZ19uYW1lIjogIk5pY29zaWEifSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5kaWRhdGVzCg==</text>
+        <text encoding="base64">ICAgIHsibWVldGluZ19uYW1lIjogIkNvbXBpZWduZSJ9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYW1iZGEgYzogc2ltaWxhcml0eV9zY29yZShjLmdldCgnbWVldGluZ19uYW1lJyksIGxvY2F0aW9uKSwK</text>
+        <text encoding="base64">ICAgIHsibWVldGluZ19uYW1lIjogIkNvbXBpZWduZSJ9LAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoZmlsdGVyKAo=</text>
+        <text encoding="base64">ICAgIHsibWVldGluZ19uYW1lIjogIkNvbXBpZWduZSJ9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKGNhLmdldCgnbWVldGluZ19uYW1lJykpCg==</text>
+        <text encoding="base64">ICAgIHsibWVldGluZ19uYW1lIjogIk5ld2Nhc3RsZSJ9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

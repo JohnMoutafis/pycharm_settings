@@ -549,11 +549,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils.py" timestamp="1522246119799">
-        <mark key="[" line="66" column="53" />
-        <mark key="]" line="66" column="53" />
-        <mark key="^" line="66" column="55" />
-        <mark key="." line="66" column="53" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils.py" timestamp="1522249118669">
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="36" column="65" />
+        <mark key="^" line="36" column="65" />
+        <mark key="." line="36" column="65" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1521711446251">
         <mark key="'" line="38" column="0" />
@@ -1888,7 +1888,7 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1522226439511">
+      <file name="/Python Console" timestamp="1522249003789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2080,12 +2080,12 @@
         <mark key="^" line="104" column="5" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" timestamp="1522243459037">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" timestamp="1522249145774">
         <mark key="'" line="98" column="7" />
-        <mark key="[" line="36" column="96" />
-        <mark key="]" line="36" column="95" />
-        <mark key="^" line="36" column="95" />
-        <mark key="." line="36" column="95" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/geosite/urls.py" timestamp="1514749119521">
         <mark key="[" line="28" column="20" />
@@ -2323,7 +2323,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>tzutc</text>
       </register>
       <register name="/" type="4">
         <text>4</text>
@@ -2352,15 +2352,18 @@
         )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcnJvdy5nZXQodmFsdWUpLnJlcGxhY2UodHppbmZvPSdFdXJvcGUvQXRoZW5zJykpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Y2xhc3MgU2ltaWxhcml0eVNjb3JlVGVzdENhc2UodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>CANDIDATES = [
     {&quot;meeting_name&quot;: &quot;Greypoly&quot;},
     {&quot;meeting_name&quot;: &quot;Greypoly&quot;},
@@ -2376,23 +2379,20 @@
     {&quot;meeting_name&quot;: &quot;Nicosia&quot;},
 ]</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBtc2c9J0ZhaWxlZCB0byBjb252ZXJ0IDIwMTgtMDMtMjJUMDA6MDA6MDAgY29ycmVjdGx5Jwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdENvbnZlcnRUb0RhdGV0aW1lOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Y2xhc3MgVGVzdENvbnZlcnRUb0RhdGV0aW1lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnPSdGYWlsZWQgdG8gY29udmVydCAyMDE4LTAzLTIyVDEyOjMwOjM1KzAyOjAwIGNvcnJlY3RseScK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

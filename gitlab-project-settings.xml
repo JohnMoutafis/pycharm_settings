@@ -1,0 +1,22 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.com/" />
+    <option name="token" value="A8K19NjSibsq_rqU2u8x" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/JohnMoutafis/bumpy_ride.git" />
+          <option name="name" value="bumpy_ride" />
+          <option name="namespace" value="JohnMoutafis" />
+          <option name="sshUrl" value="git@gitlab.com:JohnMoutafis/bumpy_ride.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/JohnMoutafis/jetbrains-settings.git" />
+          <option name="name" value="jetbrains-settings" />
+          <option name="namespace" value="JohnMoutafis" />
+          <option name="sshUrl" value="git@gitlab.com:JohnMoutafis/jetbrains-settings.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>

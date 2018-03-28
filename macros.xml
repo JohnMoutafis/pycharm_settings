@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="term">
+      <action id="Switcher" />
+      <shortuct text="control 5" />
+    </macro>
+  </component>
+</application>

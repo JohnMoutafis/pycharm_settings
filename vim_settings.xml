@@ -1,0 +1,607 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/docker/Dockerfile" timestamp="1520592554727">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="62" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="15" column="62" />
+      </file>
+      <file name="/a.dummy" timestamp="1521731789954">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1521038918664">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/settings.py" timestamp="1517909496721">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="/payload.data.get('')" timestamp="1519902225545">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/utils.py" timestamp="1520430960270">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" timestamp="1501149154202">
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="28" column="59" />
+        <mark key="^" line="28" column="65" />
+        <mark key="." line="28" column="59" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/django_test/test_manytomany/models.py" timestamp="1519202074434">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/exceptions.py" timestamp="1518796866565">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/git/gitconfig" timestamp="1521622013889">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.gitignore" timestamp="1520431235141">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/bin/run.sh" timestamp="1520516124314">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/services.py" timestamp="1518770448871">
+        <mark key="[" line="80" column="8" />
+        <mark key="]" line="80" column="92" />
+        <mark key="^" line="80" column="92" />
+        <mark key="." line="80" column="92" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/convert_to_datetime_test.py" timestamp="1521731126658">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="9" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/django_test/django_test/wsgi.py" timestamp="1518085361220">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/requirements.txt" timestamp="1521726820171">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="/PythonRegExp Fragment (schemas.py:576).regexp" timestamp="1519312651762">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/fetch_services.py" timestamp="1521727786930">
+        <mark key="[" line="71" column="75" />
+        <mark key="]" line="71" column="74" />
+        <mark key="." line="71" column="74" />
+        <mark key="^" line="71" column="74" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/.env" timestamp="1520592392499">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/vimrc" timestamp="1521021415791">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/setup.cfg" timestamp="1516970907407">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/.dotfiles/.gitmodules" timestamp="1520508503312">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/livefeed_services.py" timestamp="1519983771899">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/static/jquery/3.1.1/jquery.min.js" timestamp="1517909229336">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="22603" />
+        <mark key="^" line="3" column="22603" />
+        <mark key="." line="3" column="22603" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/docker-compose.yml" timestamp="1520611431163">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/" timestamp="1519902237619">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1520596936547">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1521125901067">
+        <mark key="'" line="12" column="5" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tmp.py" timestamp="1520423883108">
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="76" column="59" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/requirements/prod.txt" timestamp="1516984715989">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/vim/.gitignore" timestamp="1520596892115">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" timestamp="1522222117277">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="36" column="95" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/templates/base.html" timestamp="1517910085417">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="6" column="33" />
+      </file>
+      <file name="/None" timestamp="1519902225565">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/__init__.py" timestamp="1501148874771">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/exceptions.py" timestamp="1516804254189">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/requirements/dev.txt" timestamp="1516966024836">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/.dotfiles/.gitignore" timestamp="1520595954997">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/utils.py" timestamp="1518185060471">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" timestamp="1521727319899">
+        <mark key="'" line="76" column="4" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="97" column="38" />
+        <mark key="^" line="97" column="38" />
+        <mark key="." line="97" column="38" />
+      </file>
+      <file name="$USER_HOME$/.dotfiles/vimrc" timestamp="1520596170355">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/gateway/service.py" timestamp="1521213547275">
+        <mark key="[" line="87" column="59" />
+        <mark key="]" line="87" column="78" />
+        <mark key="^" line="87" column="78" />
+        <mark key="." line="87" column="78" />
+      </file>
+      <file name="/schema_validators.py" timestamp="1521716822187">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/common.py" timestamp="1501149472069">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="41" />
+        <mark key="." line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" timestamp="1521711412182">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1521040360424">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+      </file>
+      <file name="/Django Console" timestamp="1519201523209">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.dotfiles/gitignore_global" timestamp="1520508625823">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/.dotfiles/install.conf.yaml" timestamp="1520596376004">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="/PythonRegExp Fragment (schemas.py:603).regexp" timestamp="1519382533368">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/.gitignore" timestamp="1518688173580">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/exceptions.py" timestamp="1520430497111">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/test_convert_to_datetime.py" timestamp="1522222698162">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/test_in_acceptable_range.py" timestamp="1522224154505">
+        <mark key="[" line="26" column="76" />
+        <mark key="]" line="26" column="80" />
+        <mark key="^" line="26" column="80" />
+        <mark key="." line="26" column="80" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/templates/index.html" timestamp="1518174519207">
+        <mark key="[" line="54" column="20" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+        <mark key="^" line="54" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/test_median_of_scores.py" timestamp="1522224681814">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/setup.cfg" timestamp="1518796428386">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/.dotfiles/vim/.gitignore" timestamp="1520595808387">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1521711446251">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="29" column="62" />
+        <mark key="]" line="29" column="62" />
+        <mark key="^" line="29" column="62" />
+        <mark key="." line="29" column="62" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.dockerignore" timestamp="1516970778423">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521735290113">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schema_validators.py" timestamp="1521714156036">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/Dockerfile" timestamp="1517838223256">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="/PythonRegExp Fragment (schemas.py:660).regexp" timestamp="1519805349367">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env" timestamp="1520510826543">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1521216062305">
+        <mark key="'" line="9" column="51" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.gitignore" timestamp="1520433615879">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="5" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="35" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/env.example" timestamp="1517905429440">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" timestamp="1518185066170">
+        <mark key="[" line="120" column="11" />
+        <mark key="]" line="120" column="11" />
+        <mark key="." line="120" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/README.md" timestamp="1520500586185">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/opap-horseraces-silks.silks_status/lib/python3.5/site-packages/sanic/config.py" timestamp="1516891352382">
+        <mark key="[" line="63" column="74" />
+        <mark key="]" line="63" column="13" />
+        <mark key="^" line="63" column="13" />
+        <mark key="." line="63" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/env.example" timestamp="1519222535792">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/services.py" timestamp="1521041042832">
+        <mark key="[" line="83" column="82" />
+        <mark key="]" line="85" column="15" />
+        <mark key="^" line="85" column="15" />
+        <mark key="." line="85" column="15" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/git/gitignore_global" timestamp="1521022030953">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/PythonRegExp Fragment (schemas.py:599).regexp" timestamp="1519388029875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/bin/run.sh" timestamp="1520429383855">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="91" />
+        <mark key="." line="2" column="91" />
+        <mark key="^" line="2" column="91" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="24" column="16" filename="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" />
+      <jump line="23" column="28" filename="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" />
+      <jump line="22" column="27" filename="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" />
+      <jump line="21" column="17" filename="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" />
+      <jump line="20" column="20" filename="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" />
+      <jump line="19" column="21" filename="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" />
+      <jump line="18" column="26" filename="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" />
+      <jump line="17" column="62" filename="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" />
+      <jump line="16" column="21" filename="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/tests/authenticate.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/env.example" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/env.example" />
+      <jump line="15" column="29" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/app.py" />
+      <jump line="116" column="36" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/.virtualenvs/opap-horseraces-silks.silks_status/lib/python3.5/site-packages/aiohttp/client.py" />
+      <jump line="210" column="23" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="56" column="30" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="8" column="29" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/app.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="113" column="79" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/templates/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/templates/index.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="123" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="131" column="25" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="125" column="29" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="119" column="72" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/services.py" />
+      <jump line="11" column="29" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/templates/index.html" />
+      <jump line="90" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" />
+      <jump line="113" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" />
+      <jump line="51" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" />
+      <jump line="197" column="61" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbibot.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbibot.py" />
+      <jump line="318" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbibot.py" />
+      <jump line="28" column="33" filename="$USER_HOME$/dotfiles/install.conf.yaml" />
+      <jump line="8" column="26" filename="$USER_HOME$/dotfiles/install.conf.yaml" />
+      <jump line="9" column="51" filename="$USER_HOME$/dotfiles/install.conf.yaml" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/fetch_services.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/fetch_services.py" />
+      <jump line="108" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/fetch_services.py" />
+      <jump line="105" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/fetch_services.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/fetch_services.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
+      <jump line="12" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
+      <jump line="85" column="41" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" />
+      <jump line="96" column="21" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" />
+      <jump line="38" column="23" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" />
+      <jump line="26" column="56" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" />
+      <jump line="71" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" />
+      <jump line="118" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" />
+      <jump line="107" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/fetch_services.py" />
+      <jump line="51" column="65" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" />
+      <jump line="40" column="84" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>&quot;&quot;&quot;&quot;&quot;&quot;</text>
+      </register>
+      <register name="*" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="+" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="-" type="4">
+        <text>19</text>
+      </register>
+      <register name="/" type="4">
+        <text>4</text>
+      </register>
+      <register name="0" type="4">
+        <text>self.assertFalse(
+            in_acceptable_range('2018-03-28T12:30:00+02:00', '2018-03-28T12:19:59+02:00')
+        )</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXNnPSdGYWlsZWQgdG8gY29udmVydCAyMDE4LTAzLTIyVDEzOjUwOjQzIGNvcnJlY3RseScK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUoMjAxOCwgMywgMjIsIDEzLCA1MCwgNDMsIHR6aW5mbz10enV0YygpKSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udmVydF90b19kYXRldGltZSgnMjAxOC0wMy0yMlQxMzo1MDo0MycpLmRhdGV0aW1lLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>4</last-search>
+      <last-offset />
+      <last-pattern>4</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDw2MFw+</entry>
+        <entry>2</entry>
+        <entry>4</entry>
+      </history-search>
+      <history-cmd>
+        <entry>89</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>64</entry>
+        <entry>e</entry>
+        <entry>106</entry>
+        <entry>10</entry>
+        <entry>11</entry>
+        <entry>26</entry>
+        <entry>34</entry>
+        <entry>28</entry>
+        <entry>21</entry>
+        <entry>we</entry>
+        <entry>lower</entry>
+        <entry>W</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

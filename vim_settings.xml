@@ -144,11 +144,11 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q3_assign_property_function.sql" timestamp="1522261892548">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q3_assign_property_function.sql" timestamp="1522262196785">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/Programs/Album-Splitter/tracks.txt" timestamp="1498645427885">
         <mark key="[" line="0" column="0" />
@@ -1858,7 +1858,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>exercise1.</text>
+        <text>=</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -1867,7 +1867,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>exercise1.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>

@@ -848,6 +848,7 @@
         <mark key="^" line="22" column="61" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/services.py" timestamp="1522228582989" />
       <file name="$USER_HOME$/PycharmProjects/sentry-onpremise/docker-compose.yml" timestamp="1502881865493">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="22" />
@@ -1048,7 +1049,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521735290113">
+      <file name="/Dummy.txt" timestamp="1522228328930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -1929,6 +1930,12 @@
         <mark key="^" line="49" column="36" />
         <mark key="." line="49" column="36" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/correlation_strategies.py" timestamp="1522228795815">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="41" column="82" />
+        <mark key="." line="41" column="82" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/vwallet/views/api.py" timestamp="1500626942003">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="31" />
@@ -2320,9 +2327,10 @@
         <text>4</text>
       </register>
       <register name="0" type="4">
-        <text>self.assertLess(
-            median_of_scores('test case 3', 'invalid_test_case'), MINIMUM_ALLOWED_SCORE
-        )</text>
+        <text>relevant_candidates = filter(
+        lambda c: similarity_score(c.get('meeting_name', None), location),
+        candidates
+    )</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>

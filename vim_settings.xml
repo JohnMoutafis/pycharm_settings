@@ -848,7 +848,7 @@
         <mark key="^" line="22" column="61" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/services.py" timestamp="1522228582989" />
+      <file name="/services.py" timestamp="1522230015966" />
       <file name="$USER_HOME$/PycharmProjects/sentry-onpremise/docker-compose.yml" timestamp="1502881865493">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="22" />
@@ -1930,11 +1930,11 @@
         <mark key="^" line="49" column="36" />
         <mark key="." line="49" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/correlation_strategies.py" timestamp="1522228795815">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="38" column="4" />
-        <mark key="^" line="41" column="82" />
-        <mark key="." line="41" column="82" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/correlation_strategies.py" timestamp="1522230567347">
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="104" column="5" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="100" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/vwallet/views/api.py" timestamp="1500626942003">
         <mark key="[" line="10" column="7" />
@@ -1942,11 +1942,12 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" timestamp="1522222117277">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="36" column="95" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" timestamp="1522230219959">
+        <mark key="'" line="11" column="19" />
+        <mark key="[" line="84" column="76" />
+        <mark key="]" line="84" column="75" />
+        <mark key="." line="84" column="75" />
+        <mark key="^" line="84" column="75" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/geosite/urls.py" timestamp="1514749119521">
         <mark key="[" line="28" column="20" />
@@ -2306,6 +2307,7 @@
       <jump line="6" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/test_median_of_scores.py" />
       <jump line="9" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/test_median_of_scores.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/test_median_of_scores.py" />
+      <jump line="11" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2321,46 +2323,56 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>4</text>
       </register>
       <register name="0" type="4">
+        <text>candidates = sieve_candidates(
+        fetch_races(
+            country_code=country_code, meeting_date=TODAY, aliased_races_only=aliased_races_only
+        ), location
+    )</text>
+      </register>
+      <register name="1" type="4">
+        <text>candidates = fetch_races(
+        country_code=country_code, meeting_date=TODAY, aliased_races_only=aliased_races_only
+    )</text>
+      </register>
+      <register name="2" type="4">
+        <text>candidates = fetch_races(
+        country_code=country_code, meeting_date=TODAY, aliased_races_only=aliased_races_only
+    )</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>return filter(
+        
+    )</text>
+      </register>
+      <register name="5" type="4">
         <text>relevant_candidates = filter(
         lambda c: similarity_score(c.get('meeting_name', None), location),
         candidates
     )</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEdyZWF0ZXIoCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnPSdGYWlsZWQgdG8gY29udmVydCAyMDE4LTAzLTIyVDEzOjUwOjQzIGNvcnJlY3RseScK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEdyZWF0ZXIoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

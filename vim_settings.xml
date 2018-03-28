@@ -144,11 +144,11 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q3_assign_property_function.sql" timestamp="1522262196785">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="17" column="20" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q3_assign_property_function.sql" timestamp="1522263737171">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Programs/Album-Splitter/tracks.txt" timestamp="1498645427885">
         <mark key="[" line="0" column="0" />
@@ -477,6 +477,12 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q41_calculate_edges.sql" timestamp="1522264027891">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.bouncer/heimdal/users/api/messages.py" timestamp="1507126930329">
         <mark key="[" line="12" column="27" />
@@ -1858,7 +1864,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>i</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -1867,7 +1873,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>

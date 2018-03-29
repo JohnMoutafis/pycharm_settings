@@ -585,11 +585,11 @@
         <mark key="]" line="56" column="55" />
         <mark key="." line="56" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils.py" timestamp="1522308446540">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils.py" timestamp="1522310131741">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="26" />
         <mark key="^" line="29" column="39" />
-        <mark key="." line="29" column="39" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1521711446251">
         <mark key="'" line="38" column="0" />
@@ -749,11 +749,11 @@
         <mark key="^" line="58" column="31" />
         <mark key="." line="58" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/lookups.py" timestamp="1522251464749">
-        <mark key="[" line="68" column="39" />
-        <mark key="]" line="68" column="39" />
-        <mark key="." line="68" column="39" />
-        <mark key="^" line="68" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/lookups.py" timestamp="1522310069892">
+        <mark key="[" line="85" column="99" />
+        <mark key="]" line="85" column="99" />
+        <mark key="." line="85" column="99" />
+        <mark key="^" line="85" column="99" />
       </file>
       <file name="$USER_HOME$/dotfiles/vimrc" timestamp="1521021415791">
         <mark key="[" line="17" column="25" />
@@ -2337,7 +2337,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>datetime_success</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>

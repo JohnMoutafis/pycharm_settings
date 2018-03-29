@@ -581,9 +581,9 @@
         <mark key="^" line="29" column="39" />
         <mark key="." line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1522330720550">
-        <mark key="[" line="77" column="43" />
-        <mark key="]" line="77" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1522331804051">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="29" />
         <mark key="." line="77" column="45" />
         <mark key="^" line="77" column="45" />
       </file>
@@ -1099,9 +1099,9 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="65" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/my_tmp.py" timestamp="1522330745923">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/my_tmp.py" timestamp="1522331821108">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="9" column="45" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -1999,6 +1999,12 @@
         <mark key="^" line="119" column="11" />
         <mark key="." line="119" column="11" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" timestamp="1522331924019">
+        <mark key="[" line="107" column="10" />
+        <mark key="]" line="108" column="3" />
+        <mark key="^" line="108" column="3" />
+        <mark key="." line="108" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/vtrans-projects/Vtrans-CORE/Dockerfile" timestamp="1498485769576">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="14" />
@@ -2340,24 +2346,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R0VUIA==</text>
+        <text>location_choices</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;&quot;&quot;
-    Performs a GET request at livefeed's /meetings endpoint.
-    Args:
-        params: A dictionary containing GET arguments.
-
-    Raises:
-        Unavailable
-        NotFound
-
-    Returns:
-        Response in json format on success.
-    &quot;&quot;&quot;</text>
+        <text>'video_desc': location,
+                'video_provider': 'phumelela',
+                'operator': 'opap',
+                'op_choices': location_choices</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

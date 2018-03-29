@@ -461,11 +461,6 @@
         <mark key="." line="9" column="56" />
         <mark key="^" line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/fuzzybot/lookups.py" timestamp="1522159163266">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/admin.py" timestamp="1509702520450">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="3" />
@@ -580,11 +575,6 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/fuzzybot/schemas.py" timestamp="1522162649700">
-        <mark key="[" line="56" column="38" />
-        <mark key="]" line="56" column="55" />
-        <mark key="." line="56" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils.py" timestamp="1522310131741">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="26" />
@@ -607,10 +597,10 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522272647799">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1522311789640">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/ServicesDropbox.js" timestamp="1503052063630">
         <mark key="[" line="69" column="11" />
@@ -731,11 +721,6 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/crawler/entrypoint.py" timestamp="1516103615869">
-        <mark key="[" line="60" column="29" />
-        <mark key="]" line="60" column="29" />
-        <mark key="." line="60" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/vwallet/vwallet_blueprint.py" timestamp="1500564039397">
         <mark key="[" line="6" column="0" />
@@ -1135,11 +1120,6 @@
         <mark key="]" line="47" column="7" />
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/requirements.txt" timestamp="1516725954726">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/settings.py" timestamp="1509702879030">
         <mark key="[" line="146" column="75" />
@@ -2337,7 +2317,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>unified unittests, added tzinfo to arrow objects</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>

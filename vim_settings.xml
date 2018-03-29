@@ -2289,11 +2289,11 @@
         <mark key="." line="4" column="61" />
         <mark key="^" line="4" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_calculate_edges.sql" timestamp="1522352180402">
-        <mark key="[" line="91" column="12" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="33" />
-        <mark key="^" line="69" column="33" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_calculate_edges.sql" timestamp="1522352610332">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="98" column="32" />
+        <mark key="." line="98" column="32" />
+        <mark key="^" line="98" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.connect_configurations/loki/productions/api/filters.py" timestamp="1506683618929">
         <mark key="[" line="10" column="63" />
@@ -2326,7 +2326,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U0VUT0Yg</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2338,7 +2338,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U0VUT0Yg</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>

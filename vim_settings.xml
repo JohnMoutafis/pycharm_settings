@@ -195,12 +195,12 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" timestamp="1522232971050">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" timestamp="1522309195573">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="9" />
-        <mark key="^" line="47" column="9" />
-        <mark key="." line="47" column="9" />
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="29" column="32" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="29" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/settings.py" timestamp="1508944385371">
         <mark key="[" line="32" column="0" />
@@ -585,11 +585,11 @@
         <mark key="]" line="56" column="55" />
         <mark key="." line="56" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils.py" timestamp="1522249955014">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="36" column="65" />
-        <mark key="." line="2" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils.py" timestamp="1522308446540">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="39" />
+        <mark key="^" line="29" column="39" />
+        <mark key="." line="29" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1521711446251">
         <mark key="'" line="38" column="0" />
@@ -1943,7 +1943,7 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1522259839117">
+      <file name="/Python Console" timestamp="1522308010006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -2337,13 +2337,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>replace</text>
+        <text>datetime_success</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JCQgTEFOR1VBR0UgcGxwZ3NxbDsK</text>
+      <register name="0" type="4">
+        <text>eq_(
+        convert_to_arrow_object('2018-03-22T23:59:59').datetime,
+        datetime(2018, 3, 23, 1, 59, 59, tzinfo=gettz('Europe/Athens')),
+    )</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEVORCBMT09QOwo=</text>

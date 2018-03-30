@@ -498,7 +498,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1522278168425">
+      <file name="/dummy.sql" timestamp="1522446410428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1522335785246">
@@ -1432,7 +1432,7 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="/a.sql" timestamp="1522351935692">
+      <file name="/a.sql" timestamp="1522443339866">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/Dockerfile" timestamp="1514848307433">
@@ -1685,6 +1685,9 @@
         <mark key="]" line="12" column="47" />
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
+      </file>
+      <file name="/person [jgmoutafisdb@147.102.40.25]" timestamp="1522443059965">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/vim/.gitignore" timestamp="1520596892115">
         <mark key="[" line="0" column="0" />
@@ -2229,6 +2232,9 @@
       <file name="/Django Console" timestamp="1519201523209">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/polygon [jgmoutafisdb@147.102.40.25]" timestamp="1522446336007">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/meetings/validators.py" timestamp="1513257738256">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
@@ -2265,6 +2271,9 @@
         <mark key="." line="78" column="52" />
         <mark key="^" line="78" column="52" />
       </file>
+      <file name="/propertyperson [jgmoutafisdb@147.102.40.25]" timestamp="1522446410187">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/.env" timestamp="1512656833174">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="54" />
@@ -2289,11 +2298,11 @@
         <mark key="." line="4" column="61" />
         <mark key="^" line="4" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_calculate_edges.sql" timestamp="1522441682945">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="12" />
-        <mark key="." line="92" column="12" />
-        <mark key="^" line="92" column="12" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_calculate_edges.sql" timestamp="1522446155545">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="82" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.connect_configurations/loki/productions/api/filters.py" timestamp="1506683618929">
         <mark key="[" line="10" column="63" />
@@ -2326,7 +2335,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">LS0gICAgIFJFVFVSTjsK</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2338,7 +2347,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>exercise1.polygon.propertyid</text>
+        <text encoding="base64">SU4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
@@ -2351,34 +2360,45 @@
     );</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">LS0gICAgIFJFVFVSTjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU0VMRUNUIEFSUkFZKAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG5laWdoYnMgZXhlcmNpc2UxLm5laWdoYm91cnM7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG5hbWVfcHJvcF9lZGdlcyBJTlRbXTsK</text>
+      </register>
+      <register name="4" type="4">
+        <text>SELECT ARRAY(
+        SELECT exercise1.polygonedge.edgeid
+        FROM exercise1.polygon
+        INNER JOIN exercise1.polygonedge ON polygon.idpolygon = polygonedge.polygonid
+          WHERE exercise1.polygon.propertyid = name_property</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgKSBwb2x5Z29uX2VkZ2UK</text>
+        <text encoding="base64">ICAgICgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRSBleGVyY2lzZTEucG9seWdvbmVkZ2UuZWRnZWlkID0gQU5ZIChuYW1lX3Byb3BfZWRnZXMpCg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGUk9NIGV4ZXJjaXNlMS5wb2x5Z29uZWRnZQo=</text>
+      <register name="8" type="4">
+        <text>(
+      SELECT ARRAY(
+        SELECT exercise1.polygonedge.edgeid
+        FROM exercise1.polygon
+        INNER JOIN exercise1.polygonedge ON polygon.idpolygon = polygonedge.polygonid
+          WHERE exercise1.polygon.propertyid = name_property
+      )
+    )</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgZXhlcmNpc2UxLnBvbHlnb25lZGdlLmVkZ2VpZCBBUyBlZGdlX2lkCg==</text>
+        <text encoding="base64">ICAgIG5hbWVfcHJvcGVydHkgSU5UOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

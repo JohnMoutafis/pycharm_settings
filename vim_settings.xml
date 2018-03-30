@@ -1922,6 +1922,12 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
+      <file name="/Python Console" timestamp="1522418352950">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/tests/accounts/test_logout.py" timestamp="1504695985169">
         <mark key="[" line="18" column="35" />
         <mark key="]" line="18" column="38" />
@@ -2265,12 +2271,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1522409528462">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1522417849055">
         <mark key="'" line="50" column="14" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="197" column="30" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="105" column="62" />
+        <mark key="]" line="105" column="69" />
+        <mark key="^" line="105" column="69" />
+        <mark key="." line="105" column="69" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2366,28 +2372,28 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>bot_logger = logger</text>
+        <text>country_picker(meeting.attrs.get('country', 'England'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3Vyc2UgPSBtZWV0aW5nLmF0dHJzLmdldCgnY291cnNlJywgJycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRhcmZpbGUK</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
+        <text encoding="base64">aW1wb3J0IHRhcmZpbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGd6aXAK</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGd6aXAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2398,11 +2404,11 @@
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpkZWYgZXh0cmFjdF9pbWFnZXMoc2lsa19hcmNoaXZlKToKICAgICIiIkV4dHJhY3Qgc2lsayIiIgogICAgdG1wX2RpciA9IHRlbXBmaWxlLm1rZHRlbXAocHJlZml4PSdnYmknKQogICAgYm90X2xvZ2dlci5kZWJ1ZygndGVtcG9yYXJ5IGRpcmVjdG9yeSBmb3IgZXh0cmFjdGluZyBzaWxrczoge30nLmZvcm1hdCh0bXBfZGlyKSkKICAgIGJvdF9sb2dnZXIuZGVidWcoJ0V4dHJhY3Rpbmcgc2lsayBmaWxlcy4uLicpCgogICAgdHJ5OgogICAgICAgIHRhciA9IHRhcmZpbGUub3BlbihzaWxrX2FyY2hpdmUpCiAgICAgICAgdGFyLmV4dHJhY3RhbGwocGF0aD10bXBfZGlyKQogICAgZXhjZXB0IGd6aXAuYnVpbHRpbnMuRU9GRXJyb3I6CiAgICAgICAgIyBMb29rcyBsaWtlIHRoYXQgR0JJIHNvbWV0aW1lcyBzZW5kIG5vdCBwcm9wZXJseSBjb21wcmVzc2VkIGZpbGVzIC4uLgogICAgICAgIGJvdF9sb2dnZXIuaW5mbygne30gcHJvYmFibHkgbm90IHByb3Blcmx5IGNvbXByZXNzZWQnLmZvcm1hdChzaWxrX2FyY2hpdmUpKQogICAgICAgIGFyZ3MgPSBbJ3RhcicsICd6eHZmJywgJ3t9Jy5mb3JtYXQoc2lsa19hcmNoaXZlKSwgJy1DJywgJ3t9Jy5mb3JtYXQodG1wX2RpcildCiAgICAgICAgcmV0ID0gc3VicHJvY2Vzcy5ydW4oYXJncykKICAgICAgICBib3RfbG9nZ2VyLmluZm8oJ1JldHVybiBjb2RlIG9mIHN1YnByb2Nlc3M6IHt9Jy5mb3JtYXQocmV0LnJldHVybmNvZGUpKQogICAgZWxzZToKICAgICAgICB0YXIuY2xvc2UoKQogICAgZmluYWxseToKICAgICAgICByZXR1cm4gdG1wX2Rpcgo=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CgpkZWYgZXh0cmFjdF9pbWFnZXMoc2lsa19hcmNoaXZlKToKICAgICIiIkV4dHJhY3Qgc2lsayIiIgogICAgdG1wX2RpciA9IHRlbXBmaWxlLm1rZHRlbXAocHJlZml4PSdnYmknKQogICAgYm90X2xvZ2dlci5kZWJ1ZygndGVtcG9yYXJ5IGRpcmVjdG9yeSBmb3IgZXh0cmFjdGluZyBzaWxrczoge30nLmZvcm1hdCh0bXBfZGlyKSkKICAgIGJvdF9sb2dnZXIuZGVidWcoJ0V4dHJhY3Rpbmcgc2lsayBmaWxlcy4uLicpCgogICAgdHJ5OgogICAgICAgIHRhciA9IHRhcmZpbGUub3BlbihzaWxrX2FyY2hpdmUpCiAgICAgICAgdGFyLmV4dHJhY3RhbGwocGF0aD10bXBfZGlyKQogICAgZXhjZXB0IGd6aXAuYnVpbHRpbnMuRU9GRXJyb3I6CiAgICAgICAgIyBMb29rcyBsaWtlIHRoYXQgR0JJIHNvbWV0aW1lcyBzZW5kIG5vdCBwcm9wZXJseSBjb21wcmVzc2VkIGZpbGVzIC4uLgogICAgICAgIGJvdF9sb2dnZXIuaW5mbygne30gcHJvYmFibHkgbm90IHByb3Blcmx5IGNvbXByZXNzZWQnLmZvcm1hdChzaWxrX2FyY2hpdmUpKQogICAgICAgIGFyZ3MgPSBbJ3RhcicsICd6eHZmJywgJ3t9Jy5mb3JtYXQoc2lsa19hcmNoaXZlKSwgJy1DJywgJ3t9Jy5mb3JtYXQodG1wX2RpcildCiAgICAgICAgcmV0ID0gc3VicHJvY2Vzcy5ydW4oYXJncykKICAgICAgICBib3RfbG9nZ2VyLmluZm8oJ1JldHVybiBjb2RlIG9mIHN1YnByb2Nlc3M6IHt9Jy5mb3JtYXQocmV0LnJldHVybmNvZGUpKQogICAgZWxzZToKICAgICAgICB0YXIuY2xvc2UoKQogICAgZmluYWxseToKICAgICAgICByZXR1cm4gdG1wX2Rpcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

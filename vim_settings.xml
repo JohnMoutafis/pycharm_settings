@@ -39,6 +39,12 @@
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/bin/run-prod.sh" timestamp="1522423507694">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/docs/how_to_install" timestamp="1502275144876">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="0" column="39" />
@@ -580,7 +586,7 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522401183538">
+      <file name="/Dummy.txt" timestamp="1522422661813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -1049,9 +1055,6 @@
         <mark key="]" line="6" column="8" />
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1522400569054">
-        <mark key="'" line="135" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/Dockerfile" timestamp="1514848307433">
         <mark key="[" line="41" column="17" />
@@ -1566,6 +1569,10 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/bin/run-prod.sh" timestamp="1522423479151">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.bouncer/heimdal/users/api/views.py" timestamp="1507821062831">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1607,6 +1614,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="7" column="9" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1522423189798">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="5" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/geodtest/geod/tests.py" timestamp="1511431227923">
         <mark key="[" line="6" column="53" />
@@ -2371,13 +2384,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>date.today()</text>
+        <text>/gbibot.py</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>country_picker(meeting.attrs.get('country', 'England'))</text>
+        <text>python3 -m helsib.main</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UE9MTElOR19USU1FPTE2OjQ4Cg==</text>

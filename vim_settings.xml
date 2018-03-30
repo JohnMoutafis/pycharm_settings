@@ -498,7 +498,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1522446410428">
+      <file name="/dummy.sql" timestamp="1522448124234">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1522335785246">
@@ -1330,6 +1330,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_apply_queries.sql" timestamp="1522448862186">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="91" column="35" />
+        <mark key="." line="91" column="35" />
+        <mark key="^" line="91" column="35" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/dist/static/js/utilities.js" timestamp="1505393639762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="2" />
@@ -1724,6 +1730,12 @@
         <mark key="]" line="19" column="39" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q2_circumference_problem.sql" timestamp="1522448778857">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="32" />
+        <mark key="^" line="37" column="32" />
+        <mark key="." line="37" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/utilities.js" timestamp="1505464977177">
         <mark key="[" line="0" column="2" />
@@ -2232,7 +2244,7 @@
       <file name="/Django Console" timestamp="1519201523209">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/polygon [jgmoutafisdb@147.102.40.25]" timestamp="1522446336007">
+      <file name="/polygon [jgmoutafisdb@147.102.40.25]" timestamp="1522448123992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/meetings/validators.py" timestamp="1513257738256">
@@ -2335,7 +2347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gICAgIFJFVFVSTjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2360,45 +2372,38 @@
     );</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gICAgIFJFVFVSTjsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">LS0gRGVjbGFyZSBjaXJjdW1mZXJlbmNlIGZ1bmN0aW9uCkNSRUFURSBPUiBSRVBMQUNFIEZVTkNUSU9OIGV4ZXJjaXNlMS5jaXJjdW1mZXJlbmNlKHBvbHlnSUQgIGludGVnZXIpIFJFVFVSTlMgIE5VTUVSSUMgQVMgJCQKCURFQ0xBUkUKICAgIGNpcmMgTlVNRVJJQyA6PTA7CiAgICBwMUlEIGV4ZXJjaXNlMS5wb2ludC5pZHBvaW50JVRZUEU7CiAgICBwMklEIGV4ZXJjaXNlMS5wb2ludC5pZHBvaW50JVRZUEU7CiAgICBwMXggZXhlcmNpc2UxLnBvaW50LnglVFlQRTsKICAgIHAxeSBleGVyY2lzZTEucG9pbnQueSVUWVBFOwogICAgcDJ4IGV4ZXJjaXNlMS5wb2ludC54JVRZUEU7CiAgICBwMnkgZXhlcmNpc2UxLnBvaW50LnklVFlQRTsKCUJFR0lOCgkJRk9SIHAxSUQsIHAySUQgSU4gIChTRUxFQ1QgZXhlcmNpc2UxLmVkZ2UucG9pbnRJRDEsIGV4ZXJjaXNlMS5lZGdlLnBvaW50SUQyCgkJCQkJRlJPTSBleGVyY2lzZTEuZWRnZSwgZXhlcmNpc2UxLnBvbHlnb25lZGdlCgkJCQkJV0hFUkUgZXhlcmNpc2UxLmVkZ2UuSURlZGdlPWV4ZXJjaXNlMS5wb2x5Z29uZWRnZS5lZGdlSUQKCQkJCQlBTkQgZXhlcmNpc2UxLnBvbHlnb25lZGdlLnBvbHlnb25pZD1wb2x5Z0lEKQoJCUxPT1AKCQkJcDF4ID0gKFNFTEVDVCB4IEZST00gZXhlcmNpc2UxLnBvaW50IFdIRVJFIHBvaW50LklEcG9pbnQ9cDFJRCk7CgkJCXAxeSA9IChTRUxFQ1QgeSBGUk9NIGV4ZXJjaXNlMS5wb2ludCBXSEVSRSBwb2ludC5JRHBvaW50PXAxSUQpOwoJCQlwMnggPSAoU0VMRUNUIHggRlJPTSBleGVyY2lzZTEucG9pbnQgV0hFUkUgcG9pbnQuSURwb2ludD1wMklEKTsKCQkJcDJ5ID0gKFNFTEVDVCB5IEZST00gZXhlcmNpc2UxLnBvaW50IFdIRVJFIHBvaW50LklEcG9pbnQ9cDJJRCk7CgkJCWNpcmMgPSBjaXJjICsgU1FSVCggUE9XRVIoKHAxeCAtIHAyeCksIDIpICsgUE9XRVIgKChwMXkgLSBwMnkpLCAyKSk7CgkJRU5EIExPT1A7CgkJUkVUVVJOIFJPVU5EKGNpcmMsMik7CglFTkQ7CiQkIExBTkdVQUdFIHBscGdzcWw7Cg==</text>
+      </register>
       <register name="3" type="2">
+        <text encoding="base64">LS0gICAgIFJFVFVSTjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG5hbWVfcHJvcF9lZGdlcyBJTlRbXTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>SELECT ARRAY(
         SELECT exercise1.polygonedge.edgeid
         FROM exercise1.polygon
         INNER JOIN exercise1.polygonedge ON polygon.idpolygon = polygonedge.polygonid
           WHERE exercise1.polygon.propertyid = name_property</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICgK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text>(
-      SELECT ARRAY(
-        SELECT exercise1.polygonedge.edgeid
-        FROM exercise1.polygon
-        INNER JOIN exercise1.polygonedge ON polygon.idpolygon = polygonedge.polygonid
-          WHERE exercise1.polygon.propertyid = name_property
-      )
-    )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWVfcHJvcGVydHkgSU5UOwo=</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

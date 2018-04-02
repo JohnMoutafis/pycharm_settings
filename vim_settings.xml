@@ -249,11 +249,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522697744013">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="27" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522699030374">
+        <mark key="'" line="102" column="10" />
+        <mark key="[" line="112" column="75" />
+        <mark key="]" line="112" column="74" />
+        <mark key="." line="112" column="74" />
+        <mark key="^" line="112" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/api/mails/serializers.py" timestamp="1504522521592">
         <mark key="[" line="45" column="18" />
@@ -2399,10 +2400,18 @@
       <jump line="10" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" />
       <jump line="87" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/gateway/filter_schemas.py" />
       <jump line="9" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/lookups.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" />
+      <jump line="102" column="10" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5Lm0K</text>
+      <register name="&quot;" type="4">
+        <text>im_close_06 = np.zeros(bin_im_06.shape, dtype=float)
+ndimage.morphology.binary_closing(bin_im_06, structure=se, output=im_close_06)
+sp.misc.imsave('bin_im_close_r1.png', im_close_06)
+plt.figure()
+plt.imshow(im_close_06)
+plt.gray()
+plt.show()</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2414,53 +2423,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>sp</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>bin_im_06 = pymorph.threshad(im_06, 0, 70)
-# open new figure
-pylab.figure()
-# show overlayed images
-pylab.imshow(pymorph.overlay(im_06, bin_im_06))
-# gray colormap
-pylab.gray()
-# show figure
-pylab.show()
-# save image
-sp.misc.imsave(config.path(config.EROTIMA_1_PATH, 'binary06.png'), bin_im_06)</text>
+        <text>im_close_06 = np.zeros(bin_im_06.shape, dtype=float)
+ndimage.morphology.binary_closing(bin_im_06, structure=se, output=im_close_06)
+sp.misc.imsave('bin_im_close_r1.png', im_close_06)
+plt.figure()
+plt.imshow(im_close_06)
+plt.gray()
+plt.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5Lm0K</text>
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3BfbWlzYy5pbXJlYWQK</text>
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBzYXZlIGltYWdlCg==</text>
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBzaG93IGZpZ3VyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBncmF5IGNvbG9ybWFwCg==</text>
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBzaG93IG92ZXJsYXllZCBpbWFnZXMK</text>
+        <text encoding="base64">IyMjYmluYXJ5IGVkZHJvc2lvbiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBvcGVuIG5ldyBmaWd1cmUK</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5Lm0K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3BfbWlzYy5pbXJlYWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoc2NpcHlfbW9ycGhvbG9neS5pbWcpCg==</text>
+        <text encoding="base64">IyBzYXZlIGltYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2494,7 +2499,6 @@ sp.misc.imsave(config.path(config.EROTIMA_1_PATH, 'binary06.png'), bin_im_06)</t
         <entry encoding="base64">XDxhcmdzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>224</entry>
         <entry>4</entry>
         <entry>action run</entry>
         <entry>51</entry>
@@ -2513,6 +2517,7 @@ sp.misc.imsave(config.path(config.EROTIMA_1_PATH, 'binary06.png'), bin_im_06)</t
         <entry>wq</entry>
         <entry>61</entry>
         <entry>W</entry>
+        <entry>74</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

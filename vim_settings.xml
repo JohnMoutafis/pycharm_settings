@@ -249,8 +249,11 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522690235244">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522692761079">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/api/mails/serializers.py" timestamp="1504522521592">
         <mark key="[" line="45" column="18" />
@@ -1757,11 +1760,11 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/config.py" timestamp="1522690451101">
-        <mark key="[" line="3" column="52" />
-        <mark key="]" line="3" column="52" />
-        <mark key="^" line="3" column="52" />
-        <mark key="." line="3" column="52" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/config.py" timestamp="1522692621161">
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="55" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="6" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/tests/accounts/test_login.py" timestamp="1504695895906">
         <mark key="[" line="21" column="12" />
@@ -2399,7 +2402,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoc2NpcHlfbW9ycGhvbG9neS5pbWcpCg==</text>
+        <text encoding="base64">ZjA2ID0gc3AubWlzYy5pbXJlYWQoY29uZmlnLklSUkdfMDZfRVFVX1BBVEgpCg==</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2416,8 +2419,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>fetch_meetings(provider='PHUMELELA')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZjA2ID0gc3AubWlzYy5pbXJlYWQoY29uZmlnLklSUkdfMDZfRVFVX1BBVEgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQoc2NpcHlfbW9ycGhvbG9neS5pbWcpCg==</text>

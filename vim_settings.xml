@@ -347,7 +347,7 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1522672301542">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1522675135665">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="35" />
         <mark key="^" line="2" column="19" />
@@ -1687,12 +1687,12 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" timestamp="1522409096277">
-        <mark key="'" line="65" column="95" />
-        <mark key="[" line="59" column="24" />
-        <mark key="]" line="59" column="35" />
-        <mark key="^" line="59" column="35" />
-        <mark key="." line="59" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" timestamp="1522674906449">
+        <mark key="'" line="66" column="95" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="28" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/api/permissions.py" timestamp="1509702228405">
         <mark key="[" line="8" column="68" />
@@ -1934,7 +1934,7 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1522666726127">
+      <file name="/Python Console" timestamp="1522674349447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -2289,11 +2289,11 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1522420341592">
-        <mark key="'" line="50" column="14" />
-        <mark key="[" line="146" column="12" />
-        <mark key="]" line="146" column="11" />
-        <mark key="." line="146" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1522674619060">
+        <mark key="'" line="173" column="8" />
+        <mark key="[" line="107" column="64" />
+        <mark key="]" line="107" column="66" />
+        <mark key="." line="107" column="66" />
         <mark key="^" line="146" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
@@ -2375,6 +2375,7 @@
       <jump line="29" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="35" column="2" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="50" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2395,8 +2396,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QkFTRV9ESVIgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkK</text>
+      <register name="0" type="4">
+        <text>arrow.get(race_node.attrs.get('time', None), 'HHMMz').timetz().isoformat()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">L2FwcC92ZXJtYW50aWFfZnRwOncK</text>
@@ -2479,6 +2480,7 @@
         <entry>wq</entry>
         <entry>61</entry>
         <entry>W</entry>
+        <entry>189</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -347,11 +347,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1522670162621">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1522672301542">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/run.sh" timestamp="1515758164016">
         <mark key="[" line="16" column="61" />
@@ -1615,11 +1615,11 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1522423189798">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="5" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1522672355943">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="31" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/geodtest/geod/tests.py" timestamp="1511431227923">
         <mark key="[" line="6" column="53" />
@@ -2390,7 +2390,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
@@ -2399,34 +2399,34 @@
         <text encoding="base64">QkFTRV9ESVIgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UE9MTElOR19USU1FPTE2OjQ4Cg==</text>
+        <text encoding="base64">L2FwcC92ZXJtYW50aWFfZnRwOncK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UE9MTElOR19USU1FPTE2OjQ4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGRhdGV0aW1lX3dlbGRpbmcocmFjZV9kYXRlLCByYWNlX3RpbWUpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vyc2UgPSBtZWV0aW5nLmF0dHJzLmdldCgnY291cnNlJywgJycpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
+        <text encoding="base64">ZGVmIGRhdGV0aW1lX3dlbGRpbmcocmFjZV9kYXRlLCByYWNlX3RpbWUpOgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRhcmZpbGUK</text>
+        <text encoding="base64">ICAgICAgICBjb3Vyc2UgPSBtZWV0aW5nLmF0dHJzLmdldCgnY291cnNlJywgJycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

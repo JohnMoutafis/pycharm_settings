@@ -171,11 +171,10 @@
         <mark key="^" line="40" column="5" />
         <mark key="." line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/main.py" timestamp="1522689634815">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="38" />
-        <mark key="^" line="0" column="38" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/main.py" timestamp="1522690308828">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/admin.py" timestamp="1509702520450">
         <mark key="[" line="3" column="4" />
@@ -249,6 +248,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="5" column="40" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522690235244">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/api/mails/serializers.py" timestamp="1504522521592">
         <mark key="[" line="45" column="18" />
@@ -1755,6 +1757,12 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/config.py" timestamp="1522690451101">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/tests/accounts/test_login.py" timestamp="1504695895906">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="27" column="8" />
@@ -2391,7 +2399,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">cHJpbnQoc2NpcHlfbW9ycGhvbG9neS5pbWcpCg==</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2412,34 +2420,34 @@
         <text>fetch_meetings(provider='PHUMELELA')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">cHJpbnQoc2NpcHlfbW9ycGhvbG9neS5pbWcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAudXRpbGl0aWVzIGltcG9ydCBzY2lweV9tb3JwaG9sb2d5Cg==</text>
+        <text encoding="base64">aW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGRmcm9tIGNvZGUgaW1wb3J0IHV0aWxpdGllcwo=</text>
+        <text encoding="base64">ZnJvbSAudXRpbGl0aWVzIGltcG9ydCBzY2lweV9tb3JwaG9sb2d5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxpdGllcwo=</text>
+        <text encoding="base64">ZGRmcm9tIGNvZGUgaW1wb3J0IHV0aWxpdGllcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxpdGllcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHB5bGFiCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgd2lsbCB0cnkgdG8gZmluZCBtYXRjaCBieSByYWNlIHRpbWUuCg==</text>
+        <text encoding="base64">aW1wb3J0IHB5bGFiCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgSGVyZSB3ZSBhY2NlcHQgcmFjZXMgdGhhdCBhcmUgYWxpYXNlZC4gSWYgcmFjZSBpcyBub3QgYWxpYXNlZCwgZXhlY3V0aW9uCg==</text>
+        <text encoding="base64">ICAgICMgd2lsbCB0cnkgdG8gZmluZCBtYXRjaCBieSByYWNlIHRpbWUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgSGVyZSB3ZSBhY2NlcHQgcmFjZXMgdGhhdCBhcmUgYWxpYXNlZC4gSWYgcmFjZSBpcyBub3QgYWxpYXNlZCwgZXhlY3V0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

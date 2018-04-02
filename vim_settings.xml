@@ -1935,7 +1935,7 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1522674349447">
+      <file name="/Python Console" timestamp="1522678541662">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -2011,9 +2011,9 @@
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1522401758455">
         <mark key="'" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" timestamp="1522677427010">
-        <mark key="[" line="128" column="50" />
-        <mark key="]" line="128" column="50" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" timestamp="1522678540402">
+        <mark key="[" line="134" column="46" />
+        <mark key="]" line="134" column="81" />
         <mark key="^" line="133" column="25" />
         <mark key="." line="128" column="50" />
       </file>
@@ -2400,7 +2400,7 @@
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>arrow.get(race_node.attrs.get('time', None), 'HHMMz').timetz().isoformat()</text>
+        <text>fetch_meetings(provider='PHUMELELA')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByY190aW1lID0gZGF0YS5wb3AoJ3JhY2VfdGltZScpCg==</text>

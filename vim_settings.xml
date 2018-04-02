@@ -249,11 +249,11 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522692761079">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="34" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522697744013">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/api/mails/serializers.py" timestamp="1504522521592">
         <mark key="[" line="45" column="18" />
@@ -1760,11 +1760,11 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/config.py" timestamp="1522692621161">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="55" />
-        <mark key="^" line="6" column="55" />
-        <mark key="." line="6" column="55" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/config.py" timestamp="1522697165810">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/tests/accounts/test_login.py" timestamp="1504695895906">
         <mark key="[" line="21" column="12" />
@@ -1976,7 +1976,7 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1522678541662">
+      <file name="/Python Console" timestamp="1522697344512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -2402,7 +2402,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZjA2ID0gc3AubWlzYy5pbXJlYWQoY29uZmlnLklSUkdfMDZfRVFVX1BBVEgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5Lm0K</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2414,43 +2414,53 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>sp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZjA2ID0gc3AubWlzYy5pbXJlYWQoY29uZmlnLklSUkdfMDZfRVFVX1BBVEgpCg==</text>
+      <register name="0" type="4">
+        <text>bin_im_06 = pymorph.threshad(im_06, 0, 70)
+# open new figure
+pylab.figure()
+# show overlayed images
+pylab.imshow(pymorph.overlay(im_06, bin_im_06))
+# gray colormap
+pylab.gray()
+# show figure
+pylab.show()
+# save image
+sp.misc.imsave(config.path(config.EROTIMA_1_PATH, 'binary06.png'), bin_im_06)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoc2NpcHlfbW9ycGhvbG9neS5pbWcpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5Lm0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">c3BfbWlzYy5pbXJlYWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAudXRpbGl0aWVzIGltcG9ydCBzY2lweV9tb3JwaG9sb2d5Cg==</text>
+        <text encoding="base64">IyBzYXZlIGltYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGRmcm9tIGNvZGUgaW1wb3J0IHV0aWxpdGllcwo=</text>
+        <text encoding="base64">IyBzaG93IGZpZ3VyZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxpdGllcwo=</text>
+        <text encoding="base64">IyBncmF5IGNvbG9ybWFwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
+        <text encoding="base64">IyBzaG93IG92ZXJsYXllZCBpbWFnZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHB5bGFiCg==</text>
+        <text encoding="base64">IyBvcGVuIG5ldyBmaWd1cmUK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgd2lsbCB0cnkgdG8gZmluZCBtYXRjaCBieSByYWNlIHRpbWUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgSGVyZSB3ZSBhY2NlcHQgcmFjZXMgdGhhdCBhcmUgYWxpYXNlZC4gSWYgcmFjZSBpcyBub3QgYWxpYXNlZCwgZXhlY3V0aW9uCg==</text>
+        <text encoding="base64">cHJpbnQoc2NpcHlfbW9ycGhvbG9neS5pbWcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

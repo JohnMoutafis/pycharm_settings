@@ -296,11 +296,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_2.py" timestamp="1522778800714">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_2.py" timestamp="1522781087482">
+        <mark key="'" line="94" column="20" />
+        <mark key="[" line="96" column="10" />
+        <mark key="]" line="96" column="10" />
+        <mark key="^" line="96" column="10" />
+        <mark key="." line="96" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/vwallet/error_codes.py" timestamp="1508336930761">
         <mark key="[" line="52" column="22" />
@@ -2409,10 +2410,17 @@
       <jump line="102" column="10" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" />
       <jump line="112" column="74" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" />
+      <jump line="44" column="11" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_2.py" />
+      <jump line="94" column="20" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+      <register name="&quot;" type="4">
+        <text>im_grad_06 = pymorph.gradm(im_06, se)
+sp.misc.imsave(config.path(config.EROTIMA_2_PATH, 'im_grad_06_r1.png'), im_grad_06)
+plt.figure()
+plt.imshow(im_grad_06)
+plt.gray()
+plt.show()</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2424,31 +2432,36 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'im_eroded_r1.png'</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBGb3IgMTEgaW1hZ2U6Cg==</text>
+      <register name="0" type="4">
+        <text>im_grad_06 = pymorph.gradm(im_06, se)
+sp.misc.imsave(config.path(config.EROTIMA_2_PATH, 'im_grad_06_r1.png'), im_grad_06)
+plt.figure()
+plt.imshow(im_grad_06)
+plt.gray()
+plt.show()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBVc2UgZGlmZmVyZW50IHJhZGl1cyB2YWx1ZXMgKHIpIGFuZCBvYnNlcnZlIHRoZSByZXN1bHRzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMgZXJvdGltYSAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
@@ -2457,10 +2470,10 @@
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+        <text encoding="base64">IyBVc2UgZGlmZmVyZW50IHJhZGl1cyB2YWx1ZXMgKHIpIGFuZCBvYnNlcnZlIHRoZSByZXN1bHRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

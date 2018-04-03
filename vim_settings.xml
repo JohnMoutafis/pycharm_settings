@@ -1689,9 +1689,9 @@
         <mark key="." line="28" column="29" />
         <mark key="^" line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/mailer/tests/services/test_register.py" timestamp="1522752354328">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/mailer/tests/services/test_register.py" timestamp="1522753872936">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="58" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -2397,7 +2397,7 @@
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>mport config</text>
+        <text>force_authenticate(request, user=self.service.user)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKGluX2FjY2VwdGFibGVfcmFuZ2UobVsnc3RhcnQnXSwgcmN0aW1lKSkK</text>

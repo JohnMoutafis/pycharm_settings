@@ -249,12 +249,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522778771816">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="15" />
-        <mark key="." line="112" column="74" />
-        <mark key="^" line="112" column="74" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522785411516">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="107" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/api/mails/serializers.py" timestamp="1504522521592">
         <mark key="[" line="45" column="18" />
@@ -539,7 +539,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522778467242">
+      <file name="/Dummy.txt" timestamp="1522784949016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -714,11 +714,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_3.py" timestamp="1522783527653">
-        <mark key="[" line="42" column="6" />
-        <mark key="]" line="42" column="3" />
-        <mark key="." line="42" column="3" />
-        <mark key="^" line="42" column="3" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_3.py" timestamp="1522785839558">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forks/coala/coalib/bearlib/abstractions/Linter.py" timestamp="1499420690368">
         <mark key="[" line="656" column="49" />
@@ -2420,8 +2420,8 @@
       <jump line="94" column="20" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pymorph.overlay(im_11, bin_im_11)</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2433,7 +2433,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>pymorph.overlay(im_11, bin_im_11)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
@@ -2447,34 +2447,34 @@ plt.gray()
 plt.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzYXZlIGltYWdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzaG93IGZpZ3VyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBNb3JwaG9sb2dpY2FsIEdyYWRpZW50CiMgRm9yIDA2IGltYWdlOgppbV9ncmFkXzA2ID0gcHltb3JwaC5ncmFkbShpbV8wNiwgc2UpCnNwLm1pc2MuaW1zYXZlKGNvbmZpZy5wYXRoKGNvbmZpZy5FUk9USU1BXzJfUEFUSCwgJ2ltX2dyYWRfMDZfcjEucG5nJyksIGltX2dyYWRfMDYpCnBsdC5maWd1cmUoKQpwbHQuaW1zaG93KGltX2dyYWRfMDYpCnBsdC5ncmF5KCkKcGx0LnNob3coKQojIEZvciAxMSBpbWFnZToKaW1fZ3JhZF8xMSA9IHB5bW9ycGguZ3JhZG0oaW1fMTEsIHNlKQpzcC5taXNjLmltc2F2ZShjb25maWcucGF0aChjb25maWcuRVJPVElNQV8yX1BBVEgsICdpbV9ncmFkXzExX3IxLnBuZycpLCBpbV9ncmFkXzExKQpwbHQuZmlndXJlKCkKcGx0Lmltc2hvdyhpbV9ncmFkXzExKQpwbHQuZ3JheSgpCnBsdC5zaG93KCkK</text>
+        <text encoding="base64">IyBncmF5IGNvbG9ybWFwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzaG93IG92ZXJsYXllZCBpbWFnZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">IyBvcGVuIG5ldyBmaWd1cmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LmdyYXkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx0Lmltc2hvdyhpbV9vcGVuXzExKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0LmZpZ3VyZSgpCg==</text>
+        <text encoding="base64">IyBNb3JwaG9sb2dpY2FsIEdyYWRpZW50CiMgRm9yIDA2IGltYWdlOgppbV9ncmFkXzA2ID0gcHltb3JwaC5ncmFkbShpbV8wNiwgc2UpCnNwLm1pc2MuaW1zYXZlKGNvbmZpZy5wYXRoKGNvbmZpZy5FUk9USU1BXzJfUEFUSCwgJ2ltX2dyYWRfMDZfcjEucG5nJyksIGltX2dyYWRfMDYpCnBsdC5maWd1cmUoKQpwbHQuaW1zaG93KGltX2dyYWRfMDYpCnBsdC5ncmF5KCkKcGx0LnNob3coKQojIEZvciAxMSBpbWFnZToKaW1fZ3JhZF8xMSA9IHB5bW9ycGguZ3JhZG0oaW1fMTEsIHNlKQpzcC5taXNjLmltc2F2ZShjb25maWcucGF0aChjb25maWcuRVJPVElNQV8yX1BBVEgsICdpbV9ncmFkXzExX3IxLnBuZycpLCBpbV9ncmFkXzExKQpwbHQuZmlndXJlKCkKcGx0Lmltc2hvdyhpbV9ncmFkXzExKQpwbHQuZ3JheSgpCnBsdC5zaG93KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3AubWlzYy5pbXNhdmUoY29uZmlnLnBhdGgoY29uZmlnLkVST1RJTUFfMl9QQVRILCAnaW1fb3Blbl8xMV9yMS5wbmcnKSwgaW1fb3Blbl8xMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

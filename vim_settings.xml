@@ -249,10 +249,10 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522699030374">
-        <mark key="'" line="102" column="10" />
-        <mark key="[" line="112" column="75" />
-        <mark key="]" line="112" column="74" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" timestamp="1522778771816">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="15" />
         <mark key="." line="112" column="74" />
         <mark key="^" line="112" column="74" />
       </file>
@@ -295,6 +295,12 @@
         <mark key="]" line="1" column="38" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_2.py" timestamp="1522778800714">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/vwallet/error_codes.py" timestamp="1508336930761">
         <mark key="[" line="52" column="22" />
@@ -532,7 +538,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522689659187">
+      <file name="/Dummy.txt" timestamp="1522778467242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -1014,7 +1020,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/code/utilities/pymorph_satellite.py" timestamp="1522688717996" />
       <file name="$USER_HOME$/PycharmProjects/vtrans-projects/Vtrans-CORE/requirements/base.txt" timestamp="1499682875170">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="12" />
@@ -1977,7 +1982,7 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1522697344512">
+      <file name="/Python Console" timestamp="1522778445125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -2402,16 +2407,12 @@
       <jump line="9" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/lookups.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" />
       <jump line="102" column="10" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" />
+      <jump line="112" column="74" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>im_close_06 = np.zeros(bin_im_06.shape, dtype=float)
-ndimage.morphology.binary_closing(bin_im_06, structure=se, output=im_close_06)
-sp.misc.imsave('bin_im_close_r1.png', im_close_06)
-plt.figure()
-plt.imshow(im_close_06)
-plt.gray()
-plt.show()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2423,49 +2424,43 @@ plt.show()</text>
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>'im_eroded_r1.png'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>im_close_06 = np.zeros(bin_im_06.shape, dtype=float)
-ndimage.morphology.binary_closing(bin_im_06, structure=se, output=im_close_06)
-sp.misc.imsave('bin_im_close_r1.png', im_close_06)
-plt.figure()
-plt.imshow(im_close_06)
-plt.gray()
-plt.show()</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBGb3IgMTEgaW1hZ2U6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBVc2UgZGlmZmVyZW50IHJhZGl1cyB2YWx1ZXMgKHIpIGFuZCBvYnNlcnZlIHRoZSByZXN1bHRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjYmluYXJ5IGVkZHJvc2lvbiAK</text>
+        <text encoding="base64">IyMgZXJvdGltYSAyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5Lm0K</text>
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3BfbWlzYy5pbXJlYWQK</text>
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBzYXZlIGltYWdlCg==</text>
+        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

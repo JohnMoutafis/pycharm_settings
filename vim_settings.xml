@@ -714,6 +714,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_3.py" timestamp="1522783527653">
+        <mark key="[" line="42" column="6" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/forks/coala/coalib/bearlib/abstractions/Linter.py" timestamp="1499420690368">
         <mark key="[" line="656" column="49" />
         <mark key="]" line="656" column="19" />
@@ -2414,13 +2420,8 @@
       <jump line="94" column="20" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_2/ex2_module/excercises/erotima_2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>im_grad_06 = pymorph.gradm(im_06, se)
-sp.misc.imsave(config.path(config.EROTIMA_2_PATH, 'im_grad_06_r1.png'), im_grad_06)
-plt.figure()
-plt.imshow(im_grad_06)
-plt.gray()
-plt.show()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2446,34 +2447,34 @@ plt.gray()
 plt.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+        <text encoding="base64">IyBNb3JwaG9sb2dpY2FsIEdyYWRpZW50CiMgRm9yIDA2IGltYWdlOgppbV9ncmFkXzA2ID0gcHltb3JwaC5ncmFkbShpbV8wNiwgc2UpCnNwLm1pc2MuaW1zYXZlKGNvbmZpZy5wYXRoKGNvbmZpZy5FUk9USU1BXzJfUEFUSCwgJ2ltX2dyYWRfMDZfcjEucG5nJyksIGltX2dyYWRfMDYpCnBsdC5maWd1cmUoKQpwbHQuaW1zaG93KGltX2dyYWRfMDYpCnBsdC5ncmF5KCkKcGx0LnNob3coKQojIEZvciAxMSBpbWFnZToKaW1fZ3JhZF8xMSA9IHB5bW9ycGguZ3JhZG0oaW1fMTEsIHNlKQpzcC5taXNjLmltc2F2ZShjb25maWcucGF0aChjb25maWcuRVJPVElNQV8yX1BBVEgsICdpbV9ncmFkXzExX3IxLnBuZycpLCBpbV9ncmFkXzExKQpwbHQuZmlndXJlKCkKcGx0Lmltc2hvdyhpbV9ncmFkXzExKQpwbHQuZ3JheSgpCnBsdC5zaG93KCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx0LmdyYXkoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjc2hvdyByZXN1bHQK</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhpbV9vcGVuXzExKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBVc2UgZGlmZmVyZW50IHJhZGl1cyB2YWx1ZXMgKHIpIGFuZCBvYnNlcnZlIHRoZSByZXN1bHRzCg==</text>
+        <text encoding="base64">cGx0LmZpZ3VyZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3AubWlzYy5pbXNhdmUoY29uZmlnLnBhdGgoY29uZmlnLkVST1RJTUFfMl9QQVRILCAnaW1fb3Blbl8xMV9yMS5wbmcnKSwgaW1fb3Blbl8xMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

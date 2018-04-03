@@ -1682,12 +1682,12 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" timestamp="1522674906449">
-        <mark key="'" line="66" column="95" />
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="28" column="29" />
-        <mark key="." line="28" column="29" />
-        <mark key="^" line="28" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" timestamp="1522765446246">
+        <mark key="'" line="38" column="14" />
+        <mark key="[" line="59" column="14" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="63" />
+        <mark key="^" line="38" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/mailer/tests/services/test_register.py" timestamp="1522753872936">
         <mark key="[" line="33" column="8" />
@@ -2282,12 +2282,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1522674619060">
-        <mark key="'" line="173" column="8" />
-        <mark key="[" line="107" column="64" />
-        <mark key="]" line="107" column="66" />
-        <mark key="." line="107" column="66" />
-        <mark key="^" line="146" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1522765469111">
+        <mark key="'" line="38" column="12" />
+        <mark key="[" line="105" column="12" />
+        <mark key="]" line="105" column="24" />
+        <mark key="." line="105" column="24" />
+        <mark key="^" line="105" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2376,6 +2376,8 @@
       <jump line="2" column="31" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/lookups.py" />
       <jump line="33" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/lookups.py" />
       <jump line="84" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
+      <jump line="38" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="38" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

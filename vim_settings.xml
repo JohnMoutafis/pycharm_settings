@@ -1953,8 +1953,8 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="42" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" timestamp="1522680740162">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" timestamp="1522925321547">
+        <mark key="'" line="22" column="11" />
         <mark key="[" line="33" column="23" />
         <mark key="]" line="33" column="23" />
         <mark key="^" line="33" column="23" />
@@ -2335,7 +2335,6 @@
     <jumps>
       <jump line="78" column="38" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/services.py" />
       <jump line="37" column="33" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/utils.py" />
-      <jump line="22" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" />
       <jump line="35" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/utils.py" />
       <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" />
       <jump line="9" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" />
@@ -2378,6 +2377,7 @@
       <jump line="34" column="24" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
       <jump line="100" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" />
       <jump line="33" column="26" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
+      <jump line="22" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

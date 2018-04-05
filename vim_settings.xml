@@ -69,7 +69,7 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="28" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/requirements.txt" timestamp="1510763085396">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/requirements.txt" timestamp="1522926920040">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="6" />
@@ -529,6 +529,10 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
+      <file name="/lookups.py" timestamp="1522926585110">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="22" column="46" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/FreeCodeCamp_Projects/.gitignore" timestamp="1504608580338">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="5" />
@@ -570,11 +574,11 @@
         <mark key="]" line="9" column="51" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1522841120018">
-        <mark key="'" line="107" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1522926629936">
+        <mark key="'" line="104" column="13" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/.gitignore" timestamp="1514569826554">
         <mark key="[" line="17" column="14" />
@@ -582,7 +586,7 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522841987329">
+      <file name="/Dummy.txt" timestamp="1522927201021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -719,12 +723,12 @@
         <mark key="^" line="58" column="31" />
         <mark key="." line="58" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/lookups.py" timestamp="1522918574695">
-        <mark key="a" line="20" column="4" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="10" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/lookups.py" timestamp="1522926896175">
+        <mark key="a" line="22" column="4" />
+        <mark key="[" line="20" column="85" />
+        <mark key="]" line="20" column="85" />
+        <mark key="^" line="20" column="86" />
+        <mark key="." line="20" column="85" />
       </file>
       <file name="$USER_HOME$/dotfiles/vimrc" timestamp="1521021415791">
         <mark key="[" line="17" column="25" />
@@ -1243,11 +1247,6 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbibot.py" timestamp="1522403334251">
-        <mark key="[" line="23" column="56" />
-        <mark key="]" line="23" column="56" />
-        <mark key="." line="23" column="56" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/start_horsecheck/crawler/requirements.txt" timestamp="1516266003680">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="2" column="19" />
@@ -1485,11 +1484,6 @@
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1522399046883">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/models.py" timestamp="1509702632016">
         <mark key="[" line="49" column="49" />
@@ -1745,6 +1739,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/strategies.py" timestamp="1522925881650" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/parser/pmubot.py" timestamp="1509117252923">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="27" column="3" />
@@ -2393,43 +2388,48 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>if in_acceptable_range(candidate['start'], race_datetime) and candidate.get('alias', None)</text>
+        <text># TODO: Check if needed to filter out races with no alias since they are going to
+    # fallback to `find_matching_race_by_time`.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZmFsbGJhY2sgdG8gYGZpbmRfbWF0Y2hpbmdfcmFjZV9ieV90aW1lYC4K</text>
+      <register name="1" type="4">
+        <text>Fix correlation by number.
+
+Fixed correlation by number method.
+Correlation by time returns aliased race in case of many candidates.
+Moved datetime conversions to utils where applicable.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQ2hlY2sgaWYgbmVlZGVkIHRvIGZpbHRlciBvdXQgcmFjZXMgd2l0aCBubyBhbGlhcyBzaW5jZSB0aGV5IGFyZSBnb2luZyB0bwo=</text>
+        <text encoding="base64">Y2FjaGV0b29scz09Mi4wLjEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHR0bF9jYWNoZShtYXhzaXplPTY0LCB0dGw9MTIwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgXQo=</text>
+        <text encoding="base64">QHR0bF9jYWNoZShtYXhzaXplPTE2LCB0dGw9MTIwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgICAgIGlmIGluX2FjY2VwdGFibGVfcmFuZ2UoY2FuZGlkYXRlWydzdGFydCddLCByYWNlX2RhdGV0aW1lKSBhbmQgY2FuZGlkYXRlLmdldCgnYWxpYXMnLCBOb25lKQo=</text>
+        <text encoding="base64">ZnJvbSBjYWNoZXRvb2xzLmZ1bmMgaW1wb3J0IHR0bF9jYWNoZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgICAgIGNhbmRpZGF0ZSBmb3IgY2FuZGlkYXRlIGluIGNhbmRpZGF0ZXMK</text>
+        <text encoding="base64">ICAgICMgZmFsbGJhY2sgdG8gYGZpbmRfbWF0Y2hpbmdfcmFjZV9ieV90aW1lYC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgY2FuZGlkYXRlcyA9IFsK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQ2hlY2sgaWYgbmVlZGVkIHRvIGZpbHRlciBvdXQgcmFjZXMgd2l0aCBubyBhbGlhcyBzaW5jZSB0aGV5IGFyZSBnb2luZyB0bwo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoY2FuZGlkYXRlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -195,9 +195,6 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" timestamp="1522745348456">
-        <mark key="'" line="90" column="4" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/tests/accounts/test_register.py" timestamp="1503489772457">
         <mark key="[" line="59" column="23" />
         <mark key="]" line="59" column="23" />
@@ -586,10 +583,10 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522927201021">
+      <file name="/Dummy.txt" timestamp="1523365758044">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/ServicesDropbox.js" timestamp="1503052063630">
         <mark key="[" line="69" column="11" />
@@ -1608,11 +1605,10 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1522672355943">
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="31" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="30" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1523365668641">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/geodtest/geod/tests.py" timestamp="1511431227923">
         <mark key="[" line="6" column="53" />
@@ -2388,6 +2384,7 @@
       <jump line="82" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" />
       <jump line="19" column="57" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
       <jump line="18" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2406,52 +2403,53 @@
         <text>Y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcmdzXD4=</text>
+        <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
         <text>'YYYY-MM-DD HHmmZ'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWV6b25lCg==</text>
+      <register name="1" type="4">
+        <text>ke slack notification more readable, using slack markup. 
+
+Refs: #9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvY2FsX2R0ID0gZGF0ZXRpbWUuc3RycHRpbWUoZHRfc3RyaW5nLCAnJVklbSVkICVIJU0leicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+      <register name="4" type="4">
+        <text>RUN mkdir -p /app/local_folder
+RUN mkdir -p /app/vermantia_ftp</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvdmVybWFudGlhX2Z0cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvbG9jYWxfZm9sZGVyCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWV6b25lCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>def path(*x):
-    return os.path.join(GBI_FILE_LOCATION, *x)
-
-
-SILKS_PATH = path('gbi', 'ftp', 'Silks')
-CARDS_PATH = path('gbi', 'ftp', 'Cards')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxvY2FsX2R0ID0gZGF0ZXRpbWUuc3RycHRpbWUoZHRfc3RyaW5nLCAnJVklbSVkICVIJU0leicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxSVU5cPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxSVU5cPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -2476,6 +2474,7 @@ CARDS_PATH = path('gbi', 'ftp', 'Cards')</text>
         <entry encoding="base64">XDxvcHRpb25cPg==</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry encoding="base64">XDxSVU5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action run</entry>

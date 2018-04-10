@@ -343,11 +343,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1522838189214">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="61" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="4" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1523350284514">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/run.sh" timestamp="1515758164016">
         <mark key="[" line="16" column="61" />
@@ -2272,12 +2272,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1522934880786">
-        <mark key="'" line="41" column="8" />
-        <mark key="[" line="129" column="67" />
-        <mark key="]" line="129" column="74" />
-        <mark key="." line="129" column="74" />
-        <mark key="^" line="129" column="74" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523350383919">
+        <mark key="'" line="41" column="11" />
+        <mark key="[" line="119" column="56" />
+        <mark key="]" line="119" column="56" />
+        <mark key="^" line="119" column="56" />
+        <mark key="." line="119" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2374,7 +2374,8 @@
       <jump line="100" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" />
       <jump line="33" column="26" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
       <jump line="22" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" />
-      <jump line="41" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="53" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="41" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2390,7 +2391,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>fetch_race_details(**payload)</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
@@ -2399,42 +2400,38 @@
         <text># TODO: Check if needed to filter out races with no alias since they are going to
     # fallback to `find_matching_race_by_time`.</text>
       </register>
-      <register name="1" type="4">
-        <text>Fix correlation by number.
-
-Fixed correlation by number method.
-Correlation by time returns aliased race in case of many candidates.
-Moved datetime conversions to utils where applicable.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcocmFjZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FjaGV0b29scz09Mi4wLjEK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHR0bF9jYWNoZShtYXhzaXplPTY0LCB0dGw9MTIwKQo=</text>
+        <text encoding="base64">ICAgICAgICAnc2lsa3MnOiBzaWxrcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHR0bF9jYWNoZShtYXhzaXplPTE2LCB0dGw9MTIwKQo=</text>
+        <text encoding="base64">ICAgICAgICAnY2FycmllZF9hdCc6IHV0Y19kdC5zdHJmdGltZSgnJVktJW0tJWQgJUg6JU06JVMnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjYWNoZXRvb2xzLmZ1bmMgaW1wb3J0IHR0bF9jYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICAnY3VzdG9tZXJfcmVmX2lkJzogZGV0YWlsc1sncmFjZSddWydpZHRncmFjZSddLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZmFsbGJhY2sgdG8gYGZpbmRfbWF0Y2hpbmdfcmFjZV9ieV90aW1lYC4K</text>
+        <text encoding="base64">ICAgICAgICAncHJvdmlkZXJfcmVmX2lkJzogcmFjZV9ub2RlLmF0dHJzLmdldCgnaWQnLCBOb25lKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQ2hlY2sgaWYgbmVlZGVkIHRvIGZpbHRlciBvdXQgcmFjZXMgd2l0aCBubyBhbGlhcyBzaW5jZSB0aGV5IGFyZSBnb2luZyB0bwo=</text>
+        <text encoding="base64">ICAgICAgICAndGl0bGUnOiByYWNlX25vZGUuZmluZCgnVGl0bGUnKS5nZXRfdGV4dCgpLnN0cmlwKCksCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>44</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2483,8 +2480,8 @@ Moved datetime conversions to utils where applicable.</text>
         <entry>61</entry>
         <entry>W</entry>
         <entry>189</entry>
-        <entry>w</entry>
         <entry>44</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

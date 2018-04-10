@@ -1431,12 +1431,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523357222561">
-        <mark key="'" line="19" column="32" />
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="15" />
-        <mark key="." line="69" column="15" />
-        <mark key="^" line="87" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523358076961">
+        <mark key="'" line="18" column="32" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="86" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/geodtest/geod/views.py" timestamp="1513259630287">
         <mark key="[" line="2" column="0" />
@@ -2280,12 +2280,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523354910090">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523359166653">
         <mark key="'" line="118" column="35" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="112" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="64" column="39" />
+        <mark key="]" line="64" column="62" />
+        <mark key="^" line="64" column="62" />
+        <mark key="." line="64" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2403,7 +2403,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>Y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
@@ -2412,16 +2412,16 @@
         <text>'YYYY-MM-DD HHmmZ'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvY2FsX2R0ID0gZGF0ZXRpbWUuc3RycHRpbWUoZHRfc3RyaW5nLCAnJVklbSVkICVIJU0leicpCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWV6b25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2FsX2R0ID0gZGF0ZXRpbWUuc3RycHRpbWUoZHRfc3RyaW5nLCAnJVklbSVkICVIJU0leicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2435,16 +2435,16 @@
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>def path(*x):
     return os.path.join(GBI_FILE_LOCATION, *x)
 
 
 SILKS_PATH = path('gbi', 'ftp', 'Silks')
 CARDS_PATH = path('gbi', 'ftp', 'Cards')</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

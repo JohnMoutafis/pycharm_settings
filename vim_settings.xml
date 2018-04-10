@@ -1739,7 +1739,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/strategies.py" timestamp="1522925881650" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/parser/pmubot.py" timestamp="1509117252923">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="27" column="3" />
@@ -1921,7 +1920,7 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1522934260561">
+      <file name="/Python Console" timestamp="1523342849160">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="0" />
@@ -2466,7 +2465,6 @@ Moved datetime conversions to utils where applicable.</text>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>4</entry>
         <entry>action run</entry>
         <entry>51</entry>
         <entry>21</entry>
@@ -2560,6 +2558,9 @@ Moved datetime conversions to utils where applicable.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

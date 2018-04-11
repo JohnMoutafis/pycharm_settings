@@ -1003,6 +1003,10 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/.env.example" timestamp="1523447141210">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="13" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/setup.cfg" timestamp="1516970907407">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="22" />
@@ -1784,6 +1788,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/env.example" timestamp="1523447161579">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.connect_configurations/docs/internal_use.rst" timestamp="1506686939506">
         <mark key="[" line="72" column="74" />
         <mark key="]" line="76" column="16" />
@@ -2014,6 +2024,10 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" timestamp="1523445285947">
+        <mark key="[" line="152" column="21" />
+        <mark key="]" line="152" column="40" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/vtrans-projects/vermantiaWallet/app.py" timestamp="1503664239011">
         <mark key="[" line="58" column="18" />
         <mark key="]" line="58" column="26" />
@@ -2056,12 +2070,12 @@
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523354992566">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523445289562">
         <mark key="'" line="17" column="6" />
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="96" column="40" />
+        <mark key="." line="96" column="40" />
+        <mark key="^" line="96" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/bin/run.sh" timestamp="1520429383855">
         <mark key="[" line="2" column="50" />
@@ -2412,31 +2426,33 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>logging.logging.INFO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>extra={'notify_slack': True}</text>
+        <text># Slack variables
+SLACK_LOGGING=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">IyBTbGFjayBsb2dnaW5nIGhhbmRsZXIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text># Slack logger Settings
+SERVICE_NAME = 'GBI#IGT Service'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudDoK</text>
+        <text encoding="base64">U0xBQ0tfV0VCSE9PSyA9IGNvbmZpZygnU0xBQ0tfV0VCSE9PSycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
+        <text encoding="base64">U0xBQ0tfVVNFUk5BTUUgPSAnc2lsa3Mtc2xhY2stbG9nZ2VyJwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZGVmIGJvdF9ldmVudF9saXN0ZW5lcihldmVudCk6CiAgICAiIiIKICAgIAogICAgQXJnczoKICAgICAgICBldmVudDogCgogICAgUmV0dXJuczoKCiAgICAiIiIKICAgIGlmIGV2ZW50LmV4Y2VwdGlvbjoKICAgICAgICBsb2dnZXIuZXJyb3IoJ0ZhaWxlZCB0byBydW4gam9iOiB7fScuZm9ybWF0KGV2ZW50LmV4Y2VwdGlvbiksIGV4dHJhPXsnbm90aWZ5X3NsYWNrJzogVHJ1ZX0pCiAgICBlbHNlOgogICAgICAgIGxvZ2dlci5pbmZvKCdTdWNjZXNzZnVsbHkgcnVuIGpvYi4nKQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2444,11 +2460,11 @@
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIGJvdF9ldmVudF9saXN0ZW5lcihldmVudCk6CiAgICBpZiBldmVudC5leGNlcHRpb246CiAgICAgICAgYm90X2xvZ2dlci5lcnJvcignRmFpbGVkIHRvIHJ1biBqb2InKQogICAgZWxzZToKICAgICAgICBib3RfbG9nZ2VyLmluZm8oJ1N1Y2Nlc3NmdWxseSBydW4gam9iLicpCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">bG9nZ2VyLmFkZEhhbmRsZXIoc2xhY2tfaGFuZGxlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmVycm9yKGV2ZW50LmV4Y2VwdGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

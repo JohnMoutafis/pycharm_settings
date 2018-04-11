@@ -1433,11 +1433,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523439988074">
-        <mark key="'" line="61" column="4" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523441272402">
+        <mark key="'" line="85" column="11" />
+        <mark key="[" line="89" column="27" />
+        <mark key="]" line="90" column="46" />
+        <mark key="." line="90" column="46" />
+        <mark key="^" line="90" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/geodtest/geod/views.py" timestamp="1513259630287">
         <mark key="[" line="2" column="0" />
@@ -2390,6 +2391,7 @@
       <jump line="18" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" />
       <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" />
       <jump line="61" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" />
+      <jump line="85" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

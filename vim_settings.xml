@@ -1433,12 +1433,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523358076961">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="86" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523439988074">
+        <mark key="'" line="61" column="4" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/geodtest/geod/views.py" timestamp="1513259630287">
         <mark key="[" line="2" column="0" />
@@ -2390,6 +2389,7 @@
       <jump line="19" column="57" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
       <jump line="18" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" />
       <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" />
+      <jump line="61" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2405,7 +2405,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">Y29ubmVjdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
@@ -2414,37 +2414,36 @@
         <text>'YYYY-MM-DD HHmmZ'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>ke slack notification more readable, using slack markup. 
-
-Refs: #9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEF1eGlsaWFyeSBmdW5jdGlvbi4K</text>
       </register>
-      <register name="5" type="4">
-        <text>RUN mkdir -p /app/local_folder
-RUN mkdir -p /app/vermantia_ftp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICIiIkV4dHJhY3Qgc2lsayIiIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvdmVybWFudGlhX2Z0cAo=</text>
+      <register name="7" type="4">
+        <text>ke slack notification more readable, using slack markup. 
+
+Refs: #9</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvbG9jYWxfZm9sZGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWV6b25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

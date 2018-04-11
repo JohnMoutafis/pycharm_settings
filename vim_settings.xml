@@ -582,10 +582,10 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523451665559">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1523457081958">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/ServicesDropbox.js" timestamp="1503052063630">
         <mark key="[" line="69" column="11" />
@@ -1595,13 +1595,6 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523456199345">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
-        <mark key="^" line="17" column="57" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/Dockerfile" timestamp="1516723773099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="39" />
@@ -2438,37 +2431,37 @@
       <register name="0" type="4">
         <text>do_only_correlation</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsb2dnaW5nLmhhbmRsZXJzIGltcG9ydCBUaW1lZFJvdGF0aW5nRmlsZUhhbmRsZXIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpnYmlib3Q6IFJlZmFjdG9yIHRvIG5ldyBhcmNoaXRlY3R1cmUgV0lQCgpFeGNsdWRlIHBhc3QgZXhlY3V0aW9uIHRpbWUgcmFjZXMuCgoKZ2JpYm90OiBSZWZhY3RvciB0byBuZXcgYXJjaGl0ZWN0dXJlIFdJUF8yCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ck5vdyB1c2luZw==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgpFeGNsdWRlIHBhc3QgZXhlY3V0aW9uIHRpbWUgcmFjZXMu</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsb2dnaW5nLmhhbmRsZXJzIGltcG9ydCBUaW1lZFJvdGF0aW5nRmlsZUhhbmRsZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nZ2VyLmFkZEhhbmRsZXIoZmlsZV9sb2dnZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>console_logger = logging.StreamHandler()
-    console_logger.setFormatter(formatter)
-    logger.addHandler(console_logger)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgREVCVUc6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nZ2VyLmFkZEhhbmRsZXIoZmlsZV9sb2dnZXIpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZmlsZV9sb2dnZXIuc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikK</text>
+      <register name="9" type="4">
+        <text>console_logger = logging.StreamHandler()
+    console_logger.setFormatter(formatter)
+    logger.addHandler(console_logger)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -1788,11 +1788,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/env.example" timestamp="1523447161579">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="13" />
-        <mark key="^" line="11" column="13" />
-        <mark key="." line="11" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/env.example" timestamp="1523447787646">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.connect_configurations/docs/internal_use.rst" timestamp="1506686939506">
         <mark key="[" line="72" column="74" />
@@ -2070,11 +2070,11 @@
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523445289562">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523447779189">
         <mark key="'" line="17" column="6" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="96" column="40" />
-        <mark key="." line="96" column="40" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
         <mark key="^" line="96" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/bin/run.sh" timestamp="1520429383855">
@@ -2411,6 +2411,7 @@
       <jump line="111" column="7" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" />
       <jump line="112" column="24" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="10" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="10" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/env.example" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2426,7 +2427,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>logging.logging.INFO</text>
+        <text>http://silkbot/api/v1/briam</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
@@ -2436,35 +2437,35 @@
 SLACK_LOGGING=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TE9DQUxfVElNRVpPTkU9RXVyb3BlL0F0aGVucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBTbGFjayBsb2dnaW5nIGhhbmRsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text># Slack logger Settings
-SERVICE_NAME = 'GBI#IGT Service'</text>
+      <register name="3" type="2">
+        <text encoding="base64">TE9DQUxfWk9ORSA9IGNvbmZpZygnTE9DQUxfVElNRVpPTkUnLCAnRXVyb3BlL0F0aGVucycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0xBQ0tfV0VCSE9PSyA9IGNvbmZpZygnU0xBQ0tfV0VCSE9PSycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0xBQ0tfVVNFUk5BTUUgPSAnc2lsa3Mtc2xhY2stbG9nZ2VyJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBTbGFjayBsb2dnaW5nIGhhbmRsZXIK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bG9nZ2VyLmFkZEhhbmRsZXIoc2xhY2tfaGFuZGxlcikK</text>
+      <register name="8" type="4">
+        <text># Slack logger Settings
+SERVICE_NAME = 'GBI#IGT Service'</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0xBQ0tfV0VCSE9PSyA9IGNvbmZpZygnU0xBQ0tfV0VCSE9PSycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

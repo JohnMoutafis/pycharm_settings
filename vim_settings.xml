@@ -1433,12 +1433,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523441272402">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523442301970">
         <mark key="'" line="85" column="11" />
         <mark key="[" line="89" column="27" />
-        <mark key="]" line="90" column="46" />
-        <mark key="." line="90" column="46" />
-        <mark key="^" line="90" column="46" />
+        <mark key="]" line="93" column="73" />
+        <mark key="." line="93" column="73" />
+        <mark key="^" line="93" column="73" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/geodtest/geod/views.py" timestamp="1513259630287">
         <mark key="[" line="2" column="0" />
@@ -1591,12 +1591,12 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523438425845">
-        <mark key="'" line="23" column="57" />
-        <mark key="[" line="64" column="95" />
-        <mark key="]" line="65" column="78" />
-        <mark key="^" line="65" column="78" />
-        <mark key="." line="65" column="78" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523442722202">
+        <mark key="'" line="33" column="57" />
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="21" column="63" />
+        <mark key="." line="21" column="63" />
+        <mark key="^" line="21" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/Dockerfile" timestamp="1516723773099">
         <mark key="[" line="0" column="0" />
@@ -2281,12 +2281,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523370402566">
-        <mark key="'" line="118" column="35" />
-        <mark key="[" line="64" column="42" />
-        <mark key="]" line="64" column="58" />
-        <mark key="^" line="64" column="58" />
-        <mark key="." line="64" column="58" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523442951410">
+        <mark key="'" line="133" column="35" />
+        <mark key="[" line="67" column="52" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2416,7 +2416,7 @@
         <text>'YYYY-MM-DD HHmmZ'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
@@ -2425,27 +2425,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEF1eGlsaWFyeSBmdW5jdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ1JhY2U6IHt9Jy5mb3JtYXQocmFjZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIkV4dHJhY3Qgc2lsayIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ0NvcnJlbGF0ZWQgU2lsa3M6IHt9Jy5mb3JtYXQoY29ycmVsYXRlZF9zaWxrcykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ1JhY2U6IHt9Jy5mb3JtYXQocmFjZSkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>ke slack notification more readable, using slack markup. 
-
-Refs: #9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcnJlbGF0ZWRfc2lsa3MgKz0gW3NpbGtbJ2xvY2F0aW9uJ10uc3BsaXQoJy8nKVstMV0gZm9yIHNpbGsgaW4gcmFjZVsnc2lsa3MnXV0K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaGUgY29ycmVsYXRlZCBzaWxrcyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

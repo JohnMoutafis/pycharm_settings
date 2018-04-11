@@ -1595,12 +1595,12 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523451587202">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523454124881">
         <mark key="'" line="12" column="9" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="27" column="77" />
-        <mark key="." line="27" column="77" />
-        <mark key="^" line="27" column="77" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="83" />
+        <mark key="." line="17" column="83" />
+        <mark key="^" line="17" column="83" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/Dockerfile" timestamp="1516723773099">
         <mark key="[" line="0" column="0" />
@@ -2069,12 +2069,12 @@
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523449423217">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="63" />
-        <mark key="." line="29" column="63" />
-        <mark key="^" line="29" column="63" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523454379253">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/bin/run.sh" timestamp="1520429383855">
         <mark key="[" line="2" column="50" />
@@ -2295,12 +2295,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523450963850">
-        <mark key="'" line="95" column="62" />
-        <mark key="[" line="95" column="14" />
-        <mark key="]" line="96" column="68" />
-        <mark key="^" line="96" column="68" />
-        <mark key="." line="96" column="68" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523454200465">
+        <mark key="'" line="71" column="6" />
+        <mark key="[" line="97" column="80" />
+        <mark key="]" line="97" column="89" />
+        <mark key="^" line="97" column="89" />
+        <mark key="." line="97" column="89" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2413,6 +2413,7 @@
       <jump line="10" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/env.example" />
       <jump line="12" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
       <jump line="95" column="62" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="71" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2428,7 +2429,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG9pbmcg</text>
+        <text>file_logger</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
@@ -2437,34 +2438,36 @@
         <text>results, correlated_silks, processing_errors = process_files(xml_files, today)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvdmVybWFudGlhX2Z0cAo=</text>
+        <text encoding="base64">ZnJvbSBsb2dnaW5nLmhhbmRsZXJzIGltcG9ydCBUaW1lZFJvdGF0aW5nRmlsZUhhbmRsZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvbG9jYWxfZm9sZGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoRVhFQ1VUSU9OX1RJTUUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ1JhY2U6IHt9Jy5mb3JtYXQocmFjZSkpCg==</text>
+        <text encoding="base64">bG9nZ2VyLmFkZEhhbmRsZXIoZmlsZV9sb2dnZXIpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">TE9DQUxfVElNRVpPTkU9RXVyb3BlL0F0aGVucwo=</text>
+      <register name="6" type="4">
+        <text>console_logger = logging.StreamHandler()
+    console_logger.setFormatter(formatter)
+    logger.addHandler(console_logger)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQ2hlY2sgaWYgd2UndmUgYWxyZWFkeSBwcm9jZXNzZWQgdGhpcyBzZXQgb2YgZmlsZXMK</text>
+        <text encoding="base64">aWYgREVCVUc6Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TE9DQUxfVElNRVpPTkU9RXVyb3BlL0F0aGVucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmlsZV9sb2dnZXIuc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

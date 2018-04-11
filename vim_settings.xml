@@ -600,6 +600,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" timestamp="1523438753297">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/opap-horseraces-silks.live_horses_feed/lib/python3.5/site-packages/nameko_sqlalchemy/database_session.py" timestamp="1510833114025">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="50" />
@@ -1586,12 +1591,12 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523364034374">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523438425845">
         <mark key="'" line="23" column="57" />
-        <mark key="[" line="41" column="74" />
-        <mark key="]" line="41" column="91" />
-        <mark key="^" line="41" column="73" />
-        <mark key="." line="41" column="73" />
+        <mark key="[" line="64" column="95" />
+        <mark key="]" line="65" column="78" />
+        <mark key="^" line="65" column="78" />
+        <mark key="." line="65" column="78" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/Dockerfile" timestamp="1516723773099">
         <mark key="[" line="0" column="0" />
@@ -2408,38 +2413,38 @@
       <register name="0" type="4">
         <text>'YYYY-MM-DD HHmmZ'</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>ke slack notification more readable, using slack markup. 
 
 Refs: #9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>RUN mkdir -p /app/local_folder
 RUN mkdir -p /app/vermantia_ftp</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvdmVybWFudGlhX2Z0cAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvbG9jYWxfZm9sZGVyCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvdmVybWFudGlhX2Z0cAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWV6b25lCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvbG9jYWxfZm9sZGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2FsX2R0ID0gZGF0ZXRpbWUuc3RycHRpbWUoZHRfc3RyaW5nLCAnJVklbSVkICVIJU0leicpCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWV6b25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2454,7 +2459,6 @@ RUN mkdir -p /app/vermantia_ftp</text>
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
         <entry>mss</entry>
         <entry encoding="base64">XDxyZWdleDJcPg==</entry>
         <entry>uuid</entry>

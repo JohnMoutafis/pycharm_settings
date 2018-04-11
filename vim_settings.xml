@@ -600,9 +600,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" timestamp="1523438753297">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" timestamp="1523444292469">
+        <mark key="'" line="111" column="7" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="115" column="44" />
         <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/opap-horseraces-silks.live_horses_feed/lib/python3.5/site-packages/nameko_sqlalchemy/database_session.py" timestamp="1510833114025">
@@ -2281,12 +2282,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523442951410">
-        <mark key="'" line="133" column="35" />
-        <mark key="[" line="67" column="52" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523444835876">
+        <mark key="'" line="10" column="5" />
+        <mark key="[" line="105" column="16" />
+        <mark key="]" line="105" column="44" />
+        <mark key="^" line="105" column="15" />
+        <mark key="." line="105" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2392,6 +2393,10 @@
       <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" />
       <jump line="61" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" />
       <jump line="85" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" />
+      <jump line="106" column="7" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="111" column="7" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" />
+      <jump line="112" column="24" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="10" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2407,13 +2412,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29ubmVjdGlvbiA=</text>
+        <text>warning</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>'YYYY-MM-DD HHmmZ'</text>
+        <text>extra={'notify_slack': True}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2425,25 +2430,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ1JhY2U6IHt9Jy5mb3JtYXQocmFjZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ0NvcnJlbGF0ZWQgU2lsa3M6IHt9Jy5mb3JtYXQoY29ycmVsYXRlZF9zaWxrcykpCg==</text>
+        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ1JhY2U6IHt9Jy5mb3JtYXQocmFjZSkpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIGJvdF9ldmVudF9saXN0ZW5lcihldmVudCk6CiAgICAiIiIKICAgIAogICAgQXJnczoKICAgICAgICBldmVudDogCgogICAgUmV0dXJuczoKCiAgICAiIiIKICAgIGlmIGV2ZW50LmV4Y2VwdGlvbjoKICAgICAgICBsb2dnZXIuZXJyb3IoJ0ZhaWxlZCB0byBydW4gam9iOiB7fScuZm9ybWF0KGV2ZW50LmV4Y2VwdGlvbiksIGV4dHJhPXsnbm90aWZ5X3NsYWNrJzogVHJ1ZX0pCiAgICBlbHNlOgogICAgICAgIGxvZ2dlci5pbmZvKCdTdWNjZXNzZnVsbHkgcnVuIGpvYi4nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcnJlbGF0ZWRfc2lsa3MgKz0gW3NpbGtbJ2xvY2F0aW9uJ10uc3BsaXQoJy8nKVstMV0gZm9yIHNpbGsgaW4gcmFjZVsnc2lsa3MnXV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUaGUgY29ycmVsYXRlZCBzaWxrcyAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZGVmIGJvdF9ldmVudF9saXN0ZW5lcihldmVudCk6CiAgICBpZiBldmVudC5leGNlcHRpb246CiAgICAgICAgYm90X2xvZ2dlci5lcnJvcignRmFpbGVkIHRvIHJ1biBqb2InKQogICAgZWxzZToKICAgICAgICBib3RfbG9nZ2VyLmluZm8oJ1N1Y2Nlc3NmdWxseSBydW4gam9iLicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmVycm9yKGV2ZW50LmV4Y2VwdGlvbikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

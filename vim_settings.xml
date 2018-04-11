@@ -340,11 +340,10 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1523351760714">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="2" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1523449378844">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/run.sh" timestamp="1515758164016">
         <mark key="[" line="16" column="61" />
@@ -583,7 +582,7 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523365758044">
+      <file name="/Dummy.txt" timestamp="1523451665559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -1438,7 +1437,7 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523442301970">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523449659170">
         <mark key="'" line="85" column="11" />
         <mark key="[" line="89" column="27" />
         <mark key="]" line="93" column="73" />
@@ -1596,12 +1595,12 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523442722202">
-        <mark key="'" line="33" column="57" />
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="21" column="63" />
-        <mark key="." line="21" column="63" />
-        <mark key="^" line="21" column="63" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523451587202">
+        <mark key="'" line="12" column="9" />
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="27" column="77" />
+        <mark key="." line="27" column="77" />
+        <mark key="^" line="27" column="77" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/Dockerfile" timestamp="1516723773099">
         <mark key="[" line="0" column="0" />
@@ -1615,10 +1614,10 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1523365668641">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1523451639637">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/geodtest/geod/tests.py" timestamp="1511431227923">
         <mark key="[" line="6" column="53" />
@@ -1788,11 +1787,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/env.example" timestamp="1523447787646">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/env.example" timestamp="1523449371395">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.connect_configurations/docs/internal_use.rst" timestamp="1506686939506">
         <mark key="[" line="72" column="74" />
@@ -1939,7 +1938,7 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1523342849160">
+      <file name="/Python Console" timestamp="1523449096973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="0" />
@@ -2070,12 +2069,12 @@
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523447779189">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523449423217">
         <mark key="'" line="17" column="6" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="96" column="40" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="63" />
+        <mark key="." line="29" column="63" />
+        <mark key="^" line="29" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/bin/run.sh" timestamp="1520429383855">
         <mark key="[" line="2" column="50" />
@@ -2296,12 +2295,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523448628934">
-        <mark key="'" line="10" column="5" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="105" column="15" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523450963850">
+        <mark key="'" line="95" column="62" />
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="96" column="68" />
+        <mark key="^" line="96" column="68" />
+        <mark key="." line="96" column="68" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2412,6 +2411,8 @@
       <jump line="112" column="24" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="10" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="10" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/env.example" />
+      <jump line="12" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
+      <jump line="95" column="62" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2427,45 +2428,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>http://silkbot/api/v1/briam</text>
+        <text encoding="base64">ZG9pbmcg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text># Slack variables
-SLACK_LOGGING=</text>
+        <text>results, correlated_silks, processing_errors = process_files(xml_files, today)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQ2hlY2sgaWYgd2UndmUgYWxyZWFkeSBwcm9jZXNzZWQgdGhpcyBzZXQgb2YgZmlsZXMK</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvdmVybWFudGlhX2Z0cAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TE9DQUxfVElNRVpPTkU9RXVyb3BlL0F0aGVucwo=</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAvbG9jYWxfZm9sZGVyCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TE9DQUxfWk9ORSA9IGNvbmZpZygnTE9DQUxfVElNRVpPTkUnLCAnRXVyb3BlL0F0aGVucycpCg==</text>
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoRVhFQ1VUSU9OX1RJTUUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ1JhY2U6IHt9Jy5mb3JtYXQocmFjZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TE9DQUxfVElNRVpPTkU9RXVyb3BlL0F0aGVucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQ2hlY2sgaWYgd2UndmUgYWxyZWFkeSBwcm9jZXNzZWQgdGhpcyBzZXQgb2YgZmlsZXMK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBTbGFjayBsb2dnaW5nIGhhbmRsZXIK</text>
+        <text encoding="base64">TE9DQUxfVElNRVpPTkU9RXVyb3BlL0F0aGVucwo=</text>
       </register>
-      <register name="9" type="4">
-        <text># Slack logger Settings
-SERVICE_NAME = 'GBI#IGT Service'</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -2296,12 +2296,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523444835876">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523448628934">
         <mark key="'" line="10" column="5" />
-        <mark key="[" line="105" column="16" />
-        <mark key="]" line="105" column="44" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
         <mark key="^" line="105" column="15" />
-        <mark key="." line="105" column="16" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2437,16 +2437,16 @@
 SLACK_LOGGING=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TE9DQUxfVElNRVpPTkU9RXVyb3BlL0F0aGVucwo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQ2hlY2sgaWYgd2UndmUgYWxyZWFkeSBwcm9jZXNzZWQgdGhpcyBzZXQgb2YgZmlsZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TE9DQUxfVElNRVpPTkU9RXVyb3BlL0F0aGVucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TE9DQUxfWk9ORSA9IGNvbmZpZygnTE9DQUxfVElNRVpPTkUnLCAnRXVyb3BlL0F0aGVucycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TE9DQUxfWk9ORSA9IGNvbmZpZygnTE9DQUxfVElNRVpPTkUnLCAnRXVyb3BlL0F0aGVucycpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2455,17 +2455,17 @@ SLACK_LOGGING=</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBTbGFjayBsb2dnaW5nIGhhbmRsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">IyBTbGFjayBsb2dnaW5nIGhhbmRsZXIK</text>
+      </register>
+      <register name="9" type="4">
         <text># Slack logger Settings
 SERVICE_NAME = 'GBI#IGT Service'</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">U0xBQ0tfV0VCSE9PSyA9IGNvbmZpZygnU0xBQ0tfV0VCSE9PSycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

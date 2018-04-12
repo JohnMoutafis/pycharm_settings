@@ -529,10 +529,6 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="/lookups.py" timestamp="1522926585110">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="22" column="46" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/FreeCodeCamp_Projects/.gitignore" timestamp="1504608580338">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="5" />
@@ -987,10 +983,6 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/.env.example" timestamp="1523447141210">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="13" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/setup.cfg" timestamp="1516970907407">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="22" />
@@ -1087,6 +1079,12 @@
         <mark key="]" line="4" column="38" />
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/__init__.py" timestamp="1523538943287">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/containers/Paginator.js" timestamp="1504533865956">
         <mark key="[" line="45" column="23" />
@@ -1989,9 +1987,10 @@
         <mark key="^" line="119" column="11" />
         <mark key="." line="119" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" timestamp="1523524966227">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" timestamp="1523538913096">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="25" />
         <mark key="." line="6" column="20" />
         <mark key="^" line="4" column="2" />
       </file>
@@ -2053,6 +2052,12 @@
         <mark key="]" line="6" column="54" />
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/setup.py" timestamp="1523539153943">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="40" />
+        <mark key="." line="36" column="40" />
+        <mark key="^" line="36" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523454379253">
         <mark key="'" line="16" column="6" />
@@ -2405,6 +2410,8 @@
       <jump line="95" column="62" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="71" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="35" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="8" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2420,19 +2427,19 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>gbi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text># Hellenic Silk Bot
+        <text># Gbi Silk Bot
 # Copyright 2017 Vermantia
 # See LICENSE for details
 &quot;&quot;&quot;
-Hel(lenic) Si(lks) B(ot)
+Gbi Si(lks) B(ot)
 &quot;&quot;&quot;
-__version__ = '0.0.4'
+__version__ = '0.1.2'
 __author__ = 'Vermantia Devs'
 __license__ = 'UNLICENSED'</text>
       </register>

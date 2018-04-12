@@ -1682,12 +1682,12 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" timestamp="1523455979354">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" timestamp="1523524038895">
         <mark key="'" line="81" column="11" />
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="18" column="16" />
-        <mark key="^" line="18" column="16" />
+        <mark key="[" line="38" column="74" />
+        <mark key="]" line="38" column="73" />
+        <mark key="." line="38" column="73" />
+        <mark key="^" line="38" column="73" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/mailer/tests/services/test_register.py" timestamp="1522753872936">
         <mark key="[" line="33" column="8" />

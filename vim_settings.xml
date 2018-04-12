@@ -580,10 +580,10 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523457081958">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/Dummy.txt" timestamp="1523538628895">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/ServicesDropbox.js" timestamp="1503052063630">
         <mark key="[" line="69" column="11" />
@@ -2286,12 +2286,12 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523536155287">
-        <mark key="'" line="39" column="19" />
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523538613159">
+        <mark key="'" line="38" column="19" />
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="43" />
+        <mark key="." line="50" column="43" />
+        <mark key="^" line="50" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/.env.local" timestamp="1506502240810">
         <mark key="[" line="17" column="0" />
@@ -2420,7 +2420,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
@@ -2437,13 +2437,13 @@ __author__ = 'Vermantia Devs'
 __license__ = 'UNLICENSED'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsaWYgY29ycmVsYXRlZF9zaWxrc19saXN0IGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsaWYgY29ycmVsYXRlZF9zaWxrc19saXN0IGlzIE5vbmU6Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2451,11 +2451,17 @@ __license__ = 'UNLICENSED'</text>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>[flake8]
 max-line-length = 100</text>
       </register>
-      <register name="7" type="4">
+      <register name="w" type="4">
+        <text>u</text>
+      </register>
+      <register name="8" type="4">
         <text>[isort]
 verbose=true
 line_length=60
@@ -2463,14 +2469,8 @@ multi_line_output=5
 balanced_wrapping=true
 include_trailing_comma=true</text>
       </register>
-      <register name="w" type="4">
-        <text>u</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpnYmlib3Q6IFJlZmFjdG9yIHRvIG5ldyBhcmNoaXRlY3R1cmUgV0lQCgpFeGNsdWRlIHBhc3QgZXhlY3V0aW9uIHRpbWUgcmFjZXMuCgoKZ2JpYm90OiBSZWZhY3RvciB0byBuZXcgYXJjaGl0ZWN0dXJlIFdJUF8yCg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Ck5vdyB1c2luZw==</text>
+        <text encoding="base64">CgpnYmlib3Q6IFJlZmFjdG9yIHRvIG5ldyBhcmNoaXRlY3R1cmUgV0lQCgpFeGNsdWRlIHBhc3QgZXhlY3V0aW9uIHRpbWUgcmFjZXMuCgoKZ2JpYm90OiBSZWZhY3RvciB0byBuZXcgYXJjaGl0ZWN0dXJlIFdJUF8yCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

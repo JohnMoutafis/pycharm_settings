@@ -231,9 +231,9 @@
         <mark key="^" line="62" column="53" />
         <mark key="." line="62" column="53" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/setup.cfg" timestamp="1523523030847">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="31" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/setup.cfg" timestamp="1523524837136">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/api/authentication.py" timestamp="1509702203999">
         <mark key="[" line="8" column="4" />
@@ -1605,11 +1605,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/setup.cfg" timestamp="1523523048311">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="6" />
-        <mark key="^" line="18" column="6" />
-        <mark key="." line="18" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/setup.cfg" timestamp="1523525074829">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1523451639637">
         <mark key="[" line="28" column="0" />
@@ -1858,6 +1858,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/__init__.py" timestamp="1523524909984">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="25" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/containers/MailContainer.js" timestamp="1505295386710">
         <mark key="[" line="45" column="39" />
         <mark key="]" line="45" column="58" />
@@ -2008,6 +2012,12 @@
         <mark key="^" line="119" column="11" />
         <mark key="." line="119" column="11" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" timestamp="1523524966227">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" timestamp="1522918283251">
         <mark key="'" line="33" column="26" />
         <mark key="[" line="156" column="49" />
@@ -2021,7 +2031,7 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" timestamp="1523445285947">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" timestamp="1523526181717">
         <mark key="[" line="152" column="21" />
         <mark key="]" line="152" column="40" />
       </file>
@@ -2127,6 +2137,12 @@
         <mark key="]" line="13" column="59" />
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/setup.py" timestamp="1523525753742">
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+        <mark key="^" line="36" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/.env" timestamp="1522333803206">
         <mark key="[" line="5" column="0" />
@@ -2427,22 +2443,36 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>markopoulo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">W2ZsYWtlOF0KbWF4LWxpbmUtbGVuZ3RoID0gOTkKZXhjbHVkZSA9IAoJLmdpdAoJX19weWNhY2hlX18sCgloZWxzaWIvX19pbml0X18ucHkK</text>
+        <text># Hellenic Silk Bot
+# Copyright 2017 Vermantia
+# See LICENSE for details
+&quot;&quot;&quot;
+Hel(lenic) Si(lks) B(ot)
+&quot;&quot;&quot;
+__version__ = '0.0.4'
+__author__ = 'Vermantia Devs'
+__license__ = 'UNLICENSED'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>[flake8]
 max-line-length = 100</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>[isort]
 verbose=true
 line_length=60
@@ -2450,26 +2480,20 @@ multi_line_output=5
 balanced_wrapping=true
 include_trailing_comma=true</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgpnYmlib3Q6IFJlZmFjdG9yIHRvIG5ldyBhcmNoaXRlY3R1cmUgV0lQCgpFeGNsdWRlIHBhc3QgZXhlY3V0aW9uIHRpbWUgcmFjZXMuCgoKZ2JpYm90OiBSZWZhY3RvciB0byBuZXcgYXJjaGl0ZWN0dXJlIFdJUF8yCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Ck5vdyB1c2luZw==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgpFeGNsdWRlIHBhc3QgZXhlY3V0aW9uIHRpbWUgcmFjZXMu</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBsb2dnaW5nLmhhbmRsZXJzIGltcG9ydCBUaW1lZFJvdGF0aW5nRmlsZUhhbmRsZXIK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgpFeGNsdWRlIHBhc3QgZXhlY3V0aW9uIHRpbWUgcmFjZXMu</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsb2dnaW5nLmhhbmRsZXJzIGltcG9ydCBUaW1lZFJvdGF0aW5nRmlsZUhhbmRsZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

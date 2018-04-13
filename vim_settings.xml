@@ -1057,12 +1057,12 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1523611561983">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1523619687132">
         <mark key="'" line="26" column="14" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="75" column="49" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="30" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/Dockerfile" timestamp="1514848307433">
         <mark key="[" line="41" column="17" />
@@ -1587,12 +1587,12 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1523609181657">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1523618904617">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="82" column="72" />
-        <mark key="]" line="83" column="72" />
-        <mark key="^" line="83" column="72" />
-        <mark key="." line="83" column="72" />
+        <mark key="[" line="88" column="77" />
+        <mark key="]" line="88" column="77" />
+        <mark key="^" line="88" column="77" />
+        <mark key="." line="88" column="77" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.bouncer/heimdal/users/api/views.py" timestamp="1507821062831">
         <mark key="[" line="22" column="0" />
@@ -1624,8 +1624,8 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523610380640">
-        <mark key="'" line="83" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523619497208">
+        <mark key="'" line="59" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/Dockerfile" timestamp="1516723773099">
         <mark key="[" line="0" column="0" />
@@ -1975,7 +1975,8 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1523610797730">
+      <file name="/Python Console" timestamp="1523619620137">
+        <mark key="'" line="0" column="57" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/tests/accounts/test_logout.py" timestamp="1504695985169">
@@ -2486,6 +2487,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" />
       <jump line="50" column="43" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
       <jump line="26" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
+      <jump line="59" column="54" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
+      <jump line="0" column="57" filename="/Python Console" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2501,43 +2504,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y291cnNlIA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>normalize_value(hn.find('HORSE_HEADER_1_SADDLE_NO'))</text>
+        <text>normalize_value(rn.find('RACE_HEADER_1_RACE_REF'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2NvdXJzZScgbm90IGluIHJlc3VsdHNbeG1sX2ZpbGVdOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBJdCBzZWVtcyB0aGF0IElHVCB1c2VzIG1lZXRpbmcncyBWRU5VRSB2YWx1ZSBhcyByYWNlY291cnNlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZXQgdGhlbSBvbmx5IGlmIG5vdCBhbHJlYWR5IHNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2NvdW50cnlfY29kZScgbm90IGluIHJlc3VsdHNbeG1sX2ZpbGVdOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2NvdXJzZScgbm90IGluIHJlc3VsdHNbeG1sX2ZpbGVdOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFjZV9kYXRlID0gYXJyb3cuZ2V0KHJfZGF0ZSkuZGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZXQgdGhlbSBvbmx5IGlmIG5vdCBhbHJlYWR5IHNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2NvdW50cnlfY29kZScgbm90IGluIHJlc3VsdHNbeG1sX2ZpbGVdOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vcm1hbGl6ZV92YWx1ZShybi5maW5kKCdSQUNFX0hFQURFUl8xX01UR19EQVknKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFjZV9kYXRlID0gYXJyb3cuZ2V0KHJfZGF0ZSkuZGF0ZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vcm1hbGl6ZV92YWx1ZShybi5maW5kKCdSQUNFX0hFQURFUl8xX01UR19NT05USCcpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vcm1hbGl6ZV92YWx1ZShybi5maW5kKCdSQUNFX0hFQURFUl8xX01UR19ZRUFSJykpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vcm1hbGl6ZV92YWx1ZShybi5maW5kKCdSQUNFX0hFQURFUl8xX01UR19EQVknKSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

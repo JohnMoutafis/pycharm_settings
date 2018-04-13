@@ -996,12 +996,12 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" timestamp="1523605781033">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" timestamp="1523606393621">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="15" />
-        <mark key="^" line="24" column="15" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="34" column="84" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/setup.cfg" timestamp="1516970907407">
         <mark key="[" line="3" column="22" />
@@ -1057,10 +1057,11 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1523605746395">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1523606943201">
+        <mark key="'" line="122" column="23" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/Dockerfile" timestamp="1514848307433">
         <mark key="[" line="41" column="17" />
@@ -1445,10 +1446,10 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523449659170">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1523607098378">
         <mark key="'" line="85" column="11" />
-        <mark key="[" line="89" column="27" />
-        <mark key="]" line="93" column="73" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="118" column="4" />
         <mark key="." line="93" column="73" />
         <mark key="^" line="93" column="73" />
       </file>
@@ -1500,11 +1501,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1523605321051">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1523606731065">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="58" />
+        <mark key="^" line="1" column="58" />
+        <mark key="." line="1" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/models.py" timestamp="1509702632016">
         <mark key="[" line="49" column="49" />
@@ -1531,11 +1532,11 @@
         <mark key="^" line="25" column="95" />
         <mark key="." line="25" column="95" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1523605623273">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="^" line="13" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1523606749487">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="60" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/gateway/entrypoints.py" timestamp="1513338758190">
         <mark key="[" line="3" column="4" />
@@ -1585,6 +1586,13 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1523607291856">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="81" />
+        <mark key="]" line="71" column="92" />
+        <mark key="." line="71" column="92" />
+        <mark key="^" line="71" column="92" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.bouncer/heimdal/users/api/views.py" timestamp="1507821062831">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1614,6 +1622,9 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523606910680">
+        <mark key="'" line="83" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/Dockerfile" timestamp="1516723773099">
         <mark key="[" line="0" column="0" />
@@ -2462,6 +2473,12 @@
       <jump line="82" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" />
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" />
       <jump line="38" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
+      <jump line="83" column="24" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
+      <jump line="35" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
+      <jump line="122" column="23" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
+      <jump line="65" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2477,25 +2494,58 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>UTC</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>SILKS_FOLDER_FORMAT = '[A-Z]{today}[A-Z]{{3}}'</text>
+        <text>def parse_race_details(race_node, details):
+    &quot;&quot;&quot;
+    Parses a race xml and connects runners to silks.
+    Args:
+        race_node: Race xml.
+        details: Fuzzybot correlated race info.
+
+    Returns:
+        A dictionary to be used as payload for posting results on silkbot.
+    &quot;&quot;&quot;
+    public_path = '{0}/{1}'.format(SILK_PUBLIC_PATH, race_node.attrs.get('date', None))
+    utc_dt = arrow.get(
+        ' '.join([race_node.attrs.get('date', None), race_node.attrs.get('time', None)]),
+        'YYYYMMDD HHmmZ'
+    ).to('utc')
+    silks = [
+        {
+            'location': '{0}/{1}'.format(
+                public_path, hn.find('JockeyColours').attrs.get('filename', None)
+            ),
+            'description': hn.find('JockeyColours').attrs.get('description', None),
+            'provider_ref_id': hn.attrs.get('id', None),
+            'customer_ref_id': details['runners'].get(
+                hn.find('Cloth').attrs.get('number', None), None
+            )
+        } for hn in race_node.findAll('Horse') if hn.find('JockeyColours') is not None]
+
+    return {
+        'title': race_node.find('Title').get_text().strip(),
+        'provider_ref_id': race_node.attrs.get('id', None),
+        'customer_ref_id': details['race']['idtgrace'],
+        'carried_at': utc_dt.format('YYYY-MM-DD HH:mm:ss'),
+        'silks': silks
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0lMS1NfRk9MREVSX0ZPUk1BVCA9ICdbQS1aXXt0b2RheX1bQS1aXXt7M319Jwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Q09VTlRSWSA9ICdaQScK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIGZldGNoX3JhY2VfZGV0YWlscyhyYWNlX3RpdGxlLCByYWNlX2NvdXJzZSwgcmFjZV90aW1lLCByYWNlX251bWJlcik6CiAgICBoZWFkZXJzID0geydDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbid9CiAgICBwYXlsb2FkID0gewogICAgICAgICd0aXRsZSc6IHJhY2VfdGl0bGUsCiAgICAgICAgIyBkcm9wIGxvY2F0aW9uIGZvciBub3csIHVudGlsIHdlIGZhbGxiYWNrIGFnYWluIHRvIG9uZSBzaW5nbGUgcHJvdmlkZXIKICAgICAgICAnbG9jYXRpb24nOiByYWNlX2NvdXJzZSwKICAgICAgICAnY291bnRyeV9jb2RlJzogQ09VTlRSWSwKICAgICAgICAndGltZSc6IHJhY2VfdGltZSwKICAgICAgICAnbnVtYmVyJzogcmFjZV9udW1iZXIsCiAgICB9CiAgICByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3Qoc2V0dGluZ3MuRlVaWllCT1RfRU5EUE9JTlQsIGpzb249cGF5bG9hZCwgaGVhZGVycz1oZWFkZXJzKQogICAgYm90X2xvZ2dlci5kZWJ1ZygnUmVxdWVzdGluZyBpbmZvcm1hdGlvbiBmcm9tIGZ1enp5Ym90IGZvciByYWNlOiB7fScuZm9ybWF0KHJhY2VfdGl0bGUpKQogICAgaWYgcmVzcG9uc2Uub2s6CiAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmpzb24oKQoKICAgIGJvdF9sb2dnZXIud2FybmluZygnRnV6enlib3QgZmFpbGVkIHRvIHJldHJpZXZlIHJhY2UgZGV0YWlscyBmb3IgcmFjZTogezB9LCBjb3Vyc2U6IHsxfSwgdGltZTogezJ9Jy5mb3JtYXQocmFjZV90aXRsZSwgcmFjZV9jb3Vyc2UsIHJhY2VfdGltZSkpICMgbm9xYQogICAgcmV0dXJuIE5vbmUK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">RklMRVNfUEFUSCA9IHBhdGgoc2V0dGluZ3MuUFJPVklERVIsICdmdHAnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2503,14 +2553,31 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcy5wYXRoLmpvaW4oc2V0dGluZ3MuWE1MX0ZJTEVfTE9DQVRJT04sICp4KQo=</text>
+      <register name="7" type="4">
+        <text>def mkdir_p(sftp, remote_directory):
+    if remote_directory == '/':
+        # absolute path so change directory to root
+        sftp.chdir('/')
+        return
+    if remote_directory == '':
+        # top-level relative directory must exist
+        return
+    try:
+        sftp.chdir(remote_directory)  # sub-directory exists
+    except IOError:
+        dirname, basename = os.path.split(remote_directory.rstrip('/'))
+        # make parent directories
+        mkdir_p(sftp, dirname)
+        # sub-directory missing, so created it
+        sftp.mkdir(basename)
+        sftp.chdir(basename)
+        return True</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHBhdGgoKngpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

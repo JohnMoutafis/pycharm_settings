@@ -351,11 +351,6 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1523449378844">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/run.sh" timestamp="1515758164016">
         <mark key="[" line="16" column="61" />
         <mark key="]" line="16" column="62" />
@@ -578,21 +573,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils.py" timestamp="1522917092786">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="51" />
-        <mark key="." line="9" column="27" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/.gitignore" timestamp="1514569826554">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="18" column="5" />
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1523538628895">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/ServicesDropbox.js" timestamp="1503052063630">
         <mark key="[" line="69" column="11" />
@@ -1057,12 +1042,17 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1523619687132">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1523623355741">
         <mark key="'" line="26" column="14" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="30" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1523623532562">
+        <mark key="[" line="55" column="69" />
+        <mark key="]" line="55" column="72" />
+        <mark key="^" line="55" column="72" />
+        <mark key="." line="55" column="72" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/Dockerfile" timestamp="1514848307433">
         <mark key="[" line="41" column="17" />
@@ -1587,12 +1577,12 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1523618904617">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1523623597576">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="88" column="77" />
-        <mark key="]" line="88" column="77" />
-        <mark key="^" line="88" column="77" />
-        <mark key="." line="88" column="77" />
+        <mark key="[" line="88" column="43" />
+        <mark key="]" line="88" column="51" />
+        <mark key="^" line="88" column="51" />
+        <mark key="." line="88" column="51" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.bouncer/heimdal/users/api/views.py" timestamp="1507821062831">
         <mark key="[" line="22" column="0" />
@@ -1624,7 +1614,7 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523619497208">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523623565239">
         <mark key="'" line="59" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/Dockerfile" timestamp="1516723773099">
@@ -1639,11 +1629,6 @@
         <mark key="]" line="31" column="21" />
         <mark key="^" line="25" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1523451639637">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/geodtest/geod/tests.py" timestamp="1511431227923">
         <mark key="[" line="6" column="53" />
@@ -2504,7 +2489,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>rn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
@@ -2513,34 +2498,88 @@
         <text>normalize_value(rn.find('RACE_HEADER_1_RACE_REF'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IENoYW5nZSB0aGlzISEK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBJdCBzZWVtcyB0aGF0IElHVCB1c2VzIG1lZXRpbmcncyBWRU5VRSB2YWx1ZSBhcyByYWNlY291cnNlLgo=</text>
+      <register name="2" type="4">
+        <text>def process_files(xml_files):
+    results = {}
+    errors = {}
+    for xml_f in xml_files:
+        bot_logger.debug('Processing xml file: {}'.format(xml_f))
+        with open(xml_f, 'rb') as f:
+            content = f.read()
+
+        xml_file = xml_f.split('/')[-1]
+        soup = BeautifulSoup(content, 'xml')
+        results[xml_file] = {}
+        results[xml_file]['races'] = []
+        meeting = soup.find('PARAMS')
+        # it's not actually id, since Phumelela does not provide a meeting id,
+        # so we are using meeting name that seems to be unique.
+        meeting_id = meeting.attrs.get('NAME', None)
+        location = meeting.attrs.get('VENUE') or normalize_value(soup.find('RACE_HEADER_1_VENUE'))
+        race_date = arrow.get(meeting.attrs.get('DATE', None), 'DD MMMM YYYY').date().isoformat()
+        races = soup.findAll('RACE')
+
+        results[xml_file]['scheduled_for'] = race_date
+        results[xml_file]['provider_ref_id'] = meeting_id
+        results[xml_file]['racecourse'] = location
+        # TODO: Change this!!
+        results[xml_file]['country_code'] = 'ZA'
+
+        for rn in races:
+            race_datetime = arrow.get(
+                ' '.join([race_date, normalize_value(rn.find('RACE_HEADER_1_RACE_TIME'))]),
+            ).replace(tzinfo='Africa/Johannesburg').to(LOCAL_TIMEZONE)
+            # available only for races in South Africa
+            r_provider_id = normalize_value(rn.find('RACE_HEADER_1_RACE_REF'))
+            # fallback to entry number of race
+            r_inc_num = normalize_value(rn.find('RACE_HEADER_1_RACE_NO'))
+
+            title = normalize_value(rn.find('RACE_HEADER_2_RACE_TITLE'))
+            internal_race_id = r_provider_id if r_provider_id is not None else r_inc_num
+            race_details = fetch_race_details(title, location, race_datetime, r_inc_num)
+
+            if race_details is None:
+                bot_logger.warning('Skipping race: {} due to lack of data from fuzzybot'.format(title))  # noqa
+                if errors.get(xml_file, None) is None:
+                    errors[xml_file] = []
+                errors[xml_file].append({'id': r_provider_id, 'title': title, 'course': course})
+                continue
+            else:
+                results[xml_file]['customer_ref_id'] = race_details['meeting']['idtgmeeting']
+                kwargs = {
+                    'title': title,
+                    'customer_ref_id': internal_race_id
+                }
+                race = parse_race_details(rn, race_details, **kwargs)
+                results[xml_file]['races'].append(race)
+
+    return (results, errors if len(errors.keys()) else None)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGltZSc6IHJhY2VfdGltZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2NvdXJzZScgbm90IGluIHJlc3VsdHNbeG1sX2ZpbGVdOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0ZSc6IHJfZGF0ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZXQgdGhlbSBvbmx5IGlmIG5vdCBhbHJlYWR5IHNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgID0gJ3swfSt7MX0nLmZvcm1hdChyX3RpbWUsIFVUQ19PRkZTRVQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2NvdW50cnlfY29kZScgbm90IGluIHJlc3VsdHNbeG1sX2ZpbGVdOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFjZV9kYXRlID0gYXJyb3cuZ2V0KHJfZGF0ZSkuZGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBJdCBzZWVtcyB0aGF0IElHVCB1c2VzIG1lZXRpbmcncyBWRU5VRSB2YWx1ZSBhcyByYWNlY291cnNlLgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vcm1hbGl6ZV92YWx1ZShybi5maW5kKCdSQUNFX0hFQURFUl8xX01UR19EQVknKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2NvdXJzZScgbm90IGluIHJlc3VsdHNbeG1sX2ZpbGVdOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

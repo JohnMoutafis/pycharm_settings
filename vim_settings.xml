@@ -1042,17 +1042,17 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1523623355741">
-        <mark key="'" line="26" column="14" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1523625594052">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="150" column="27" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1523623532562">
-        <mark key="[" line="55" column="69" />
-        <mark key="]" line="55" column="72" />
-        <mark key="^" line="55" column="72" />
-        <mark key="." line="55" column="72" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1523627005096">
+        <mark key="[" line="69" column="27" />
+        <mark key="]" line="69" column="86" />
+        <mark key="^" line="69" column="86" />
+        <mark key="." line="69" column="86" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/Dockerfile" timestamp="1514848307433">
         <mark key="[" line="41" column="17" />
@@ -1400,6 +1400,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" timestamp="1523625614815">
+        <mark key="[" line="14" column="69" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/requirements_dev.txt" timestamp="1509021438392">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="1" column="12" />
@@ -1577,12 +1583,12 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1523623597576">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1523625422632">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="88" column="43" />
-        <mark key="]" line="88" column="51" />
-        <mark key="^" line="88" column="51" />
-        <mark key="." line="88" column="51" />
+        <mark key="[" line="67" column="23" />
+        <mark key="]" line="67" column="47" />
+        <mark key="^" line="67" column="47" />
+        <mark key="." line="67" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.bouncer/heimdal/users/api/views.py" timestamp="1507821062831">
         <mark key="[" line="22" column="0" />
@@ -1614,8 +1620,10 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523623565239">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1523626487225">
         <mark key="'" line="59" column="54" />
+        <mark key="[" line="78" column="20" />
+        <mark key="]" line="78" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/live_horses_feed/gateway/Dockerfile" timestamp="1516723773099">
         <mark key="[" line="0" column="0" />
@@ -1854,11 +1862,11 @@
         <mark key="^" line="114" column="18" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/services.py" timestamp="1523544704326">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="7" />
-        <mark key="." line="5" column="7" />
-        <mark key="^" line="5" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/services.py" timestamp="1523626950344">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/Programs/Album-Splitter/utils/time_to_seconds.py" timestamp="1498469642898">
         <mark key="[" line="7" column="18" />
@@ -2474,6 +2482,7 @@
       <jump line="26" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
       <jump line="59" column="54" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
       <jump line="0" column="57" filename="/Python Console" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2489,97 +2498,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>rn</text>
+        <text>entry_number,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>normalize_value(rn.find('RACE_HEADER_1_RACE_REF'))</text>
+        <text>'failure': True</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IENoYW5nZSB0aGlzISEK</text>
+        <text encoding="base64">ICAgICAgICBtZWV0aW5nX2lkID0gCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>def process_files(xml_files):
-    results = {}
-    errors = {}
-    for xml_f in xml_files:
-        bot_logger.debug('Processing xml file: {}'.format(xml_f))
-        with open(xml_f, 'rb') as f:
-            content = f.read()
-
-        xml_file = xml_f.split('/')[-1]
-        soup = BeautifulSoup(content, 'xml')
-        results[xml_file] = {}
-        results[xml_file]['races'] = []
-        meeting = soup.find('PARAMS')
-        # it's not actually id, since Phumelela does not provide a meeting id,
-        # so we are using meeting name that seems to be unique.
-        meeting_id = meeting.attrs.get('NAME', None)
-        location = meeting.attrs.get('VENUE') or normalize_value(soup.find('RACE_HEADER_1_VENUE'))
-        race_date = arrow.get(meeting.attrs.get('DATE', None), 'DD MMMM YYYY').date().isoformat()
-        races = soup.findAll('RACE')
-
-        results[xml_file]['scheduled_for'] = race_date
-        results[xml_file]['provider_ref_id'] = meeting_id
-        results[xml_file]['racecourse'] = location
-        # TODO: Change this!!
-        results[xml_file]['country_code'] = 'ZA'
-
-        for rn in races:
-            race_datetime = arrow.get(
-                ' '.join([race_date, normalize_value(rn.find('RACE_HEADER_1_RACE_TIME'))]),
-            ).replace(tzinfo='Africa/Johannesburg').to(LOCAL_TIMEZONE)
-            # available only for races in South Africa
-            r_provider_id = normalize_value(rn.find('RACE_HEADER_1_RACE_REF'))
-            # fallback to entry number of race
-            r_inc_num = normalize_value(rn.find('RACE_HEADER_1_RACE_NO'))
-
-            title = normalize_value(rn.find('RACE_HEADER_2_RACE_TITLE'))
-            internal_race_id = r_provider_id if r_provider_id is not None else r_inc_num
-            race_details = fetch_race_details(title, location, race_datetime, r_inc_num)
-
-            if race_details is None:
-                bot_logger.warning('Skipping race: {} due to lack of data from fuzzybot'.format(title))  # noqa
-                if errors.get(xml_file, None) is None:
-                    errors[xml_file] = []
-                errors[xml_file].append({'id': r_provider_id, 'title': title, 'course': course})
-                continue
-            else:
-                results[xml_file]['customer_ref_id'] = race_details['meeting']['idtgmeeting']
-                kwargs = {
-                    'title': title,
-                    'customer_ref_id': internal_race_id
-                }
-                race = parse_race_details(rn, race_details, **kwargs)
-                results[xml_file]['races'].append(race)
-
-    return (results, errors if len(errors.keys()) else None)</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGltZSc6IHJhY2VfdGltZSwK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZSwgZGF0ZXRpbWUsIHRpbWV6b25lCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0ZSc6IHJfZGF0ZSwK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmRlZiBwb3N0X3Jlc3VsdHMocmVzdWx0cyk6CiAgICBoZWFkZXJzID0gewogICAgICAgICdBdXRob3JpemF0aW9uJzogJ1Rva2VuIHt9Jy5mb3JtYXQoc2V0dGluZ3MuQVBJX0tFWSksCiAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgfQogICAgZm9yIHhtbF9maWxlLCByZXN1bHQgaW4gcmVzdWx0cy5pdGVtcygpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5wb3N0KHNldHRpbmdzLlNJTEtCT1RfRU5EUE9JTlQsIGpzb249cmVzdWx0LCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgIGlmIG5vdCByZXNwb25zZS5vazoKICAgICAgICAgICAgICAgIGVycl9tc2cgPSAnJydFcnJvciB3aGlsZSB0cnlpbmcgdG8gc2VuZCBjb3JyZWxhdGlvbiBmb3IgbWVldGluZyB3aXRoIHByb3ZpZGVyIGlkOiB7fQogICAgICAgICAgICAgICAgUmVzcG9uc2UgY29kZToge30gd2l0aCByZWFzb246IHt9JycnLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICB4bWxfZmlsZSwKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5zdGF0dXNfY29kZSwKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5jb250ZW50KQoKICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZXJyb3IoZXJyX21zZykKICAgICAgICBleGNlcHQgcmVxdWVzdHMuZXhjZXB0aW9ucy5Db25uZWN0aW9uRXJyb3IgYXMgZToKICAgICAgICAgICAgYm90X2xvZ2dlci5lcnJvcihlKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgID0gJ3swfSt7MX0nLmZvcm1hdChyX3RpbWUsIFVUQ19PRkZTRVQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIHBhcnNlX3JhY2VfZGV0YWlscyhyYWNlX25vZGUsIGRldGFpbHMsICoqa3dhcmdzKToKICAgIHJhY2VfZGF0ZSA9IGt3YXJncy5nZXQoJ2RhdGUnKQogICAgcmFjZV90aW1lID0ga3dhcmdzLmdldCgndGltZScpCiAgICB0aXRsZSA9IGt3YXJncy5nZXQoJ3RpdGxlJykKICAgIGludGVybmFsX3JhY2VfaWQgPSBrd2FyZ3MuZ2V0KCdjdXN0b21lcl9yZWZfaWQnKQoKICAgIHB1YmxpY19wYXRoID0gJ3swfS97MX0nLmZvcm1hdChzZXR0aW5ncy5TSUxLX1BVQkxJQ19QQVRILCByYWNlX2RhdGUpCiAgICBkdF9zdHJpbmcgPSAnezB9IHsxfScuZm9ybWF0KHJhY2VfZGF0ZSwgcmFjZV90aW1lKQogICAgbG9jYWxfZHQgPSBkYXRldGltZS5zdHJwdGltZShkdF9zdHJpbmcsICclWSVtJWQgJUg6JU0leicpCiAgICB1dGNfZHQgPSBsb2NhbF9kdC5hc3RpbWV6b25lKHRpbWV6b25lLnV0YykKCiAgICBzaWxrcyA9IFt7CiAgICAgICAgICAgICAgICAnbG9jYXRpb24nOiAnezB9L3sxfS57Mn0nLmZvcm1hdChwdWJsaWNfcGF0aCwgbm9ybWFsaXplX3ZhbHVlKGhuLmZpbmQoJ0hPUlNFX0hFQURFUl8yX1NJTEtTX0lNQUdFJykpLCBTSUxLX0ZJTEVOQU1FX0VORElORyksICAjIG5vcWEKICAgICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6IG5vcm1hbGl6ZV92YWx1ZShobi5maW5kKCdIT1JTRV9IRUFERVJfMl9PV05FUl9TSUxLUycpKSwKICAgICAgICAgICAgICAgICdwcm92aWRlcl9yZWZfaWQnOiBub3JtYWxpemVfdmFsdWUoaG4uZmluZCgnSE9SU0VfSEVBREVSXzFfU0FERExFX05PJykpLAogICAgICAgICAgICAgICAgJ2N1c3RvbWVyX3JlZl9pZCc6IGdldF9pZ3RfcmFjZXJfaWQoZGV0YWlsc1sncnVubmVycyddLCBub3JtYWxpemVfdmFsdWUoaG4uZmluZCgnSE9SU0VfSEVBREVSXzFfU0FERExFX05PJykpKSAjIG5vcWEKICAgICAgICAgICAgfSBmb3IgaG4gaW4gcmFjZV9ub2RlLmZpbmRBbGwoJ0hPUlNFJykgaWYgaG4uZmluZCgnSE9SU0VfSEVBREVSXzJfU0lMS1NfSU1BR0UnKSBpcyBub3QgTm9uZV0gICMgbm9xYQoKICAgIHJldHVybiB7CiAgICAgICAgJ3RpdGxlJzogdGl0bGUsCiAgICAgICAgJ3Byb3ZpZGVyX3JlZl9pZCc6IGludGVybmFsX3JhY2VfaWQsCiAgICAgICAgJ2N1c3RvbWVyX3JlZl9pZCc6IGRldGFpbHNbJ3JhY2UnXVsnaWR0Z3JhY2UnXSwKICAgICAgICAnY2FycmllZF9hdCc6IHV0Y19kdC5zdHJmdGltZSgnJVktJW0tJWQgJUg6JU06JVMnKSwKICAgICAgICAnc2lsa3MnOiBzaWxrcwogICAgfQoKCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBJdCBzZWVtcyB0aGF0IElHVCB1c2VzIG1lZXRpbmcncyBWRU5VRSB2YWx1ZSBhcyByYWNlY291cnNlLgo=</text>
+        <text encoding="base64">ICAgIHJhY2VfZW50cnlfbnVtYmVyID0gbm9ybWFsaXplX3ZhbHVlKHJhY2Vfbm9kZS5maW5kKCdSQUNFX0hFQURFUl8xX1JBQ0VfTk8nKSkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZmFsbGJhY2sgdG8gZW50cnkgbnVtYmVyIG9mIHJhY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2NvdXJzZScgbm90IGluIHJlc3VsdHNbeG1sX2ZpbGVdOgo=</text>
+        <text encoding="base64">ICAgIHJhY2VfcHJvdmlkZXJfaWQgPSBub3JtYWxpemVfdmFsdWUocmFjZV9ub2RlLmZpbmQoJ1JBQ0VfSEVBREVSXzFfUkFDRV9SRUYnKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

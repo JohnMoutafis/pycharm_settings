@@ -16,9 +16,6 @@
         <mark key="^" line="77" column="63" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1523543050525">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/runners/models.py" timestamp="1515774245711">
         <mark key="[" line="40" column="4" />
         <mark key="]" line="47" column="22" />
@@ -91,6 +88,12 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/pmu_service/pmusib/services.py" timestamp="1523988431122">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/api/views.py" timestamp="1509702485060">
         <mark key="[" line="14" column="10" />
@@ -387,10 +390,6 @@
         <mark key="^" line="62" column="53" />
         <mark key="." line="62" column="53" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" timestamp="1523526181717">
-        <mark key="[" line="152" column="21" />
-        <mark key="]" line="152" column="40" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/api/services/views.py" timestamp="1505294810588">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="17" column="30" />
@@ -555,7 +554,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523946521318">
+      <file name="/Dummy.txt" timestamp="1523989350600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -572,12 +571,6 @@
         <mark key="]" line="24" column="8" />
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" timestamp="1523625594052">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="150" column="27" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/.env" timestamp="1511344317059">
         <mark key="[" line="7" column="10" />
@@ -840,6 +833,12 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="54" column="20" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/pmu_service/pmusib/__init__.py" timestamp="1523988144926">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/forks/coala/docs/Developers/Writing_Native_Bears.rst" timestamp="1498637272201">
         <mark key="[" line="171" column="7" />
         <mark key="]" line="171" column="7" />
@@ -875,6 +874,11 @@
         <mark key="]" line="28" column="42" />
         <mark key="^" line="28" column="42" />
         <mark key="." line="28" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/pmu_service/pmubot.py" timestamp="1523989307145">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/sample_requests/GET_services.xml" timestamp="1502705526525">
         <mark key="[" line="11" column="42" />
@@ -966,9 +970,10 @@
         <mark key="." line="6" column="61" />
         <mark key="^" line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/settings.py" timestamp="1523544521094">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/silks/pmu_service/pmusib/settings.py" timestamp="1523989314754">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.connect_configurations/loki/providers/models.py" timestamp="1507806523395">
         <mark key="[" line="69" column="48" />
@@ -1078,6 +1083,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/pmu_service/setup.py" timestamp="1523988791084">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="36" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/exceptions.py" timestamp="1516804254189">
         <mark key="[" line="0" column="0" />
@@ -1226,6 +1237,12 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/pmu_service/bin/run-prod.sh" timestamp="1523988341160">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/api/services/authentication.py" timestamp="1503482426091">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1367,10 +1384,6 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/setup.cfg" timestamp="1523524837136">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/bin/run.sh" timestamp="1520516124314">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="31" />
@@ -1388,6 +1401,12 @@
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/gbi_service/gbisib/settings.py" timestamp="1523988998696" />
+      <file name="$USER_HOME$/PycharmProjects/silks/gbi_service/gbisib/__init__.py" timestamp="1523988114039">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/lookups.py" timestamp="1522748631442">
         <mark key="'" line="33" column="9" />
@@ -1964,6 +1983,7 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/pmu_service/pmusib/utils.py" timestamp="1523989146393" />
       <file name="$USER_HOME$/PycharmProjects/geodtest/geodtest/settings.py" timestamp="1511429263967">
         <mark key="[" line="79" column="61" />
         <mark key="]" line="79" column="62" />
@@ -1981,10 +2001,6 @@
         <mark key="]" line="3" column="21" />
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/__init__.py" timestamp="1523524909984">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_1/lab-1_example_scripts/functions/geoimread.py" timestamp="1521230794370">
         <mark key="[" line="21" column="0" />
@@ -2191,6 +2207,7 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/gbi_service/gbisib/utils.py" timestamp="1523989137487" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/docker/Dockerfile" timestamp="1520592554727">
         <mark key="[" line="15" column="62" />
         <mark key="]" line="15" column="62" />
@@ -2399,6 +2416,12 @@
         <mark key="." line="9" column="56" />
         <mark key="^" line="9" column="56" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/pmu_service/env.example" timestamp="1523988505769">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="59" />
+        <mark key="^" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_1/queries/python_queries/populate_person_table.py" timestamp="1520974869760">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="78" column="52" />
@@ -2545,10 +2568,12 @@
       <jump line="179" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="80" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="84" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/gbi_service/gbisib/__init__.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/silks/pmu_service/pmusib/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAjIG5vcWE=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2560,41 +2585,42 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIG5vcWE=</text>
+        <text>settings.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>correlated_silks_list</text>
+        <text># Gbi Silk Bot
+# Copyright 2017 Vermantia
+# See LICENSE for details
+&quot;&quot;&quot;
+Gbi Si(lks) B(ot)
+&quot;&quot;&quot;
+__version__ = '0.1.2'
+__author__ = 'Vermantia Devs'
+__license__ = 'UNLICENSED'</text>
       </register>
-      <register name="1" type="4">
-        <text>Add check for correlated silks.
-
-`process_files` method will return correlated silks.
-
-Refs: #6</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;&quot;Establishes a ssh connection with remote server, then iterates over
-    all folders that contain today's silks and extracts only the .png files.
-    Finaly it secure copies them into remote server.
-    &quot;&quot;&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">UE1VX0NPVU5UUllfQ09ERSA9ICdGUkEnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZS50b2RheSgpIGlmIHRhcmdldF9kYXRlIGlzIE5vbmUgZWxzZSB0YXJnZXRfZGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZWV0aW5nX2lkID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZSwgZGF0ZXRpbWUsIHRpbWV6b25lCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">U0lMS1NfUEFUSCA9IHBhdGgoc2V0dGluZ3MuUFJPVklERVIsICd7Y3VyZGF5fScsICdTaWxrcycpCkNBUkRTX1BBVEggPSBwYXRoKHNldHRpbmdzLlBST1ZJREVSLCAne2N1cmRheX0nLCAnQ2FyZHMnKQpTSUxLX0ZJTEVOQU1FID0gJ3tjaH0tUnttbn1De2NufS97Y3VyZGF0ZX0tUnttbn1De2NufVB7cG59LnBuZycK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmRlZiBwb3N0X3Jlc3VsdHMocmVzdWx0cyk6CiAgICBoZWFkZXJzID0gewogICAgICAgICdBdXRob3JpemF0aW9uJzogJ1Rva2VuIHt9Jy5mb3JtYXQoc2V0dGluZ3MuQVBJX0tFWSksCiAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgfQogICAgZm9yIHhtbF9maWxlLCByZXN1bHQgaW4gcmVzdWx0cy5pdGVtcygpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5wb3N0KHNldHRpbmdzLlNJTEtCT1RfRU5EUE9JTlQsIGpzb249cmVzdWx0LCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgIGlmIG5vdCByZXNwb25zZS5vazoKICAgICAgICAgICAgICAgIGVycl9tc2cgPSAnJydFcnJvciB3aGlsZSB0cnlpbmcgdG8gc2VuZCBjb3JyZWxhdGlvbiBmb3IgbWVldGluZyB3aXRoIHByb3ZpZGVyIGlkOiB7fQogICAgICAgICAgICAgICAgUmVzcG9uc2UgY29kZToge30gd2l0aCByZWFzb246IHt9JycnLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICB4bWxfZmlsZSwKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5zdGF0dXNfY29kZSwKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5jb250ZW50KQoKICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZXJyb3IoZXJyX21zZykKICAgICAgICBleGNlcHQgcmVxdWVzdHMuZXhjZXB0aW9ucy5Db25uZWN0aW9uRXJyb3IgYXMgZToKICAgICAgICAgICAgYm90X2xvZ2dlci5lcnJvcihlKQoK</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
@@ -2603,7 +2629,7 @@ Refs: #6</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZGVmIHBhcnNlX3JhY2VfZGV0YWlscyhyYWNlX25vZGUsIGRldGFpbHMsICoqa3dhcmdzKToKICAgIHJhY2VfZGF0ZSA9IGt3YXJncy5nZXQoJ2RhdGUnKQogICAgcmFjZV90aW1lID0ga3dhcmdzLmdldCgndGltZScpCiAgICB0aXRsZSA9IGt3YXJncy5nZXQoJ3RpdGxlJykKICAgIGludGVybmFsX3JhY2VfaWQgPSBrd2FyZ3MuZ2V0KCdjdXN0b21lcl9yZWZfaWQnKQoKICAgIHB1YmxpY19wYXRoID0gJ3swfS97MX0nLmZvcm1hdChzZXR0aW5ncy5TSUxLX1BVQkxJQ19QQVRILCByYWNlX2RhdGUpCiAgICBkdF9zdHJpbmcgPSAnezB9IHsxfScuZm9ybWF0KHJhY2VfZGF0ZSwgcmFjZV90aW1lKQogICAgbG9jYWxfZHQgPSBkYXRldGltZS5zdHJwdGltZShkdF9zdHJpbmcsICclWSVtJWQgJUg6JU0leicpCiAgICB1dGNfZHQgPSBsb2NhbF9kdC5hc3RpbWV6b25lKHRpbWV6b25lLnV0YykKCiAgICBzaWxrcyA9IFt7CiAgICAgICAgICAgICAgICAnbG9jYXRpb24nOiAnezB9L3sxfS57Mn0nLmZvcm1hdChwdWJsaWNfcGF0aCwgbm9ybWFsaXplX3ZhbHVlKGhuLmZpbmQoJ0hPUlNFX0hFQURFUl8yX1NJTEtTX0lNQUdFJykpLCBTSUxLX0ZJTEVOQU1FX0VORElORyksICAjIG5vcWEKICAgICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6IG5vcm1hbGl6ZV92YWx1ZShobi5maW5kKCdIT1JTRV9IRUFERVJfMl9PV05FUl9TSUxLUycpKSwKICAgICAgICAgICAgICAgICdwcm92aWRlcl9yZWZfaWQnOiBub3JtYWxpemVfdmFsdWUoaG4uZmluZCgnSE9SU0VfSEVBREVSXzFfU0FERExFX05PJykpLAogICAgICAgICAgICAgICAgJ2N1c3RvbWVyX3JlZl9pZCc6IGdldF9pZ3RfcmFjZXJfaWQoZGV0YWlsc1sncnVubmVycyddLCBub3JtYWxpemVfdmFsdWUoaG4uZmluZCgnSE9SU0VfSEVBREVSXzFfU0FERExFX05PJykpKSAjIG5vcWEKICAgICAgICAgICAgfSBmb3IgaG4gaW4gcmFjZV9ub2RlLmZpbmRBbGwoJ0hPUlNFJykgaWYgaG4uZmluZCgnSE9SU0VfSEVBREVSXzJfU0lMS1NfSU1BR0UnKSBpcyBub3QgTm9uZV0gICMgbm9xYQoKICAgIHJldHVybiB7CiAgICAgICAgJ3RpdGxlJzogdGl0bGUsCiAgICAgICAgJ3Byb3ZpZGVyX3JlZl9pZCc6IGludGVybmFsX3JhY2VfaWQsCiAgICAgICAgJ2N1c3RvbWVyX3JlZl9pZCc6IGRldGFpbHNbJ3JhY2UnXVsnaWR0Z3JhY2UnXSwKICAgICAgICAnY2FycmllZF9hdCc6IHV0Y19kdC5zdHJmdGltZSgnJVktJW0tJWQgJUg6JU06JVMnKSwKICAgICAgICAnc2lsa3MnOiBzaWxrcwogICAgfQoKCgoK</text>
+        <text encoding="base64">ZGVmIHBhdGgoKngpOgogICAgcmV0dXJuIG9zLnBhdGguam9pbihzZXR0aW5ncy5QTVVfRklMRV9MT0NBVElPTiwgKngpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

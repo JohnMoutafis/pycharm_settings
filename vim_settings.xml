@@ -511,11 +511,11 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/phumelela_service/phusib/main.py" timestamp="1523951700413">
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="25" column="58" />
-        <mark key="^" line="25" column="58" />
-        <mark key="." line="25" column="58" />
+      <file name="$USER_HOME$/PycharmProjects/silks/phumelela_service/phusib/main.py" timestamp="1523953647403">
+        <mark key="[" line="40" column="98" />
+        <mark key="]" line="41" column="7" />
+        <mark key="^" line="41" column="7" />
+        <mark key="." line="41" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/ermis/mailer/api/accounts/common.py" timestamp="1503479618637">
         <mark key="[" line="0" column="35" />
@@ -2548,7 +2548,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">R0JJIA==</text>
+        <text encoding="base64">ICAjIG5vcWE=</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -2560,7 +2560,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R0JJIA==</text>
+        <text encoding="base64">ICAjIG5vcWE=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
@@ -2649,7 +2649,6 @@ Refs: #6</text>
         <entry>119</entry>
         <entry>23</entry>
         <entry>8</entry>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ws</entry>
         <entry>12</entry>
@@ -2659,6 +2658,7 @@ Refs: #6</text>
         <entry>61</entry>
         <entry>W</entry>
         <entry>189</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

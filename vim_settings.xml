@@ -1585,10 +1585,10 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1524060461883">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1524063500419">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="53" column="15" />
+        <mark key="[" line="87" column="8" />
+        <mark key="]" line="87" column="58" />
         <mark key="^" line="67" column="47" />
         <mark key="." line="67" column="47" />
       </file>
@@ -2249,11 +2249,11 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524060806105">
-        <mark key="[" line="106" column="18" />
-        <mark key="]" line="106" column="58" />
-        <mark key="^" line="106" column="58" />
-        <mark key="." line="106" column="58" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524063535483">
+        <mark key="[" line="122" column="45" />
+        <mark key="]" line="129" column="59" />
+        <mark key="^" line="123" column="3" />
+        <mark key="." line="129" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/exceptions.py" timestamp="1516804254189">
         <mark key="[" line="0" column="0" />
@@ -2535,13 +2535,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>local_dt.astimezone(pytz.utc)</text>
+        <text>'carried_at': utc_dt.strftime('%Y-%m-%d %H:%M:%S'),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIG5vcm1hbGl6ZV92YWx1ZSh0YWcpOgogICAgIiIiCiAgICBTYWZlIGV4dHJhY3Rpb24gb2YgYSB2YWx1ZSBmb3IgYSBnaXZlbiB0YWcuCiAgICAiIiIKICAgIGlmIHRhZyBpcyBOb25lOgogICAgICAgIHJldHVybiBOb25lCgogICAgdGV4dCA9IHRhZy5nZXRfdGV4dCgpLnN0cmlwKCkKICAgIGlmIG5vdCB0ZXh0OgogICAgICAgIHJldHVybiBOb25lCgogICAgcmV0dXJuIHRleHQK</text>
+        <text>'carried_at': utc_dt.format('YYYY-MM-DD HH:mm:ss'),</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxvY2FsX2R0ID0gZGF0ZXRpbWUuc3RycHRpbWUoZHRfc3RyaW5nLCAnJVklbSVkICVIOiVNJXonKQo=</text>

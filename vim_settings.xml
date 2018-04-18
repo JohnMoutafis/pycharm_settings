@@ -566,10 +566,10 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523631031860">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1524048056401">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hermesProject/vermantia-rgs.ermis/gui/src/js/components/ServicesDropbox.js" timestamp="1503052063630">
         <mark key="[" line="69" column="11" />
@@ -2507,35 +2507,35 @@
       <register name="0" type="4">
         <text>SILKBOT_ENDPOINT=http://10.10.11.73:9091/api/v1/silks</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Rml4IG5vdCBjb3JyZWxhdGluZyByYWNlcwoKUmVtb3ZlZCB0dGxfY2FjaGUgYW5kIGNhY2hldG9vbHMgZnJvbSBzZXJ2aWNlcy4KRml4ZWQgZmFpbGluZyB1bml0dGVzdC4KQWRkZWQgbWV0aG9kIHRvIGV4dHJhY3QgdGhlIGRhdGUgZnJvbSBhIGRhdGV0aW1lIHN0cmluZywgdG8gYmUgdXNlZCBvbgpmZXRjaGluZyB0aGlzIGRheSdzIHJhY2VzLiA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVkX3JhY2VfaWQgPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGVkX3JhY2VfaWQgPSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBib3RfbG9nZ2VyLmRlYnVnKCdQZXJmb3JtIFBvc3Qgb24ge30gZ290IHJlc3BvbnNlOiB7fScuZm9ybWF0KHVybCwgcmVzcG9uc2UuanNvbigpKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgb25seSBwbmcgZmlsZXMK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBib3RfbG9nZ2VyLmRlYnVnKCdQZXJmb3JtIFBvc3Qgb24ge30gZ290IHJlc3BvbnNlOiB7fScuZm9ybWF0KHVybCwgcmVzcG9uc2UuanNvbigpKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgb25seSBwbmcgZmlsZXMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY290dHN2aWxsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTY290dHN2aWxsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90X2xvZ2dlci53YXJuaW5nKG1zZy5mb3JtYXQoZmlsZW5hbWUsIHJhY2VzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

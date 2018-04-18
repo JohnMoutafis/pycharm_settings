@@ -1413,12 +1413,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" timestamp="1524042747787">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" timestamp="1524043575008">
         <mark key="'" line="97" column="43" />
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="49" column="40" />
-        <mark key="." line="49" column="40" />
-        <mark key="^" line="49" column="40" />
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="57" />
+        <mark key="." line="30" column="57" />
+        <mark key="^" line="30" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/requirements_dev.txt" timestamp="1509021438392">
         <mark key="[" line="0" column="19" />
@@ -2529,41 +2529,38 @@
         <text>bot_logger.info('Successfully copied silk files to: {}'.format(SILK_HOST))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgb25seSBwbmcgZmlsZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTY290dHN2aWxsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTY290dHN2aWxsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90X2xvZ2dlci53YXJuaW5nKG1zZy5mb3JtYXQoZmlsZW5hbWUsIHJhY2VzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoU0lMS19GT0xERVJTKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90X2xvZ2dlci53YXJuaW5nKG1zZy5mb3JtYXQoZmlsZW5hbWUsIHJhY2VzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcodG9kYXlfc3RyKQo=</text>
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoU0lMS19GT0xERVJTKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Li9waHVtZWJvdC5weQo=</text>
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcodG9kYXlfc3RyKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Li9waHVtZWJvdC5weQo=</text>
+      </register>
+      <register name="9" type="4">
         <text>Add check for correlated silks.
 
 `process_files` method will return correlated silks.
 
 Refs: #6</text>
-      </register>
-      <register name="9" type="4">
-        <text>&quot;&quot;&quot;Establishes a ssh connection with remote server, then iterates over
-    all folders that contain today's silks and extracts only the .png files.
-    Finaly it secure copies them into remote server.
-    &quot;&quot;&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

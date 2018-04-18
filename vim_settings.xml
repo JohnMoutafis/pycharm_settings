@@ -1059,12 +1059,12 @@
         <mark key="]" line="150" column="27" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1523628768152">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1524034860242">
         <mark key="'" line="11" column="4" />
-        <mark key="[" line="70" column="34" />
-        <mark key="]" line="70" column="33" />
-        <mark key="^" line="70" column="33" />
-        <mark key="." line="70" column="33" />
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="51" />
+        <mark key="^" line="15" column="51" />
+        <mark key="." line="15" column="51" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/Dockerfile" timestamp="1514848307433">
         <mark key="[" line="41" column="17" />
@@ -1412,12 +1412,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" timestamp="1523630671001">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-        <mark key="^" line="27" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" timestamp="1524036964539">
+        <mark key="'" line="97" column="43" />
+        <mark key="[" line="111" column="17" />
+        <mark key="]" line="111" column="16" />
+        <mark key="." line="111" column="16" />
+        <mark key="^" line="111" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/requirements_dev.txt" timestamp="1509021438392">
         <mark key="[" line="0" column="19" />
@@ -1511,11 +1511,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1523630985519">
-        <mark key="[" line="1" column="58" />
-        <mark key="]" line="1" column="58" />
-        <mark key="^" line="1" column="58" />
-        <mark key="." line="1" column="58" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1524036072707">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/models.py" timestamp="1509702632016">
         <mark key="[" line="49" column="49" />
@@ -1982,7 +1982,7 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1523619620137">
+      <file name="/Python Console" timestamp="1524035727418">
         <mark key="'" line="0" column="57" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -2357,10 +2357,10 @@
         <mark key="." line="120" column="11" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1523629734649">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1524036860102">
         <mark key="'" line="80" column="12" />
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="50" column="43" />
+        <mark key="[" line="111" column="16" />
+        <mark key="]" line="111" column="91" />
         <mark key="." line="50" column="43" />
         <mark key="^" line="50" column="43" />
       </file>
@@ -2504,6 +2504,9 @@
       <jump line="179" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="80" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="84" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
+      <jump line="70" column="41" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
+      <jump line="71" column="30" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
+      <jump line="97" column="43" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2519,50 +2522,50 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>archive</text>
+        <text>'While processing file: {0}, failed to make a correlation for the following race(s):\n{1}' # noqa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>correlated_silks_list</text>
+        <text>'Errors occurred while processing file: {0} for the following races:\n\t{1}'</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm90X2xvZ2dlci53YXJuaW5nKG1zZy5mb3JtYXQoZmlsZW5hbWUsIHJhY2VzKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoU0lMS19GT0xERVJTKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcodG9kYXlfc3RyKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Li9waHVtZWJvdC5weQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>Add check for correlated silks.
 
 `process_files` method will return correlated silks.
 
 Refs: #6</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>&quot;&quot;&quot;Establishes a ssh connection with remote server, then iterates over
     all folders that contain today's silks and extracts only the .png files.
     Finaly it secure copies them into remote server.
     &quot;&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZS50b2RheSgpIGlmIHRhcmdldF9kYXRlIGlzIE5vbmUgZWxzZSB0YXJnZXRfZGF0ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZWV0aW5nX2lkID0gCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZSwgZGF0ZXRpbWUsIHRpbWV6b25lCg==</text>
-      </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmRlZiBwb3N0X3Jlc3VsdHMocmVzdWx0cyk6CiAgICBoZWFkZXJzID0gewogICAgICAgICdBdXRob3JpemF0aW9uJzogJ1Rva2VuIHt9Jy5mb3JtYXQoc2V0dGluZ3MuQVBJX0tFWSksCiAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgfQogICAgZm9yIHhtbF9maWxlLCByZXN1bHQgaW4gcmVzdWx0cy5pdGVtcygpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5wb3N0KHNldHRpbmdzLlNJTEtCT1RfRU5EUE9JTlQsIGpzb249cmVzdWx0LCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgIGlmIG5vdCByZXNwb25zZS5vazoKICAgICAgICAgICAgICAgIGVycl9tc2cgPSAnJydFcnJvciB3aGlsZSB0cnlpbmcgdG8gc2VuZCBjb3JyZWxhdGlvbiBmb3IgbWVldGluZyB3aXRoIHByb3ZpZGVyIGlkOiB7fQogICAgICAgICAgICAgICAgUmVzcG9uc2UgY29kZToge30gd2l0aCByZWFzb246IHt9JycnLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICB4bWxfZmlsZSwKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5zdGF0dXNfY29kZSwKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5jb250ZW50KQoKICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZXJyb3IoZXJyX21zZykKICAgICAgICBleGNlcHQgcmVxdWVzdHMuZXhjZXB0aW9ucy5Db25uZWN0aW9uRXJyb3IgYXMgZToKICAgICAgICAgICAgYm90X2xvZ2dlci5lcnJvcihlKQoK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZS50b2RheSgpIGlmIHRhcmdldF9kYXRlIGlzIE5vbmUgZWxzZSB0YXJnZXRfZGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZWV0aW5nX2lkID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

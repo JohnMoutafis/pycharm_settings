@@ -351,7 +351,10 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1524042572476" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1524044361835">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="52" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/run.sh" timestamp="1515758164016">
         <mark key="[" line="16" column="61" />
         <mark key="]" line="16" column="62" />
@@ -1060,7 +1063,7 @@
         <mark key="]" line="150" column="27" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1524039700931">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1524044684578">
         <mark key="'" line="11" column="4" />
         <mark key="[" line="52" column="89" />
         <mark key="]" line="52" column="87" />
@@ -1512,11 +1515,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1524039328997">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="61" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="1" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1524044369105">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="53" />
+        <mark key="^" line="3" column="57" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/models.py" timestamp="1509702632016">
         <mark key="[" line="49" column="49" />
@@ -1876,11 +1879,11 @@
         <mark key="^" line="114" column="18" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/services.py" timestamp="1523628857033">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/services.py" timestamp="1524044448223">
         <mark key="'" line="60" column="14" />
-        <mark key="[" line="85" column="4" />
-        <mark key="]" line="85" column="25" />
-        <mark key="." line="63" column="22" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
         <mark key="^" line="63" column="22" />
       </file>
       <file name="$USER_HOME$/Programs/Album-Splitter/utils/time_to_seconds.py" timestamp="1498469642898">
@@ -2520,47 +2523,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>SILKBOT_ENDPOINT=http://10.10.10.192:9091/api/v1/silks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>bot_logger.info('Successfully copied silk files to: {}'.format(SILK_HOST))</text>
+        <text>SILKBOT_ENDPOINT=http://10.10.11.73:9091/api/v1/silks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgb25seSBwbmcgZmlsZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBib3RfbG9nZ2VyLmRlYnVnKCdQZXJmb3JtIFBvc3Qgb24ge30gZ290IHJlc3BvbnNlOiB7fScuZm9ybWF0KHVybCwgcmVzcG9uc2UuanNvbigpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgb25seSBwbmcgZmlsZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTY290dHN2aWxsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTY290dHN2aWxsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90X2xvZ2dlci53YXJuaW5nKG1zZy5mb3JtYXQoZmlsZW5hbWUsIHJhY2VzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoU0lMS19GT0xERVJTKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90X2xvZ2dlci53YXJuaW5nKG1zZy5mb3JtYXQoZmlsZW5hbWUsIHJhY2VzKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcodG9kYXlfc3RyKQo=</text>
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoU0lMS19GT0xERVJTKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Li9waHVtZWJvdC5weQo=</text>
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcodG9kYXlfc3RyKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>Add check for correlated silks.
-
-`process_files` method will return correlated silks.
-
-Refs: #6</text>
+      <register name="9" type="2">
+        <text encoding="base64">Li9waHVtZWJvdC5weQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

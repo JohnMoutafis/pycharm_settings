@@ -2094,11 +2094,11 @@
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/setup.py" timestamp="1523540034239">
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="36" column="56" />
-        <mark key="." line="36" column="56" />
-        <mark key="^" line="36" column="56" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/setup.py" timestamp="1524048731184">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="35" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523454379253">
         <mark key="'" line="16" column="6" />
@@ -2507,35 +2507,35 @@
       <register name="0" type="4">
         <text>SILKBOT_ENDPOINT=http://10.10.11.73:9091/api/v1/silks</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Rml4IG5vdCBjb3JyZWxhdGluZyByYWNlcwoKUmVtb3ZlZCB0dGxfY2FjaGUgYW5kIGNhY2hldG9vbHMgZnJvbSBzZXJ2aWNlcy4KRml4ZWQgZmFpbGluZyB1bml0dGVzdC4KQWRkZWQgbWV0aG9kIHRvIGV4dHJhY3QgdGhlIGRhdGUgZnJvbSBhIGRhdGV0aW1lIHN0cmluZywgdG8gYmUgdXNlZCBvbgpmZXRjaGluZyB0aGlzIGRheSdzIHJhY2VzLiA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVkX3JhY2VfaWQgPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGVkX3JhY2VfaWQgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBib3RfbG9nZ2VyLmRlYnVnKCdQZXJmb3JtIFBvc3Qgb24ge30gZ290IHJlc3BvbnNlOiB7fScuZm9ybWF0KHVybCwgcmVzcG9uc2UuanNvbigpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgb25seSBwbmcgZmlsZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBib3RfbG9nZ2VyLmRlYnVnKCdQZXJmb3JtIFBvc3Qgb24ge30gZ290IHJlc3BvbnNlOiB7fScuZm9ybWF0KHVybCwgcmVzcG9uc2UuanNvbigpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgb25seSBwbmcgZmlsZXMK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTY290dHN2aWxsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTY290dHN2aWxsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

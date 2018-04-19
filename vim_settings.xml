@@ -6,11 +6,11 @@
       <file name="/a.dummy" timestamp="1524131059750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1524141559048">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="48" column="33" />
-        <mark key="." line="48" column="33" />
-        <mark key="^" line="48" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1524144260689">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="8" />
+        <mark key="." line="113" column="8" />
+        <mark key="^" line="68" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_1/queries/python_queries/copy_from_remote_db.py" timestamp="1520898896215">
         <mark key="'" line="87" column="25" />
@@ -126,6 +126,10 @@
         <mark key="^" line="67" column="47" />
         <mark key="." line="67" column="47" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1524143404114">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="24" column="6" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/setup.cfg" timestamp="1524056588836">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
@@ -164,11 +168,11 @@
         <mark key="^" line="33" column="23" />
         <mark key="." line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524141540922">
-        <mark key="[" line="141" column="3" />
-        <mark key="]" line="143" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524143276922">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
         <mark key="^" line="41" column="28" />
-        <mark key="." line="141" column="3" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" timestamp="1523538913096">
         <mark key="'" line="0" column="0" />
@@ -368,43 +372,55 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>http://silkbot/api/v1/briam</text>
+        <text>def process_file(xml_file, race_times_lookup, foreign_meetings):</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>http://10.10.11.73:9091/api/v1/silks</text>
+        <text>def process_files(xml_files, aliased_races_only=False, debug=False):
+    &quot;&quot;&quot;
+    Iterates through a list of xml files and correlates races runners with corresponding silks.
+    Args:
+        xml_files: A list of xml files from GBI.
+        aliased_races_only: Flag to be passed to services.fetch_race_details method.
+        debug: Flag. If set to True, past execution time races will not be excluded.
+
+    Returns:
+        Results dictionary for each race inside each xml file.
+        A list of all the correlated silks.
+        A dictionary of errors per xml file if any error exists.
+    &quot;&quot;&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">UE1VX0ZJTEVfTE9DQVRJT049L2Z0cC8KU0lMS19IT1NUPTEwLjEwLjExLjcwClNJTEtfREVTVElOQVRJT049L3Nydi9zdGF0aWMvcG11LwpTSUxLX1BVQkxJQ19QQVRIPWh0dHA6Ly8xMC4xMC4xMS43MDo5MDkwL3N0YXRpYy9wbXUKRlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovMTAuMTAuMTEuNzA6OTA5MC9sb29rdXA/cHJvdmlkZXI9cG11CkZVWlpZQk9UX0NPVVJTRVNfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjExLjcwOjkwOTAvcmFjZWNvdXJzZXMKU0lMS0JPVF9FTkRQT0lOVD1odHRwOi8vMTAuMTAuMTEuNzA6OTA5MS9hcGkvdjEvcHJvdmlkZXJzL3BtdS9icmlhbS8KREVCVUc9VHJ1ZQpQUk9WSURFUl9USU1FWk9ORT0nRXVyb3BlL1BhcmlzJwpMT0dfTEVWRUw9REVCVUcKTE9DQUxfVElNRVpPTkU9VVRDCkFQSV9LRVk9PHByb3ZpZGVkLWJ5LXNpbGtib3Q+ClNMQUNLX1dFQkhPT0s9PGFzLXNldC1pbi1zbGFjay10ZWFtLXNlcnZpY2VzPg==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoJ1Byb2Nlc3NpbmcgeG1sIGZpbGU6IHt9Jy5mb3JtYXQoeG1sX2ZpbGUpKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemYuZXh0cmFjdGFsbChmaWxlX2RzdCkK</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ybWFsaXplX3ZhbHVlKHNvdXAuZmluZCgnbGliX3JldW5pb24nKSkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHppcGZpbGUuWmlwRmlsZShmaWxlX3NyY19wYXRoKSBhcyB6ZjoK</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cC5maW5kKCdoZXVyZV9kZXBhcnRfY291cnNlJykuZ2V0X3RleHQoKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX2RzdCA9IG9zLnBhdGguam9pbihkc3QsIGZvbGRlcm5hbWUpCg==</text>
+        <text encoding="base64">IyAgICAgICBwcmludCgnUmFjZTogezB9IHRha2VzIHBsYWNlIGF0OiB7MX0gb24gcmFjZWNvdXJzZTogezJ9Jy5mb3JtYXQoc291cC5maW5kKCdsaWJsb25nX3ByaXhfY291cnNlJykuZ2V0X3RleHQoKSwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIC8uLi4vcG11L3tkYXRlfS9TaWxrcy91bnppcHBlZC9aWlotUlhDWAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">UE1VX0ZJTEVfTE9DQVRJT049L2Z0cC8KU0lMS19IT1NUPTEwLjEwLjExLjcwClNJTEtfREVTVElOQVRJT049L3Nydi9zdGF0aWMvcG11LwpTSUxLX1BVQkxJQ19QQVRIPWh0dHA6Ly8xMC4xMC4xMS43MDo5MDkwL3N0YXRpYy9wbXUKRlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovMTAuMTAuMTEuNzA6OTA5MC9sb29rdXA/cHJvdmlkZXI9cG11CkZVWlpZQk9UX0NPVVJTRVNfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjExLjcwOjkwOTAvcmFjZWNvdXJzZXMKU0lMS0JPVF9FTkRQT0lOVD1odHRwOi8vMTAuMTAuMTEuNzA6OTA5MS9hcGkvdjEvcHJvdmlkZXJzL3BtdS9icmlhbS8KREVCVUc9VHJ1ZQpQUk9WSURFUl9USU1FWk9ORT0nRXVyb3BlL1BhcmlzJwpMT0dfTEVWRUw9REVCVUcKTE9DQUxfVElNRVpPTkU9VVRDCkFQSV9LRVk9PHByb3ZpZGVkLWJ5LXNpbGtib3Q+ClNMQUNLX1dFQkhPT0s9PGFzLXNldC1pbi1zbGFjay10ZWFtLXNlcnZpY2VzPg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFdlIGFyZSBnb25uYSB1bnppcCBhbGwgemlwcyBpbiBhIHNwZWNpZmljIGZvbGRlciBzdHJ1Y3R1cmUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb2xkZXJuYW1lID0gZmlsZW5hbWUuc3BsaXQoJ18nKVsxXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgemYuZXh0cmFjdGFsbChmaWxlX2RzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvcm1hdCBaWlotUlhDWC4K</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHppcGZpbGUuWmlwRmlsZShmaWxlX3NyY19wYXRoKSBhcyB6ZjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

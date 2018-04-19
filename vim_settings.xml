@@ -90,10 +90,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1524127356403">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="49" column="21" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1524129604937">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/coala_fork/lib/python3.5/site-packages/bears/python/PEP8Bear.py" timestamp="1499420270788">
         <mark key="[" line="13" column="70" />
@@ -2046,7 +2047,7 @@
         <mark key="^" line="119" column="11" />
         <mark key="." line="119" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524128377386">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524130360769">
         <mark key="'" line="218" column="19" />
         <mark key="[" line="198" column="0" />
         <mark key="]" line="212" column="48" />
@@ -2211,11 +2212,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1524127259497">
-        <mark key="[" line="92" column="84" />
-        <mark key="]" line="92" column="89" />
-        <mark key="^" line="92" column="89" />
-        <mark key="." line="92" column="89" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1524129599621">
+        <mark key="'" line="212" column="8" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="59" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/alembic/versions/7af25a668639_change_meeting_id_field_to_meeting_idtg.py" timestamp="1511959427899">
         <mark key="[" line="32" column="33" />
@@ -2262,12 +2264,12 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524128998181">
-        <mark key="'" line="36" column="8" />
-        <mark key="[" line="135" column="34" />
-        <mark key="]" line="135" column="34" />
-        <mark key="^" line="152" column="47" />
-        <mark key="." line="135" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524129482990">
+        <mark key="'" line="35" column="8" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="134" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/exceptions.py" timestamp="1516804254189">
         <mark key="[" line="0" column="0" />
@@ -2434,8 +2436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="49" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
-      <jump line="56" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" />
       <jump line="22" column="7" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/errors.py" />
       <jump line="103" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" />
       <jump line="33" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" />
@@ -2534,6 +2534,8 @@
       <jump line="153" column="9" filename="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/settings.py" />
       <jump line="154" column="9" filename="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/settings.py" />
       <jump line="36" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
+      <jump line="95" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
+      <jump line="211" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2549,47 +2551,66 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>current_date</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHVuaXFpZnlfYXJjaGl2ZXMoc2lsa19mb2xkZXIsIHRvZGF5KToKICAgIGJvdF9sb2dnZXIuZGVidWcoJ1VuaXFpZnlpbmcgemlwIGZpbGVzIC4uLiAnKQogICAgemlwX2ZpbGVzID0gb3MubGlzdGRpcihzaWxrX2ZvbGRlcikKICAgIHNlZW4gPSB7fQogICAgZm9yIGl0ZW0gaW4gemlwX2ZpbGVzOgogICAgICAgIG1hcmtlciwgY3VyX3RpbWVzdGFtcCA9IGlkZnVuKGl0ZW0pCiAgICAgICAgaWYgbWFya2VyIGluIHNlZW46CiAgICAgICAgICAgIHNhdmVkX3RpbWVzdGFtcCA9IHNlZW5bbWFya2VyXQogICAgICAgICAgICBtYXhfdGltZXN0YW1wID0gbWF4KGludChzYXZlZF90aW1lc3RhbXApLCBpbnQoY3VyX3RpbWVzdGFtcCkpCiAgICAgICAgICAgIHNlZW5bbWFya2VyXSA9IG1heF90aW1lc3RhbXAKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWVuW21hcmtlcl0gPSBjdXJfdGltZXN0YW1wCgogICAgcmV0dXJuIFsnezB9X3sxfV97Mn0uemlwJy5mb3JtYXQodG9kYXksIG5hbWUsIHRpbWVzdGFtcCkKICAgICAgICAgICAgZm9yIG5hbWUsIHRpbWVzdGFtcCBpbiBzZWVuLml0ZW1zKCldCg==</text>
+        <text>bot_logger = logger</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZWRfdGltZXN0YW1wID0gc2VlblttYXJrZXJdCg==</text>
+        <text encoding="base64">ZnJvbSBwbXVzaWIgaW1wb3J0IHNldHRpbmdzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X3RpbWVzdGFtcCA9IG1heChpbnQoc2F2ZWRfdGltZXN0YW1wKSwgaW50KGN1cl90aW1lc3RhbXApKQo=</text>
+      <register name="2" type="4">
+        <text>def uniqify_archives(silk_folder, today):
+    &quot;&quot;&quot;
+
+    Args:
+        silk_folder:
+        today:
+
+    Returns:
+
+    &quot;&quot;&quot;
+    zip_files = os.listdir(silk_folder)
+    seen = {}
+    for item in zip_files:
+        marker, cur_timestamp = extract_file_identifications(item)
+        if marker in seen:
+            seen.update({marker: max(int(seen[marker]), int(cur_timestamp))})
+        else:
+            seen.update({marker: cur_timestamp})
+
+    return ['{0}_{1}_{2}.zip'.format(today, name, timestamp) for name, timestamp in seen.items()]</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZWRfdGltZXN0YW1wID0gc2VlblttYXJrZXJdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X3RpbWVzdGFtcCA9IG1heChpbnQoc2F2ZWRfdGltZXN0YW1wKSwgaW50KGN1cl90aW1lc3RhbXApKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcoJ1VuaXFpZnlpbmcgemlwIGZpbGVzIC4uLiAnKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>bot_logger.warning(
             'Warning: Today\'s silk folder {} is empty. Skipping...'.format(TODAYS_SILK))
         return</text>
       </register>
-      <register name="5" type="4">
+      <register name="w" type="4">
+        <text>u</text>
+      </register>
+      <register name="8" type="4">
         <text>bot_logger.warning(
             'Warning: Today\'s silk folder {} not found. Skipping...'.format(TODAYS_SILK))
         return</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>u</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdXNlIGBudW1fcGFydGFudGAgYW5kIG5vdCBgcGxhY2VfY29yZGVfcGFydGF0bnRgLgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYmFzZWQgb24gc2lkZS1ieS1zaWRlIGNoZWNrIG9mIElHVCBhbmQgUE1VIHJlbGF0ZWQgeG1sIGZpbGVzIG5vdyB3ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

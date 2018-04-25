@@ -34,6 +34,10 @@
           <option name="url" value="git@git.assembla.com:opap-horseraces-silks.gbi_service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.assembla.com:opap-horseraces-silks.nrc_silks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/silks" />

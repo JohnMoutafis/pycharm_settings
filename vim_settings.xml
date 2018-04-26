@@ -186,11 +186,11 @@
         <mark key="^" line="25" column="95" />
         <mark key="." line="25" column="95" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1524728233356">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1524732685848">
         <mark key="x" line="121" column="12" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+        <mark key="[" line="20" column="77" />
+        <mark key="]" line="20" column="77" />
+        <mark key="." line="20" column="77" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1524141945378">
         <mark key="[" line="0" column="0" />
@@ -268,13 +268,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524728195543">
-        <mark key="e" line="39" column="28" />
-        <mark key="'" line="37" column="15" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="32" />
-        <mark key="." line="44" column="32" />
-        <mark key="^" line="44" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524733099794">
+        <mark key="e" line="41" column="28" />
+        <mark key="'" line="39" column="15" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="16" />
+        <mark key="^" line="46" column="11" />
+        <mark key="." line="54" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -376,8 +376,8 @@
       <jump line="94" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="224" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="39" column="36" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
-      <jump line="37" column="15" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="95" column="11" filename="/pmubot.py" />
+      <jump line="37" column="15" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -393,46 +393,48 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>RUNNER_FNAME_TEMPLATE</text>
+        <text encoding="base64">TGlzdCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>with open(c_file, 'rb') as f:
-                        content = f.read()
-                        soup = BeautifulSoup(content, 'xml')
-                        c_code = normalize_value(soup.find('id_nav_course'))</text>
+        <text>with open(rf, 'rb') as f:
+            content = f.read()
+            soup = BeautifulSoup(content, 'xml')
+
+        country_code = normalize_value(soup.find('code_pays'))
+        if country_code.upper() != PMU_COUNTRY_CODE:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICA9ICdwe30ueG1sJwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvcmVpZ25fbWVldGluZ3MgPSBmaW5kX2ZvcmVpZ25fbWVldGluZ3MK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEFib3J0cyBhbnkgZm9yZWlnbiAobm90IHRha2luZyBwbGFjZSBpbiBGcmFuY2UpIE1hcHMgYSByYWNlIHhtbCBmaWxlIHRvIHRoZSBhY2NvcmRpbmcgcnVubmVycyAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUG9zc2libHkgbWlzc2luZyBmaWxlczoge30nLmZvcm1hdCh1bl9jaGVja2VkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9ybWFsaXplX3ZhbHVlKHNvdXAuZmluZCgnY29kZV9wYXlzJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bl9jaGVja2VkLmFwcGVuZChwX2ZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bl9jaGVja2VkLmFwcGVuZChjX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgICA9ICdwe30ueG1sJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIGZvcmVpZ25fbWVldGluZ3MgPSBmaW5kX2ZvcmVpZ25fbWVldGluZ3MK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ0Vycm9yIG9jY3VycmVkOiB7fSAtIHt9Jy5mb3JtYXQoY19maWxlLCBwX2ZpbGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBjX2NvZGUgIT0gcF9jb2RlOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnUG9zc2libHkgbWlzc2luZyBmaWxlczoge30nLmZvcm1hdCh1bl9jaGVja2VkKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

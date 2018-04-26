@@ -154,11 +154,7 @@
         <mark key="." line="0" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1524732194999">
-        <mark key="'" line="59" column="12" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
         <mark key="^" line="51" column="9" />
-        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1524142206210">
         <mark key="[" line="5" column="17" />
@@ -242,10 +238,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/settings.py" timestamp="1524650771287">
         <mark key="'" line="28" column="5" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="42" />
-        <mark key="." line="29" column="57" />
-        <mark key="^" line="29" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_1/queries/python_queries/copy_from_remote_db.py" timestamp="1520898896215">
         <mark key="'" line="87" column="25" />
@@ -268,13 +260,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524735008398">
-        <mark key="e" line="41" column="28" />
-        <mark key="'" line="39" column="15" />
-        <mark key="[" line="121" column="75" />
-        <mark key="]" line="122" column="76" />
-        <mark key="^" line="122" column="76" />
-        <mark key="." line="122" column="76" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524736297431">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="12" />
+        <mark key="^" line="51" column="69" />
+        <mark key="." line="57" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -375,9 +365,9 @@
       <jump line="61" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="94" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="224" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
-      <jump line="39" column="36" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="95" column="11" filename="/pmubot.py" />
       <jump line="37" column="15" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
+      <jump line="39" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -410,31 +400,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEFib3J0cyBhbnkgZm9yZWlnbiAobm90IHRha2luZyBwbGFjZSBpbiBGcmFuY2UpIE1hcHMgYSByYWNlIHhtbCBmaWxlIHRvIHRoZSBhY2NvcmRpbmcgcnVubmVycyAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9ybWFsaXplX3ZhbHVlKHNvdXAuZmluZCgnY29kZV9wYXlzJykpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZGVmIGZpbmRfZm9yZWlnbl9tZWV0aW5ncyhyYWNlX2ZpbGVzKToKICAgICIiIgogICAgQ3JlYXRlcyBhIGxpc3Qgb2YgbWVldGluZ3Mgbm90IHRha2luZyBwbGFjZSBpbiBGcmFuY2UgKEZSQSkuCiAgICBBcmdzOgogICAgICAgIHJhY2VfZmlsZXM6IEEgbGlzdCBvZiByYWNlIGZpbGVzLgoKICAgIFJldHVybnM6CiAgICAgICAgU2V0IG9mIGZvcmVpZ24gbWVldGluZ3MuCiAgICAiIiIKICAgIG1lZXRpbmdzID0gW10KICAgIGZvciByZiBpbiByYWNlX2ZpbGVzOgogICAgICAgIHdpdGggb3BlbihyZiwgJ3JiJykgYXMgZjoKICAgICAgICAgICAgY29udGVudCA9IGYucmVhZCgpCiAgICAgICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGNvbnRlbnQsICd4bWwnKQogICAgICAgICAgICBpZiBub3JtYWxpemVfdmFsdWUoc291cC5maW5kKCdjb2RlX3BheXMnKSkgIT0gUE1VX0NPVU5UUllfQ09ERToKICAgICAgICAgICAgICAgIG1lZXRpbmdzLmFwcGVuZChub3JtYWxpemVfdmFsdWUoc291cC5maW5kKCdsaWJfcmV1bmlvbicpKS5sb3dlcigpKQoKICAgIG1lZXRpbmdzID0gc2V0KG1lZXRpbmdzKQogICAgYm90X2xvZ2dlci5kZWJ1ZygnRm9yZWluZyBNZWV0aW5nczoge30nLmZvcm1hdChtZWV0aW5ncykpCiAgICByZXR1cm4gbWVldGluZ3MKCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICA9ICdwe30ueG1sJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcmVpZ25fbWVldGluZ3MgPSBmaW5kX2ZvcmVpZ25fbWVldGluZ3MK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFib3J0cyBhbnkgZm9yZWlnbiAobm90IHRha2luZyBwbGFjZSBpbiBGcmFuY2UpIE1hcHMgYSByYWNlIHhtbCBmaWxlIHRvIHRoZSBhY2NvcmRpbmcgcnVubmVycyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUG9zc2libHkgbWlzc2luZyBmaWxlczoge30nLmZvcm1hdCh1bl9jaGVja2VkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9ybWFsaXplX3ZhbHVlKHNvdXAuZmluZCgnY29kZV9wYXlzJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -491,6 +481,7 @@
         <entry>100</entry>
         <entry>75</entry>
         <entry>w</entry>
+        <entry>:w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

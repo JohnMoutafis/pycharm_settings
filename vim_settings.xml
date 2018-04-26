@@ -226,12 +226,11 @@
         <mark key="^" line="104" column="5" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_3/ex3_module/excercises/erotima_1.py" timestamp="1524692648414">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="42" column="76" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_3/ex3_module/excercises/erotima_1.py" timestamp="1524775650004">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/setup.cfg" timestamp="1524056618834">
         <mark key="'" line="14" column="0" />
@@ -388,8 +387,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_3/ex3_module/excercises/erotima_1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2 as cv</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -401,22 +400,23 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Thresholding</text>
+        <text>2 as cv</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Z3JheXNjYWxlX2ltXzA2ID0gY3YuTG9hZEltYWdlKElSUkdfMDZfRVFVX1BBVEgsIGN2LkNWX0xPQURfSU1BR0VfR1JBWVNDQUxFKQo=</text>
+      <register name="0" type="4">
+        <text>out_img_06 = seg.simple_region_growing(grayscale_im_06, SEED, THRESHOLD_2, CONNECTIVITY)
+cv.SaveImage('img_06_region_growing.jpg', out_img_06)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3YuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGN2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3YK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -425,10 +425,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1zYXZlKHBhdGgoRVJPVElNQV8xX1BBVEgsICd0aHJlc18wNi5wbmcnKSwgKGltXzA2ID4gVEhSRVNIT0xEKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
@@ -437,7 +437,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUG9zc2libHkgbWlzc2luZyBmaWxlczoge30nLmZvcm1hdCh1bl9jaGVja2VkKSkK</text>
+        <text encoding="base64">aW1zYXZlKHBhdGgoRVJPVElNQV8xX1BBVEgsICd0aHJlc18wNi5wbmcnKSwgKGltXzA2ID4gVEhSRVNIT0xEKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

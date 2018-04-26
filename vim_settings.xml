@@ -148,9 +148,9 @@
         <mark key="^" line="144" column="15" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524645651064">
+      <file name="/Dummy.txt" timestamp="1524737028107">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="." line="0" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1524732194999">
@@ -215,6 +215,10 @@
         <mark key="^" line="52" column="87" />
         <mark key="." line="52" column="87" />
       </file>
+      <file name="/utils.py" timestamp="1524737584784">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="49" column="6" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" timestamp="1522237600575">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="24" column="86" />
@@ -260,11 +264,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524736297431">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="12" />
-        <mark key="^" line="51" column="69" />
-        <mark key="." line="57" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524737657976">
+        <mark key="[" line="42" column="41" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="42" column="41" />
+        <mark key="." line="42" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -389,12 +393,16 @@
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>with open(rf, 'rb') as f:
-            content = f.read()
-            soup = BeautifulSoup(content, 'xml')
+        <text>&quot;&quot;&quot;
+    Collects the most recently updated files from the files' directory if they do not refer to
+    foreign meetings.
+    Args:
+        files_dir: Files directory.
+        file_regex: Date depended file regex.
 
-        country_code = normalize_value(soup.find('code_pays'))
-        if country_code.upper() != PMU_COUNTRY_CODE:</text>
+    Returns:
+        List of filenames.
+    &quot;&quot;&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -480,8 +488,8 @@
         <entry>50</entry>
         <entry>100</entry>
         <entry>75</entry>
-        <entry>w</entry>
         <entry>:w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

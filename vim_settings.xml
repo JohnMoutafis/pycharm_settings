@@ -268,13 +268,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524733099794">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524735008398">
         <mark key="e" line="41" column="28" />
         <mark key="'" line="39" column="15" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="16" />
-        <mark key="^" line="46" column="11" />
-        <mark key="." line="54" column="16" />
+        <mark key="[" line="121" column="75" />
+        <mark key="]" line="122" column="76" />
+        <mark key="^" line="122" column="76" />
+        <mark key="." line="122" column="76" />
       </file>
     </filemarks>
     <jumps>

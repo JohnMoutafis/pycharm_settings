@@ -36,8 +36,8 @@
         <mark key="^" line="67" column="47" />
         <mark key="." line="67" column="47" />
       </file>
-      <file name="/pmubot.py" timestamp="1524740951127">
-        <mark key="'" line="95" column="11" />
+      <file name="/pmubot.py" timestamp="1524745513654">
+        <mark key="'" line="321" column="0" />
         <mark key="[" line="165" column="8" />
         <mark key="]" line="165" column="61" />
       </file>
@@ -289,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="118" column="35" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="82" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" />
       <jump line="19" column="57" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
@@ -389,6 +388,7 @@
       <jump line="37" column="15" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="39" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="20" column="76" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
+      <jump line="321" column="0" filename="/pmubot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

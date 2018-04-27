@@ -158,10 +158,11 @@
         <mark key="." line="67" column="99" />
         <mark key="^" line="67" column="99" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/services.py" timestamp="1524821493908">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/services.py" timestamp="1524823628876">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/env.example" timestamp="1524740256775">
         <mark key="[" line="13" column="15" />
@@ -417,7 +418,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>phusib</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -438,25 +439,25 @@ LOG_LEVEL = config('LOG_LEVEL', default=logging.DEBUG)
 LOCAL_TIMEZONE = config('LOCAL_TIMEZONE', 'Europe/Athens')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UFJPVklERVJfQ09VTlRSWV9DT0RFID0gJ0NZJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UFJPVklERVJfQ09VTlRSWV9DT0RFID0gJ0NZJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UE5HX0VORElORyA9ICcucG5nJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0lMS1NfRk9MREVSX0ZPUk1BVCA9ICdbQS1aXXt0b2RheX1bQS1aXXt7M319Jwo=</text>
+        <text encoding="base64">UE5HX0VORElORyA9ICcucG5nJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0lMS1NfRk9MREVSX0ZPUk1BVCA9ICdbQS1aXXt0b2RheX1bQS1aXXt7M319Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RklMRVNfUEFUSCA9IHBhdGgoUFJPVklERVIsICdmdHAnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RklMRVNfUEFUSCA9IHBhdGgoUFJPVklERVIsICdmdHAnKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
@@ -465,7 +466,7 @@ LOCAL_TIMEZONE = config('LOCAL_TIMEZONE', 'Europe/Athens')</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcy5wYXRoLmpvaW4oUEhVX0ZJTEVfTE9DQVRJT04sICp4KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

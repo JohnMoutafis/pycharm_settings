@@ -59,10 +59,10 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" timestamp="1524059934418">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" timestamp="1524822627059">
         <mark key="'" line="21" column="1" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="29" column="57" />
         <mark key="." line="99" column="0" />
         <mark key="^" line="34" column="84" />
       </file>
@@ -121,6 +121,12 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/settings.py" timestamp="1524822904501">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/utils.py" timestamp="1522320888629">
         <mark key="'" line="35" column="4" />
         <mark key="[" line="35" column="0" />
@@ -169,9 +175,6 @@
         <mark key="]" line="33" column="23" />
         <mark key="^" line="33" column="23" />
         <mark key="." line="33" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" timestamp="1524642941063">
-        <mark key="'" line="91" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/gateway/filter_schemas.py" timestamp="1522679190554">
         <mark key="'" line="87" column="11" />
@@ -414,47 +417,55 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>check_courses_and_runners</text>
+        <text>def path(*x):
+    return os.path.join(PHU_FILE_LOCATION, *x)
+
+
+FILES_PATH = path(PROVIDER, 'ftp')
+SILKS_FOLDER_FORMAT = '[A-Z]{today}[A-Z]{{3}}'
+PNG_ENDING = '.png'
+
+# Base variables
+COUNTRY_CODE = config('COUNTRY_CODE', default='ZA')
+DEBUG = config('DEBUG', cast=bool, default=False)
+LOG_LEVEL = config('LOG_LEVEL', default=logging.DEBUG)
+LOCAL_TIMEZONE = config('LOCAL_TIMEZONE', 'Europe/Athens')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBucmNzaWIgaW1wb3J0IGVycm9ycwo=</text>
+        <text encoding="base64">UFJPVklERVJfQ09VTlRSWV9DT0RFID0gJ0NZJwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>Reinstated foreign meetings solution.
-
-Refs: #7</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UE5HX0VORElORyA9ICcucG5nJwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">U0lMS1NfRk9MREVSX0ZPUk1BVCA9ICdbQS1aXXt0b2RheX1bQS1aXXt7M319Jwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>+-----------+
-|     lalal |
-+-----------+</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY19maWxlLnN0YXJ0c3dpdGgoJ2MnKToK</text>
+        <text encoding="base64">RklMRVNfUEFUSCA9IHBhdGgoUFJPVklERVIsICdmdHAnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUG9zc2libHkgbWlzc2luZyBmaWxlczoge30nLmZvcm1hdCh1bl9jaGVja2VkKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBvcy5wYXRoLmpvaW4oUEhVX0ZJTEVfTE9DQVRJT04sICp4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

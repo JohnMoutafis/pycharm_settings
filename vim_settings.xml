@@ -152,6 +152,11 @@
         <mark key="." line="67" column="99" />
         <mark key="^" line="67" column="99" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/services.py" timestamp="1524821493908">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/env.example" timestamp="1524740256775">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="14" column="19" />
@@ -409,7 +414,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -417,39 +422,39 @@
       <register name="0" type="4">
         <text>check_courses_and_runners</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBucmNzaWIgaW1wb3J0IGVycm9ycwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>Reinstated foreign meetings solution.
 
 Refs: #7</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>+-----------+
 |     lalal |
 +-----------+</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgY19maWxlLnN0YXJ0c3dpdGgoJ2MnKToK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGUK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUG9zc2libHkgbWlzc2luZyBmaWxlczoge30nLmZvcm1hdCh1bl9jaGVja2VkKSkK</text>
+        <text encoding="base64">ICAgIGUK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnUG9zc2libHkgbWlzc2luZyBmaWxlczoge30nLmZvcm1hdCh1bl9jaGVja2VkKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlYnVnX2xvZ2dlciA9IGxvZ2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

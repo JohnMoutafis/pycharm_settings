@@ -159,11 +159,11 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525251547830">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525260123799">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524810488099">
         <mark key="[" line="211" column="0" />
@@ -287,7 +287,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>def combine_race_data(race, data, race_time):</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>

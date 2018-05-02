@@ -9,11 +9,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/settings.py" timestamp="1524822904501">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/settings.py" timestamp="1525267863447">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
       </file>
       <file name="/Python Console" timestamp="1525250254830">
         <mark key="[" line="0" column="0" />
@@ -164,11 +164,11 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525267267903">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525267872485">
         <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="37" />
+        <mark key="]" line="27" column="55" />
         <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="37" />
+        <mark key="." line="27" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524810488099">
         <mark key="[" line="211" column="0" />
@@ -292,14 +292,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>'NICOSIA'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>except (BadRequest, NotFound, Unavailable) as exc:
-            race_details = None</text>
+        <text>PROVIDER_MEETING_LOCATION</text>
       </register>
       <register name="1" type="4">
         <text>except NoCorrelationFound:

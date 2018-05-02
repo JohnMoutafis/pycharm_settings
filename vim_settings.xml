@@ -94,10 +94,10 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/main.py" timestamp="1525251812148">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/main.py" timestamp="1525269813520">
         <mark key="'" line="0" column="6" />
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="45" column="37" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="18" />
         <mark key="." line="45" column="37" />
         <mark key="^" line="45" column="37" />
       </file>
@@ -113,9 +113,9 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1525265513919">
-        <mark key="[" line="141" column="8" />
-        <mark key="]" line="142" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1525269796635">
+        <mark key="[" line="144" column="8" />
+        <mark key="]" line="166" column="75" />
         <mark key="." line="79" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1524142206210">
@@ -164,11 +164,11 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525267872485">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="55" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525269880074">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524810488099">
         <mark key="[" line="211" column="0" />
@@ -292,44 +292,44 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'NICOSIA'</text>
+        <text>correlated_silks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>PROVIDER_MEETING_LOCATION</text>
+        <text>bot_logger = logger</text>
       </register>
-      <register name="1" type="4">
-        <text>except NoCorrelationFound:
-            continue</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0aXRsZSc6IHRpdGxlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZF9jb3JyZWxhdGVkX3JhY2UobnVtPXJhY2VbJ251bSddLCByYWNlX3RpbWU9bG9jYWxfcmFjZV9kdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0aXRsZSc6IHRpdGxlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbF9yYWNlX2R0ID0gUFJPVklERVJfVFoubG9jYWxpemUocmFjZV9kYXRldGltZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGFbJ3JhY2VzJ10gPSBbXQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3Jlc3VsdF90b19zaWxrYm90KGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdDb3JyZWxhdGlvbiBkYXRhOiB7fScuZm9ybWF0KGNvcnJlbGF0aW9uX2RhdGEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdJIGFtIGhlcmUnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvZGF5X3N0ciA9IAo=</text>
+      <register name="8" type="4">
+        <text>except NoCorrelationFound:
+            continue</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gYXJyb3cubm93KExPQ0FMX1RJTUVaT05FKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZF9jb3JyZWxhdGVkX3JhY2UobnVtPXJhY2VbJ251bSddLCByYWNlX3RpbWU9bG9jYWxfcmFjZV9kdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

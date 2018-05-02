@@ -113,6 +113,11 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1525263882416">
+        <mark key="[" line="79" column="4" />
+        <mark key="]" line="79" column="45" />
+        <mark key="." line="79" column="18" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1524142206210">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="52" />
@@ -159,11 +164,11 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525260123799">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525263892801">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524810488099">
         <mark key="[" line="211" column="0" />
@@ -287,40 +292,31 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>def parse_race_details(race_node, details, **kwargs):
-    &quot;&quot;&quot;
-    Parses a race xml and connects runners to silks.
-    Args:
-        race_node: Race xml.
-        details: Fuzzybot correlated race info.
-
-    Returns:
-        A dictionary to be used as payload for posting results on silkbot.
-    &quot;&quot;&quot;</text>
+        <text>EXECUTION_TIME = arrow.now(LOCAL_TIMEZONE)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3Jlc3VsdF90b19zaWxrYm90KGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIGRhdGFbJ3JhY2VzJ10gPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0X3Jlc3VsdF90b19zaWxrYm90KGRhdGEpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvZGF5X3N0ciA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gYXJyb3cubm93KExPQ0FMX1RJTUVaT05FKQo=</text>
+        <text encoding="base64">ICAgIHRvZGF5X3N0ciA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvZGF5ID0gYXJyb3cubm93KExPQ0FMX1RJTUVaT05FKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -329,10 +325,10 @@
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nZ2VyID0gc2V0dGluZ3MubG9nZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nZ2VyID0gc2V0dGluZ3MubG9nZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

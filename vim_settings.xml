@@ -147,12 +147,12 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" timestamp="1525337853726">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" timestamp="1525338592419">
         <mark key="'" line="7" column="14" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="61" />
-        <mark key="." line="25" column="4" />
-        <mark key="^" line="24" column="21" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="35" />
+        <mark key="." line="44" column="35" />
+        <mark key="^" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/parsers.py" timestamp="1525334583955">
         <mark key="'" line="35" column="11" />
@@ -318,7 +318,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>utc_dt = race_time.astimezone(pytz.utc)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>

@@ -46,11 +46,11 @@
         <mark key="]" line="43" column="5" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525334535612">
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="57" column="30" />
-        <mark key="." line="57" column="30" />
-        <mark key="^" line="57" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525335775650">
+        <mark key="[" line="49" column="73" />
+        <mark key="]" line="49" column="72" />
+        <mark key="." line="49" column="72" />
+        <mark key="^" line="49" column="72" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1525251950375">
         <mark key="[" line="56" column="0" />
@@ -309,7 +309,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>runner_file</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -318,34 +318,34 @@
         <text>meeting.get('provider_id')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWVldGluZ19pZCc6IG1lZXRpbmdfaWQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVsncmFjZXMnXS5hcHBlbmQocmFjZV9kYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFjZV9kYXRhID0gY29tYmluZV9yYWNlX2RhdGEocmFjZSwgY29ycmVsYXRpb25fZGF0YSwgbG9jYWxfcmFjZV9kdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVsncmFjZXMnXS5hcHBlbmQocmFjZV9kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFjZV9kYXRhID0gY29tYmluZV9yYWNlX2RhdGEocmFjZSwgY29ycmVsYXRpb25fZGF0YSwgbG9jYWxfcmFjZV9kdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbJ3JhY2Vjb3Vyc2UnXSA9IGNvcnJlbGF0aW9uX2RhdGFbJ21lZXRpbmcnXVsnbG9jYXRpb24nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3JhY2Vjb3Vyc2UnIG5vdCBpbiBkYXRhOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbJ3JhY2Vjb3Vyc2UnXSA9IGNvcnJlbGF0aW9uX2RhdGFbJ21lZXRpbmcnXVsnbG9jYXRpb24nXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3JhY2Vjb3Vyc2UnIG5vdCBpbiBkYXRhOgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbJ2N1c3RvbWVyX3JlZl9pZCddID0gY29ycmVsYXRpb25fZGF0YVsnbWVldGluZyddWydpZHRnbWVldGluZyddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2N1c3RvbWVyX3JlZl9pZCcgbm90IGluIGRhdGE6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbJ2N1c3RvbWVyX3JlZl9pZCddID0gY29ycmVsYXRpb25fZGF0YVsnbWVldGluZyddWydpZHRnbWVldGluZyddCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -15,9 +15,6 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1525250254830">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/utils.py" timestamp="1525251959582">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="30" column="7" />
@@ -49,10 +46,11 @@
         <mark key="]" line="43" column="5" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525274127410">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525333011941">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1525251950375">
         <mark key="[" line="56" column="0" />
@@ -136,7 +134,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" timestamp="1525252270079" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/.env" timestamp="1524810883691">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="14" column="19" />
@@ -305,7 +302,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -314,35 +311,34 @@
         <text>bot_logger = logger</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0aXRsZSc6IHRpdGxlLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0aXRsZSc6IHRpdGxlLAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVsncmFjZXMnXS5hcHBlbmQocmFjZV9kYXRhKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFjZV9kYXRhID0gY29tYmluZV9yYWNlX2RhdGEocmFjZSwgY29ycmVsYXRpb25fZGF0YSwgbG9jYWxfcmFjZV9kdCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdDb3JyZWxhdGlvbiBkYXRhOiB7fScuZm9ybWF0KGNvcnJlbGF0aW9uX2RhdGEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbJ3JhY2Vjb3Vyc2UnXSA9IGNvcnJlbGF0aW9uX2RhdGFbJ21lZXRpbmcnXVsnbG9jYXRpb24nXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdJIGFtIGhlcmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3JhY2Vjb3Vyc2UnIG5vdCBpbiBkYXRhOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text>except NoCorrelationFound:
-            continue</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbJ2N1c3RvbWVyX3JlZl9pZCddID0gY29ycmVsYXRpb25fZGF0YVsnbWVldGluZyddWydpZHRnbWVldGluZyddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZF9jb3JyZWxhdGVkX3JhY2UobnVtPXJhY2VbJ251bSddLCByYWNlX3RpbWU9bG9jYWxfcmFjZV9kdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2N1c3RvbWVyX3JlZl9pZCcgbm90IGluIGRhdGE6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

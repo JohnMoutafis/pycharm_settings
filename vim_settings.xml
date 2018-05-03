@@ -34,9 +34,6 @@
         <mark key="." line="50" column="43" />
         <mark key="^" line="50" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" timestamp="1524642941063">
-        <mark key="'" line="91" column="55" />
-      </file>
       <file name="/a.dummy" timestamp="1524692598528">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,9 +120,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/parsers.py" timestamp="1525334583955">
-        <mark key="'" line="35" column="11" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/.env" timestamp="1524810883691">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="14" column="19" />
@@ -180,6 +174,12 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
+        <mark key="[" line="125" column="22" />
+        <mark key="]" line="125" column="26" />
+        <mark key="^" line="273" column="30" />
+        <mark key="." line="273" column="30" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/setup.cfg" timestamp="1525246471668">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="31" column="21" />
@@ -207,6 +207,12 @@
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_apply_queries.sql" timestamp="1525382150676">
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="62" column="32" />
+        <mark key="^" line="62" column="32" />
+        <mark key="." line="62" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/debug/debug.py" timestamp="1524816364482">
         <mark key="[" line="9" column="32" />
@@ -260,11 +266,11 @@
       <file name="/Python Console" timestamp="1524666231853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_point_g.sql" timestamp="1525376501799">
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_point_g.sql" timestamp="1525381311997">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="51" />
+        <mark key="." line="9" column="51" />
       </file>
       <file name="/settings.py" timestamp="1524740238389">
         <mark key="[" line="29" column="0" />
@@ -276,11 +282,11 @@
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_polygon_g.sql" timestamp="1525378370064">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="52" />
-        <mark key="^" line="114" column="33" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_polygon_g.sql" timestamp="1525380944481">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="116" column="33" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1524235030579">
         <mark key="[" line="46" column="8" />
@@ -306,7 +312,7 @@
         <mark key="^" line="114" column="18" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1525378788848">
+      <file name="/a.sql" timestamp="1525381328605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_1/queries/python_queries/copy_from_remote_db.py" timestamp="1520898896215">
@@ -356,10 +362,10 @@
         <mark key="]" line="43" column="5" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525376204182">
+      <file name="/dummy.sql" timestamp="1525381684212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525270896584">
+      <file name="/Dummy.txt" timestamp="1525381334980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -397,6 +403,9 @@
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/requirements.txt" timestamp="1525351197316">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="11" />
+      </file>
+      <file name="/point_g [jgmoutafisdb@147.102.40.25]" timestamp="1525381683786">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/.env" timestamp="1525246657600">
         <mark key="[" line="0" column="13" />
@@ -527,8 +536,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_point_g.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -540,45 +549,44 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MTAwIA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>UPDATE exercise1.line_g SET geometry = ST_GeomFromText('LINESTRING(10 20, 100 90)')
-WHERE IDline_g ='1';</text>
+        <text>point</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBleGVyY2lzZTEubGluZV9nOwo=</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBleGVyY2lzZTEuYnVpbGRpbmcgQ0FTQ0FERSA7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>-- UPDATE polygon_g SET geometry = ST_GeomFromText('POLYGON((30 20, 60 20, 60 30, 30 30, 30 20))')
---     WHERE IDpolygon_g ='2';</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIEFkZEdlb21ldHJ5Q29sdW1uKCdleGVyY2lzZTEnLCAncG9seWdvbl9nJywgJ2dlb21ldHJ5JywgLTEsICdMSU5FJywgMik7Cg==</text>
+        <text encoding="base64">CUZPUkVJR04gS0VZIChidWlsZGluZ0lEKSBSRUZFUkVOQ0VTIGV4ZXJjaXNlMS5idWlsZGluZyAoSURidWlsZGluZykgT04gREVMRVRFIENBU0NBREU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWJ1aWxkaW5nSUQgSU5URUdFUgo=</text>
+        <text encoding="base64">CUFERCBDT05TVFJBSU5UIEZLX3BvbHlnb25fYnVpbGRpbmcgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByb3BlcnR5SUQgSU5URUdFUiwK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgZXhlcmNpc2UxLnBvbHlnb24gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">zqkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBleGVyY2lzZTEubGluZV9nOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LS0gIGV0Yy4gLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uCg==</text>
+      <register name="9" type="4">
+        <text>-- UPDATE polygon_g SET geometry = ST_GeomFromText('POLYGON((30 20, 60 20, 60 30, 30 30, 30 20))')
+--     WHERE IDpolygon_g ='2';</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

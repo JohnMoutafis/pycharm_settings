@@ -71,14 +71,15 @@
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" timestamp="1525251723167">
-        <mark key="[" line="129" column="4" />
-        <mark key="]" line="132" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" timestamp="1525355156419">
+        <mark key="[" line="126" column="16" />
+        <mark key="]" line="126" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" timestamp="1525352334455">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" timestamp="1525355269643">
+        <mark key="[" line="39" column="69" />
+        <mark key="]" line="40" column="11" />
+        <mark key="^" line="40" column="11" />
+        <mark key="." line="40" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/env.example" timestamp="1524740256775">
         <mark key="[" line="13" column="15" />
@@ -86,9 +87,9 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcbot.py" timestamp="1525334312711">
-        <mark key="[" line="81" column="30" />
-        <mark key="]" line="81" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcbot.py" timestamp="1525352971420">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="69" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1524235030579">
         <mark key="[" line="46" column="8" />
@@ -302,43 +303,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>customer_horse_id</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>pytz==2017.3</text>
+        <text>extra={'notify_slack': True}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCducmNib3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnZGF0YSBhcmU6IHt9Jy5mb3JtYXQoZGF0YSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBucmNib3QgaW1wb3J0IHByb2Nlc3NfbWVldGluZ19yYWNlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBydW5uZXJbJ3J1bm5lcl9pZ3RfaWQnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RyKHJ1bm5lclsnbnVtYmVyJ10pID09IHN0cihlbnRyeW51bWJlcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcnVubmVyIGluIHJ1bm5lcnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvdW50cnlfY29kZSc6IENPVU5UUllfQ09ERSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGVudHJ5bnVtYmVyOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NjaGVkdWxlZF9mb3InOiBtZWV0aW5nX2RhdGUsCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGdldF9jdXN0b21lcl9ob3JzZV9pZChydW5uZXJzLCBlbnRyeW51bWJlcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb3ZpZGVyX3JlZl9pZCc6IHByb3ZpZGVyX21lZXRpbmdfaWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLnVwZGF0ZSh7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

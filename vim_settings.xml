@@ -147,12 +147,12 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" timestamp="1525338592419">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" timestamp="1525339454858">
         <mark key="'" line="7" column="14" />
-        <mark key="[" line="44" column="31" />
-        <mark key="]" line="44" column="35" />
-        <mark key="." line="44" column="35" />
-        <mark key="^" line="44" column="35" />
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="31" />
+        <mark key="^" line="32" column="34" />
+        <mark key="." line="30" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/parsers.py" timestamp="1525334583955">
         <mark key="'" line="35" column="11" />
@@ -318,7 +318,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>customer_horse_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -330,31 +330,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgIGhvcnNlcyA9IHJhY2Vfbm9kZVsnaG9yc2VzJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhvcnNlcyA9IHJhY2Vfbm9kZVsnaG9yc2VzJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYXRldGltZS5kYXRldGltZS5jb21iaW5lKHRvZGF5LCByYWNlX3RpbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJhY2VfdGltZSA9IGRhdGV0aW1lLnRpbWUoaG91cj1pbnQocmFjZV9ob3VyKSwgbWludXRlPWludChyYWNlX21pbnV0ZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJhY2VfaG91ciwgcmFjZV9taW51dGVzID0gcmNfdGltZS5zcGxpdCgnOicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdObyBydW5uZXIgZm91bmQgZm9yIHt9Jy5mb3JtYXQoaG9yc2VbJ251bSddKSkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZXRpbWUuZGF0ZS50b2RheSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgTm9SdW5uZXJGb3VuZDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGJ1aWxkX2RhdGV0aW1lKHJjX3RpbWUpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXJfaG9yc2VfaWQgPSBnZXRfY3VzdG9tZXJfaG9yc2VfaWQoZGF0YVsncnVubmVycyddLCBob3JzZVsnbnVtJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

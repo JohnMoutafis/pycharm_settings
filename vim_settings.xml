@@ -76,11 +76,11 @@
         <mark key="^" line="144" column="15" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525384341168">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+        <mark key="^" line="46" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/README.md" timestamp="1516825087936">
         <mark key="'" line="0" column="0" />
@@ -214,9 +214,9 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_apply_queries.sql" timestamp="1525383337271">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_apply_queries.sql" timestamp="1525386276218">
+        <mark key="[" line="92" column="14" />
+        <mark key="]" line="92" column="51" />
         <mark key="^" line="62" column="32" />
         <mark key="." line="62" column="32" />
       </file>
@@ -294,6 +294,9 @@
         <mark key="^" line="116" column="33" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="/line_g [jgmoutafisdb@147.102.40.25]" timestamp="1525388599174">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1524235030579">
         <mark key="[" line="46" column="8" />
         <mark key="]" line="50" column="38" />
@@ -368,7 +371,7 @@
         <mark key="]" line="43" column="5" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525381684212">
+      <file name="/dummy.sql" timestamp="1525388599482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1525381334980">
@@ -542,8 +545,8 @@
       <jump line="3" column="15" filename="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBwb2x5Z29uMS5pZHBvbHlnb25fZywKICBwb2x5Z29uMi5pZHBvbHlnb25fZywKICBTVF9ESVNUQU5DRShwb2x5Z29uMS5nZW9tZXRyeSwgcG9seWdvbjIuZ2VvbWV0cnkpIGFzIGRpc3RhbmNlCkZST00gZXhlcmNpc2UxLnBvbHlnb25fZyBwb2x5Z29uMSwgZXhlcmNpc2UxLnBvbHlnb25fZyBwb2x5Z29uMgpXSEVSRSBwb2x5Z29uMS5pZHBvbHlnb25fZyAhPSBwb2x5Z29uMi5pZHBvbHlnb25fZwpPUkRFUiBCWSBwb2x5Z29uMS5pZHBvbHlnb25fZyBBU0MsIGRpc3RhbmNlIERFU0M=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -555,43 +558,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">SU5ORVIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LS0gUXVlc3Rpb24gNC4xCg==</text>
+      <register name="0" type="4">
+        <text>ST_DISTANCE(polygon1.geometry, polygon2.geometry)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBwb2x5Z29uMS5pZHBvbHlnb25fZywKICBwb2x5Z29uMi5pZHBvbHlnb25fZywKICBTVF9ESVNUQU5DRShwb2x5Z29uMS5nZW9tZXRyeSwgcG9seWdvbjIuZ2VvbWV0cnkpIGFzIGRpc3RhbmNlCkZST00gZXhlcmNpc2UxLnBvbHlnb25fZyBwb2x5Z29uMSwgZXhlcmNpc2UxLnBvbHlnb25fZyBwb2x5Z29uMgpXSEVSRSBwb2x5Z29uMS5pZHBvbHlnb25fZyAhPSBwb2x5Z29uMi5pZHBvbHlnb25fZwpPUkRFUiBCWSBwb2x5Z29uMS5pZHBvbHlnb25fZyBBU0MsIGRpc3RhbmNlIERFU0M=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIHN0X2FzdGV4dChnZW9tZXRyeSkgZnJvbSBleGVyY2lzZTEubGluZV9nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBleGVyY2lzZTEuYnVpbGRpbmcgQ0FTQ0FERSA7Cg==</text>
+        <text encoding="base64">ICAgIEFORCBwb2x5Z29uMi5pZHBvbHlnb25fZyA+IHBvbHlnb24xLmlkcG9seWdvbl9nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUZPUkVJR04gS0VZIChidWlsZGluZ0lEKSBSRUZFUkVOQ0VTIGV4ZXJjaXNlMS5idWlsZGluZyAoSURidWlsZGluZykgT04gREVMRVRFIENBU0NBREU7Cg==</text>
+        <text encoding="base64">ICAgIE9OIHBvbHlnb24xLmlkcG9seWdvbl9nICE9IHBvbHlnb24yLmlkcG9seWdvbl9nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUFERCBDT05TVFJBSU5UIEZLX3BvbHlnb25fYnVpbGRpbmcgCg==</text>
+        <text encoding="base64">ICAgIEFORCBwb2x5Z29uMi5pZHBvbHlnb25fZyA+IHBvbHlnb24xLmlkcG9seWdvbl9nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgZXhlcmNpc2UxLnBvbHlnb24gCg==</text>
+        <text encoding="base64">ICAgIE9OIHBvbHlnb24xLmlkcG9seWdvbl9nICE9IHBvbHlnb24yLmlkcG9seWdvbl9nCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBleGVyY2lzZTEubGluZV9nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

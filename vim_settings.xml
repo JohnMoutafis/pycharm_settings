@@ -114,6 +114,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="31" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/.env" timestamp="1525423302791">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1525270896584">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -303,7 +309,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>

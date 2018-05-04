@@ -15,7 +15,7 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1525425020281">
+      <file name="/Python Console" timestamp="1525426729544">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/utils.py" timestamp="1525251959582">
@@ -117,11 +117,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/.env" timestamp="1525423302791">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/.env" timestamp="1525426874980">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1525270896584">
         <mark key="[" line="0" column="0" />
@@ -133,18 +133,18 @@
         <mark key="]" line="166" column="75" />
         <mark key="." line="79" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1524142206210">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="52" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="1" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525426641180">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="58" />
+        <mark key="^" line="3" column="58" />
+        <mark key="." line="3" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/requirements.txt" timestamp="1525351197316">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" timestamp="1525425172163">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" timestamp="1525427083667">
+        <mark key="'" line="138" column="6" />
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="14" />
         <mark key="^" line="15" column="14" />
@@ -174,11 +174,11 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1524141945378">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="5" column="60" />
-        <mark key="^" line="5" column="60" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525426545916">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="/utils.py" timestamp="1524748774160">
         <mark key="[" line="97" column="16" />
@@ -207,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/setup.cfg" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/setup.cfg" />
@@ -307,6 +306,7 @@
       <jump line="7" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" />
       <jump line="68" column="17" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" />
       <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" />
+      <jump line="138" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -328,37 +328,37 @@
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>extra={'notify_slack': True}</text>
+        <text>SLACK_LOGGIN=False</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyBCYXNlIFZhcmlhYmxlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnZGF0YSBhcmU6IHt9Jy5mb3JtYXQoZGF0YSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBucmNib3QgaW1wb3J0IHByb2Nlc3NfbWVldGluZ19yYWNlcwo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnZGF0YSBhcmU6IHt9Jy5mb3JtYXQoZGF0YSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBucmNib3QgaW1wb3J0IHByb2Nlc3NfbWVldGluZ19yYWNlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvdW50cnlfY29kZSc6IENPVU5UUllfQ09ERSwK</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NjaGVkdWxlZF9mb3InOiBtZWV0aW5nX2RhdGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvdW50cnlfY29kZSc6IENPVU5UUllfQ09ERSwK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb3ZpZGVyX3JlZl9pZCc6IHByb3ZpZGVyX21lZXRpbmdfaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NjaGVkdWxlZF9mb3InOiBtZWV0aW5nX2RhdGUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLnVwZGF0ZSh7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb3ZpZGVyX3JlZl9pZCc6IHByb3ZpZGVyX21lZXRpbmdfaWQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

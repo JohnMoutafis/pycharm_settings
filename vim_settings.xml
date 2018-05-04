@@ -162,8 +162,11 @@
         <mark key="^" line="23" column="78" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/parsers.py" timestamp="1525334583955">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/parsers.py" timestamp="1525425828161">
         <mark key="'" line="35" column="11" />
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="39" column="9" />
+        <mark key="." line="39" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/debug/debug.py" timestamp="1524816364482">
         <mark key="[" line="9" column="32" />
@@ -319,7 +322,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>redis</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>

@@ -76,10 +76,10 @@
         <mark key="^" line="144" column="15" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="35" />
-        <mark key="." line="46" column="35" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525513369544">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
         <mark key="^" line="46" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/README.md" timestamp="1516825087936">
@@ -214,11 +214,11 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_apply_queries.sql" timestamp="1525386276218">
-        <mark key="[" line="92" column="14" />
-        <mark key="]" line="92" column="51" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_apply_queries.sql" timestamp="1525513361262">
+        <mark key="[" line="92" column="36" />
+        <mark key="]" line="92" column="36" />
         <mark key="^" line="62" column="32" />
-        <mark key="." line="62" column="32" />
+        <mark key="." line="92" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/debug/debug.py" timestamp="1524816364482">
         <mark key="[" line="9" column="32" />
@@ -545,8 +545,8 @@
       <jump line="3" column="15" filename="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -558,7 +558,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SU5ORVIg</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>

@@ -76,11 +76,11 @@
         <mark key="^" line="144" column="15" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525513369544">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="46" column="35" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525514413279">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+        <mark key="^" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/README.md" timestamp="1516825087936">
         <mark key="'" line="0" column="0" />
@@ -546,7 +546,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>polygon1.idpolygon_g != polygon2.idpolygon_g</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -558,7 +558,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>polygon1.idpolygon_g != polygon2.idpolygon_g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -567,34 +567,34 @@
         <text>ST_DISTANCE(polygon1.geometry, polygon2.geometry)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBTkQgU1RfRElTVEFOQ0UocG9seWdvbjEuZ2VvbWV0cnksIHBvbHlnb24yLmdlb21ldHJ5KSA+IDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUIHN0X2FzdGV4dChnZW9tZXRyeSkgZnJvbSBleGVyY2lzZTEubGluZV9nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFORCBwb2x5Z29uMi5pZHBvbHlnb25fZyA+IHBvbHlnb24xLmlkcG9seWdvbl9nCg==</text>
+        <text encoding="base64">U0VMRUNUIHN0X2FzdGV4dChnZW9tZXRyeSkgZnJvbSBleGVyY2lzZTEubGluZV9nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIE9OIHBvbHlnb24xLmlkcG9seWdvbl9nICE9IHBvbHlnb24yLmlkcG9seWdvbl9nCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIEFORCBwb2x5Z29uMi5pZHBvbHlnb25fZyA+IHBvbHlnb24xLmlkcG9seWdvbl9nCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIE9OIHBvbHlnb24xLmlkcG9seWdvbl9nICE9IHBvbHlnb24yLmlkcG9seWdvbl9nCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEFORCBwb2x5Z29uMi5pZHBvbHlnb25fZyA+IHBvbHlnb24xLmlkcG9seWdvbl9nCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
+        <text encoding="base64">ICAgIE9OIHBvbHlnb24xLmlkcG9seWdvbl9nICE9IHBvbHlnb24yLmlkcG9seWdvbl9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

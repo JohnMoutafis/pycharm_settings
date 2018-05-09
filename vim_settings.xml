@@ -26,12 +26,12 @@
         <mark key="[" line="103" column="9" />
         <mark key="]" line="103" column="58" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525446515163">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525863826059">
         <mark key="'" line="13" column="8" />
-        <mark key="[" line="36" column="46" />
-        <mark key="]" line="37" column="37" />
-        <mark key="." line="37" column="37" />
-        <mark key="^" line="37" column="37" />
+        <mark key="[" line="48" column="47" />
+        <mark key="]" line="48" column="54" />
+        <mark key="." line="48" column="54" />
+        <mark key="^" line="48" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1525337847671">
         <mark key="'" line="6" column="0" />
@@ -612,7 +612,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>race_num</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -621,34 +621,34 @@
         <text>from django.db.models import F</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFjZV9udW0gPSByYWNlX25vZGUuZ2V0KCdudW0nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90X2xvZ2dlci5kZWJ1ZyhyYWNlX25vZGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4KY2xhc3MgVGFnKG1vZGVscy5Nb2RlbCk6CiAgICBuYW1lID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NSkKCgpjbGFzcyBJbGx1c3RyYXRpb24obW9kZWxzLk1vZGVsKToKICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjU1KQogICAgdGFncyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoVGFnKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRlc3RfbGlzdChzZWxmKToKICAgICAgICByZXR1cm4gW3RhZy5uYW1lIGZvciB0YWcgaW4gc2VsZi50YWdzLmFsbCgpXQo=</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdMQUxBTEFMQToge30nLmZvcm1hdChtZWV0aW5nKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdWYWx1ZToge30nLmZvcm1hdCh2YWx1ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdNTU1NTToge30nLmZvcm1hdChtZWV0aW5nLmdldCgncmFjZXMnKSkpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIHN0X2FzdGV4dChnZW9tZXRyeSkgZnJvbSBleGVyY2lzZTEubGluZV9nOwo=</text>
+        <text encoding="base64">ICAgIEYoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFORCBwb2x5Z29uMi5pZHBvbHlnb25fZyA+IHBvbHlnb24xLmlkcG9seWdvbl9nCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4KY2xhc3MgVGFnKG1vZGVscy5Nb2RlbCk6CiAgICBuYW1lID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NSkKCgpjbGFzcyBJbGx1c3RyYXRpb24obW9kZWxzLk1vZGVsKToKICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjU1KQogICAgdGFncyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoVGFnKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRlc3RfbGlzdChzZWxmKToKICAgICAgICByZXR1cm4gW3RhZy5uYW1lIGZvciB0YWcgaW4gc2VsZi50YWdzLmFsbCgpXQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdWYWx1ZToge30nLmZvcm1hdCh2YWx1ZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE9OIHBvbHlnb24xLmlkcG9seWdvbl9nICE9IHBvbHlnb24yLmlkcG9seWdvbl9nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

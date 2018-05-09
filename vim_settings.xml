@@ -221,6 +221,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" timestamp="1525878795269">
+        <mark key="[" line="61" column="37" />
+      </file>
       <file name="/line_g [jgmoutafisdb@147.102.40.25]" timestamp="1525388599174">
         <mark key="[" line="0" column="0" />
       </file>
@@ -346,12 +349,17 @@
       <file name="/dummy.sql" timestamp="1525388599482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" timestamp="1524054411193">
-        <mark key="'" line="143" column="37" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="163" column="5" />
-        <mark key="^" line="144" column="15" />
-        <mark key="." line="155" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" timestamp="1525879368002">
+        <mark key="'" line="171" column="4" />
+        <mark key="[" line="87" column="11" />
+        <mark key="]" line="87" column="18" />
+        <mark key="." line="87" column="18" />
+        <mark key="^" line="87" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525879481309">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525866149075">
         <mark key="[" line="3" column="17" />
@@ -479,10 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/services.py" />
-      <jump line="93" column="16" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
-      <jump line="179" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
-      <jump line="80" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="84" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
       <jump line="70" column="41" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
       <jump line="71" column="30" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
@@ -579,6 +583,10 @@
       <jump line="19" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" />
       <jump line="24" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" />
       <jump line="29" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" />
+      <jump line="103" column="26" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
+      <jump line="87" column="10" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
+      <jump line="162" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
+      <jump line="170" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -594,7 +602,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>new architecture WIP 2</text>
+        <text>'NICOSIA'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -606,34 +614,35 @@
         )</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ClJlZnM6ICM3</text>
+        <text>Brought strategy to original state and added the `meeting_date` filter
+on the `fetch_meetings` method call, to fetch the correct meetings.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UFJPVklERVIgPSAnbnJjJwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbjogUmFjZSdzIG1lZXRpbmcgTmFtZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ClJlZnM6ICM3</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QkFTRV9ESVIgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkK</text>
+        <text encoding="base64">UFJPVklERVIgPSAnbnJjJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZvcm1hdChyZXN1bHRzLCBjb3JyZWxhdGVkX3NpbGtzLCBwcm9jZXNzaW5nX2Vycm9ycykK</text>
+        <text encoding="base64">QkFTRV9ESVIgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1Jlc3VsdHM6IHt9XG5TaWxrczoge31cbkVycm9yczoge30nCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZvcm1hdChyZXN1bHRzLCBjb3JyZWxhdGVkX3NpbGtzLCBwcm9jZXNzaW5nX2Vycm9ycykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjEwLjUwOjkwOTAvbG9va3VwP3Byb3ZpZGVyPWN5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1Jlc3VsdHM6IHt9XG5TaWxrczoge31cbkVycm9yczoge30nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

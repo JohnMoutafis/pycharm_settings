@@ -15,6 +15,9 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" timestamp="1525875268146">
+        <mark key="'" line="29" column="9" />
+      </file>
       <file name="/a.dummy" timestamp="1524692598528">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,11 +321,12 @@
         <mark key="^" line="41" column="28" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" timestamp="1525871326434">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="23" column="49" />
-        <mark key="^" line="23" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" timestamp="1525875236930">
+        <mark key="'" line="81" column="3" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="20" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/setup.cfg" timestamp="1525246471668">
         <mark key="[" line="19" column="0" />
@@ -496,23 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" />
-      <jump line="38" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" />
-      <jump line="126" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
-      <jump line="83" column="24" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
-      <jump line="35" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
-      <jump line="122" column="23" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
-      <jump line="65" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" />
-      <jump line="50" column="43" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
-      <jump line="26" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
-      <jump line="59" column="54" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
-      <jump line="0" column="57" filename="/Python Console" />
-      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phumebot.py" />
-      <jump line="11" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" />
-      <jump line="106" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
       <jump line="60" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/services.py" />
       <jump line="93" column="16" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="179" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
@@ -596,6 +583,23 @@
       <jump line="107" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="69" column="40" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
       <jump line="35" column="20" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" />
+      <jump line="6" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="5" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="7" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="8" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="9" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="10" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="17" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="14" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="13" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="24" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="50" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="81" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
+      <jump line="0" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" />
+      <jump line="14" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" />
+      <jump line="19" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" />
+      <jump line="24" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" />
+      <jump line="29" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -623,34 +627,34 @@
         )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">UFJPVklERVIgPSAnbnJjJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZvcm1hdChyZXN1bHRzLCBjb3JyZWxhdGVkX3NpbGtzLCBwcm9jZXNzaW5nX2Vycm9ycykK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1Jlc3VsdHM6IHt9XG5TaWxrczoge31cbkVycm9yczoge30nCg==</text>
+        <text encoding="base64">QkFTRV9ESVIgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKAo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjEwLjUwOjkwOTAvbG9va3VwP3Byb3ZpZGVyPWN5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZvcm1hdChyZXN1bHRzLCBjb3JyZWxhdGVkX3NpbGtzLCBwcm9jZXNzaW5nX2Vycm9ycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0lMS0JPVF9FTkRQT0lOVD1odHRwOi8vMTAuMTAuMTEuNzM6OTA5MS9hcGkvdjEvc2lsa3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1Jlc3VsdHM6IHt9XG5TaWxrczoge31cbkVycm9yczoge30nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QVBJX0tFWT0K</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1pcC1sb2NhdGlvbi1mb3ItbnJjLXNpbGtzCg==</text>
+        <text encoding="base64">RlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjEwLjUwOjkwOTAvbG9va3VwP3Byb3ZpZGVyPWN5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0xBQ0tfV0VCSE9PSz08YXMtc2V0LWluLXNsYWNrLXRlYW0tc2VydmljZXM+Cg==</text>
+        <text encoding="base64">U0lMS0JPVF9FTkRQT0lOVD1odHRwOi8vMTAuMTAuMTEuNzM6OTA5MS9hcGkvdjEvc2lsa3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

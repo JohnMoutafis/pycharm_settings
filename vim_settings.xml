@@ -58,6 +58,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/django_test/test_manytomany/models.py" timestamp="1525854600712">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcbot.py" timestamp="1525352971420">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="69" />
@@ -281,6 +286,9 @@
         <mark key="]" line="56" column="44" />
         <mark key="^" line="56" column="44" />
         <mark key="." line="56" column="44" />
+      </file>
+      <file name="/Django Console" timestamp="1525854159107">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/env.example" timestamp="1524740249536">
         <mark key="[" line="14" column="0" />
@@ -610,25 +618,25 @@
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ST_DISTANCE(polygon1.geometry, polygon2.geometry)</text>
+        <text>from django.db.models import F</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdWYWx1ZToge30nLmZvcm1hdCh2YWx1ZSkpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEYoKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUIHN0X2FzdGV4dChnZW9tZXRyeSkgZnJvbSBleGVyY2lzZTEubGluZV9nOwo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4KY2xhc3MgVGFnKG1vZGVscy5Nb2RlbCk6CiAgICBuYW1lID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NSkKCgpjbGFzcyBJbGx1c3RyYXRpb24obW9kZWxzLk1vZGVsKToKICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjU1KQogICAgdGFncyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoVGFnKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRlc3RfbGlzdChzZWxmKToKICAgICAgICByZXR1cm4gW3RhZy5uYW1lIGZvciB0YWcgaW4gc2VsZi50YWdzLmFsbCgpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFORCBwb2x5Z29uMi5pZHBvbHlnb25fZyA+IHBvbHlnb24xLmlkcG9seWdvbl9nCg==</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdWYWx1ZToge30nLmZvcm1hdCh2YWx1ZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9OIHBvbHlnb24xLmlkcG9seWdvbl9nICE9IHBvbHlnb24yLmlkcG9seWdvbl9nCg==</text>
+        <text encoding="base64">U0VMRUNUIHN0X2FzdGV4dChnZW9tZXRyeSkgZnJvbSBleGVyY2lzZTEubGluZV9nOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEFORCBwb2x5Z29uMi5pZHBvbHlnb25fZyA+IHBvbHlnb24xLmlkcG9seWdvbl9nCg==</text>
@@ -637,10 +645,10 @@
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE9OIHBvbHlnb24xLmlkcG9seWdvbl9nICE9IHBvbHlnb24yLmlkcG9seWdvbl9nCg==</text>
+        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTMwNDE4MDIvcmVtb3ZlLXJldmVyc2UtZHVwbGljYXRlcy1mcm9tLWFuLXNxbC1xdWVyeQo=</text>
+        <text encoding="base64">ICAgIE9OIHBvbHlnb24xLmlkcG9seWdvbl9nICE9IHBvbHlnb24yLmlkcG9seWdvbl9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

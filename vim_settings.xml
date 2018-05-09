@@ -52,12 +52,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" timestamp="1525872105466">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" timestamp="1525873955509">
         <mark key="'" line="35" column="20" />
-        <mark key="[" line="47" column="82" />
-        <mark key="]" line="47" column="42" />
-        <mark key="." line="47" column="42" />
-        <mark key="^" line="47" column="42" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="43" column="42" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/django_test/test_manytomany/models.py" timestamp="1525854600712">
         <mark key="[" line="15" column="0" />
@@ -623,34 +623,34 @@
         )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjEwLjUwOjkwOTAvbG9va3VwP3Byb3ZpZGVyPWN5Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0lMS0JPVF9FTkRQT0lOVD1odHRwOi8vMTAuMTAuMTEuNzM6OTA5MS9hcGkvdjEvc2lsa3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZvcm1hdChyZXN1bHRzLCBjb3JyZWxhdGVkX3NpbGtzLCBwcm9jZXNzaW5nX2Vycm9ycykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QVBJX0tFWT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1Jlc3VsdHM6IHt9XG5TaWxrczoge31cbkVycm9yczoge30nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1pcC1sb2NhdGlvbi1mb3ItbnJjLXNpbGtzCg==</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0xBQ0tfV0VCSE9PSz08YXMtc2V0LWluLXNsYWNrLXRlYW0tc2VydmljZXM+Cg==</text>
+        <text encoding="base64">RlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjEwLjUwOjkwOTAvbG9va3VwP3Byb3ZpZGVyPWN5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TE9DQUxfVElNRVpPTkU9RXVyb3BlL0F0aGVucwo=</text>
+        <text encoding="base64">U0lMS0JPVF9FTkRQT0lOVD1odHRwOi8vMTAuMTAuMTEuNzM6OTA5MS9hcGkvdjEvc2lsa3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UFJPVklERVJfVElNRVpPTkU9RXVyb3BlL05pY29zaWEK</text>
+        <text encoding="base64">QVBJX0tFWT0K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UFJPVklERVI9bnJjCg==</text>
+        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1pcC1sb2NhdGlvbi1mb3ItbnJjLXNpbGtzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUaGlzIHNob3VsZCBuZXZlciBiZSBjaGFuZ2VkIQo=</text>
+        <text encoding="base64">U0xBQ0tfV0VCSE9PSz08YXMtc2V0LWluLXNsYWNrLXRlYW0tc2VydmljZXM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

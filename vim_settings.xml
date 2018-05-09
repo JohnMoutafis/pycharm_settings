@@ -137,11 +137,11 @@
         <mark key="." line="79" column="18" />
         <mark key="^" line="51" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525866463363">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525869226820">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+        <mark key="^" line="4" column="59" />
       </file>
       <file name="/utils.py" timestamp="1524748774160">
         <mark key="[" line="97" column="16" />
@@ -301,10 +301,11 @@
         <mark key="." line="93" column="73" />
         <mark key="^" line="93" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/services.py" timestamp="1525868138818">
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="78" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/services.py" timestamp="1525869122122">
+        <mark key="[" line="79" column="19" />
+        <mark key="]" line="79" column="18" />
+        <mark key="." line="79" column="18" />
+        <mark key="^" line="79" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524213364802">
         <mark key="'" line="212" column="10" />
@@ -612,13 +613,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>UTC</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>http://cdn.vermantia.com/static/phumelela/</text>
+        <text>e</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJvdF9sb2dnZXIuZGVidWcocGF5bG9hZCkK</text>

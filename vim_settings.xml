@@ -221,16 +221,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" timestamp="1524643597585">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcbot.py" timestamp="1525264711039">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="43" column="5" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/line_g [jgmoutafisdb@147.102.40.25]" timestamp="1525388599174">
         <mark key="[" line="0" column="0" />
       </file>
@@ -362,11 +352,6 @@
         <mark key="]" line="163" column="5" />
         <mark key="^" line="144" column="15" />
         <mark key="." line="155" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1525876653689">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525866149075">
         <mark key="[" line="3" column="17" />
@@ -609,7 +594,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>new architecture WIP 2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -620,35 +605,35 @@
             .format(results, correlated_silks, processing_errors)
         )</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">UFJPVklERVIgPSAnbnJjJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ClJlZnM6ICM3</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">UFJPVklERVIgPSAnbnJjJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QkFTRV9ESVIgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">QkFTRV9ESVIgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZvcm1hdChyZXN1bHRzLCBjb3JyZWxhdGVkX3NpbGtzLCBwcm9jZXNzaW5nX2Vycm9ycykK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1Jlc3VsdHM6IHt9XG5TaWxrczoge31cbkVycm9yczoge30nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZvcm1hdChyZXN1bHRzLCBjb3JyZWxhdGVkX3NpbGtzLCBwcm9jZXNzaW5nX2Vycm9ycykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1Jlc3VsdHM6IHt9XG5TaWxrczoge31cbkVycm9yczoge30nCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjEwLjUwOjkwOTAvbG9va3VwP3Byb3ZpZGVyPWN5Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0lMS0JPVF9FTkRQT0lOVD1odHRwOi8vMTAuMTAuMTEuNzM6OTA5MS9hcGkvdjEvc2lsa3MK</text>
+        <text encoding="base64">RlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjEwLjUwOjkwOTAvbG9va3VwP3Byb3ZpZGVyPWN5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -135,6 +135,7 @@
         <mark key="^" line="52" column="87" />
         <mark key="." line="52" column="87" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" timestamp="1525961358646" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" timestamp="1522237600575">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="24" column="86" />
@@ -189,6 +190,9 @@
         <mark key="]" line="42" column="99" />
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1525960808390">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
         <mark key="[" line="3" column="20" />
@@ -323,6 +327,7 @@
         <mark key="." line="87" column="18" />
         <mark key="^" line="87" column="18" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env.example" timestamp="1525961362078" />
       <file name="/Dummy.txt" timestamp="1525943415444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
@@ -334,12 +339,12 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1525950772568">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1525961683226">
         <mark key="'" line="106" column="29" />
-        <mark key="[" line="105" column="41" />
-        <mark key="]" line="105" column="51" />
-        <mark key="^" line="106" column="31" />
-        <mark key="." line="106" column="31" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1521216062305">
         <mark key="'" line="9" column="51" />
@@ -568,44 +573,47 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>TARGET_DATE</text>
+        <text>'gbi': 'gbibot.main:process',
+        'pmu': 'pmubot.main:process',
+        'phumelela': 'phumebot.main:process',
+        'hellenic': 'helsib.main:process',
+        'nicosia': 'nrcbot.main:process',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ0xMTExMTExMTEFBQUFBIHt9Jy5mb3JtYXQoZXhjKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdMTExMTExMTExBQUFBQScpCg==</text>
+        <text encoding="base64">ICAgICAgICBkb19vbmx5X2NvcnJlbGF0aW9uID0gc2V0dGluZ3MuQ09SUkVMQVRFX09OTFkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdSZXNwb25zZToge30nLmZvcm1hdChlcnJvcikpCg==</text>
+        <text encoding="base64">ICAgICAgICBkb19vbmx5X2NvcnJlbGF0aW9uID0gc2V0dGluZ3MuQ09SUkVMQVRFX09OTFkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1pcC1sb2NhdGlvbi1mb3ItbnJjLXNpbGtzCiMgUmVkaXMgVmFyaWFibGVzClJFRElTX0hPU1Q9bG9jYWxob3N0CiMgRnV6enlib3QgVmFyaWFibGVzCkZVWlpZQk9UX0VORFBPSU5UPWh0dHA6Ly8xMC4xMC4xMC41MDo5MDkwL2xvb2t1cD9wcm92aWRlcj1jeQojIFNpbGtib3QgVmFyaWFibGVzClNJTEtCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjExLjczOjkwOTEvYXBpL3YxL3NpbGtzCkFQSV9LRVk9CiMgQmFzZSBWYXJpYWJsZXMKUFJPVklERVI9bnJjClBST1ZJREVSX1RJTUVaT05FPUV1cm9wZS9OaWNvc2lhCkxPQ0FMX1RJTUVaT05FPUV1cm9wZS9BdGhlbnMKREVCVUc9VHJ1ZQpMT0dfTEVWRUw9REVCVUcKU0xBQ0tfTE9HR0lORz1GYWxzZQpTTEFDS19XRUJIT09LPTxhcy1zZXQtaW4tc2xhY2stdGVhbS1zZXJ2aWNlcz4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IFtkb19vbmx5X2NvcnJlbGF0aW9uLCBUQVJHRVRfREFURV0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1odHRwOi8vY2RuLnZlcm1hbnRpYS5jb20vc3RhdGljLwojIFJlZGlzIFZhcmlhYmxlcwpSRURJU19IT1NUPTE3Mi4xNy4wLjEKIyBGdXp6eWJvdCBWYXJpYWJsZXMKRlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzE3Mi4xNy4wLjE6NTAwMC9sb29rdXA/cHJvdmlkZXI9Y3kKIyBTaWxrYm90IFZhcmlhYmxlcwpTSUxLQk9UX0VORFBPSU5UPWh0dHA6Ly8xMC4xMC4xMS43Mzo5MDkxL2FwaS92MS9zaWxrcwpBUElfS0VZPQojIEJhc2UgVmFyaWFibGVzClBST1ZJREVSPW5yYwpQUk9WSURFUl9USU1FWk9ORT1FdXJvcGUvTmljb3NpYQpMT0NBTF9USU1FWk9ORT1FdXJvcGUvQXRoZW5zCkRFQlVHPVRydWUKTE9HX0xFVkVMPURFQlVHClNMQUNLX0xPR0dJTkc9RmFsc2UKU0xBQ0tfV0VCSE9PSz08YXMtc2V0LWluLXNsYWNrLXRlYW0tc2VydmljZXM+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnbG9jYXRpb24nOiBsb2NhdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IFtkb19vbmx5X2NvcnJlbGF0aW9uXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbjogUmFjZSdzIE1lZXRpbmcgbmFtZS4K</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHByb3ZpZGVyID09ICdwbXUnOgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text>Brought strategy to original state and added the `meeting_date` filter
-on the `fetch_meetings` method call, to fetch the correct meetings.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbjogUmFjZSdzIG1lZXRpbmcgTmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBwcm92aWRlciA9PSAnaGVsbGVuaWMnOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

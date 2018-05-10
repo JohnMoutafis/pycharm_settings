@@ -334,6 +334,9 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1525949175707">
+        <mark key="'" line="25" column="9" />
+      </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1521216062305">
         <mark key="'" line="9" column="51" />
         <mark key="[" line="12" column="0" />
@@ -446,8 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="30" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
-      <jump line="97" column="43" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
       <jump line="129" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="166" column="26" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
       <jump line="140" column="49" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
@@ -546,6 +547,8 @@
       <jump line="35" column="61" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" />
       <jump line="55" column="48" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" />
+      <jump line="92" column="22" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
+      <jump line="25" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

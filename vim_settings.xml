@@ -21,20 +21,12 @@
       <file name="/a.dummy" timestamp="1524692598528">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/.env" timestamp="1524214172059">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="34" />
-      </file>
-      <file name="/processors.py" timestamp="1524749953880">
-        <mark key="[" line="103" column="9" />
-        <mark key="]" line="103" column="58" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525880633202">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525943094436">
         <mark key="'" line="55" column="48" />
-        <mark key="[" line="56" column="56" />
-        <mark key="]" line="56" column="55" />
-        <mark key="." line="56" column="55" />
-        <mark key="^" line="56" column="55" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1525337847671">
         <mark key="'" line="6" column="0" />
@@ -67,10 +59,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcbot.py" timestamp="1525352971420">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="69" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/services.py" timestamp="1522320995934">
         <mark key="'" line="78" column="38" />
         <mark key="[" line="67" column="8" />
@@ -90,10 +78,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="63" column="22" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" timestamp="1524235030579">
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="50" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
         <mark key="[" line="125" column="22" />
@@ -135,17 +119,14 @@
         <mark key="." line="79" column="18" />
         <mark key="^" line="51" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525935101451">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1525870793347">
         <mark key="'" line="69" column="40" />
-      </file>
-      <file name="/utils.py" timestamp="1524748774160">
-        <mark key="[" line="97" column="16" />
-        <mark key="]" line="97" column="78" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1525870037467">
         <mark key="'" line="68" column="36" />
@@ -209,22 +190,11 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1524666231853">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/settings.py" timestamp="1524740238389">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="59" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="11" />
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/bin/run-prod.sh" timestamp="1525444856773">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" timestamp="1525878795269">
         <mark key="[" line="61" column="37" />
@@ -289,10 +259,6 @@
       <file name="/Django Console" timestamp="1525854159107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/env.example" timestamp="1524740249536">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="19" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1524134797097">
         <mark key="'" line="33" column="9" />
         <mark key="[" line="85" column="0" />
@@ -300,11 +266,11 @@
         <mark key="." line="93" column="73" />
         <mark key="^" line="93" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/services.py" timestamp="1525935095097">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="37" column="90" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/services.py" timestamp="1525941708612">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524213364802">
         <mark key="'" line="212" column="10" />
@@ -319,10 +285,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="20" column="49" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/setup.cfg" timestamp="1525246471668">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" timestamp="1523538913096">
         <mark key="'" line="0" column="0" />
@@ -361,10 +323,10 @@
         <mark key="." line="87" column="18" />
         <mark key="^" line="87" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525935027479">
+      <file name="/Dummy.txt" timestamp="1525943415444">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525866149075">
         <mark key="[" line="3" column="17" />
@@ -378,10 +340,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/requirements.txt" timestamp="1525351197316">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="11" />
       </file>
       <file name="/propertyperson [jgmoutafisdb@147.102.40.25]" timestamp="1525372743056">
         <mark key="[" line="0" column="0" />
@@ -419,10 +377,6 @@
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/docker/Dockerfile" timestamp="1525444828909">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/errors.py" timestamp="1522405583523">
         <mark key="'" line="31" column="7" />
@@ -607,44 +561,44 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1odHRwOi8vY2RuLnZlcm1hbnRpYS5jb20vc3RhdGljLwojIFJlZGlzIFZhcmlhYmxlcwpSRURJU19IT1NUPTE3Mi4xNy4wLjEKIyBGdXp6eWJvdCBWYXJpYWJsZXMKRlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzE3Mi4xNy4wLjE6NTAwMC9sb29rdXA/cHJvdmlkZXI9Y3kKIyBTaWxrYm90IFZhcmlhYmxlcwpTSUxLQk9UX0VORFBPSU5UPWh0dHA6Ly8xMC4xMC4xMS43Mzo5MDkxL2FwaS92MS9zaWxrcwpBUElfS0VZPQojIEJhc2UgVmFyaWFibGVzClBST1ZJREVSPW5yYwpQUk9WSURFUl9USU1FWk9ORT1FdXJvcGUvTmljb3NpYQpMT0NBTF9USU1FWk9ORT1FdXJvcGUvQXRoZW5zCkRFQlVHPVRydWUKTE9HX0xFVkVMPURFQlVHClNMQUNLX0xPR0dJTkc9RmFsc2UKU0xBQ0tfV0VCSE9PSz08YXMtc2V0LWluLXNsYWNrLXRlYW0tc2VydmljZXM+</text>
+        <text>10.10.4.50:5000</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1pcC1sb2NhdGlvbi1mb3ItbnJjLXNpbGtzCiMgUmVkaXMgVmFyaWFibGVzClJFRElTX0hPU1Q9bG9jYWxob3N0CiMgRnV6enlib3QgVmFyaWFibGVzCkZVWlpZQk9UX0VORFBPSU5UPWh0dHA6Ly8xMC4xMC4xMC41MDo5MDkwL2xvb2t1cD9wcm92aWRlcj1jeQojIFNpbGtib3QgVmFyaWFibGVzClNJTEtCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjExLjczOjkwOTEvYXBpL3YxL3NpbGtzCkFQSV9LRVk9CiMgQmFzZSBWYXJpYWJsZXMKUFJPVklERVI9bnJjClBST1ZJREVSX1RJTUVaT05FPUV1cm9wZS9OaWNvc2lhCkxPQ0FMX1RJTUVaT05FPUV1cm9wZS9BdGhlbnMKREVCVUc9VHJ1ZQpMT0dfTEVWRUw9REVCVUcKU0xBQ0tfTE9HR0lORz1GYWxzZQpTTEFDS19XRUJIT09LPTxhcy1zZXQtaW4tc2xhY2stdGVhbS1zZXJ2aWNlcz4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ0xMTExMTExMTEFBQUFBIHt9Jy5mb3JtYXQoZXhjKSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1odHRwOi8vY2RuLnZlcm1hbnRpYS5jb20vc3RhdGljLwojIFJlZGlzIFZhcmlhYmxlcwpSRURJU19IT1NUPTE3Mi4xNy4wLjEKIyBGdXp6eWJvdCBWYXJpYWJsZXMKRlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzE3Mi4xNy4wLjE6NTAwMC9sb29rdXA/cHJvdmlkZXI9Y3kKIyBTaWxrYm90IFZhcmlhYmxlcwpTSUxLQk9UX0VORFBPSU5UPWh0dHA6Ly8xMC4xMC4xMS43Mzo5MDkxL2FwaS92MS9zaWxrcwpBUElfS0VZPQojIEJhc2UgVmFyaWFibGVzClBST1ZJREVSPW5yYwpQUk9WSURFUl9USU1FWk9ORT1FdXJvcGUvTmljb3NpYQpMT0NBTF9USU1FWk9ORT1FdXJvcGUvQXRoZW5zCkRFQlVHPVRydWUKTE9HX0xFVkVMPURFQlVHClNMQUNLX0xPR0dJTkc9RmFsc2UKU0xBQ0tfV0VCSE9PSz08YXMtc2V0LWluLXNsYWNrLXRlYW0tc2VydmljZXM+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdMTExMTExMTExBQUFBQScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnbG9jYXRpb24nOiBsb2NhdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmRlYnVnKCdSZXNwb25zZToge30nLmZvcm1hdChlcnJvcikpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbjogUmFjZSdzIE1lZXRpbmcgbmFtZS4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1pcC1sb2NhdGlvbi1mb3ItbnJjLXNpbGtzCiMgUmVkaXMgVmFyaWFibGVzClJFRElTX0hPU1Q9bG9jYWxob3N0CiMgRnV6enlib3QgVmFyaWFibGVzCkZVWlpZQk9UX0VORFBPSU5UPWh0dHA6Ly8xMC4xMC4xMC41MDo5MDkwL2xvb2t1cD9wcm92aWRlcj1jeQojIFNpbGtib3QgVmFyaWFibGVzClNJTEtCT1RfRU5EUE9JTlQ9aHR0cDovLzEwLjEwLjExLjczOjkwOTEvYXBpL3YxL3NpbGtzCkFQSV9LRVk9CiMgQmFzZSBWYXJpYWJsZXMKUFJPVklERVI9bnJjClBST1ZJREVSX1RJTUVaT05FPUV1cm9wZS9OaWNvc2lhCkxPQ0FMX1RJTUVaT05FPUV1cm9wZS9BdGhlbnMKREVCVUc9VHJ1ZQpMT0dfTEVWRUw9REVCVUcKU0xBQ0tfTE9HR0lORz1GYWxzZQpTTEFDS19XRUJIT09LPTxhcy1zZXQtaW4tc2xhY2stdGVhbS1zZXJ2aWNlcz4=</text>
       </register>
       <register name="5" type="4">
-        <text>Brought strategy to original state and added the `meeting_date` filter
-on the `fetch_meetings` method call, to fetch the correct meetings.</text>
+        <text encoding="base64">U0lMS19QVUJMSUNfUEFUSD1odHRwOi8vY2RuLnZlcm1hbnRpYS5jb20vc3RhdGljLwojIFJlZGlzIFZhcmlhYmxlcwpSRURJU19IT1NUPTE3Mi4xNy4wLjEKIyBGdXp6eWJvdCBWYXJpYWJsZXMKRlVaWllCT1RfRU5EUE9JTlQ9aHR0cDovLzE3Mi4xNy4wLjE6NTAwMC9sb29rdXA/cHJvdmlkZXI9Y3kKIyBTaWxrYm90IFZhcmlhYmxlcwpTSUxLQk9UX0VORFBPSU5UPWh0dHA6Ly8xMC4xMC4xMS43Mzo5MDkxL2FwaS92MS9zaWxrcwpBUElfS0VZPQojIEJhc2UgVmFyaWFibGVzClBST1ZJREVSPW5yYwpQUk9WSURFUl9USU1FWk9ORT1FdXJvcGUvTmljb3NpYQpMT0NBTF9USU1FWk9ORT1FdXJvcGUvQXRoZW5zCkRFQlVHPVRydWUKTE9HX0xFVkVMPURFQlVHClNMQUNLX0xPR0dJTkc9RmFsc2UKU0xBQ0tfV0VCSE9PSz08YXMtc2V0LWluLXNsYWNrLXRlYW0tc2VydmljZXM+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbjogUmFjZSdzIG1lZXRpbmcgTmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAnbG9jYXRpb24nOiBsb2NhdGlvbiwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ClJlZnM6ICM3</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbjogUmFjZSdzIE1lZXRpbmcgbmFtZS4K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">UFJPVklERVIgPSAnbnJjJwo=</text>
+      <register name="8" type="4">
+        <text>Brought strategy to original state and added the `meeting_date` filter
+on the `fetch_meetings` method call, to fetch the correct meetings.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbjogUmFjZSdzIG1lZXRpbmcgTmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

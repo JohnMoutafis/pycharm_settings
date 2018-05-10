@@ -135,7 +135,13 @@
         <mark key="^" line="52" column="87" />
         <mark key="." line="52" column="87" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" timestamp="1525961358646" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" timestamp="1525962224158">
+        <mark key="'" line="19" column="5" />
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="22" column="1" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" timestamp="1522237600575">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="24" column="86" />
@@ -339,12 +345,12 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1525961683226">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1525962180218">
         <mark key="'" line="106" column="29" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1521216062305">
         <mark key="'" line="9" column="51" />
@@ -458,9 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="26" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
-      <jump line="140" column="49" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
-      <jump line="143" column="37" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
       <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/setup.cfg" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
       <jump line="250" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" />
@@ -558,6 +561,9 @@
       <jump line="92" column="22" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="25" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="106" column="29" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" />
+      <jump line="19" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -573,47 +579,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>'gbi': 'gbibot.main:process',
-        'pmu': 'pmubot.main:process',
-        'phumelela': 'phumebot.main:process',
-        'hellenic': 'helsib.main:process',
-        'nicosia': 'nrcbot.main:process',</text>
+        <text>BOT_SEARCH_DATES_MAP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb19vbmx5X2NvcnJlbGF0aW9uID0gc2V0dGluZ3MuQ09SUkVMQVRFX09OTFkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb19vbmx5X2NvcnJlbGF0aW9uID0gc2V0dGluZ3MuQ09SUkVMQVRFX09OTFkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXBwZXIuZ2V0KHByb3ZpZGVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IFtkb19vbmx5X2NvcnJlbGF0aW9uLCBUQVJHRVRfREFURV0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAnbmljb3NpYSc6IFtkb19vbmx5X2NvcnJlbGF0aW9uXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IFtkb19vbmx5X2NvcnJlbGF0aW9uXQo=</text>
+        <text encoding="base64">ICAgICAgICAnaGVsbGVuaWMnOiBbXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHByb3ZpZGVyID09ICdwbXUnOgo=</text>
+        <text encoding="base64">ICAgICAgICAncGh1bWVsZWxhJzogW2RvX29ubHlfY29ycmVsYXRpb25dLAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAncG11JzogW2RvX29ubHlfY29ycmVsYXRpb25dLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcm92aWRlciA9PSAnaGVsbGVuaWMnOgo=</text>
+        <text encoding="base64">ICAgICAgICAnZ2JpJzogW2RvX29ubHlfY29ycmVsYXRpb24sIHBfZGF0ZV0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

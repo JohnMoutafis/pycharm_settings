@@ -22,11 +22,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525966585438">
-        <mark key="'" line="54" column="39" />
-        <mark key="[" line="55" column="89" />
-        <mark key="]" line="55" column="68" />
-        <mark key="." line="55" column="68" />
-        <mark key="^" line="55" column="68" />
+        <mark key="[" line="13" column="89" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="13" column="68" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1525337847671">
         <mark key="'" line="6" column="0" />
@@ -46,13 +45,6 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" timestamp="1525966553086">
-        <mark key="'" line="34" column="64" />
-        <mark key="[" line="36" column="90" />
-        <mark key="]" line="36" column="89" />
-        <mark key="." line="36" column="89" />
-        <mark key="^" line="36" column="89" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/django_test/test_manytomany/models.py" timestamp="1525854600712">
         <mark key="[" line="15" column="0" />
@@ -280,12 +272,7 @@
         <mark key="." line="93" column="73" />
         <mark key="^" line="93" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/services.py" timestamp="1525966659878">
-        <mark key="[" line="58" column="69" />
-        <mark key="]" line="58" column="77" />
-        <mark key="^" line="58" column="77" />
-        <mark key="." line="58" column="77" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/services.py" timestamp="1525966659878" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524213364802">
         <mark key="'" line="212" column="10" />
         <mark key="[" line="161" column="18" />

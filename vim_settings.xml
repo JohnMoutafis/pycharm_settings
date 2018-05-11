@@ -104,6 +104,12 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="34" column="84" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/rust_test/Cargo.toml" timestamp="1526027195334">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1525269796635">
         <mark key="'" line="59" column="12" />
         <mark key="[" line="144" column="8" />
@@ -272,7 +278,6 @@
         <mark key="." line="93" column="73" />
         <mark key="^" line="93" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/services.py" timestamp="1525966659878" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524213364802">
         <mark key="'" line="212" column="10" />
         <mark key="[" line="161" column="18" />
@@ -330,10 +335,10 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525967312816">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1526027276691">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525866149075">
         <mark key="[" line="3" column="17" />
@@ -417,6 +422,7 @@
         <mark key="." line="50" column="43" />
         <mark key="^" line="50" column="43" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" timestamp="1526027173995" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/services.py" timestamp="1524650395030">
         <mark key="'" line="38" column="11" />
         <mark key="[" line="7" column="0" />
@@ -580,7 +586,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>At the moment, NRC races showing on OPAP, are</text>
+        <text>run</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>

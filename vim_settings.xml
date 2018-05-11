@@ -104,11 +104,11 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="34" column="84" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/rust_test/Cargo.toml" timestamp="1526027195334">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="43" />
-        <mark key="." line="3" column="43" />
-        <mark key="^" line="3" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/rust_test/Cargo.toml" timestamp="1526045219723">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1526042432955">
         <mark key="'" line="59" column="12" />
@@ -335,7 +335,7 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526027276691">
+      <file name="/Dummy.txt" timestamp="1526045660999">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -422,11 +422,12 @@
         <mark key="." line="50" column="43" />
         <mark key="^" line="50" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" timestamp="1526028089611">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" timestamp="1526046591299">
+        <mark key="'" line="12" column="7" />
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="51" />
+        <mark key="^" line="18" column="51" />
+        <mark key="." line="18" column="51" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/services.py" timestamp="1524650395030">
         <mark key="'" line="38" column="11" />
@@ -476,9 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="1" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" />
-      <jump line="120" column="13" filename="/pmubot.py" />
-      <jump line="152" column="9" filename="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/settings.py" />
       <jump line="153" column="9" filename="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/settings.py" />
       <jump line="154" column="9" filename="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/settings.py" />
       <jump line="36" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
@@ -576,6 +574,9 @@
       <jump line="121" column="55" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="34" column="64" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" />
       <jump line="54" column="39" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" />
+      <jump line="8" column="30" filename="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" />
+      <jump line="11" column="7" filename="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -591,7 +592,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>run</text>
+        <text encoding="base64">YSBudW1iZXIuIikg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -599,38 +600,38 @@
       <register name="0" type="4">
         <text>'hellenic'</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cmFuZD0iMC4zLjAiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJsYSB7fSIsIHNlY3JldF9udW1iZXIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiSGV5IHlvIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIHRydWUgewo=</text>
+      </register>
+      <register name="w" type="4">
+        <text>u</text>
+      </register>
+      <register name="8" type="4">
         <text>Fix to use new fuzzybot nrc strategy.
 
 Nrc fuzzybot strategy changed to remove location as a prerequisite in 
 the payload. This fix aligns nrcbot with that strategy.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlhc2VkX3JhY2VzX29ubHk6IEZsYWcgZm9yIGZ1enp5Ym90Lgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGFsaWFzZWRfcmFjZXNfb25seTogRmxhZyB0byBiZSBwYXNzZWQgdG8gc2VydmljZXMuZmV0Y2hfcmFjZV9kZXRhaWxzIG1ldGhvZC4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGhhcyBhbiBhbGlhcy4gVGhlcmVmb3JlLCB0aGVyZSBpcyBubyBwb2ludCBpbiB1c2luZyAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIChJbiBjb250cmFzdCB0byBhbGwgdGhlIG90aGVyIHNpbGsgc2VydmljZXMsIGV2ZXJ5IGNvdXJzZSB0aGF0IG1heSBiZSBjb3JyZWxhdGVkLCAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlhc2VkX3JhY2VzX29ubHk6IEZsYWcuIElmIHNldCB0byBUcnVlLCB3aWxsIGNvcnJlbGF0ZSBvbmx5IHdpdGggcmFjZXMgdGhhdCBoYXZlIGFuIGFsaWFzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">TlJDX0FMSUFTRURfUkFDRVNfT05MWT1UcnVlCg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>u</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">TlJDX0FMSUFTRURfUkFDRVNfT05MWT1GYWxzZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcoJ05SQ19BTElBU0VEX1JBQ0VTX09OTFknLCBkZWZhdWx0PUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGlhc2VkX3JhY2VzX29ubHk6IEZsYWcgZm9yIGZ1enp5Ym90Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

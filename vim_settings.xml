@@ -330,10 +330,10 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525966675899">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="/Dummy.txt" timestamp="1525967312816">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525866149075">
         <mark key="[" line="3" column="17" />
@@ -580,7 +580,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>aliased_races_only</text>
+        <text>At the moment, NRC races showing on OPAP, are</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -588,35 +588,38 @@
       <register name="0" type="4">
         <text>'hellenic'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlhc2VkX3JhY2VzX29ubHk6IEZsYWcgZm9yIGZ1enp5Ym90Lgo=</text>
+      <register name="1" type="4">
+        <text>Fix to use new fuzzybot nrc strategy.
+
+Nrc fuzzybot strategy changed to remove location as a prerequisite in 
+the payload. This fix aligns nrcbot with that strategy.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIGFsaWFzZWRfcmFjZXNfb25seTogRmxhZyB0byBiZSBwYXNzZWQgdG8gc2VydmljZXMuZmV0Y2hfcmFjZV9kZXRhaWxzIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICBhbGlhc2VkX3JhY2VzX29ubHk6IEZsYWcgZm9yIGZ1enp5Ym90Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhhcyBhbiBhbGlhcy4gVGhlcmVmb3JlLCB0aGVyZSBpcyBubyBwb2ludCBpbiB1c2luZyAK</text>
+        <text encoding="base64">ICAgICAgIGFsaWFzZWRfcmFjZXNfb25seTogRmxhZyB0byBiZSBwYXNzZWQgdG8gc2VydmljZXMuZmV0Y2hfcmFjZV9kZXRhaWxzIG1ldGhvZC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChJbiBjb250cmFzdCB0byBhbGwgdGhlIG90aGVyIHNpbGsgc2VydmljZXMsIGV2ZXJ5IGNvdXJzZSB0aGF0IG1heSBiZSBjb3JyZWxhdGVkLCAK</text>
+        <text encoding="base64">ICAgIGhhcyBhbiBhbGlhcy4gVGhlcmVmb3JlLCB0aGVyZSBpcyBubyBwb2ludCBpbiB1c2luZyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlhc2VkX3JhY2VzX29ubHk6IEZsYWcuIElmIHNldCB0byBUcnVlLCB3aWxsIGNvcnJlbGF0ZSBvbmx5IHdpdGggcmFjZXMgdGhhdCBoYXZlIGFuIGFsaWFzCg==</text>
+        <text encoding="base64">ICAgIChJbiBjb250cmFzdCB0byBhbGwgdGhlIG90aGVyIHNpbGsgc2VydmljZXMsIGV2ZXJ5IGNvdXJzZSB0aGF0IG1heSBiZSBjb3JyZWxhdGVkLCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TlJDX0FMSUFTRURfUkFDRVNfT05MWT1UcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGlhc2VkX3JhY2VzX29ubHk6IEZsYWcuIElmIHNldCB0byBUcnVlLCB3aWxsIGNvcnJlbGF0ZSBvbmx5IHdpdGggcmFjZXMgdGhhdCBoYXZlIGFuIGFsaWFzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TlJDX0FMSUFTRURfUkFDRVNfT05MWT1GYWxzZQo=</text>
+        <text encoding="base64">TlJDX0FMSUFTRURfUkFDRVNfT05MWT1UcnVlCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcoJ05SQ19BTElBU0VEX1JBQ0VTX09OTFknLCBkZWZhdWx0PUZhbHNlKQo=</text>
+        <text encoding="base64">TlJDX0FMSUFTRURfUkFDRVNfT05MWT1GYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBvcHNpcy5zZXR0aW5ncyBpbXBvcnQgQk9UX1NFQVJDSF9EQVRFU19NQVAK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcoJ05SQ19BTElBU0VEX1JBQ0VTX09OTFknLCBkZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

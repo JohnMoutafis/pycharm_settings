@@ -422,7 +422,12 @@
         <mark key="." line="50" column="43" />
         <mark key="^" line="50" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" timestamp="1526027173995" />
+      <file name="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" timestamp="1526028089611">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/services.py" timestamp="1524650395030">
         <mark key="'" line="38" column="11" />
         <mark key="[" line="7" column="0" />

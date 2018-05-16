@@ -48,6 +48,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" timestamp="1526462340471">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="55" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/services.py" timestamp="1522320995934">
         <mark key="'" line="78" column="38" />
         <mark key="[" line="67" column="8" />
@@ -126,12 +130,12 @@
         <mark key="^" line="107" column="18" />
         <mark key="." line="107" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1526460044404">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1526462373682">
         <mark key="'" line="69" column="40" />
-        <mark key="[" line="110" column="45" />
-        <mark key="]" line="110" column="56" />
-        <mark key="^" line="110" column="56" />
-        <mark key="." line="110" column="56" />
+        <mark key="[" line="142" column="33" />
+        <mark key="]" line="142" column="43" />
+        <mark key="^" line="142" column="43" />
+        <mark key="." line="142" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1525870037467">
         <mark key="'" line="68" column="36" />
@@ -608,9 +612,7 @@
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;&quot;&quot;
-        Converts data to lower case.
-        &quot;&quot;&quot;</text>
+        <text>bot_logger.info('Sending results to silkbot...')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBBIGxpc3Qgb2YgY291cnNlcyBvbiBzdWNjZXNzLiBBbiBlbXB0eSBsaXN0IG90aGVyd2lzZS4K</text>

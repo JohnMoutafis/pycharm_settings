@@ -145,7 +145,11 @@
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="18" />
       </file>
-      <file name="/utils.py" timestamp="1526457479060" />
+      <file name="/utils.py" timestamp="1526459069360">
+        <mark key="'" line="42" column="18" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="75" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" timestamp="1522237600575">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="24" column="86" />
@@ -181,12 +185,12 @@
         <mark key="." line="113" column="38" />
         <mark key="^" line="113" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1526457359915">
-        <mark key="'" line="116" column="9" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="39" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1526459114164">
+        <mark key="'" line="100" column="15" />
+        <mark key="[" line="126" column="18" />
+        <mark key="]" line="128" column="23" />
+        <mark key="." line="128" column="23" />
+        <mark key="^" line="128" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/pmu_service/pmusib/utils.py" timestamp="1526398542709">
         <mark key="'" line="118" column="10" />
@@ -243,11 +247,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/env.example" timestamp="1524740256775">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/env.example" timestamp="1526458892181">
+        <mark key="[" line="6" column="65" />
+        <mark key="]" line="6" column="77" />
+        <mark key="." line="6" column="77" />
+        <mark key="^" line="6" column="77" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" timestamp="1522925321547">
         <mark key="'" line="22" column="11" />
@@ -390,11 +394,11 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/.env" timestamp="1524810883691">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/.env" timestamp="1526458871805">
+        <mark key="[" line="6" column="65" />
+        <mark key="]" line="6" column="77" />
+        <mark key="." line="6" column="77" />
+        <mark key="^" line="6" column="77" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" timestamp="1525351037484">
         <mark key="[" line="7" column="0" />
@@ -502,8 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
-      <jump line="211" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
       <jump line="107" column="16" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="33" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" />
       <jump line="100" column="39" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
@@ -602,6 +604,8 @@
       <jump line="118" column="10" filename="$USER_HOME$/PycharmProjects/silks/pmu_service/pmusib/utils.py" />
       <jump line="118" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="116" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
+      <jump line="42" column="18" filename="/utils.py" />
+      <jump line="95" column="15" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -622,8 +626,9 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbjogUmFjZSdzIG1lZXRpbmcgTmFtZQo=</text>
+      <register name="0" type="4">
+        <text>def _course_in_courses(courses, rc_course):
+    return [x for x in courses if fuzz.token_set_ratio(x, rc_course) == 100]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

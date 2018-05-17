@@ -85,7 +85,7 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1526462622781">
+      <file name="/Python Console" timestamp="1526551267103">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
@@ -94,11 +94,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526548338778">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526551968588">
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="39" />
       </file>
       <file name="/line_g [jgmoutafisdb@147.102.40.25]" timestamp="1525388599174">
         <mark key="[" line="0" column="0" />
@@ -129,11 +129,11 @@
         <mark key="^" line="9" column="101" />
         <mark key="." line="9" column="101" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526548333750">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="54" column="39" />
-        <mark key="." line="54" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526551327858">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/.env" timestamp="1525432031881">
         <mark key="[" line="5" column="18" />
@@ -482,13 +482,15 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ConfigParser</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>#!/usr/bin/python</text>
+        <text>if not os.path.exists(working_dir):
+        logging.warning('{} does not exist'.format(working_dir))
+        return</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

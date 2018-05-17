@@ -248,6 +248,12 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/README.md" timestamp="1526541250716">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="273" column="6" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525866149075">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="58" />
@@ -711,7 +717,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Races</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -720,34 +726,34 @@
         <text encoding="base64">ICAgIHNlbnRyeSA9IFNlbnRyeVJlcG9ydGVyKCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBBdHRyaWJ1dGVFcnJvcgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBaZXJvRGl2aXNpb25FcnJvcgo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ClRoaXMgd2lsbCBiZSB1c2VkIHRvIGxpbWl0IHJhY2VzIGZvciB0aGlzIGRhdGUgYnkgdGhlIHBtdV9ib3Qu</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBIGxpc3Qgb2YgY291cnNlcyBvbiBzdWNjZXNzLiBBbiBlbXB0eSBsaXN0IG90aGVyd2lzZS4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBBdHRyaWJ1dGVFcnJvcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBaZXJvRGl2aXNpb25FcnJvcgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ClRoaXMgd2lsbCBiZSB1c2VkIHRvIGxpbWl0IHJhY2VzIGZvciB0aGlzIGRhdGUgYnkgdGhlIHBtdV9ib3Qu</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByY19jb3Vyc2U6IEEgY291cnNlIG5hbWUuCg==</text>
+        <text encoding="base64">ICAgICAgICBBIGxpc3Qgb2YgY291cnNlcyBvbiBzdWNjZXNzLiBBbiBlbXB0eSBsaXN0IG90aGVyd2lzZS4K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vyc2VzOiBUaGUgaW5pdGlhbCBjb3Vyc2VzIGxpc3QuCg==</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

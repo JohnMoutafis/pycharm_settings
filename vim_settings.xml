@@ -105,11 +105,8 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" timestamp="1526462612844">
-        <mark key="[" line="39" column="37" />
-        <mark key="]" line="39" column="47" />
-        <mark key="^" line="39" column="47" />
-        <mark key="." line="39" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" timestamp="1526539580501">
+        <mark key="'" line="21" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" timestamp="1522237600575">
         <mark key="'" line="27" column="8" />
@@ -256,13 +253,6 @@
         <mark key="]" line="3" column="58" />
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1525966385367">
-        <mark key="'" line="121" column="55" />
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="121" column="54" />
-        <mark key="." line="121" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/env.example" timestamp="1526473846211">
         <mark key="[" line="0" column="0" />
@@ -681,7 +671,6 @@
       <jump line="25" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="106" column="29" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="25" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" />
       <jump line="19" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" />
       <jump line="124" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="117" column="27" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
@@ -706,6 +695,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/env.example" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/config.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/config.yml" />
+      <jump line="21" column="10" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

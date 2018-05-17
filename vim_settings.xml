@@ -248,11 +248,11 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/README.md" timestamp="1526541250716">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
-        <mark key="^" line="273" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" timestamp="1526542595188">
+        <mark key="[" line="74" column="13" />
+        <mark key="]" line="74" column="24" />
+        <mark key="." line="74" column="24" />
+        <mark key="^" line="74" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525866149075">
         <mark key="[" line="3" column="17" />
@@ -717,7 +717,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ConfigParser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>

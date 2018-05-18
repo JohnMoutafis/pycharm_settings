@@ -152,10 +152,10 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526566396204">
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526638196967">
         <mark key="'" line="46" column="28" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="33" column="27" />
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="50" />
         <mark key="." line="55" column="69" />
         <mark key="^" line="55" column="69" />
       </file>
@@ -250,16 +250,16 @@
         <mark key="^" line="54" column="24" />
         <mark key="." line="59" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-nrc.py" timestamp="1526566410595">
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-nrc.py" timestamp="1526638684421">
         <mark key="'" line="12" column="30" />
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="14" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/.env" timestamp="1525432031881">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="85" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/.env" timestamp="1526637904711">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="17" />
         <mark key="." line="5" column="18" />
         <mark key="^" line="6" column="26" />
       </file>
@@ -779,10 +779,10 @@
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIGNsZWFuKHdvcmtpbmdfZGlyKToKICAgICIiIgogICAgQ2xlYW5zIGhlbGxhc2hvcnNlcyBzaWxrcyBmcm9tIHRoZSBwcmV2aW91cyBtb250aC4KICAgIEFyZ3M6CiAgICAgICAgd29ya2luZ19kaXI6IFRoZSBkaXJlY3RvcnkgY29udGFpbmluZyB0aGUgc2lsa3MuCiAgICAiIiIKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyh3b3JraW5nX2Rpcik6CiAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ3t9IGRvZXMgbm90IGV4aXN0Jy5mb3JtYXQod29ya2luZ19kaXIpKQogICAgICAgIHJldHVybgoKICAgIHRvZGF5ID0gZGF0ZXRpbWUuZGF0ZS50b2RheSgpCiAgICBwcmV2aW91c19tb250aCA9IHRvZGF5Lm1vbnRoIC0gMQogICAgaWYgcHJldmlvdXNfbW9udGggPT0gMDoKICAgICAgICBwcmV2aW91c19tb250aCA9IDEyCg==</text>
+        <text>r'^(\d{{4}}){month}(\d{{2}})_(\d{2}).xml$'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
+        <text encoding="base64">ICAgIHByb2Nlc3NlZCAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
@@ -794,22 +794,22 @@
         <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnRXhhbWluaW5nIGZvbGRlcjoge30nLmZvcm1hdChkaXJuYW1lKSkK</text>
+        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnRXhhbWluaW5nIGZvbGRlcjoge30nLmZvcm1hdChkaXJuYW1lKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

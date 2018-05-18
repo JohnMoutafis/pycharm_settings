@@ -152,11 +152,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526639326975">
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526647626063">
         <mark key="'" line="46" column="28" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="57" column="24" />
-        <mark key="." line="55" column="69" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
         <mark key="^" line="55" column="69" />
       </file>
       <file name="/line_g [jgmoutafisdb@147.102.40.25]" timestamp="1525388599174">
@@ -244,8 +244,8 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526642593062">
-        <mark key="[" line="47" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
+        <mark key="[" line="54" column="25" />
         <mark key="]" line="50" column="79" />
         <mark key="^" line="54" column="24" />
         <mark key="." line="59" column="28" />
@@ -276,11 +276,11 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/README.md" timestamp="1526566024723">
-        <mark key="[" line="288" column="4" />
-        <mark key="]" line="288" column="3" />
-        <mark key="^" line="288" column="3" />
-        <mark key="." line="288" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/README.md" timestamp="1526647407461">
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="325" column="0" />
+        <mark key="^" line="325" column="0" />
+        <mark key="." line="325" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" timestamp="1526563817062">
         <mark key="'" line="4" column="0" />
@@ -300,6 +300,11 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" timestamp="1526555227643">
         <mark key="'" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/setup.cfg" timestamp="1526646548641">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_lineg_table.sql" timestamp="1525378301321">
         <mark key="[" line="1" column="68" />
@@ -429,12 +434,6 @@
         <mark key="]" line="31" column="21" />
         <mark key="^" line="25" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-remote-silks.py" timestamp="1526646395049">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" timestamp="1524059934418">
         <mark key="'" line="21" column="1" />
@@ -579,10 +578,10 @@
       <file name="/dummy.sql" timestamp="1525388599482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526539240068">
+      <file name="/Dummy.txt" timestamp="1526647786505">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env" timestamp="1526462525996">
         <mark key="[" line="13" column="28" />
@@ -783,46 +782,35 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IFJlZnM6ICMzOQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>[isort]
-line-length = 70
-multi_line_output = 5
-balanced_wrapping = True
-verbose = True
-include_trailing_comma = True
-
-[flake8]
-max-line-length = 99
-exclude =
-	.git
-	__pycache__,
-	gbisib/__init__.py</text>
+        <text>│</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGZvbGRlcnNfdG9fYmVfcmVtb3ZlZCkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IDEuIFRoZSBgZG93bmxvYWRzL3JhY2VzYCBmb2xkZXIgd2hpY2ggY29udGFpbnMgdGhlICJSQVciIHJhY2UgWE1MIGZpbGVzOgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">UnVucyBvbiBzZXJ2ZXIgd2l0aCBpbnN0YWxsZWQgcHl0aG9uIHZlcnNpb24gMi43LioK</text>
+        <text encoding="base64">ICAgICB8ICAg4pSc4pSA4pSAIHNpbGtzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICAgIGlmIGZpbGVuYW1lIGluIGRvd25sb2FkX3JhY2VzX3JlZ2V4X2xpc3Q6Cg==</text>
+        <text encoding="base64">ICAgICB8ICAg4pSc4pSA4pSAIHJhY2VzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvd25sb2Fkc19yYWNlc190b19yZW1vdmUgPSBbXQo=</text>
+        <text encoding="base64">CWdiaXNpYi9fX2luaXRfXy5weQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdDbGVhbmluZyBkb3dubG9hZHMvcmFjZXMgZm9sZGVyLi4uJykK</text>
+      <register name="6" type="4">
+        <text>[flake8]
+max-line-length=100</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb3dubG9hZHNfcmFjZXNfdG9fcmVtb3ZlLmFwcGVuZCgK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGZvbGRlcnNfdG9fYmVfcmVtb3ZlZCkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
@@ -831,7 +819,7 @@ exclude =
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERPV05MT0FEX1NJTEtTX0RJUiA9IG9zLnBhdGguam9pbih3b3JraW5nX2RpciwgJ2Rvd25sb2FkcycsICdzaWxrcycpCg==</text>
+        <text encoding="base64">UnVucyBvbiBzZXJ2ZXIgd2l0aCBpbnN0YWxsZWQgcHl0aG9uIHZlcnNpb24gMi43LioK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

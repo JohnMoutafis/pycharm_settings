@@ -422,6 +422,10 @@
         <mark key="^" line="273" column="30" />
         <mark key="." line="273" column="30" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/gui/package.json" timestamp="1526640856198">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/setup.cfg" timestamp="1524056588836">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
@@ -782,7 +786,7 @@
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>PROCESSED_RACE_REGEX = re.compile(PROCESSED_RACE_REGEX_PATTERN.format(month=previous_month))</text>
+        <text>react-s-alert</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZmlsZW5hbWUpCg==</text>

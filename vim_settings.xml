@@ -120,11 +120,11 @@
         <mark key="." line="24" column="85" />
         <mark key="^" line="24" column="85" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg" timestamp="1526565515011">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="73" />
-        <mark key="^" line="7" column="73" />
-        <mark key="." line="7" column="73" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg" timestamp="1526640053327">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/config.yml" timestamp="1526472618876">
         <mark key="'" line="0" column="0" />
@@ -146,16 +146,19 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1526639860365">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="11" />
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526638196967">
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526639326975">
         <mark key="'" line="46" column="28" />
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="50" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="57" column="24" />
         <mark key="." line="55" column="69" />
         <mark key="^" line="55" column="69" />
       </file>
@@ -244,18 +247,18 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526563772871">
-        <mark key="[" line="59" column="28" />
-        <mark key="]" line="59" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526639076055">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="50" column="80" />
         <mark key="^" line="54" column="24" />
         <mark key="." line="59" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-nrc.py" timestamp="1526638684421">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-nrc.py" timestamp="1526640212550">
+        <mark key="'" line="11" column="30" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/.env" timestamp="1526637904711">
         <mark key="[" line="4" column="0" />
@@ -650,11 +653,11 @@
         <mark key="." line="46" column="35" />
         <mark key="^" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526563497763">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526639389638">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -773,43 +776,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aGVsbGFzaG9yc2VzIA==</text>
+        <text>PROCESSED_RACE_REGEX</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>r'^(\d{{4}}){month}(\d{{2}})_(\d{2}).xml$'</text>
+        <text>PROCESSED_RACE_REGEX = re.compile(PROCESSED_RACE_REGEX_PATTERN.format(month=previous_month))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NlZCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZmlsZW5hbWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0ZhaWw6IHt9IC0ge30nLmZvcm1hdChmaWxlbmFtZSwgZmlsZW5hbWVfbWF0Y2gpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhmaWxlbmFtZV9tYXRjaC5ncm91cHMoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnRXhhbWluaW5nIGZvbGRlcjoge30nLmZvcm1hdChkaXJuYW1lKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCdFcnJvciB3aGlsZSB0cnlpbmcgdG8gZGVsZXRlIHt9Jy5mb3JtYXQodGFyZ2V0KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IElPRXJyb3I6Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9zLnJlbW92ZSh0YXJnZXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

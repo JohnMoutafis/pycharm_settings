@@ -394,7 +394,7 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526403062123">
+      <file name="/Dummy.txt" timestamp="1526969362042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -604,7 +604,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LOCATION</text>
+        <text>https://github.com/JohnMoutafis/Django_TDD_Tutorial.gi</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -616,7 +616,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>LOCATION</text>
+        <text>https://github.com/JohnMoutafis/Django_TDD_Tutorial.gi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>

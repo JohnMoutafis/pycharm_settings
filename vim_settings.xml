@@ -3,115 +3,56 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/runners/service.py" timestamp="1526474484291">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523454379253">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="30" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1526562189068">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" timestamp="1522925321547">
+        <mark key="'" line="22" column="11" />
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/requirements.txt" timestamp="1526471895772">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1525870727488">
+        <mark key="'" line="107" column="12" />
+        <mark key="[" line="107" column="12" />
+        <mark key="]" line="114" column="12" />
+        <mark key="." line="50" column="43" />
+        <mark key="^" line="50" column="43" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/requirements.txt" timestamp="1526471874972">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="3" column="19" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="5" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env" timestamp="1526462525996">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/requirements.txt" timestamp="1526473974772">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/setup.cfg" timestamp="1526646548641">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/django_test/test_manytomany/models.py" timestamp="1525854600712">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-pmu.py" timestamp="1526562921410">
-        <mark key="[" line="97" column="28" />
-        <mark key="]" line="97" column="28" />
-        <mark key="." line="97" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/services.py" timestamp="1522320995934">
-        <mark key="'" line="78" column="38" />
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="112" column="17" />
-        <mark key="^" line="114" column="18" />
-        <mark key="." line="114" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_polygon_g.sql" timestamp="1525380944481">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="13" column="52" />
-        <mark key="^" line="116" column="33" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/services.py" timestamp="1524044448223">
-        <mark key="'" line="60" column="14" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="63" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_apply_queries.sql" timestamp="1525386276218">
-        <mark key="[" line="92" column="14" />
-        <mark key="]" line="92" column="51" />
-        <mark key="^" line="62" column="32" />
-        <mark key="." line="62" column="32" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/README.md" timestamp="1516825087936">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="63" column="55" />
-        <mark key="." line="63" column="55" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/env.example" timestamp="1526472062196">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1526042432955">
-        <mark key="'" line="59" column="12" />
-        <mark key="[" line="144" column="8" />
-        <mark key="]" line="166" column="75" />
-        <mark key="." line="79" column="18" />
-        <mark key="^" line="51" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/requirements.txt" timestamp="1526473970420">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/config.yml" timestamp="1526472584868">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/races/service.py" timestamp="1526474471892">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/meetings/service.py" timestamp="1526474610045">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" timestamp="1526539580501">
-        <mark key="'" line="21" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1524134797097">
+        <mark key="'" line="33" column="9" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="118" column="4" />
+        <mark key="." line="93" column="73" />
+        <mark key="^" line="93" column="73" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/tests/test_utils/test_sieve_candidates.py" timestamp="1522237600575">
         <mark key="'" line="27" column="8" />
@@ -120,11 +61,103 @@
         <mark key="." line="24" column="85" />
         <mark key="^" line="24" column="85" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg" timestamp="1526646209106">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="78" />
-        <mark key="^" line="7" column="67" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526647626063">
+        <mark key="'" line="46" column="28" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="55" column="69" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" timestamp="1524059934418">
+        <mark key="'" line="21" column="1" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="34" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/README.md" timestamp="1524816319922">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="85" column="11" />
+        <mark key="." line="85" column="11" />
+        <mark key="^" line="85" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526646057965">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/gui/package.json" timestamp="1526640856198">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525966585438">
+        <mark key="[" line="13" column="89" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="13" column="68" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/.env" timestamp="1526461371548">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="50" />
+        <mark key="." line="6" column="50" />
+        <mark key="^" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/env.example" timestamp="1526398258612">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="55" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/setup.cfg" timestamp="1526646534760">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_line_g.sql" timestamp="1525379334042">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/correlation_strategies.py" timestamp="1522231736625">
+        <mark key="'" line="103" column="9" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="104" column="5" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_3/ex3_module/excercises/erotima_1.py" timestamp="1524776329229">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/setup.cfg" timestamp="1524056618834">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+        <mark key="^" line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/env.example" timestamp="1526458892181">
+        <mark key="[" line="6" column="65" />
+        <mark key="]" line="6" column="77" />
+        <mark key="." line="6" column="77" />
+        <mark key="^" line="6" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q4_apply_queries.sql" timestamp="1525386276218">
+        <mark key="[" line="92" column="14" />
+        <mark key="]" line="92" column="51" />
+        <mark key="^" line="62" column="32" />
+        <mark key="." line="62" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/config.yml" timestamp="1526472618876">
         <mark key="'" line="0" column="0" />
@@ -132,6 +165,379 @@
         <mark key="]" line="8" column="34" />
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" timestamp="1526563817062">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="79" column="28" />
+        <mark key="]" line="79" column="28" />
+        <mark key="." line="79" column="28" />
+        <mark key="^" line="74" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_polygon_g.sql" timestamp="1525380944481">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="116" column="33" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/services.py" timestamp="1524834811378">
+        <mark key="[" line="67" column="84" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/env.example" timestamp="1525871494555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/requirements_dev.txt" timestamp="1526646498974">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/.env" timestamp="1526473816437">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="9" column="101" />
+        <mark key="^" line="9" column="101" />
+        <mark key="." line="9" column="101" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_1/queries/python_queries/copy_from_remote_db.py" timestamp="1520898896215">
+        <mark key="'" line="87" column="25" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="8" />
+        <mark key="^" line="64" column="8" />
+        <mark key="." line="64" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rust_test/Cargo.toml" timestamp="1526045219723">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/requirements.txt" timestamp="1526471895772">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="60" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/config.yml" timestamp="1526472605404">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1521216062305">
+        <mark key="'" line="9" column="51" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/.env" timestamp="1526398270661">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/env.example" timestamp="1526472062196">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/fuzzybot/strategies.py" timestamp="1526401878676">
+        <mark key="[" line="107" column="11" />
+        <mark key="]" line="107" column="18" />
+        <mark key="^" line="107" column="18" />
+        <mark key="." line="107" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/.env" timestamp="1525246657600">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/config.yml" timestamp="1526472567340">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" timestamp="1525351037484">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="23" column="78" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-pmu.py" timestamp="1526562921410">
+        <mark key="[" line="97" column="28" />
+        <mark key="]" line="97" column="28" />
+        <mark key="." line="97" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+        <mark key="^" line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" timestamp="1526539580501">
+        <mark key="'" line="21" column="10" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="18" />
+        <mark key="^" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525866149075">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="58" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/requirements.txt" timestamp="1526473970420">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/utils.py" timestamp="1525251959582">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="30" column="7" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/races/service.py" timestamp="1526474471892">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/config.yml" timestamp="1526472584868">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/services.py" timestamp="1524044448223">
+        <mark key="'" line="60" column="14" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="63" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1525966385367">
+        <mark key="'" line="121" column="55" />
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="17" />
+        <mark key="^" line="121" column="54" />
+        <mark key="." line="121" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" timestamp="1525879368002">
+        <mark key="'" line="171" column="4" />
+        <mark key="[" line="87" column="11" />
+        <mark key="]" line="87" column="18" />
+        <mark key="." line="87" column="18" />
+        <mark key="^" line="87" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="50" column="79" />
+        <mark key="^" line="54" column="24" />
+        <mark key="." line="59" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/gateway/service.py" timestamp="1526474415011">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ntua/django_geoapplication/README.md" timestamp="1516825087936">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="63" column="55" />
+        <mark key="." line="63" column="55" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" timestamp="1524810488099">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
+        <mark key="^" line="39" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1525337847671">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="60" />
+        <mark key="^" line="67" column="47" />
+        <mark key="." line="67" column="47" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525269880074">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/settings.py" timestamp="1526460205819">
+        <mark key="'" line="29" column="5" />
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="8" column="68" />
+        <mark key="." line="8" column="68" />
+        <mark key="^" line="8" column="68" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524213364802">
+        <mark key="'" line="212" column="10" />
+        <mark key="[" line="161" column="18" />
+        <mark key="]" line="161" column="61" />
+        <mark key="^" line="41" column="28" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" timestamp="1526645928926">
+        <mark key="'" line="189" column="8" />
+        <mark key="[" line="126" column="16" />
+        <mark key="]" line="126" column="43" />
+        <mark key="." line="67" column="99" />
+        <mark key="^" line="67" column="99" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
+        <mark key="[" line="125" column="22" />
+        <mark key="]" line="125" column="26" />
+        <mark key="^" line="273" column="30" />
+        <mark key="." line="273" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/env.example" timestamp="1526473873292">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/.env" timestamp="1526637904711">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" timestamp="1523544715758">
+        <mark key="'" line="38" column="13" />
+        <mark key="[" line="38" column="74" />
+        <mark key="]" line="38" column="73" />
+        <mark key="." line="38" column="73" />
+        <mark key="^" line="38" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_lineg_table.sql" timestamp="1525378301321">
+        <mark key="[" line="1" column="68" />
+        <mark key="]" line="1" column="71" />
+        <mark key="^" line="1" column="71" />
+        <mark key="." line="1" column="71" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/debug/debug.py" timestamp="1524816364482">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1525870037467">
+        <mark key="'" line="68" column="36" />
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="48" column="55" />
+        <mark key="^" line="52" column="87" />
+        <mark key="." line="52" column="87" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/parsers/service.py" timestamp="1526474457491">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/gateway/filter_schemas.py" timestamp="1522679190554">
+        <mark key="'" line="87" column="11" />
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="56" column="44" />
+        <mark key="^" line="56" column="44" />
+        <mark key="." line="56" column="44" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/README.md" timestamp="1526647407461">
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="325" column="0" />
+        <mark key="^" line="325" column="0" />
+        <mark key="." line="325" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1526042432955">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="144" column="8" />
+        <mark key="]" line="166" column="75" />
+        <mark key="." line="79" column="18" />
+        <mark key="^" line="51" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/bin/run-prod.sh" timestamp="1525444869700">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/runners/service.py" timestamp="1526474484291">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" timestamp="1523538913096">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="4" column="2" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/django_test/test_manytomany/models.py" timestamp="1525854600712">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/services.py" timestamp="1522320995934">
+        <mark key="'" line="78" column="38" />
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="112" column="17" />
+        <mark key="^" line="114" column="18" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-nrc.py" timestamp="1526644825565">
+        <mark key="'" line="11" column="30" />
+        <mark key="[" line="65" column="79" />
+        <mark key="]" line="66" column="56" />
+        <mark key="." line="66" column="56" />
+        <mark key="^" line="66" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/settings.py" timestamp="1525267863447">
         <mark key="[" line="16" column="0" />
@@ -146,220 +552,12 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" timestamp="1526647626063">
-        <mark key="'" line="46" column="28" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="55" column="69" />
-      </file>
-      <file name="/line_g [jgmoutafisdb@147.102.40.25]" timestamp="1525388599174">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/config.yml" timestamp="1526472567340">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="36" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="35" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" timestamp="1526645928926">
-        <mark key="'" line="189" column="8" />
-        <mark key="[" line="126" column="16" />
-        <mark key="]" line="126" column="43" />
-        <mark key="." line="67" column="99" />
-        <mark key="^" line="67" column="99" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/gateway/service.py" timestamp="1526474415011">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="28" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" timestamp="1522925321547">
-        <mark key="'" line="22" column="11" />
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="23" />
-        <mark key="^" line="33" column="23" />
-        <mark key="." line="33" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/parsers/service.py" timestamp="1526474457491">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-      </file>
-      <file name="/a.sql" timestamp="1525381328605">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="18" column="5" />
-        <mark key="^" line="12" column="40" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/gateway/filter_schemas.py" timestamp="1522679190554">
-        <mark key="'" line="87" column="11" />
-        <mark key="[" line="56" column="34" />
-        <mark key="]" line="56" column="44" />
-        <mark key="^" line="56" column="44" />
-        <mark key="." line="56" column="44" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" timestamp="1524134797097">
-        <mark key="'" line="33" column="9" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="118" column="4" />
-        <mark key="." line="93" column="73" />
-        <mark key="^" line="93" column="73" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524213364802">
-        <mark key="'" line="212" column="10" />
-        <mark key="[" line="161" column="18" />
-        <mark key="]" line="161" column="61" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" timestamp="1525875236930">
-        <mark key="'" line="81" column="3" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="20" column="49" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/.env" timestamp="1526473816437">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="9" column="101" />
-        <mark key="^" line="9" column="101" />
-        <mark key="." line="9" column="101" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/__init__.py" timestamp="1523538913096">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="4" column="2" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
-        <mark key="[" line="54" column="25" />
-        <mark key="]" line="50" column="79" />
-        <mark key="^" line="54" column="24" />
-        <mark key="." line="59" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-nrc.py" timestamp="1526644825565">
-        <mark key="'" line="11" column="30" />
-        <mark key="[" line="65" column="79" />
-        <mark key="]" line="66" column="56" />
-        <mark key="." line="66" column="56" />
-        <mark key="^" line="66" column="56" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/.env" timestamp="1526637904711">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/setup.cfg" timestamp="1524056618834">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="6" />
-        <mark key="." line="31" column="6" />
-        <mark key="^" line="31" column="6" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env.example" timestamp="1525963205367">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="18" column="2" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/README.md" timestamp="1526647407461">
-        <mark key="[" line="324" column="0" />
-        <mark key="]" line="325" column="0" />
-        <mark key="^" line="325" column="0" />
-        <mark key="." line="325" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" timestamp="1526563817062">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="79" column="28" />
-        <mark key="]" line="79" column="28" />
-        <mark key="." line="79" column="28" />
-        <mark key="^" line="74" column="24" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/.env" timestamp="1525866149075">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="58" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="1" column="38" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/env.example" timestamp="1526473846211">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" timestamp="1526555227643">
-        <mark key="'" line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/setup.cfg" timestamp="1526646548641">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_lineg_table.sql" timestamp="1525378301321">
-        <mark key="[" line="1" column="68" />
-        <mark key="]" line="1" column="71" />
-        <mark key="^" line="1" column="71" />
-        <mark key="." line="1" column="71" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/errors.py" timestamp="1522405583523">
         <mark key="'" line="31" column="7" />
         <mark key="[" line="24" column="37" />
         <mark key="]" line="25" column="95" />
         <mark key="^" line="25" column="95" />
         <mark key="." line="25" column="95" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/.env" timestamp="1526473810659">
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="5" column="60" />
-        <mark key="^" line="5" column="60" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/services.py" timestamp="1526461695987">
-        <mark key="'" line="88" column="11" />
-        <mark key="[" line="64" column="30" />
-        <mark key="]" line="71" column="63" />
-        <mark key="^" line="71" column="63" />
-        <mark key="." line="71" column="63" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="12" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_3/ex3_module/excercises/erotima_1.py" timestamp="1524776329229">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525269880074">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_1/queries/python_queries/copy_from_remote_db.py" timestamp="1520898896215">
-        <mark key="'" line="87" column="25" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="8" />
-        <mark key="^" line="64" column="8" />
-        <mark key="." line="64" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/env.example" timestamp="1526472011429">
         <mark key="'" line="7" column="15" />
@@ -368,100 +566,16 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/settings.py" timestamp="1523454379253">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="30" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env.example" timestamp="1525963205367">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="18" column="2" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/.env" timestamp="1526473804411">
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/.env" timestamp="1525246657600">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/utils.py" timestamp="1525251959582">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="30" column="7" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525966585438">
-        <mark key="[" line="13" column="89" />
-        <mark key="]" line="13" column="68" />
-        <mark key="." line="13" column="68" />
-        <mark key="^" line="13" column="68" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/utils.py" timestamp="1525337847671">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="67" column="60" />
-        <mark key="^" line="67" column="47" />
-        <mark key="." line="67" column="47" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/README.md" timestamp="1524816319922">
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="85" column="11" />
-        <mark key="." line="85" column="11" />
-        <mark key="^" line="85" column="11" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/bin/run-prod.sh" timestamp="1525444869700">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/requirements.txt" timestamp="1526471880892">
-        <mark key="[" line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
-        <mark key="[" line="125" column="22" />
-        <mark key="]" line="125" column="26" />
-        <mark key="^" line="273" column="30" />
-        <mark key="." line="273" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/gui/package.json" timestamp="1526640856198">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/setup.cfg" timestamp="1526646534760">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="31" column="21" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/settings.py" timestamp="1524059934418">
-        <mark key="'" line="21" column="1" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="34" column="84" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/rust_test/Cargo.toml" timestamp="1526045219723">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-        <mark key="^" line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/fuzzybot/strategies.py" timestamp="1526401878676">
-        <mark key="[" line="107" column="11" />
-        <mark key="]" line="107" column="18" />
-        <mark key="^" line="107" column="18" />
-        <mark key="." line="107" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/.env" timestamp="1526473799331">
-        <mark key="[" line="4" column="0" />
+      <file name="/Dummy.txt" timestamp="1526647786505">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1526462373682">
         <mark key="'" line="69" column="40" />
@@ -470,39 +584,24 @@
         <mark key="^" line="142" column="43" />
         <mark key="." line="142" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1525870037467">
-        <mark key="'" line="68" column="36" />
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="48" column="55" />
-        <mark key="^" line="52" column="87" />
-        <mark key="." line="52" column="87" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/test_median_of_scores.py" timestamp="1522245160847">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="24" column="8" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/env.example" timestamp="1526471938755">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" timestamp="1525875236930">
+        <mark key="'" line="81" column="3" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/correlation_strategies.py" timestamp="1522231736625">
-        <mark key="'" line="103" column="9" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="104" column="5" />
-        <mark key="." line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/settings.py" timestamp="1526460205819">
-        <mark key="'" line="29" column="5" />
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="8" column="68" />
-        <mark key="." line="8" column="68" />
-        <mark key="^" line="8" column="68" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/services.py" timestamp="1523544715758">
-        <mark key="'" line="38" column="13" />
-        <mark key="[" line="38" column="74" />
-        <mark key="]" line="38" column="73" />
-        <mark key="." line="38" column="73" />
-        <mark key="^" line="38" column="73" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/meetings/service.py" timestamp="1526474610045">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/utils.py" timestamp="1522918346109">
         <mark key="'" line="100" column="4" />
@@ -511,134 +610,12 @@
         <mark key="." line="113" column="38" />
         <mark key="^" line="113" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/requirements_dev.txt" timestamp="1526646498974">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/config.yml" timestamp="1526472605404">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/env.example" timestamp="1526473873292">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="7" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/services.py" timestamp="1524834811378">
-        <mark key="[" line="67" column="84" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
-        <mark key="^" line="20" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/env.example" timestamp="1525871494555">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="44" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/env.example" timestamp="1526458892181">
-        <mark key="[" line="6" column="65" />
-        <mark key="]" line="6" column="77" />
-        <mark key="." line="6" column="77" />
-        <mark key="^" line="6" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_line_g.sql" timestamp="1525379334042">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/requirements.txt" timestamp="1526471874972">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-      </file>
-      <file name="/Django Console" timestamp="1525854159107">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/test_median_of_scores.py" timestamp="1522245160847">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="24" column="8" />
-        <mark key="^" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-      </file>
-      <file name="/dummy.sql" timestamp="1525388599482">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1526647786505">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env" timestamp="1526462525996">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1521216062305">
-        <mark key="'" line="9" column="51" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" timestamp="1526555150403">
-        <mark key="'" line="83" column="26" />
-      </file>
-      <file name="/propertyperson [jgmoutafisdb@147.102.40.25]" timestamp="1525372743056">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" timestamp="1526570148435">
-        <mark key="'" line="75" column="33" />
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="14" />
-        <mark key="^" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/.env" timestamp="1526461371548">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="50" />
-        <mark key="." line="6" column="50" />
-        <mark key="^" line="6" column="50" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" timestamp="1525351037484">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="23" column="78" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="/point_g [jgmoutafisdb@147.102.40.25]" timestamp="1525381683786">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/processors.py" timestamp="1526556704043">
-        <mark key="'" line="14" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/debug/debug.py" timestamp="1524816364482">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" timestamp="1525870727488">
-        <mark key="'" line="107" column="12" />
-        <mark key="[" line="107" column="12" />
-        <mark key="]" line="114" column="12" />
-        <mark key="." line="50" column="43" />
-        <mark key="^" line="50" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/services.py" timestamp="1526461695987">
+        <mark key="'" line="88" column="11" />
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="71" column="63" />
+        <mark key="." line="71" column="63" />
+        <mark key="^" line="71" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" timestamp="1526046591299">
         <mark key="'" line="12" column="7" />
@@ -647,23 +624,30 @@
         <mark key="^" line="18" column="51" />
         <mark key="." line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/.env" timestamp="1526398270661">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/requirements.txt" timestamp="1526473974772">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="35" />
-        <mark key="." line="46" column="35" />
-        <mark key="^" line="46" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg" timestamp="1526646209106">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="78" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526646057965">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="41" />
-        <mark key="^" line="17" column="41" />
-        <mark key="." line="17" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/env.example" timestamp="1526471938755">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" timestamp="1526570148435">
+        <mark key="'" line="75" column="33" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -858,6 +842,7 @@ max-line-length=100</text>
       <history-cmd>
         <entry>23</entry>
         <entry>8</entry>
+        <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ws</entry>
         <entry>12</entry>
@@ -874,7 +859,6 @@ max-line-length=100</text>
         <entry>:w</entry>
         <entry>q</entry>
         <entry>6</entry>
-        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -479,12 +479,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1527072991458">
-        <mark key="'" line="58" column="18" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="19" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1527073911205">
+        <mark key="'" line="52" column="5" />
+        <mark key="[" line="60" column="71" />
+        <mark key="]" line="64" column="60" />
+        <mark key="^" line="64" column="60" />
+        <mark key="." line="64" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/processors.py" timestamp="1525870037467">
         <mark key="'" line="68" column="36" />
@@ -678,7 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="0" filename="/pmubot.py" />
       <jump line="76" column="24" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" />
       <jump line="38" column="10" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/utils.py" />
       <jump line="59" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" />
@@ -778,6 +777,7 @@
       <jump line="25" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
       <jump line="62" column="25" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
       <jump line="58" column="18" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
+      <jump line="52" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -793,7 +793,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/app/vermantia_ftp</text>
+        <text>destination</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -885,6 +885,7 @@
         <entry>q</entry>
         <entry>6</entry>
         <entry>we</entry>
+        <entry>w2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

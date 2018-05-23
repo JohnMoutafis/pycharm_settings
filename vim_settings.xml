@@ -590,10 +590,10 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527016057752">
+      <file name="/Dummy.txt" timestamp="1527078408554">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527061258151">
         <mark key="]" line="5" column="13" />

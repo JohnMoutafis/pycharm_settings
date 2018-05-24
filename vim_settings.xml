@@ -48,11 +48,11 @@
         <mark key="]" line="97" column="28" />
         <mark key="." line="97" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1527158170914">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1527159033423">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
         <mark key="^" line="25" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/conf.py" timestamp="1527156565738">
         <mark key="[" line="44" column="0" />
@@ -653,8 +653,8 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" timestamp="1526555150403">
-        <mark key="'" line="83" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" timestamp="1527159118694">
+        <mark key="'" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" timestamp="1526570148435">
         <mark key="'" line="75" column="33" />
@@ -675,8 +675,8 @@
         <mark key="^" line="23" column="78" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/processors.py" timestamp="1527158059278">
-        <mark key="'" line="35" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/processors.py" timestamp="1527158893174">
+        <mark key="'" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/debug/debug.py" timestamp="1524816364482">
         <mark key="[" line="9" column="32" />
@@ -718,7 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/main.py" />
       <jump line="35" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/parsers.py" />
       <jump line="14" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" />
       <jump line="5" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" />
@@ -817,7 +816,8 @@
       <jump line="76" column="25" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" />
       <jump line="76" column="25" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_bot.rst" />
       <jump line="21" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" />
-      <jump line="35" column="26" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/processors.py" />
+      <jump line="35" column="23" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/processors.py" />
+      <jump line="62" column="28" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -833,7 +833,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9sbG93aW5nIA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>

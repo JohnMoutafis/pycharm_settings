@@ -359,12 +359,12 @@
         <mark key="." line="5" column="60" />
         <mark key="^" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1527159730184">
-        <mark key="'" line="82" column="25" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="18" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1527161184290">
+        <mark key="'" line="78" column="25" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="57" column="79" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
@@ -634,9 +634,9 @@
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527156879207">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="52" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527161045727">
+        <mark key="[" line="44" column="6" />
+        <mark key="]" line="44" column="100" />
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
@@ -833,46 +833,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>├──</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>└──</text>
+        <text>The date that the meeting is taking place in the following format: ``YYYYMMDD`` (ex. 20171019).</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>The 
-`downloads/races` folder contains the
-&quot;raw&quot; info from NRC and the `races` folder stores the processed info. The folder structure is
-as follows::</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IDwvY29kZT48L3ByZT4K</text>
+        <text encoding="base64">CjEuIFNlbGVjdGluZyBmaWxlcyBmcm9tIHRoZSBkYXRhIGZvbGRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IDxwcmU+PGNvZGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXMgZm9sbG93czoK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">R0JJIHB1c2hlcyBuZXcgZGF0YSwgdXNpbmcgYW4gc2Z0cCBzZXJ2ZXIuIFRob3NlIGFyZSBlaXRoZXIgYGB4bWxgYCBvciBgYHRhci5nemBgIGZpbGVzCnN0cnVjdHVyZWQgYXMgZm9sbG93czo6CgogICAgLgogICAg4pSc4pSA4pSAIENhcmRzCiAgICDilIIgICDilJzilIDilIAgYzIwMTcxMDE5bmNzLnhtbAogICAg4pSCICAg4pSc4pSA4pSAIGMyMDE3MTAxOWJnaC54bWwKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4KICAgIOKUnOKUgOKUgCBTaWxrcwogICAg4pSCICAg4pSc4pSA4pSAIHMxODEwMTcudGd6CiAgICDilIIgICDilJzilIDilIAgczE5MTAxNy50Z3oKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4KCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">c3RvcmVzIHRoZSBwcm9jZXNzZWQgaW5mby4gVGhlIGZvbGRlciBzdHJ1Y3R1cmUgaXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9sZGVyIGNvbnRhaW5zIHRoZQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SGVsbGFzIEhvcnNlcyBzaWxrcyBmb2xkZXIgaGFzIHRoZSBmb2xsb3dpbmcgc3RydWN0dXJlOjoK</text>
+        <text encoding="base64">VGhlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogKiphbGlhc2VkX3JhY2VzX29ubHk6KiogSWYgc2V0IHRvIFRydWUsIHdpbGwgdHJ5IHRvIGNvcnJlbGF0ZSBvbmx5IHdpdGggcmFjZXMgdGhhdCBoYXZlIGFuIGFsaWFzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

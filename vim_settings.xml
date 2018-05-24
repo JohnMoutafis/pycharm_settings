@@ -308,12 +308,12 @@
         <mark key="^" line="325" column="0" />
         <mark key="." line="325" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_bot.rst" timestamp="1527172249999">
-        <mark key="'" line="98" column="25" />
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="50" column="30" />
-        <mark key="." line="50" column="30" />
-        <mark key="^" line="50" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_bot.rst" timestamp="1527174685274">
+        <mark key="'" line="101" column="25" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="51" column="96" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" timestamp="1526563817062">
         <mark key="'" line="4" column="0" />
@@ -515,10 +515,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1527172373998">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1527174494175">
         <mark key="'" line="117" column="27" />
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="67" column="20" />
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="86" column="82" />
         <mark key="^" line="64" column="60" />
         <mark key="." line="64" column="60" />
       </file>
@@ -842,19 +842,20 @@
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">4pSc4pSA4pSAIDIwMTcxMDE5CuKUgsKgwqAg4pSc4pSA4pSAIENhcmRzCuKUgiAgIOKUgsKgwqAg4pSc4pSA4pSAIGMxMDk3NDAyMDUueG1sCuKUgiAgIOKUgsKgwqAg4pSc4pSA4pSAIGMxMDk3NDAyMTMueG1sCuKUgiAgIOKUgsKgwqAg4pSc4pSA4pSAIHAxMDk3NDAzOTYueG1sCuKUgiAgIOKUgsKgwqAg4pSc4pSA4pSAIHAxMDk3NDA0MDUueG1sCuKUgiAgIOKUgsKgwqAg4pSU4pSA4pSAIC4uLgrilILCoMKgIOKUlOKUgOKUgCBTaWxrcwrilIIgICAgICAg4pSc4pSA4pSAIDIwMTcxMDE5X0JPUi1SMkMxXzIwMTcxMDE5MjAxNDQ2LnppcArilIIgICAgICAg4pSc4pSA4pSAIDIwMTcxMDE5X0JPUi1SMkMyXzIwMTcxMDE5MjAxNTA3LnppcArilIIgICAgICAg4pSc4pSA4pSAIDIwMTcxMDE5X0JPUi1SMkMzXzIwMTcxMDE5MjAxNTI4LnppcArilIIgICAgICAg4pSc4pSA4pSAIDIwMTcxMDE5X0JPUi1SMkM0XzIwMTcxMDE5MjAxNTQ4LnppcArilIIgICAgICAg4pSU4pSA4pSAIC4uLgrilJTilIDilIAgMjAxNzEwMjAKICAgIOKUnOKUgOKUgCBDYXJkcwogICAg4pSCwqDCoCDilJzilIDilIAgYzEwOTg1MTc5My54bWwKICAgIOKUgsKgwqAg4pSc4pSA4pSAIGMxMDk4NTE3OTQueG1sCiAgICDilILCoMKgIOKUnOKUgOKUgCBwMTA5NzQwMDcxLnhtbAogICAg4pSCwqDCoCDilJzilIDilIAgcDEwOTc0MDA3OS54bWwKICAgIOKUgsKgwqAg4pSU4pSA4pSAIC4uLgogICAg4pSU4pSA4pSAIFNpbGtzCiAgICAgICAg4pSc4pSA4pSAIDIwMTcxMDIwX0JPUi1SMkMxXzIwMTcxMDIwMjAxNDQ2LnppcAogICAgICAgIOKUnOKUgOKUgCAyMDE3MTAyMF9CT1ItUjJDMl8yMDE3MTAyMDIwMTUwNy56aXAKICAgICAgICDilJzilIDilIAgMjAxNzEwMjBfQk9SLVIyQzNfMjAxNzEwMjAyMDE1MjguemlwCiAgICAgICAg4pSc4pSA4pSAIDIwMTcxMDIwX0JPUi1SMkM0XzIwMTcxMDIwMjAxNTQ4LnppcAogICAgICAgIOKUlOKUgOKUgCAuLi4KPA==</text>
+        <text>limit_races: Flag. If set to True, will limit races to those belonging to p_date's
+                     racecourses (extracted from fuzzybot's `racecourses` endpoint.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogVGhlIGRhdGUgdGhhdCB0aGUgbWVldGluZyBpcyB0YWtpbmcgcGxhY2UgaW4gdGhlIGZvbGxvd2luZyBmb3JtYXQ6IGBgWVlZWU1NRERgYCAoZXguIDIwMTcxMDE5KS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICogVGhlIGRhdGUgdGhhdCB0aGUgbWVldGluZyBpcyB0YWtpbmcgcGxhY2UgaW4gdGhlIGZvbGxvd2luZyBmb3JtYXQ6IGBgWVlZWU1NRERgYCAoZXguIDIwMTcxMDE5KS4K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">PAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">4pSc4pSA4pSAIENhcmRzCiAgICDilIIgICDilJzilIDilIAgYzIwMTcxMDE5bmNzLnhtbAogICAg4pSCICAg4pSc4pSA4pSAIGMyMDE3MTAxOWJnaC54bWwKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4KICAgIOKUnOKUgOKUgCBTaWxrcwogICAg4pSCICAg4pSc4pSA4pSAIHMxODEwMTcudGd6CiAgICDilIIgICDilJzilIDilIAgczE5MTAxNy50Z3oKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -868,12 +869,12 @@
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>GBI pushes new data, using an sftp server. Those are either ``xml`` or ``tar.gz`` files
 structured as follows::</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICogVW5wYWNrcyB0aGUgY29ycmVzcG9uZGluZyBzaWxrcyBmb2xkZXIgYW5kIGNvcGllcyB0aGUgY29ycmVsYXRlZCBzaWxrcyB0byB0aGUgZnRwIHNlcnZlci4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -918,7 +919,6 @@ structured as follows::</text>
         <entry>89</entry>
         <entry>wq</entry>
         <entry>61</entry>
-        <entry>W</entry>
         <entry>189</entry>
         <entry>44</entry>
         <entry>50</entry>
@@ -929,6 +929,7 @@ structured as follows::</text>
         <entry>6</entry>
         <entry>w2</entry>
         <entry>we</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

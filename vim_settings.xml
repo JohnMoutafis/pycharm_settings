@@ -48,6 +48,12 @@
         <mark key="]" line="97" column="28" />
         <mark key="." line="97" column="28" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1527153326544">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/services.py" timestamp="1522320995934">
         <mark key="'" line="78" column="38" />
         <mark key="[" line="67" column="8" />
@@ -182,6 +188,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="28" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/index.rst" timestamp="1527153210463">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="20" column="2" />
+        <mark key="^" line="20" column="2" />
+        <mark key="." line="20" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" timestamp="1522925321547">
         <mark key="'" line="22" column="11" />
@@ -802,13 +814,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>dure</text>
+        <text>=====================</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>-------------------------------</text>
+        <text>===============================</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

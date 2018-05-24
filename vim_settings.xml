@@ -359,12 +359,12 @@
         <mark key="." line="5" column="60" />
         <mark key="^" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1527166716127">
-        <mark key="'" line="78" column="25" />
-        <mark key="[" line="58" column="44" />
-        <mark key="]" line="58" column="44" />
-        <mark key="^" line="58" column="44" />
-        <mark key="." line="58" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1527168003039">
+        <mark key="'" line="76" column="25" />
+        <mark key="[" line="76" column="95" />
+        <mark key="]" line="76" column="94" />
+        <mark key="^" line="76" column="94" />
+        <mark key="." line="76" column="94" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
@@ -459,7 +459,7 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" timestamp="1527165532182">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" timestamp="1527167562086">
         <mark key="'" line="34" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
@@ -836,7 +836,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsZXMg</text>
+        <text>or copying silks to silk host.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -845,12 +845,24 @@
         <text>The date that the meeting is taking place in the following format: ``YYYYMMDD`` (ex. 20171019).</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogVW5wYWNrcyB0aGUgY29ycmVzcG9uZGluZyBzaWxrcyBmb2xkZXIgYW5kIGNvcGllcyB0aGUgY29ycmVsYXRlZCBzaWxrcyB0byB0aGUgZnRwIHNlcnZlci4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Y2hhbm5lbC4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">SW4gY2FzZSBvZiBlcnJvcnMgb2NjdXJyaW5nIGR1cmluZyB0aGUgY29ycmVsYXRpb24gcHJvY2VzcywgdGhlIGJvdCByZXBvcnRzIHRoZW0gdG8gYSBzbGFjawo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>The ``downloads/races`` folder contains the &quot;raw&quot; info from NRC. Every file contains the
 information of an NRC horse racing meeting. Each filename consists of 3 parts, separated by
 underscores ``_``:
@@ -868,26 +880,14 @@ parts, separated by underscores ``_``:
     * The date that the meeting is taking place in the following format: ``YYYYMMDD`` (ex. 20180404).
     * The id of the meeting.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CjEuIFNlbGVjdGluZyBmaWxlcyBmcm9tIHRoZSBkYXRhIGZvbGRlcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXMgZm9sbG93czoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RvcmVzIHRoZSBwcm9jZXNzZWQgaW5mby4gVGhlIGZvbGRlciBzdHJ1Y3R1cmUgaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

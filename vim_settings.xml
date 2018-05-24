@@ -359,12 +359,12 @@
         <mark key="." line="5" column="60" />
         <mark key="^" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1527165671910">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1527166716127">
         <mark key="'" line="78" column="25" />
-        <mark key="[" line="63" column="9" />
-        <mark key="]" line="63" column="9" />
-        <mark key="^" line="57" column="79" />
-        <mark key="." line="63" column="9" />
+        <mark key="[" line="58" column="44" />
+        <mark key="]" line="58" column="44" />
+        <mark key="^" line="58" column="44" />
+        <mark key="." line="58" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
@@ -836,7 +836,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FyZCA=</text>
+        <text encoding="base64">ZmlsZXMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -850,29 +850,44 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CjEuIFNlbGVjdGluZyBmaWxlcyBmcm9tIHRoZSBkYXRhIGZvbGRlcgo=</text>
+      <register name="3" type="4">
+        <text>The ``downloads/races`` folder contains the &quot;raw&quot; info from NRC. Every file contains the
+information of an NRC horse racing meeting. Each filename consists of 3 parts, separated by
+underscores ``_``:
+
+    * The starting ``XML`` (this is stable for all the filenames).
+    * The year that the meeting is taking place.
+    * The id of the meeting.
+
+The ``downloads/silks`` folder contains every silk image used in the races (no special naming
+conventions can be deducted).
+
+The ``races`` folder stores the processed NRC meeting info files. Each filename consists of 2
+parts, separated by underscores ``_``:
+
+    * The date that the meeting is taking place in the following format: ``YYYYMMDD`` (ex. 20180404).
+    * The id of the meeting.</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXMgZm9sbG93czoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RvcmVzIHRoZSBwcm9jZXNzZWQgaW5mby4gVGhlIGZvbGRlciBzdHJ1Y3R1cmUgaXMK</text>
+        <text encoding="base64">CjEuIFNlbGVjdGluZyBmaWxlcyBmcm9tIHRoZSBkYXRhIGZvbGRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9sZGVyIGNvbnRhaW5zIHRoZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhlCg==</text>
+        <text encoding="base64">YXMgZm9sbG93czoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogKiphbGlhc2VkX3JhY2VzX29ubHk6KiogSWYgc2V0IHRvIFRydWUsIHdpbGwgdHJ5IHRvIGNvcnJlbGF0ZSBvbmx5IHdpdGggcmFjZXMgdGhhdCBoYXZlIGFuIGFsaWFzLgo=</text>
+        <text encoding="base64">c3RvcmVzIHRoZSBwcm9jZXNzZWQgaW5mby4gVGhlIGZvbGRlciBzdHJ1Y3R1cmUgaXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

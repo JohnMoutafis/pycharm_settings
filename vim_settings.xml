@@ -344,9 +344,9 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.cleanup_scripts/README.md" timestamp="1527168862824">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="226" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.cleanup_scripts/README.md" timestamp="1527242818980">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="273" column="6" />
         <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/errors.py" timestamp="1522405583523">
@@ -579,12 +579,12 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" timestamp="1527156142350">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="1" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" timestamp="1527243056274">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="53" />
+        <mark key="." line="5" column="53" />
+        <mark key="^" line="5" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/env.example" timestamp="1526473873292">
         <mark key="[" line="11" column="0" />
@@ -838,44 +838,57 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVmZXJzIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>limit_races: Flag. If set to True, will limit races to those belonging to p_date's
-                     racecourses (extracted from fuzzybot's `racecourses` endpoint.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGF0YSBzdHJ1Y3R1cmUgY2FuIGJlIGZvdW5kOjoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWx0aG91Z2ggZGVuaWVkIGJ5IFBNVSwgd2UgYXJlIHVuZGVyIHRoZSBhc3N1bXB0aW9uIHRoYXQgdGhlIGFjZSBhbmQgcnVubmVyIGZpbGVzIAo=</text>
+        <text encoding="base64">PHByZT48Y29kZT4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMuIERldGVybWluZXMgaWYgdGhlIGZpbGUgaGFzIGEgbWVldGluZyB0aW1lCg==</text>
+      <register name="2" type="4">
+        <text>GBI pushes new data, using an sftp server. Those are either ``xml`` or ``tar.gz`` files
+structured as follows::
+
+    .
+    ├── Cards
+    │   ├── c20171019ncs.xml
+    │   ├── c20171019bgh.xml
+    │   └── ...
+    ├── Silks
+    │   ├── s181017.tgz
+    │   ├── s191017.tgz
+    │   └── ...
+
+
+The bot is designed to process and correlate the contents of this folder.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWx0aG91Z2ggZGVuaWVkIGJ5IFBNVSwgd2UgYXJlIHVuZGVyIHRoZSBhc3N1bXB0aW9uIHRoYXQgdGhlIGFjZSBhbmQgcnVubmVyIGZpbGVzIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMuIERldGVybWluZXMgaWYgdGhlIGZpbGUgaGFzIGEgbWVldGluZyB0aW1lCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogVGhlIGRhdGUgdGhhdCB0aGUgbWVldGluZyBpcyB0YWtpbmcgcGxhY2UgaW4gdGhlIGZvbGxvd2luZyBmb3JtYXQ6IGBgWVlZWU1NRERgYCAoZXguIDIwMTcxMDE5KS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">4pSc4pSA4pSAIENhcmRzCiAgICDilIIgICDilJzilIDilIAgYzIwMTcxMDE5bmNzLnhtbAogICAg4pSCICAg4pSc4pSA4pSAIGMyMDE3MTAxOWJnaC54bWwKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4KICAgIOKUnOKUgOKUgCBTaWxrcwogICAg4pSCICAg4pSc4pSA4pSAIHMxODEwMTcudGd6CiAgICDilIIgICDilJzilIDilIAgczE5MTAxNy50Z3oKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4K</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICogVGhlIGRhdGUgdGhhdCB0aGUgbWVldGluZyBpcyB0YWtpbmcgcGxhY2UgaW4gdGhlIGZvbGxvd2luZyBmb3JtYXQ6IGBgWVlZWU1NRERgYCAoZXguIDIwMTcxMDE5KS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

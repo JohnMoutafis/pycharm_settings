@@ -59,6 +59,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/index.rst" timestamp="1527256531698">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/services.py" timestamp="1522320995934">
         <mark key="'" line="78" column="38" />
         <mark key="[" line="67" column="8" />
@@ -211,11 +217,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/index.rst" timestamp="1527255150610">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/index.rst" timestamp="1527256998291">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
         <mark key="[" line="18" column="5" />
@@ -680,6 +686,12 @@
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" timestamp="1527159118694">
         <mark key="'" line="62" column="28" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live horses feed/index.rst" timestamp="1527256522675">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/receiver/ftpclient.py" timestamp="1526570148435">
         <mark key="'" line="75" column="33" />
         <mark key="[" line="15" column="7" />
@@ -857,7 +869,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RnV6enlib3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -870,31 +882,31 @@ Service (SaaS) ecosystem.</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgY29udGFpbiB0aGUgcm9vdCBgdG9jdHJlZWAgZGlyZWN0aXZlLgo=</text>
+        <text encoding="base64">U2VydmljZSAoU2FhUykgZWNvc3lzdGVtLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgWW91IGNhbiBhZGFwdCB0aGlzIGZpbGUgY29tcGxldGVseSB0byB5b3VyIGxpa2luZywgYnV0IGl0IHNob3VsZCBhdCBsZWFzdAo=</text>
+        <text encoding="base64">VGhpcyBpcyB0aGUgZG9jdW1lbnRhdGlvbiBzZWN0aW9uIG9mIHRoZSAobm9uLWJvdCkgc2VydmljZXMgdGhhdCBhcmUgcGFydCBvZiBWZXJtYW50aWEncyBTaWxrIGFzIGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgc3BoaW54LXF1aWNrc3RhcnQgb24gVHVlIE1heSAyMiAyMTo0MDozNiAyMDE4Lgo=</text>
+        <text encoding="base64">ICAgc2lsa2JvdC9pbmRleAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Li4gT1BBUCBIb3JzZXJhY2VzIFNpbGtzIGRvY3VtZW50YXRpb24gbWFzdGVyIGZpbGUsIGNyZWF0ZWQgYnkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgY29udGFpbiB0aGUgcm9vdCBgdG9jdHJlZWAgZGlyZWN0aXZlLgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgWW91IGNhbiBhZGFwdCB0aGlzIGZpbGUgY29tcGxldGVseSB0byB5b3VyIGxpa2luZywgYnV0IGl0IHNob3VsZCBhdCBsZWFzdAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">T3ZlcnZpZXcK</text>
+        <text encoding="base64">ICAgc3BoaW54LXF1aWNrc3RhcnQgb24gVHVlIE1heSAyMiAyMTo0MDozNiAyMDE4Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Li4gT1BBUCBIb3JzZXJhY2VzIFNpbGtzIGRvY3VtZW50YXRpb24gbWFzdGVyIGZpbGUsIGNyZWF0ZWQgYnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

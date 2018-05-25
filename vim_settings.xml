@@ -15,10 +15,10 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/index.rst" timestamp="1527249857750">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/index.rst" timestamp="1527255272706">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/requirements.txt" timestamp="1526471895772">
         <mark key="[" line="2" column="13" />
@@ -193,11 +193,10 @@
         <mark key="]" line="34" column="28" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/index.rst" timestamp="1527245586019">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/index.rst" timestamp="1527255138437">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" timestamp="1522925321547">
         <mark key="'" line="22" column="11" />
@@ -212,11 +211,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/index.rst" timestamp="1527249289163">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/index.rst" timestamp="1527255150610">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
         <mark key="[" line="18" column="5" />
@@ -421,10 +420,6 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="/README.md" timestamp="1527156373896">
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="296" column="6" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/.env" timestamp="1525246657600">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="18" />
@@ -622,6 +617,12 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/api/external.rst" timestamp="1527254700098">
+        <mark key="[" line="199" column="26" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_line_g.sql" timestamp="1525379334042">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="26" />
@@ -669,6 +670,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/index.rst" timestamp="1527255203163">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" timestamp="1527159118694">
         <mark key="'" line="62" column="28" />
@@ -850,48 +857,44 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`</text>
+        <text>This is the documentation section of the (non-bot) services that are part of Vermantia's Silk as a
+Service (SaaS) ecosystem.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiA6cmVmOmBzZWFyY2hgCg==</text>
+        <text encoding="base64">ICAgY29udGFpbiB0aGUgcm9vdCBgdG9jdHJlZWAgZGlyZWN0aXZlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiA6cmVmOmBtb2RpbmRleGAK</text>
+        <text encoding="base64">ICAgWW91IGNhbiBhZGFwdCB0aGlzIGZpbGUgY29tcGxldGVseSB0byB5b3VyIGxpa2luZywgYnV0IGl0IHNob3VsZCBhdCBsZWFzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiA6cmVmOmBnZW5pbmRleGAK</text>
+        <text encoding="base64">ICAgc3BoaW54LXF1aWNrc3RhcnQgb24gVHVlIE1heSAyMiAyMTo0MDozNiAyMDE4Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Li4gT1BBUCBIb3JzZXJhY2VzIFNpbGtzIGRvY3VtZW50YXRpb24gbWFzdGVyIGZpbGUsIGNyZWF0ZWQgYnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW5kaWNlcyBhbmQgdGFibGVzCg==</text>
+        <text encoding="base64">LS0tLS0tLS0K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgcG11X2JvdAo=</text>
+        <text encoding="base64">T3ZlcnZpZXcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcGh1bWVsZWxhX2JvdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

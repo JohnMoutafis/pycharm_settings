@@ -199,10 +199,11 @@
         <mark key="]" line="34" column="28" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/index.rst" timestamp="1527255138437">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/index.rst" timestamp="1527257903374">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" timestamp="1522925321547">
         <mark key="'" line="22" column="11" />
@@ -869,44 +870,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RnV6enlib3Qg</text>
+        <text>================</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>This is the documentation section of the (non-bot) services that are part of Vermantia's Silk as a
-Service (SaaS) ecosystem.</text>
+      <register name="0" type="2">
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U2VydmljZSAoU2FhUykgZWNvc3lzdGVtLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">VGhpcyBpcyB0aGUgZG9jdW1lbnRhdGlvbiBzZWN0aW9uIG9mIHRoZSAobm9uLWJvdCkgc2VydmljZXMgdGhhdCBhcmUgcGFydCBvZiBWZXJtYW50aWEncyBTaWxrIGFzIGEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgc2lsa2JvdC9pbmRleAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">U2VydmljZSAoU2FhUykgZWNvc3lzdGVtLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">VGhpcyBpcyB0aGUgZG9jdW1lbnRhdGlvbiBzZWN0aW9uIG9mIHRoZSAobm9uLWJvdCkgc2VydmljZXMgdGhhdCBhcmUgcGFydCBvZiBWZXJtYW50aWEncyBTaWxrIGFzIGEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgc2lsa2JvdC9pbmRleAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgY29udGFpbiB0aGUgcm9vdCBgdG9jdHJlZWAgZGlyZWN0aXZlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgWW91IGNhbiBhZGFwdCB0aGlzIGZpbGUgY29tcGxldGVseSB0byB5b3VyIGxpa2luZywgYnV0IGl0IHNob3VsZCBhdCBsZWFzdAo=</text>
+        <text encoding="base64">ICAgY29udGFpbiB0aGUgcm9vdCBgdG9jdHJlZWAgZGlyZWN0aXZlLgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgc3BoaW54LXF1aWNrc3RhcnQgb24gVHVlIE1heSAyMiAyMTo0MDozNiAyMDE4Lgo=</text>
+        <text encoding="base64">ICAgWW91IGNhbiBhZGFwdCB0aGlzIGZpbGUgY29tcGxldGVseSB0byB5b3VyIGxpa2luZywgYnV0IGl0IHNob3VsZCBhdCBsZWFzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Li4gT1BBUCBIb3JzZXJhY2VzIFNpbGtzIGRvY3VtZW50YXRpb24gbWFzdGVyIGZpbGUsIGNyZWF0ZWQgYnkK</text>
+        <text encoding="base64">ICAgc3BoaW54LXF1aWNrc3RhcnQgb24gVHVlIE1heSAyMiAyMTo0MDozNiAyMDE4Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

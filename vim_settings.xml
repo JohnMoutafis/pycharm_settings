@@ -99,6 +99,9 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1527239338402">
+        <mark key="'" line="89" column="34" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/requirements.txt" timestamp="1526473970420">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="19" />
@@ -307,12 +310,12 @@
         <mark key="^" line="325" column="0" />
         <mark key="." line="325" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_bot.rst" timestamp="1527237359387">
-        <mark key="'" line="106" column="25" />
-        <mark key="[" line="82" column="93" />
-        <mark key="]" line="89" column="9" />
-        <mark key="." line="89" column="9" />
-        <mark key="^" line="82" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_bot.rst" timestamp="1527240013355">
+        <mark key="'" line="108" column="25" />
+        <mark key="[" line="119" column="29" />
+        <mark key="]" line="121" column="86" />
+        <mark key="." line="121" column="86" />
+        <mark key="^" line="121" column="86" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" timestamp="1526563817062">
         <mark key="'" line="4" column="0" />
@@ -514,8 +517,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1527236745754">
-        <mark key="'" line="130" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1527239791418">
+        <mark key="'" line="139" column="10" />
         <mark key="[" line="85" column="8" />
         <mark key="]" line="86" column="82" />
         <mark key="^" line="64" column="60" />
@@ -720,9 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_point_g.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_point_g.sql" />
       <jump line="3" column="15" filename="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" />
       <jump line="13" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" />
       <jump line="48" column="36" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" />
@@ -819,7 +819,10 @@
       <jump line="34" column="64" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/main.py" />
       <jump line="117" column="27" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
       <jump line="127" column="30" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
-      <jump line="130" column="38" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
+      <jump line="77" column="27" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" />
+      <jump line="89" column="34" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" />
+      <jump line="130" column="36" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
+      <jump line="139" column="10" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -835,7 +838,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FyZCA=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -845,31 +848,31 @@
                      racecourses (extracted from fuzzybot's `racecourses` endpoint.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWx0aG91Z2ggZGVuaWVkIGJ5IFBNVSwgd2UgYXJlIHVuZGVyIHRoZSBhc3N1bXB0aW9uIHRoYXQgdGhlIGFjZSBhbmQgcnVubmVyIGZpbGVzIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMuIERldGVybWluZXMgaWYgdGhlIGZpbGUgaGFzIGEgbWVldGluZyB0aW1lCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICogVGhlIGRhdGUgdGhhdCB0aGUgbWVldGluZyBpcyB0YWtpbmcgcGxhY2UgaW4gdGhlIGZvbGxvd2luZyBmb3JtYXQ6IGBgWVlZWU1NRERgYCAoZXguIDIwMTcxMDE5KS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">4pSc4pSA4pSAIENhcmRzCiAgICDilIIgICDilJzilIDilIAgYzIwMTcxMDE5bmNzLnhtbAogICAg4pSCICAg4pSc4pSA4pSAIGMyMDE3MTAxOWJnaC54bWwKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4KICAgIOKUnOKUgOKUgCBTaWxrcwogICAg4pSCICAg4pSc4pSA4pSAIHMxODEwMTcudGd6CiAgICDilIIgICDilJzilIDilIAgczE5MTAxNy50Z3oKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICogVGhlIGRhdGUgdGhhdCB0aGUgbWVldGluZyBpcyB0YWtpbmcgcGxhY2UgaW4gdGhlIGZvbGxvd2luZyBmb3JtYXQ6IGBgWVlZWU1NRERgYCAoZXguIDIwMTcxMDE5KS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">4pSc4pSA4pSAIENhcmRzCiAgICDilIIgICDilJzilIDilIAgYzIwMTcxMDE5bmNzLnhtbAogICAg4pSCICAg4pSc4pSA4pSAIGMyMDE3MTAxOWJnaC54bWwKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4KICAgIOKUnOKUgOKUgCBTaWxrcwogICAg4pSCICAg4pSc4pSA4pSAIHMxODEwMTcudGd6CiAgICDilIIgICDilJzilIDilIAgczE5MTAxNy50Z3oKICAgIOKUgiAgIOKUlOKUgOKUgCAuLi4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

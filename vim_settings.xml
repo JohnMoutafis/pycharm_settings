@@ -310,12 +310,12 @@
         <mark key="^" line="325" column="0" />
         <mark key="." line="325" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_bot.rst" timestamp="1527240013355">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_bot.rst" timestamp="1527242148243">
         <mark key="'" line="108" column="25" />
-        <mark key="[" line="119" column="29" />
-        <mark key="]" line="121" column="86" />
-        <mark key="." line="121" column="86" />
-        <mark key="^" line="121" column="86" />
+        <mark key="[" line="122" column="56" />
+        <mark key="]" line="122" column="57" />
+        <mark key="." line="122" column="57" />
+        <mark key="^" line="122" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" timestamp="1526563817062">
         <mark key="'" line="4" column="0" />
@@ -838,7 +838,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">cmVmZXJzIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>

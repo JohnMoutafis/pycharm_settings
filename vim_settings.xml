@@ -58,7 +58,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/ADRS_Linear_SVM.py" timestamp="1527448799508" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/ADRS_Linear_SVM.py" timestamp="1527458890181">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" timestamp="1527248213539">
         <mark key="'" line="52" column="12" />
         <mark key="[" line="79" column="54" />
@@ -596,6 +600,12 @@
         <mark key="^" line="325" column="0" />
         <mark key="." line="325" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/cm_xls.py" timestamp="1527458807428">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="72" />
+        <mark key="^" line="5" column="72" />
+        <mark key="." line="5" column="72" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1526042432955">
         <mark key="'" line="59" column="12" />
         <mark key="[" line="144" column="8" />
@@ -894,7 +904,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -915,25 +925,25 @@
         <text>totemeeting/EN/{meeting_id}.xml</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhlIGNoZWNrIGZvcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VydmljZXM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhlIGNoZWNrIGZvcgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmljZXM6Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
@@ -942,7 +952,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U2VydmljZSAoU2FhUykgZWNvc3lzdGVtLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -987,7 +997,6 @@
         <entry>12</entry>
         <entry>25</entry>
         <entry>89</entry>
-        <entry>wq</entry>
         <entry>61</entry>
         <entry>189</entry>
         <entry>44</entry>
@@ -998,6 +1007,7 @@
         <entry>q</entry>
         <entry>6</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -15,6 +15,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/index.rst" timestamp="1527670675291">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/requirements.txt" timestamp="1526471895772">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="3" column="19" />
@@ -62,6 +68,12 @@
         <mark key="]" line="112" column="17" />
         <mark key="^" line="114" column="18" />
         <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler.rst" timestamp="1527670653650">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_polygon_g.sql" timestamp="1525380944481">
         <mark key="[" line="8" column="18" />
@@ -137,6 +149,9 @@
         <mark key="]" line="20" column="28" />
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" timestamp="1527670500346">
+        <mark key="'" line="42" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" timestamp="1526539580501">
         <mark key="'" line="21" column="10" />
@@ -810,8 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
-      <jump line="24" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
       <jump line="50" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
       <jump line="81" column="3" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" />
       <jump line="0" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/errors.py" />
@@ -910,6 +923,8 @@
       <jump line="33" column="32" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/strategies.rst" />
       <jump line="135" column="30" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
+      <jump line="33" column="22" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" />
+      <jump line="42" column="22" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

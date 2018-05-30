@@ -185,6 +185,9 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1527686292179">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="11" />
@@ -261,11 +264,11 @@
         <mark key="." line="93" column="73" />
         <mark key="^" line="93" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler/silks_scheduler.rst" timestamp="1527685199651">
-        <mark key="[" line="45" column="40" />
-        <mark key="]" line="46" column="2" />
-        <mark key="^" line="46" column="2" />
-        <mark key="." line="46" column="2" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler/silks_scheduler.rst" timestamp="1527686337011">
+        <mark key="[" line="44" column="89" />
+        <mark key="]" line="45" column="15" />
+        <mark key="^" line="45" column="15" />
+        <mark key="." line="45" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/docker/Dockerfile" timestamp="1527062034959">
         <mark key="[" line="28" column="11" />
@@ -378,9 +381,9 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/README.md" timestamp="1527664951931">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/README.md" timestamp="1527685548907">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="27" column="76" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/errors.py" timestamp="1522405583523">
         <mark key="'" line="31" column="7" />
@@ -942,40 +945,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>This will start the flask application and by default</text>
+        <text>igtbot</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">RnV6enlib3QgY2FuIGJlIGRlcGxveWVkIGluIDIgbW9kZXM6CgogICAjLiAqKkxvY2FsL0RlYnVnIERlcGxveW1lbnQqKjogT24gYW4gYWN0aXZhdGVkIHZpcnR1YWwgZW52aXJvbm1lbnQgd2l0aCBgYHJlcXVpcmVtZW50cy50eHRgYAogICAgICBpbnN0YWxsZWQsIHJ1bjogYGAuL2Jpbi9ydW4tZGV2LnNoYGAuIFRoaXMgd2lsbCBzdGFydCB0aGUgZmxhc2sgYXBwbGljYXRpb24gYW5kIGJ5IGRlZmF1bHQKICAgICAgd2lsbCBiZSBhdmFpbGFibGUgYXQgYGBodHRwOi8vbG9jYWxob3N0OjUwMDAvLi4uYGAuCiAgICMuICoqRG9ja2VyIERlcGxveW1lbnQqKjogVGhlIHNlcnZpY2UgY2FuIGJlIGRlcGxveWVkIHdpdGggdGhlIGhlbHAgb2YgZG9ja2VyLWNvbXBvc2U6CiAgICAgIGBgZG9ja2VyLWNvbXBvc2UgYnVpbGQgJiYgZG9ja2VyLWNvbXBvc2UgdXAgLWRgYC4KCkJvdGggb2YgdGhlIGRlcGxveW1lbnQgbWV0aG9kcywgcmVxdWlyZSBhIGBgLmVudmBgIGZpbGUgKGRyYWZ0IGdpdmVuIGluIGBgZW52LmV4YW1wbGVgYCku</text>
+        <text encoding="base64">JCAoc3VkbykgZG9ja2VyIGJ1aWxkIC10IGlndGJvdDp2MSAuCiAgICAkIChzdWRvKSBkb2NrZXIgcnVuIC1wIDUwMDA6NTAwMCAtdCBpZ3Rib3Q6djEgICMgYmluZHMgb24gaG9zdCBwb3J0IDUwMDAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYGBkb2NrZXItY29tcG9zZSBidWlsZCAmJiBkb2NrZXItY29tcG9zZSB1cCAtZGBgLgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">T3B0aW9uczpkZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T3B0aW9uczpkZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogYGAtLWludGVydmFsYGA6IERlZmF1bHQgPSAxMjAwLiBWYWx1ZSBpcyBhbHdheXMgaW4gc2Vjb25kcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

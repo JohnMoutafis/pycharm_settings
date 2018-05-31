@@ -129,11 +129,11 @@
         <mark key="." line="6" column="88" />
         <mark key="^" line="6" column="88" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/cleanup_scripts.rst" timestamp="1527691447146">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/cleanup_scripts.rst" timestamp="1527754619491">
+        <mark key="[" line="320" column="17" />
+        <mark key="]" line="328" column="5" />
+        <mark key="^" line="328" column="5" />
+        <mark key="." line="328" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/config.yml" timestamp="1526472584868">
         <mark key="[" line="2" column="0" />
@@ -396,6 +396,10 @@
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/README.md" timestamp="1527685548907">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="27" column="76" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.cleanup_scripts/README.md" timestamp="1527754040813">
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="337" column="94" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/errors.py" timestamp="1522405583523">
         <mark key="'" line="31" column="7" />
@@ -966,32 +970,31 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2lsa3Nfc2NoZWR1bGVyIA==</text>
+        <text encoding="base64">TW9udGhseSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>On an activated virtual environment with ``requirements.txt``
-      installed, run: ``./bin/run-dev.sh``.</text>
+        <text encoding="base64">IyMgQWRkIHRoZW0gYXMgY3JvbnRhYnMKClNpbmNlIGVhY2ggcHJvdmlkZXIgaGFzIHNwZWNpZmljIGZvbGRlciBwZXJtaXNzaW9ucywgZWFjaCBjbGVhbiBzY3JpcHQgc2hvdWxkIHJ1bgphcyByb290IHVzZXIgaW4gb3JkZXIgdG8gYmUgYWJsZSB0byBkZWxldGUgZmlsZXMvZm9sZGVycy4KCiMjIEhvdyBUbwoKMS4gQ29weSBgc2lsa19sb2NhdGlvbnMuY2ZnLXNhbXBsZWAgYXMgYHNpbGstbG9jYXRpb25zLmNmZ2AgYW5kIHRoZW4gZmlsbCB0aGUgbWlzc2luZwp2YWx1ZXMgb24gZWFjaCBzZWN0aW9uIHdpdGggdGhlIGxvY2F0aW9uIHRoYXQgZXZlcnkgcHJvdmlkZXIgdXNlcyB0byBwdXNoIGhpcyBkYXRhLgoyLiBTd2l0Y2ggdG8gcm9vdCB1c2VyLCBpZiBuZWVkZWQgYW5kIGFkZCBlYWNoIG9mIHRoZSBjbGVhbiBzY3JpcHQgYXMKY3JvbnRhYiB2aWEgYGNyb250YWIgLWVgLiBTYXZlIGZpbGUgYW5kIGV4aXQuCjMuIEJ5IGlzc3VpbmcgYGNyb250YWIgLWxgIHlvdSBjYW4gY2hlY2sgdGhhdCBzY3JpcHRzIGhhdmUgYmVlbiBhZGRlZCBhcyBqb2JzLgoKCiMjIyMgQ3JvbnRhYiBleGFtcGxlCgpTaW5jZSB3ZSB3YW50IHRvIHJlbW92ZSBwcmV2aW91cyBtb250aCdzIGZpbGVzIHdlIG5lZWQgdG8gcnVuIGVhY2ggc2NyaXB0IGF0IGZpcnN0Cm9mIGV2ZXJ5IG1vbnRoLiBBbiBleGFtcGxlIG9mIGNsZWFuaW5nIHByZXZpb3VzIG1vbnRoIGZpbGVzIGZyb20gR0JJLCB3b3VsZCBiZSB0aGUKZm9sbG93aW5nLCBhc3N1bWluZyB0aGF0IGRpcmVjdG9yeSB3aXRoIGNsZWFuIHNjcmlwdHMgYXJlIGxvY2F0ZWQgYXQgb3B0OgoKICAgIDAgMCAxICogKiAvb3B0L2JvdHMvY2xlYW4tc2NyaXB0cy9jbGVhbi1nYmkucHkgPj4gL29wdC9ib3RzL2NsZWFuLXNjcmlwdHMvbG9ncy9nYmkubG9nIDI+JjE=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgOmNhcHRpb246IENvbnRlbnRzOgo=</text>
+        <text encoding="base64">IyMgSG93IFRvCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRGlmZmVyZW50bHksIGl0IHdpbGwgb25seSBleGVjdXRlIG9uY2UuCg==</text>
+        <text encoding="base64">IyMgQWRkIHRoZW0gYXMgY3JvbnRhYnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhlY3V0aW9uIHdpbGwgcmVwZWF0IGV2ZXJ5IDE1IG1pbnV0ZXMgaW4gYSB0aW1lIHdpbmRvdyBiZXR3ZWVuIDEwOjAwIGFuZCAxMjowMCBldmVyeSBkYXkuCg==</text>
+        <text encoding="base64">IDwvY29kZT48L3ByZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogYGAtLXJ1bi1vbmNlYGAgb3IgYGAtLXNjaGVkdWxlYGA6IERlZmF1bHQgPSBgYC0tcnVuLW9uY2VgYC4gSWYgc2V0IHRvIGBgLS1zY2hlZHVsZWBgLCB0aGUK</text>
+        <text encoding="base64">IDxwcmU+PGNvZGU+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1000,10 +1003,10 @@
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Xl5eXl5eXl5eXl5eXl5eXl5eCg==</text>
+        <text encoding="base64">PC9jb2RlPjwvcHJlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RXhlY3V0aW9uIE9wdGlvbnM6Cg==</text>
+        <text encoding="base64">PHByZT48Y29kZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

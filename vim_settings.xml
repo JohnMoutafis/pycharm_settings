@@ -537,12 +537,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/utils.py" timestamp="1527765649878">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/utils.py" timestamp="1527768377779">
         <mark key="'" line="8" column="10" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="40" column="97" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="38" column="55" />
+        <mark key="^" line="38" column="55" />
+        <mark key="." line="38" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
         <mark key="[" line="125" column="22" />
@@ -991,14 +991,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>http://10.10.11.73:9091/api/v1/silks/</text>
+        <text>livefeed_runners</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>$ (sudo) docker build -t silks_scheduler:v1 .
-    $ (sudo) docker run -t silks_scheduler:v1</text>
+        <text encoding="base64">aWYgYW55KG5vdCBlbGVtIGZvciBlbGVtIGluIGxpdmVmZWVkX3J1bm5lcnMpOgogICAgICAgIGxvZ2dlci5kZWJ1ZygnTGl2ZWZlZWRcJ3MgcmFjZSBjb250YWlucyBydW5uZXJzIHRoYXQgYXJlIE5vbmUuJykKICAgICAgICByZXR1cm4gTm9kZSgKICAgICAgICAgICAgaW5mbz1yYWNlLCBzdGF0dXM9J0VSUicsIG1lc3NhZ2U9IidOb25lJyBlbGVtZW50cyBmb3VuZCBpbiBydW5uZXJzIGxpc3QiLCBlcnJvcl9saXN0PVtdCiAgICAgICAgKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

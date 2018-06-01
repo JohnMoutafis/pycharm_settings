@@ -261,6 +261,10 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/requirements.txt" timestamp="1527850806796">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="5" />
@@ -1007,7 +1011,7 @@
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PHRkPnt7IHJhY2UuaW5mby5jb3VudHJ5IH19PC90ZD4KICAgICAgICAgICAgICA8dGQ+e3sgcmFjZS5pbmZvLnRpbWUgfX08L3RkPg==</text>
+        <text>sphinx-rtd-theme</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

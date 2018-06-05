@@ -120,6 +120,11 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="32" column="98" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/manage.py" timestamp="1528224604037">
+        <mark key="[" line="5" column="65" />
+        <mark key="]" line="5" column="65" />
+        <mark key="." line="5" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="46" column="35" />
@@ -162,6 +167,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/url_shortener/apps.py" timestamp="1528223913493">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1527248586970">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="25" />
@@ -202,6 +213,7 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/vermantia_connect/vermantia-rgs.ermis/ermis/mailer/apps.py" timestamp="1528224331442" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/setup.cfg" timestamp="1524056618834">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="31" column="4" />
@@ -609,6 +621,12 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/urls.py" timestamp="1528224569964">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/bot_index.rst" timestamp="1527147731676">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="15" />
@@ -709,6 +727,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/.gitignore" timestamp="1528223722051">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="105" column="23" />
+        <mark key="^" line="105" column="23" />
+        <mark key="." line="105" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/gateway.rst" timestamp="1527674534627">
         <mark key="[" line="128" column="4" />
@@ -824,6 +848,12 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/wsgi.py" timestamp="1528224691070">
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="61" />
+        <mark key="." line="13" column="61" />
+        <mark key="^" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" timestamp="1525875236930">
         <mark key="'" line="81" column="3" />
         <mark key="[" line="13" column="0" />
@@ -852,6 +882,12 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1527606291778">
         <mark key="'" line="122" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/settings.py" timestamp="1528224712246">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="28" />
+        <mark key="." line="51" column="28" />
+        <mark key="^" line="51" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/shortcuts.py" timestamp="1527674866114">
         <mark key="'" line="62" column="23" />
@@ -1007,7 +1043,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2011_WorldView2_grid27.tif</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -1019,7 +1055,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>

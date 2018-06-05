@@ -50,6 +50,9 @@
         <mark key="]" line="5" column="65" />
         <mark key="." line="5" column="65" />
       </file>
+      <file name="/url_shortener_shortenedurls [db.sqlite3]" timestamp="1528238805783">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="46" column="35" />
@@ -74,11 +77,11 @@
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/management/commands/populate_db.py" timestamp="1528233812557">
-        <mark key="[" line="9" column="58" />
-        <mark key="]" line="9" column="64" />
-        <mark key="^" line="9" column="64" />
-        <mark key="." line="9" column="64" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/management/commands/populate_db.py" timestamp="1528240809301">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/micro_services/gateway.rst" timestamp="1527591834478">
         <mark key="[" line="64" column="0" />
@@ -205,6 +208,14 @@
         <mark key="^" line="56" column="85" />
         <mark key="." line="56" column="85" />
       </file>
+      <file name="/a.sql" timestamp="1528239247262">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/initial_resources/wordlist.txt" timestamp="1528239339849">
+        <mark key="[" line="37" column="3" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/rust_test/Cargo.toml" timestamp="1526045219723">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
@@ -222,6 +233,9 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="5" column="60" />
         <mark key="^" line="5" column="60" />
+      </file>
+      <file name="/url_shortener_availableurls [db.sqlite3]" timestamp="1528238371472">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/config.yml" timestamp="1526472605404">
         <mark key="[" line="5" column="0" />
@@ -244,8 +258,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/.env" timestamp="1528230724936">
-        <mark key="[" line="1" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/.env" timestamp="1528240747948">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
@@ -256,8 +270,8 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/env.example" timestamp="1528227885396">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/env.example" timestamp="1528240723693">
+        <mark key="[" line="3" column="10" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -345,11 +359,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/settings.py" timestamp="1528233095111">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="38" />
-        <mark key="^" line="25" column="38" />
-        <mark key="." line="25" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/settings.py" timestamp="1528240793486">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="29" column="60" />
+        <mark key="." line="29" column="60" />
+        <mark key="^" line="29" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/url_shortener/models.py" timestamp="1528226648097">
         <mark key="[" line="7" column="17" />
@@ -435,11 +449,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/views.py" timestamp="1528231819660">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/views.py" timestamp="1528239924021">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="47" />
+        <mark key="^" line="23" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/README.md" timestamp="1526647407461">
         <mark key="[" line="324" column="0" />
@@ -471,11 +485,11 @@
         <mark key="^" line="57" column="87" />
         <mark key="." line="57" column="87" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/models.py" timestamp="1528227581793">
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/models.py" timestamp="1528239229751">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/index.rst" timestamp="1527691553501">
         <mark key="[" line="3" column="0" />
@@ -524,6 +538,9 @@
         <mark key="]" line="46" column="44" />
         <mark key="^" line="52" column="63" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1528238822582">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env.example" timestamp="1525963205367">
         <mark key="[" line="9" column="0" />
@@ -587,9 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="48" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" />
-      <jump line="92" column="22" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="25" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="106" column="29" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="25" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/settings.py" />
@@ -687,10 +701,13 @@
       <jump line="118" column="36" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/services.py" />
       <jump line="18" column="28" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/app.py" />
       <jump line="131" column="29" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/services.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/management/commands/populate_db.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/initial_resources/wordlist.txt" />
+      <jump line="31" column="25" filename="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5zaXRlcy5tb2RlbHMgaW1wb3J0IFNpdGUK</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -702,43 +719,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jc3JmIGltcG9ydCBjc3JmX2V4ZW1wdAo=</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybHBhcnNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGUpCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5zaXRlcy5tb2RlbHMgaW1wb3J0IFNpdGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KERPTUFJTl9OQU1FKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">RE9NQUlOX05BTUUgPSBTaXRlLm9iamVjdHMuZ2V0X2N1cnJlbnQoKS5kb21haW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdJbml0JykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEhPU1ROQU1FID0gJ2h0dHA6Ly8xMjcuMC4wLjEvJwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBdmFpbGFibGVVcmxzLm9iamVjdHMuY3JlYXRlKHVybD13b3JkKQo=</text>
+        <text encoding="base64">ZXhjZXB0Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQ3JlYXRpbmc6IHt9Jy5mb3JtYXQod29yZCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KEhPU1ROQU1FKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciB3b3JkIGluIHdvcmRfbGlzdDoK</text>
+        <text encoding="base64">ICAgIEhPU1ROQU1FID0gc29ja2V0LmdldGhvc3RuYW1lKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgT24gRG9ja2VyIGl0IHdpbGwgcmV0dXJuIHRoZSBjb250YWluZXIncyBJRCBpbnN0ZWFkIG9mIHRoZSBVUkwuLi4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

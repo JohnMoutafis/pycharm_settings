@@ -374,6 +374,9 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/url_shortener/initial_resources/initialize_db.py" timestamp="1528226836801">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/bot_index.rst" timestamp="1527015880560">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -399,9 +402,6 @@
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/.env" timestamp="1527606300818">
-        <mark key="'" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.cleanup_scripts/README.md" timestamp="1527754040813">
         <mark key="[" line="317" column="0" />
@@ -515,9 +515,6 @@
         <mark key="^" line="121" column="54" />
         <mark key="." line="121" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/app.py" timestamp="1527770734851">
-        <mark key="'" line="18" column="28" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527015919992">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
@@ -563,6 +560,12 @@
         <mark key="]" line="67" column="60" />
         <mark key="^" line="67" column="47" />
         <mark key="." line="67" column="47" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/url_shortener/models.py" timestamp="1528226648097">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="17" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
         <mark key="[" line="2" column="0" />
@@ -626,6 +629,12 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/url_shortener/admin.py" timestamp="1528225555061">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/bot_index.rst" timestamp="1527147731676">
         <mark key="[" line="13" column="14" />
@@ -712,9 +721,6 @@
         <mark key="]" line="20" column="28" />
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" timestamp="1527684735482">
-        <mark key="'" line="66" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/micro_services/runners.rst" timestamp="1527586619307">
         <mark key="[" line="57" column="88" />
@@ -831,7 +837,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528221827928">
+      <file name="/Dummy.txt" timestamp="1528225995097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" timestamp="1527239791418">
@@ -880,17 +886,14 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1527606291778">
-        <mark key="'" line="122" column="54" />
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/settings.py" timestamp="1528225727599">
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/settings.py" timestamp="1528224712246">
-        <mark key="[" line="51" column="28" />
-        <mark key="]" line="51" column="28" />
-        <mark key="." line="51" column="28" />
-        <mark key="^" line="51" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/shortcuts.py" timestamp="1527674866114">
-        <mark key="'" line="62" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/url_shortener/initial_resources/wordlist.txt" timestamp="1528226440781">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/services.py" timestamp="1526461695987">
         <mark key="'" line="88" column="11" />
@@ -1043,7 +1046,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>URLField</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -1055,7 +1058,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>URLField</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -1064,19 +1067,19 @@
         <text>2011_WorldView2_grid27.tif</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBfX2J1aWx0aW5fXyBpbXBvcnQgZXhlY2ZpbGUK</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhlY2ZpbGUob3MucGF0aC5qb2luKEJBU0VfRElSLCAnZnVuY3Rpb25zJywgJ2dlb2ltcmVhZC5weScpKQo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdUaGUgY29kZSByYW4gZm9yICUuMmZtJyAlIChlbmRfdGltZSAvIDYwLikpCg==</text>
+        <text encoding="base64">ZnJvbSBfX2J1aWx0aW5fXyBpbXBvcnQgZXhlY2ZpbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhlY2ZpbGUob3MucGF0aC5qb2luKEJBU0VfRElSLCAnZnVuY3Rpb25zJywgJ2dlb2ltcmVhZC5weScpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdUaGUgY29kZSByYW4gZm9yICUuMmZtJyAlIChlbmRfdGltZSAvIDYwLikpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>

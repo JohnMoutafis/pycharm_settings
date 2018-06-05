@@ -33,16 +33,6 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/ADRS_Linear_SVM.py" timestamp="1528221737483">
-        <mark key="[" line="86" column="28" />
-        <mark key="]" line="86" column="54" />
-        <mark key="." line="86" column="28" />
-        <mark key="^" line="86" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/crawler.rst" timestamp="1527684792595">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="32" column="98" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/manage.py" timestamp="1528224604037">
         <mark key="[" line="5" column="65" />
         <mark key="]" line="5" column="65" />
@@ -108,7 +98,6 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vermantia_connect/vermantia-rgs.ermis/ermis/mailer/apps.py" timestamp="1528224331442" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/env.example" timestamp="1526458892181">
         <mark key="[" line="6" column="65" />
         <mark key="]" line="6" column="77" />
@@ -127,10 +116,6 @@
         <mark key="^" line="62" column="32" />
         <mark key="." line="62" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Askhsh_1/lab-1_example_scripts/ergasthrio_1.py" timestamp="1528185725104">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="61" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="11" />
@@ -142,10 +127,6 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/README.md" timestamp="1527685548907">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="27" column="76" />
       </file>
       <file name="/Python Console" timestamp="1528185773006">
         <mark key="[" line="0" column="0" />
@@ -218,10 +199,6 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/requirements.txt" timestamp="1527850806796">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="15" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="18" />
@@ -248,10 +225,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.cleanup_scripts/README.md" timestamp="1527754040813">
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="337" column="94" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/.env" timestamp="1528227940093">
         <mark key="[" line="2" column="11" />
@@ -330,6 +303,12 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/apps.py" timestamp="1528229616805">
+        <mark key="[" line="10" column="85" />
+        <mark key="]" line="10" column="84" />
+        <mark key="." line="10" column="84" />
+        <mark key="^" line="10" column="84" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527015919992">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
@@ -348,11 +327,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/settings.py" timestamp="1528228064050">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="21" column="47" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/settings.py" timestamp="1528229367195">
+        <mark key="[" line="18" column="70" />
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="25" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/url_shortener/models.py" timestamp="1528226648097">
         <mark key="[" line="7" column="17" />
@@ -438,9 +417,10 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/ADRS_Linear_SVM.py.bak" timestamp="1528142980886">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="147" column="62" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/views.py" timestamp="1528229751854">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/README.md" timestamp="1526647407461">
         <mark key="[" line="324" column="0" />
@@ -538,7 +518,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528227587960">
+      <file name="/Dummy.txt" timestamp="1528228374098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/wsgi.py" timestamp="1528224691070">
@@ -691,7 +671,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -703,7 +683,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">UkVTT1VSQ0VTX0RJUiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -712,25 +692,26 @@
         <text>2011_WorldView2_grid27.tif</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text># Build paths inside the project like this: os.path.join(BASE_DIR, ...)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBTZWUgaHR0cHM6Ly9kb2NzLmRqYW5nb3Byb2plY3QuY29tL2VuLzIuMC9ob3d0by9kZXBsb3ltZW50L2NoZWNrbGlzdC8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBRdWljay1zdGFydCBkZXZlbG9wbWVudCBzZXR0aW5ncyAtIHVuc3VpdGFibGUgZm9yIHByb2R1Y3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
@@ -739,7 +720,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBTRUNVUklUWSBXQVJOSU5HOiBrZWVwIHRoZSBzZWNyZXQga2V5IHVzZWQgaW4gcHJvZHVjdGlvbiBzZWNyZXQhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

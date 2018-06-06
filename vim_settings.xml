@@ -49,11 +49,11 @@
         <mark key="." line="55" column="88" />
         <mark key="^" line="55" column="88" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1527248586970">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1528276819295">
+        <mark key="[" line="4" column="64" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/index.rst" timestamp="1527757110756">
         <mark key="[" line="7" column="0" />
@@ -396,6 +396,10 @@
         <mark key="]" line="31" column="17" />
         <mark key="^" line="121" column="54" />
         <mark key="." line="121" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" timestamp="1528276586340">
+        <mark key="[" line="68" column="25" />
+        <mark key="]" line="68" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_lineg_table.sql" timestamp="1525378301321">
         <mark key="[" line="1" column="68" />
@@ -1022,7 +1026,7 @@
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">VGhlIGRlZmF1bHQgYXJndW1lbnQgdmFsdWVzIGZvciBHQkkgYm90IGFyZToKCiAgICAqICAgYGBkb19vbHlfY29ycmVsYXRpb25zYGAgPSBgYEZhbHNlYGAuCiAgICAqICAgYGBwX2RhdGVgYCA9IGBgTm9uZWBgLgogICAgKiAgIGBgYWxpYXNlZF9yYWNlc19vbmx5YGAgPSBgYEZhbHNlYGAuCgpNb3JlIGRldGFpbHMgb24gdGhlIGFyZ3VtZW50cyBjYW4gYmUgZm91bmQgYXQg</text>
+        <text>https://www.hellashorserace.gr/api/get-data/race/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICogICBgYGFsaWFzZWRfcmFjZXNfb25seWBgID0gYGBGYWxzZWBgLgo=</text>

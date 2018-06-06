@@ -426,12 +426,12 @@
         <mark key="." line="5" column="60" />
         <mark key="^" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1528294113023">
-        <mark key="'" line="76" column="25" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="53" column="21" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1528295762991">
+        <mark key="'" line="78" column="25" />
+        <mark key="[" line="4" column="95" />
+        <mark key="]" line="4" column="95" />
+        <mark key="." line="4" column="95" />
+        <mark key="^" line="4" column="95" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/services.py" timestamp="1526461695987">
         <mark key="'" line="88" column="11" />
@@ -800,9 +800,10 @@
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1528294000515">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1528295705450">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="98" />
         <mark key="^" line="82" column="34" />
         <mark key="." line="70" column="0" />
       </file>
@@ -910,7 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="55" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="54" column="39" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" />
       <jump line="8" column="30" filename="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" />
@@ -1010,6 +1010,7 @@
       <jump line="84" column="35" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/meetings/service.py" />
       <jump line="106" column="43" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="43" column="41" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks_service/nrcsib/main.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1025,43 +1026,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>here</text>
+        <text>British and Irish Racing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>opap-horseraces-silks.nrc_silks_service</text>
+      <register name="0" type="2">
+        <text encoding="base64">VGhlIGJvdCB0cmllcyB0byBjb3JyZWxhdGUgc2lsa3MgdG8gcnVubmVycyBmb3IgdGhlIHJhY2VzIHByb3ZpZGVkIGJ5IHRoZSBCcml0aXNoIGFuZCBJcmlzaCBSYWNpbmcK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2hhbm5lbC4K</text>
+        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SW4gY2FzZSBvZiBlcnJvcnMgb2NjdXJyaW5nIGR1cmluZyB0aGUgY29ycmVsYXRpb24gcHJvY2VzcywgdGhlIGJvdCByZXBvcnRzIHRoZW0gdG8gYSBzbGFjawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TmFtZWtvIGFsc28gb2ZmZXJzIEhUVFAgc3VwcG9ydCwgdGhhdCBpcyBsaW1pdGVkIHRvIHRoZSBtaWNyb3NlcnZpY2UncyByZWFsbS4K</text>
+        <text encoding="base64">Y2hhbm5lbC4K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SW4gY2FzZSBvZiBlcnJvcnMgb2NjdXJyaW5nIGR1cmluZyB0aGUgY29ycmVsYXRpb24gcHJvY2VzcywgdGhlIGJvdCByZXBvcnRzIHRoZW0gdG8gYSBzbGFjawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhlIHNlcnZpY2VzIGFyZSBkZXNpZ25lZCB0byBiZSBhbG1vc3QgZnVsbHkgaW5kZXBlbmRlbnQuCg==</text>
+        <text encoding="base64">TmFtZWtvIGFsc28gb2ZmZXJzIEhUVFAgc3VwcG9ydCwgdGhhdCBpcyBsaW1pdGVkIHRvIHRoZSBtaWNyb3NlcnZpY2UncyByZWFsbS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

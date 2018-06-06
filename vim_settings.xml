@@ -9,6 +9,12 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/README.md" timestamp="1528310984919">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/requirements.txt" timestamp="1526471874972">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="3" column="19" />
@@ -144,6 +150,12 @@
         <mark key="]" line="92" column="51" />
         <mark key="^" line="62" column="32" />
         <mark key="." line="62" column="32" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/tests/test_failures.py" timestamp="1528309475129">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
         <mark key="[" line="3" column="20" />
@@ -289,6 +301,12 @@
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/tests/test_success.py" timestamp="1528309152068">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="26" column="50" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/fuzzybot/strategies.py" timestamp="1526401878676">
         <mark key="[" line="107" column="11" />
@@ -547,11 +565,11 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/tests/url_shortener/test_success.py" timestamp="1528308768413">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="52" column="51" />
-        <mark key="." line="47" column="8" />
-        <mark key="^" line="47" column="87" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/tests/url_shortener/test_success.py" timestamp="1528309026619">
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="36" />
+        <mark key="^" line="58" column="36" />
+        <mark key="." line="58" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler.rst" timestamp="1527673914505">
         <mark key="[" line="9" column="0" />
@@ -738,16 +756,8 @@
       <jump line="31" column="25" filename="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>response = self.client.post(
-            reverse('url_shortener'),
-            data=json.dumps({'url': 'https://www.techcrunch.com/some-third-long-slug'}),
-            content_type='application/json'
-        )
-        self.assertEqual(response.status_code, 200)
-
-        content = json.loads(response.content)
-        self.assertEqual(content.get('shortened_url'), '{}/{}'.format(SITE_URL, 'oaf'))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PC9jb2RlPjwvcHJlPgo=</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -759,56 +769,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>response = self.client.post(
-            reverse('url_shortener'),
-            data=json.dumps({'url': 'https://www.techcrunch.com/some-slug-here-starting-from-s'}),
-            content_type='application/json'
-        )
-        self.assertEqual(response.status_code, 201)</text>
+        <text encoding="base64">cmVzcG9uc2UgPSBzZWxmLmNsaWVudC5wb3N0KAogICAgICAgICAgICByZXZlcnNlKCd1cmxfc2hvcnRlbmVyJyksCiAgICAgICAgICAgIGRhdGE9anNvbi5kdW1wcyh7J3VybCc6ICdkby15b3UtZXZlbi11cmw/J30pLAogICAgICAgICAgICBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL2pzb24nCiAgICAgICAgKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDQwMCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>response = self.client.post(
-            reverse('url_shortener'),
-            data=json.dumps({'url': 'https://www.techcrunch.com/some-third-long-slug'}),
-            content_type='application/json'
-        )
-        self.assertEqual(response.status_code, 200)
-
-        content = json.loads(response.content)
-        self.assertEqual(content.get('shortened_url'), '{}/{}'.format(SITE_URL, 'oaf'))</text>
+      <register name="1" type="2">
+        <text encoding="base64">PC9jb2RlPjwvcHJlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHByZT48Y29kZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IENsaWVudCgpCg==</text>
+        <text encoding="base64">ZnJvbSBpbnRlbGxpZ2Vtcy5zZXR0aW5ncyBpbXBvcnQgU0lURV9VUkwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBpbnRlbGxpZ2Vtcy51cmxfc2hvcnRlbmVyLnZpZXdzIGltcG9ydCBTaG9ydGVuVXJsVmlldwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZpZXcgPSBTaG9ydGVuVXJsVmlldy5hc192aWV3KCkK</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYudmlldyhyZXF1ZXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3JpZXMuQXZhaWxhYmxlVXJsc0ZhY3RvcnkoJ29hZicpCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3JpZXMuQXZhaWxhYmxlVXJsc0ZhY3RvcnkoJ3NhJykK</text>
+        <text encoding="base64">ICAgICAgICBBdmFpbGFibGVVcmxzLm9iamVjdHMuY3JlYXRlKHVybD0nb2FmJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpbnRlbGxpZ2Vtcy51cmxfc2hvcnRlbmVyLnRlc3RzIGltcG9ydCBmYWN0b3JpZXMK</text>
+        <text encoding="base64">ICAgICAgICBBdmFpbGFibGVVcmxzLm9iamVjdHMuY3JlYXRlKHVybD0nc2EnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

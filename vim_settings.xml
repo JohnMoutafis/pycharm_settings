@@ -235,12 +235,12 @@
         <mark key="." line="67" column="99" />
         <mark key="^" line="67" column="99" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/index.rst" timestamp="1527674052675">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/index.rst" timestamp="1528273290143">
         <mark key="'" line="39" column="94" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-        <mark key="^" line="2" column="12" />
+        <mark key="[" line="64" column="71" />
+        <mark key="]" line="66" column="15" />
+        <mark key="." line="66" column="15" />
+        <mark key="^" line="66" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/config.py" timestamp="1527606306402">
         <mark key="'" line="21" column="14" />
@@ -800,11 +800,10 @@
       <file name="/Dummy.txt" timestamp="1527853879523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1528270773402">
-        <mark key="[" line="42" column="139" />
-        <mark key="]" line="43" column="24" />
-        <mark key="^" line="43" column="24" />
-        <mark key="." line="43" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1528272617615">
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+        <mark key="." line="45" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env" timestamp="1526462525996">
         <mark key="[" line="13" column="28" />
@@ -1017,43 +1016,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHdvIA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>sphinx-rtd-theme</text>
+        <text encoding="base64">VGhlIGRlZmF1bHQgYXJndW1lbnQgdmFsdWVzIGZvciBHQkkgYm90IGFyZToKCiAgICAqICAgYGBkb19vbHlfY29ycmVsYXRpb25zYGAgPSBgYEZhbHNlYGAuCiAgICAqICAgYGBwX2RhdGVgYCA9IGBgTm9uZWBgLgogICAgKiAgIGBgYWxpYXNlZF9yYWNlc19vbmx5YGAgPSBgYEZhbHNlYGAuCgpNb3JlIGRldGFpbHMgb24gdGhlIGFyZ3VtZW50cyBjYW4gYmUgZm91bmQgYXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3BoaW54LXJ0ZC10aGVtZT09MC4zLjEK</text>
+        <text encoding="base64">ICAgICogICBgYGFsaWFzZWRfcmFjZXNfb25seWBgID0gYGBGYWxzZWBgLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U3BoaW54PT0xLjcuNAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2xhY2stbG9nZ2VyPT0wLjIuMAo=</text>
+        <text encoding="base64">c3BoaW54LXJ0ZC10aGVtZT09MC4zLjEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cnB5Yz09My40LjQK</text>
+        <text encoding="base64">U3BoaW54PT0xLjcuNAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWVzdHM9PTIuMTguNAo=</text>
+        <text encoding="base64">c2xhY2stbG9nZ2VyPT0wLjIuMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVkaXM9PTIuMTAuNgo=</text>
+        <text encoding="base64">cnB5Yz09My40LjQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmF2ZW49PTYuNC4wCg==</text>
+        <text encoding="base64">cmVxdWVzdHM9PTIuMTguNAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHl0aG9uLWRlY291cGxlPT0zLjEK</text>
+        <text encoding="base64">cmVkaXM9PTIuMTAuNgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xpY2s9PTYuNwo=</text>
+        <text encoding="base64">cmF2ZW49PTYuNC4wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

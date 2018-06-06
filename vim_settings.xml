@@ -426,12 +426,12 @@
         <mark key="." line="5" column="60" />
         <mark key="^" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1527168003039">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" timestamp="1528294113023">
         <mark key="'" line="76" column="25" />
-        <mark key="[" line="76" column="95" />
-        <mark key="]" line="76" column="94" />
-        <mark key="^" line="76" column="94" />
-        <mark key="." line="76" column="94" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="53" column="21" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/services.py" timestamp="1526461695987">
         <mark key="'" line="88" column="11" />
@@ -633,6 +633,9 @@
         <mark key="^" line="52" column="87" />
         <mark key="." line="52" column="87" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks_service/nrcsib/main.py" timestamp="1528294006390">
+        <mark key="'" line="43" column="41" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/env.example" timestamp="1526471938755">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="5" column="43" />
@@ -793,14 +796,15 @@
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1527606291778">
         <mark key="'" line="122" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527853879523">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1528293738759">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1528293540567">
-        <mark key="[" line="83" column="29" />
-        <mark key="]" line="83" column="34" />
-        <mark key="^" line="83" column="34" />
-        <mark key="." line="83" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1528294000515">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="82" column="34" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env" timestamp="1526462525996">
         <mark key="[" line="13" column="28" />
@@ -906,7 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="27" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="121" column="55" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="54" column="39" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/rust_test/src/main.rs" />
@@ -1006,6 +1009,7 @@
       <jump line="49" column="35" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/processors.py" />
       <jump line="84" column="35" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/meetings/service.py" />
       <jump line="106" column="43" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="43" column="41" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks_service/nrcsib/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1021,60 +1025,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b24g</text>
+        <text>here</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>'idtgrunner': runner_attrs.get('idtgrunner', None),
-                    'idtgrace': race_attrs.get('idtgrace', None),
-                    'number': race_attrs.get('number', None),
-                    'is_fav': runner_attrs.get('istotefav', 0),
-                    'name': safe_value(runner.find('name')),
-                    'short_name': safe_value(runner.find('shortname')),
-                    'entry_number': safe_value(runner.find('entrynumber')),
-                    'age': safe_value(runner.find('age')),
-                    'color': safe_value(runner.find('color')),
-                    'trainer': safe_value(runner.find('trainer')),
-                    'jockey': safe_value(runner.find('jockey')),
-                    'silk': safe_value(runner.find('silk')),
-                    'image_filename': safe_value(runner.find('imagefilename')),
-                    'status': safe_value(runner.find('runningstatus')),
-                    'weight_carried': safe_value(runner.find('weightcarried')),
-                    'weight_unit': safe_value(runner.find('weightunit')),
-                    'last_race_results': safe_value(runner.find('lastracesresults')),
-                }</text>
+        <text>opap-horseraces-silks.nrc_silks_service</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2hhbm5lbC4K</text>
+        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SW4gY2FzZSBvZiBlcnJvcnMgb2NjdXJyaW5nIGR1cmluZyB0aGUgY29ycmVsYXRpb24gcHJvY2VzcywgdGhlIGJvdCByZXBvcnRzIHRoZW0gdG8gYSBzbGFjawo=</text>
+        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TmFtZWtvIGFsc28gb2ZmZXJzIEhUVFAgc3VwcG9ydCwgdGhhdCBpcyBsaW1pdGVkIHRvIHRoZSBtaWNyb3NlcnZpY2UncyByZWFsbS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2hhbm5lbC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIHNlcnZpY2VzIGFyZSBkZXNpZ25lZCB0byBiZSBhbG1vc3QgZnVsbHkgaW5kZXBlbmRlbnQuCg==</text>
+        <text encoding="base64">SW4gY2FzZSBvZiBlcnJvcnMgb2NjdXJyaW5nIGR1cmluZyB0aGUgY29ycmVsYXRpb24gcHJvY2VzcywgdGhlIGJvdCByZXBvcnRzIHRoZW0gdG8gYSBzbGFjawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TmFtZWtvIGFsc28gb2ZmZXJzIEhUVFAgc3VwcG9ydCwgdGhhdCBpcyBsaW1pdGVkIHRvIHRoZSBtaWNyb3NlcnZpY2UncyByZWFsbS4K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RGlmZmVyZW50bHksIGV4ZWN1dGlvbiBzdG9wcyBoZXJlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhpcyBwcm9jZXNzIGFsc28gZGlmZmVycyBmcm9tIHRoZSBvdGhlciBwcm92aWRlciBib3RzLgo=</text>
+        <text encoding="base64">VGhlIHNlcnZpY2VzIGFyZSBkZXNpZ25lZCB0byBiZSBhbG1vc3QgZnVsbHkgaW5kZXBlbmRlbnQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -12,6 +12,7 @@
       <mapping ext="2017-02-10" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping pattern="pmu_consumer_bot" type="ReST" />
     </extensionMap>
   </component>
 </application>

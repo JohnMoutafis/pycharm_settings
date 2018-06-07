@@ -186,11 +186,11 @@
         <mark key="." line="24" column="85" />
         <mark key="^" line="24" column="85" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/index.rst" timestamp="1528379687702">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
-        <mark key="^" line="23" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/index.rst" timestamp="1528380459799">
+        <mark key="[" line="13" column="62" />
+        <mark key="]" line="13" column="62" />
+        <mark key="." line="13" column="62" />
+        <mark key="^" line="13" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg" timestamp="1526646209106">
         <mark key="[" line="16" column="11" />
@@ -198,11 +198,11 @@
         <mark key="^" line="7" column="67" />
         <mark key="." line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_consumer_bot.rst" timestamp="1528379374254">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_consumer_bot.rst" timestamp="1528381406869">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/config.yml" timestamp="1526472618876">
         <mark key="'" line="0" column="0" />
@@ -391,6 +391,10 @@
         <mark key="." line="87" column="18" />
         <mark key="^" line="87" column="18" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_consumer/README.md" timestamp="1528380797720">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="33" column="27" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env.example" timestamp="1525963205367">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
@@ -559,10 +563,10 @@
         <mark key="^" line="67" column="47" />
         <mark key="." line="67" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_services/nrc_ftp_sync_service.rst" timestamp="1528369119835">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_services/nrc_ftp_sync_service.rst" timestamp="1528380498934">
         <mark key="'" line="111" column="8" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="76" />
         <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/README.md" timestamp="1524816319922">
@@ -1051,62 +1055,40 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>an ftp server</text>
+        <text>parser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>==========================
-NRC Services Documentation
-==========================
-
-These services are used to process the race info provided by Nicosia's Race Club (NRC).
-
---------
-Overview
---------
-
-NRC uploads races' info to an ftp server. In order to process these information, 2 separate bots are
-used:
-
-    #.  An info sync bot, which collects the information from NRC's ftp server daily.
-    #.  A correlation bot that tries to correlate silks to runners for every race.
-
-
-..  toctree::
-    :maxdepth: 2
-    :caption: Contents:
-
-    nrc_ftp_sync_service
-    nrc_bot</text>
+        <text encoding="base64">UE1VIG9mZmVycyBhIGphdmEgY2xpZW50IHRoYXQgaXMgcmVzcG9uc2libGUgZm9yIHB1bGxpbmcgcHJvdmlkZWQgZmlsZXMKZnJvbSBoZXIgc2VydmVycy4gRmlsZXMgY2FuIGJlIGVpdGhlciBYTUwgZG9jdW1lbnRzIG9yIGltYWdlcy4KSmF2YSBjbGllbnQgY3JlYXRlcyBhIGZvbGRlciBldmVyeSBkYXkgbmFtZWQgYnkgdGhlIGN1cnJlbnQgZGF0ZSwgZS5nLgpgMjAxNjA5MDJgLiBFdmVyeSBmb2xkZXIgaGFzIGEgcHJlZGVmaW5lZCBzdHJ1Y3R1cmUuCgpTbyBlYWNoIGZvbGRlciBjb250YWlucyB0aGUgZm9sbG93aW5nIGRpcmVjdG9yaWVzOgoKKiBCSU5BUlkKKiBFUlJPUlxfWE1MCiogbWVzc2FnZXMKKiBYTUwKClBNVSBib3QgaXMgaW50ZXJlc3RlZCBvbmx5IGZvciBzaWxrIHJlbGF0ZWQgaW5mb3JtYXRpb25zLiBBZnRlcgpleGFtaW5pbmcgYWxsIGZvbGRlcnMsIG9ubHkgYFhNTC80X1JBQ0VgIGFuZCBgWE1MLzZfUlVOTkVSU2AgY29udGFpbgp4bWwgZG91bWVudHMgdGhhdCBzaG91bGQgYmUgdXNlZCBieSBQTVUgcGFyc2VyLiBNb3Jlb3ZlciwgZGlyZWN0b3J5IApgQklOQVJZL2Nhc2FxdWVzYCBjb250YWlucyB0aGUgcmVxdWlyZWQgc2lsayBmaWxlcy4KClBNVSBzZW50cyBkYXRhIHJlZ2FyZGxlc3MgZm9yIHdoaWNoIGRheSB0aGUgcmVsYXRlZCByYWNlIHdpbGwgdGFrZQpwbGFjZSwgc28gYSBmb2xkZXIgd2l0aCBuYW1lIGAyMDE2MDgzMGAgbWF5IGNvbnRhaW4geG1sIGRvY3VtZW50cwp0aGF0IHJlZmVyIHRvIHJhY2VzIHRoYXQgd2lsbCB0YWtlIHBsYWNlIGluIHRoZSBmdXR1cmUuIFRoZSBzYW1lCmFwcGxpZXMgZm9yIHNpbGsgZGlyZWN0b3J5Lgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5yY19mdHBfc3luY19zZXJ2aWNlCg==</text>
+        <text encoding="base64">U28gZWFjaCBmb2xkZXIgY29udGFpbnMgdGhlIGZvbGxvd2luZyBkaXJlY3RvcmllczoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBTWU5DX1RJTUVgYCB2YXJpYWJsZSBvZiB0aGUgYGByZWNlaXZlci8uZW52YGAgZmlsZS4K</text>
+        <text encoding="base64">Y3JlYXRlIGEgbW9yZSB1bmlmb3JtIChpbiByZWxhdGlvbiB0byBvdGhlciBwcm92aWRlcnMpIGRhdGEtZm9sZGVyIHN0cnVjdHVyZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGhpcyB3aWxsIHN0YXJ0IHRoZSBib3QgaW4gKipzY2hlZHVsZWQgbW9kZSoqIGFuZCB0aGUgZXhlY3V0aW9uIHRpbWUgY2FuIGJlIGNvbmZpZ3VyZWQgaW4gdGhlCg==</text>
+        <text encoding="base64">ZGF0YSBmaWxlcyB0bwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5yY19mdHBfc3luY19zZXJ2aWNlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">VGhlIHN5bmMgYm90IGhhcyBhbiBvcHRpb24gdG8gYmUgZXhlY3V0ZWQgdmlhIGBgZG9ja2VyLWNvbXBvc2VgYDoKCiAgICAjLiAgQ3JlYXRlIGEgZG9ja2VyIG5ldHdvcmsgYW5kIHBhc3MgaXQncyBuYW1lIHRvIHRvcGxldmVsIGBgLmVudmBgIGZpbGUKICAgICMuICBGaWxsIHRoZSByZXF1aXJlZCBlbnZpcm9ubWVudGFsIHZhcmlhYmxlcyBvZiB0aGUgYGByZWNlaXZlci8uZW52YGAgZmlsZS4KICAgICMuICBgYChzdWRvKSBkb2NrZXItY29tcG9zZSBidWlsZGBgCiAgICAjLiAgYGAoc3VkbykgZG9ja2VyLWNvbXBvc2UgdXAgLWRgYAo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">YGBTWU5DX1RJTUVgYCB2YXJpYWJsZSBvZiB0aGUgYGByZWNlaXZlci8uZW52YGAgZmlsZS4K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhpcyB3aWxsIHN0YXJ0IHRoZSBib3QgaW4gKipzY2hlZHVsZWQgbW9kZSoqIGFuZCB0aGUgZXhlY3V0aW9uIHRpbWUgY2FuIGJlIGNvbmZpZ3VyZWQgaW4gdGhlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

@@ -186,6 +186,12 @@
         <mark key="." line="24" column="85" />
         <mark key="^" line="24" column="85" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/index.rst" timestamp="1528378597167">
+        <mark key="[" line="4" column="61" />
+        <mark key="]" line="4" column="84" />
+        <mark key="." line="4" column="84" />
+        <mark key="^" line="4" column="84" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg" timestamp="1526646209106">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="78" />
@@ -249,9 +255,9 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_services/index.rst" timestamp="1528360971472">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_services/index.rst" timestamp="1528378457624">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="10" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
@@ -1043,13 +1049,35 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>Be sure that  redis instance runs on the same docker network.</text>
+        <text>==========================
+NRC Services Documentation
+==========================
+
+These services are used to process the race info provided by Nicosia's Race Club (NRC).
+
+--------
+Overview
+--------
+
+NRC uploads races' info to an ftp server. In order to process these information, 2 separate bots are
+used:
+
+    #.  An info sync bot, which collects the information from NRC's ftp server daily.
+    #.  A correlation bot that tries to correlate silks to runners for every race.
+
+
+..  toctree::
+    :maxdepth: 2
+    :caption: Contents:
+
+    nrc_ftp_sync_service
+    nrc_bot</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

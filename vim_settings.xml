@@ -166,8 +166,8 @@
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/services.py" timestamp="1528282769062">
         <mark key="'" line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" timestamp="1528455815582">
-        <mark key="'" line="33" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" timestamp="1528468534286">
+        <mark key="'" line="44" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/meetings/service.py" timestamp="1528287775166">
         <mark key="'" line="84" column="35" />
@@ -310,12 +310,12 @@
         <mark key="." line="93" column="73" />
         <mark key="^" line="93" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler/silks_scheduler.rst" timestamp="1528455777679">
-        <mark key="'" line="31" column="49" />
-        <mark key="[" line="77" column="6" />
-        <mark key="]" line="77" column="100" />
-        <mark key="." line="77" column="73" />
-        <mark key="^" line="77" column="73" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler/silks_scheduler.rst" timestamp="1528468713903">
+        <mark key="'" line="34" column="49" />
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/docker/Dockerfile" timestamp="1527062034959">
         <mark key="[" line="28" column="11" />
@@ -427,8 +427,8 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1528454487766">
-        <mark key="'" line="42" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1528468575214">
+        <mark key="'" line="70" column="35" />
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="17" />
         <mark key="^" line="121" column="54" />
@@ -823,7 +823,7 @@
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1527606291778">
         <mark key="'" line="122" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528378636650">
+      <file name="/Dummy.txt" timestamp="1528468833835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
       </file>
@@ -950,7 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="52" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" />
       <jump line="6" column="15" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/env.example" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/env.example" />
       <jump line="6" column="15" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/env.example" />
@@ -1040,7 +1039,6 @@
       <jump line="24" column="81" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_services/nrc_ftp_sync_service.rst" />
       <jump line="166" column="11" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_ftp_sync_service/receiver/ftpclient.py" />
       <jump line="111" column="8" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_services/nrc_ftp_sync_service.rst" />
-      <jump line="44" column="16" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" />
       <jump line="95" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks_service/nrcsib/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks_service/nrcsib/main.py" />
       <jump line="31" column="49" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler/silks_scheduler.rst" />
@@ -1050,6 +1048,8 @@
       <jump line="112" column="31" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="42" column="47" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="33" column="23" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" />
+      <jump line="44" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" />
+      <jump line="70" column="35" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

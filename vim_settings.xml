@@ -310,12 +310,12 @@
         <mark key="." line="93" column="73" />
         <mark key="^" line="93" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler/silks_scheduler.rst" timestamp="1528453295191">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler/silks_scheduler.rst" timestamp="1528455354601">
         <mark key="'" line="31" column="49" />
-        <mark key="[" line="42" column="86" />
-        <mark key="]" line="42" column="85" />
-        <mark key="." line="42" column="85" />
-        <mark key="^" line="42" column="85" />
+        <mark key="[" line="78" column="23" />
+        <mark key="]" line="78" column="23" />
+        <mark key="." line="78" column="23" />
+        <mark key="^" line="62" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/docker/Dockerfile" timestamp="1527062034959">
         <mark key="[" line="28" column="11" />
@@ -427,8 +427,8 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1528453161158">
-        <mark key="'" line="102" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" timestamp="1528454487766">
+        <mark key="'" line="42" column="47" />
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="17" />
         <mark key="^" line="121" column="54" />
@@ -734,12 +734,12 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" timestamp="1528444160175">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" timestamp="1528454911274">
         <mark key="'" line="52" column="12" />
-        <mark key="[" line="94" column="34" />
-        <mark key="]" line="94" column="40" />
-        <mark key="^" line="94" column="40" />
-        <mark key="." line="94" column="40" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="93" column="40" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/strategies.rst" timestamp="1527664052066">
         <mark key="'" line="18" column="0" />
@@ -944,8 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="/pmubot.py" />
-      <jump line="136" column="14" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/schemas.py" />
       <jump line="91" column="52" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/views.py" />
       <jump line="6" column="15" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/env.example" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/env.example" />
@@ -1044,6 +1042,8 @@
       <jump line="149" column="24" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="107" column="27" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="102" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
+      <jump line="112" column="31" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
+      <jump line="42" column="47" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1059,7 +1059,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SG93IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -1069,35 +1069,35 @@
 .. _rpyc.ThreadedServer: https://rpyc.readthedocs.io/en/latest/api/utils_server.html#rpyc.utils.server.ThreadedServer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgOmNhcHRpb246IFByb3ZpZGVyIEJvdHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Note:
-^^^^^</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgOmNhcHRpb246IFByb3ZpZGVyIEJvdHM6Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Xl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXgo=</text>
+      <register name="5" type="4">
+        <text>Note:
+^^^^^</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MS4gRGVmaW5lIHBlciBQcm92aWRlciBKb2JzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Xl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhlIHNjaGVkdWxlciBib3QncyBwcm9jZXNzIGRvZXMgdGhlIGZvbGxvd2luZzoK</text>
+        <text encoding="base64">MS4gRGVmaW5lIHBlciBQcm92aWRlciBKb2JzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5zaWRlIGEgY29uZmlndXJhYmxlIHRpbWUgd2luZG93Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -820,6 +820,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/dotfiles/.gitmodules" timestamp="1528470104345">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1527606291778">
         <mark key="'" line="122" column="54" />
       </file>
@@ -1074,34 +1079,34 @@
         <text>penultimate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UnVubmVycyBhbmQgU2lsa3MgYmV0d2VlbiB0aGUgT1BBUCBmZWVkIGFuZCB0aGUgSG9yc2UgUmFjZXMgUHJvdmlkZXJzLgo=</text>
+        <text encoding="base64">CXVybCA9IGh0dHBzOi8vZ2l0aHViLmNvbS9weXRob24tbW9kZS9weXRob24tbW9kZS5naXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29ycmVsYXRpb24gb2YgdGhlIFJhY2VzLAo=</text>
+        <text encoding="base64">CXBhdGggPSB2aW0vcGFjay9wbHVnaW5zL3N0YXJ0L3B5dGhvbi1tb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgOmFsdDogU2lsa3MgRWNvc3lzdGVtIE92ZXJ2aWV3Cg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAidmltL3BhY2svcGx1Z2lucy9zdGFydC9weXRob24tbW9kZSJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGhpcyBpcyB0aGUgU2lsa3MnIGVjb3N5c3RlbSBkb2N1bWVudGF0aW9uIHBhZ2UuCg==</text>
+        <text encoding="base64">UnVubmVycyBhbmQgU2lsa3MgYmV0d2VlbiB0aGUgT1BBUCBmZWVkIGFuZCB0aGUgSG9yc2UgUmFjZXMgUHJvdmlkZXJzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICQgKHN1ZG8pIGRvY2tlciBidWlsZCBzaWxrc19zY2hlZHVsZXIgLgo=</text>
+        <text encoding="base64">Y29ycmVsYXRpb24gb2YgdGhlIFJhY2VzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
+        <text encoding="base64">ICAgOmFsdDogU2lsa3MgRWNvc3lzdGVtIE92ZXJ2aWV3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhpcyBpcyB0aGUgU2lsa3MnIGVjb3N5c3RlbSBkb2N1bWVudGF0aW9uIHBhZ2UuCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgOmNhcHRpb246IFByb3ZpZGVyIEJvdHM6Cg==</text>
+        <text encoding="base64">ICAgICQgKHN1ZG8pIGRvY2tlciBidWlsZCBzaWxrc19zY2hlZHVsZXIgLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

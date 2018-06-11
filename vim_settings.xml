@@ -229,6 +229,9 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1528714208668">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="11" />
@@ -323,6 +326,12 @@
         <mark key="]" line="28" column="10" />
         <mark key="^" line="28" column="10" />
         <mark key="." line="28" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/producer.py" timestamp="1528715321731">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524213364802">
         <mark key="'" line="212" column="10" />
@@ -638,11 +647,11 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528713266890">
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528713918727">
         <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="28" />
+        <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
         <mark key="[" line="4" column="25" />
@@ -725,11 +734,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1528713055867">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-        <mark key="^" line="17" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1528715238211">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -845,7 +854,7 @@
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1527606291778">
         <mark key="'" line="122" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528710634254">
+      <file name="/Dummy.txt" timestamp="1528715499175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1094,43 +1103,28 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>import pika
-
-from hrsib.settings import RABBITMQ_HOST
-
-
-connection = pika.BlockingConnection(pika.ConnectionParameters(host=RABBITMQ_HOST))
-channel = connection.channel()
-
-channel.queue_declare(queue='test')
-
-channel.basic_publish(exchange='', routing_key='test', body='99 bottles of beer on the wall')
-channel.basic_publish(exchange='', routing_key='test', body='99 bottles of beer.')
-channel.basic_publish(exchange='', routing_key='test', body='Take one down and pass it around')
-channel.basic_publish(exchange='', routing_key='test', body='98 bottles of beer on the wall.')
-
-connection.close()</text>
+        <text>COUNTER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnWWVzJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2hhbm5lbC5iYXNpY19wdWJsaXNoKGV4Y2hhbmdlPScnLCByb3V0aW5nX2tleT0ndGVzdCcsIGJvZHk9Jzk4IGJvdHRsZXMgb2YgYmVlciBvbiB0aGUgd2FsbC4nKQo=</text>
+        <text encoding="base64">ICAgIENPVU5URVIgLT0gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2hhbm5lbC5iYXNpY19wdWJsaXNoKGV4Y2hhbmdlPScnLCByb3V0aW5nX2tleT0ndGVzdCcsIGJvZHk9J1Rha2Ugb25lIGRvd24gYW5kIHBhc3MgaXQgYXJvdW5kJykK</text>
+        <text encoding="base64">ICAgIENPVU5URVIgLT0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2hhbm5lbC5iYXNpY19wdWJsaXNoKGV4Y2hhbmdlPScnLCByb3V0aW5nX2tleT0ndGVzdCcsIGJvZHk9Jzk5IGJvdHRsZXMgb2YgYmVlci4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2hhbm5lbC5iYXNpY19wdWJsaXNoKGV4Y2hhbmdlPScnLCByb3V0aW5nX2tleT0ndGVzdCcsIGJvZHk9Jzk5IGJvdHRsZXMgb2YgYmVlciBvbiB0aGUgd2FsbCcpCg==</text>
+        <text encoding="base64">Y2hhbm5lbC5iYXNpY19wdWJsaXNoKGV4Y2hhbmdlPScnLCByb3V0aW5nX2tleT0ndGVzdCcsIGJvZHk9J3t9IGJvdHRsZXMgb2YgYmVlci4nKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1142,10 +1136,10 @@ connection.close()</text>
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2hhbm5lbC5iYXNpY19wdWJsaXNoCg==</text>
+        <text encoding="base64">Y2hhbm5lbC5iYXNpY19wdWJsaXNoKGV4Y2hhbmdlPScnLCByb3V0aW5nX2tleT0ndGVzdCcsIGJvZHk9Jzk4IGJvdHRsZXMgb2YgYmVlciBvbiB0aGUgd2FsbC4nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -9,11 +9,11 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/README.md" timestamp="1528310984919">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/README.md" timestamp="1528312804650">
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="75" column="3" />
+        <mark key="." line="75" column="3" />
+        <mark key="^" line="75" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/requirements.txt" timestamp="1526471874972">
         <mark key="[" line="2" column="13" />
@@ -302,9 +302,9 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/tests/test_success.py" timestamp="1528309152068">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="26" column="50" />
+      <file name="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/url_shortener/tests/test_success.py" timestamp="1528311012719">
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="93" />
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
@@ -598,8 +598,10 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528241028840">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1528312914924">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/intelligems_url_shortener/intelligems/wsgi.py" timestamp="1528224691070">
         <mark key="[" line="13" column="61" />
@@ -756,8 +758,12 @@
       <jump line="31" column="25" filename="$USER_HOME$/PycharmProjects/personal/intelligems_url_shortener/intelligems/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PC9jb2RlPjwvcHJlPgo=</text>
+      <register name="&quot;" type="4">
+        <text>Added management command to initially populate db.
+Added API view to shorten URLs.
+Updated ShortenedUrls model's save method to update ForeignKey 
+on create.
+Updated env.example.</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -769,43 +775,48 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVzcG9uc2UgPSBzZWxmLmNsaWVudC5wb3N0KAogICAgICAgICAgICByZXZlcnNlKCd1cmxfc2hvcnRlbmVyJyksCiAgICAgICAgICAgIGRhdGE9anNvbi5kdW1wcyh7J3VybCc6ICdkby15b3UtZXZlbi11cmw/J30pLAogICAgICAgICAgICBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL2pzb24nCiAgICAgICAgKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDQwMCkK</text>
+        <text>input: `https://www.techcrunch.com/some-slug-here-starting-from-s`  
+output: `http://www.example.com/s`</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PC9jb2RlPjwvcHJlPgo=</text>
+      <register name="1" type="4">
+        <text>Added management command to initially populate db.
+Added API view to shorten URLs.
+Updated ShortenedUrls model's save method to update ForeignKey 
+on create.
+Updated env.example.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHByZT48Y29kZT4K</text>
+        <text encoding="base64">PT09PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBpbnRlbGxpZ2Vtcy5zZXR0aW5ncyBpbXBvcnQgU0lURV9VUkwK</text>
+        <text encoding="base64">PT09PT09PT09PSA9PT09PT09PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9jb2RlPjwvcHJlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
+        <text encoding="base64">PHByZT48Y29kZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBpbnRlbGxpZ2Vtcy5zZXR0aW5ncyBpbXBvcnQgU0lURV9VUkwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBdmFpbGFibGVVcmxzLm9iamVjdHMuY3JlYXRlKHVybD0nb2FmJykK</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBdmFpbGFibGVVcmxzLm9iamVjdHMuY3JlYXRlKHVybD0nc2EnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -119,6 +119,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/dotfiles/vimrc" timestamp="1528710318619">
+        <mark key="]" line="58" column="30" />
+        <mark key="^" line="58" column="30" />
+        <mark key="." line="58" column="30" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/processors.py" timestamp="1526042432955">
         <mark key="'" line="59" column="12" />
         <mark key="[" line="144" column="8" />
@@ -286,10 +291,6 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_ftp_sync_service/receiver/bin/run-prod.sh" timestamp="1528367943095">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="44" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="5" />
@@ -329,14 +330,6 @@
         <mark key="]" line="161" column="61" />
         <mark key="^" line="41" column="28" />
         <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_ftp_sync_service/README.md" timestamp="1528368672919">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="60" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_ftp_sync_service/bin/run-prod.sh" timestamp="1528368778759">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/settings.py" timestamp="1525875236930">
         <mark key="'" line="81" column="3" />
@@ -390,10 +383,6 @@
         <mark key="]" line="27" column="98" />
         <mark key="." line="87" column="18" />
         <mark key="^" line="87" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_consumer/README.md" timestamp="1528384290999">
-        <mark key="[" line="83" column="4" />
-        <mark key="]" line="83" column="172" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env.example" timestamp="1525963205367">
         <mark key="[" line="9" column="0" />
@@ -566,6 +555,11 @@
         <mark key="]" line="85" column="8" />
         <mark key="." line="85" column="8" />
         <mark key="^" line="85" column="8" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/README.md" timestamp="1528710222890">
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/README.md" timestamp="1524816319922">
         <mark key="[" line="84" column="8" />
@@ -746,10 +740,6 @@
         <mark key="." line="121" column="88" />
         <mark key="^" line="121" column="88" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/crawler.rst" timestamp="1528448353731">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="11" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/env.example" timestamp="1526473873292">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="43" />
@@ -818,17 +808,18 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dotfiles/.gitmodules" timestamp="1528470104345">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dotfiles/.gitmodules" timestamp="1528709352294">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" timestamp="1527606291778">
         <mark key="'" line="122" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528706033565">
+      <file name="/Dummy.txt" timestamp="1528710634254">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="47" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1528702902056">
         <mark key="'" line="70" column="0" />
@@ -843,12 +834,12 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1521216062305">
+      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1528710240202">
         <mark key="'" line="9" column="51" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="28" />
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="24" column="34" />
+        <mark key="^" line="24" column="34" />
+        <mark key="." line="24" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/index.rst" timestamp="1527599525659">
         <mark key="[" line="22" column="15" />
@@ -1067,7 +1058,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXRzIA==</text>
+        <text>https://github.com/JohnMoutafis/Django_TDD_Tutorial.gi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -1076,34 +1067,34 @@
         <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IFRoZSByYWNlIGlzIHNraXBwZWQu</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
+        <text encoding="base64">CXVybCA9IGh0dHBzOi8vZ2l0aHViLmNvbS9wbHl0b3Bob2d5L3ZpbS12aXJ0dWFsZW52Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAqIE9uIGZhaWw6IEFkZHMgdGhlIGVycm9yIHRvIGEgbGlzdCBvZiBlcnJvcnMuCg==</text>
+        <text encoding="base64">CXBhdGggPSB2aW0tdmlydHVhbGVudgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aGkgcHl0aG9uU2VsZiAgY3Rlcm1mZz02OCAgZ3VpZmc9IzVmODdkNyBjdGVybT1ib2xkIGd1aT1ib2xkCg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAidmltLXZpcnR1YWxlbnYiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXVybCA9IGh0dHBzOi8vZ2l0aHViLmNvbS9wbHl0b3Bob2d5L3ZpbS12aXJ0dWFsZW52Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IGc6cHltb2RlX3ZpcnR1YWxlbnYgPSAxCg==</text>
+        <text encoding="base64">CXBhdGggPSB2aW0vcGFjay9wbHVnaW5zL3N0YXJ0L3ZpbS12aXJ0dWFsZW52Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IGc6cHltb2RlX2ZvbGRpbmcgPSAwCg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAidmltL3BhY2svcGx1Z2lucy9zdGFydC92aW0tdmlydHVhbGVudiJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IGc6cHltb2RlX2luZGVudCA9IDEK</text>
+        <text encoding="base64">CXVybCA9IGh0dHBzOi8vZ2l0aHViLmNvbS9tYXJhbGxhL2NvbXBsZXRvci52aW0uZ2l0Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IGc6cHltb2RlX29wdGlvbnNfY29sb3Jjb2x1bW4gPSAxCg==</text>
+        <text encoding="base64">CXBhdGggPSB2aW0vcGFjay9wbHVnaW5zL3N0YXJ0L2NvbXBsZXRvci52aW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IGc6cHltb2RlX29wdGlvbnNfbWF4X2xpbmVfbGVuZ3RoID0gOTkK</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAidmltL3BhY2svcGx1Z2lucy9zdGFydC9jb21wbGV0b3IudmltIl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -220,7 +220,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1528714208668">
+      <file name="/Python Console" timestamp="1528893337628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
@@ -282,6 +282,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia_racing_silks/flask_upload_server/app.py" timestamp="1528893109174">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="5" />
@@ -315,11 +321,11 @@
         <mark key="^" line="28" column="10" />
         <mark key="." line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/producer.py" timestamp="1528715321731">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/producer.py" timestamp="1528894131269">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmubot.py" timestamp="1524213364802">
         <mark key="'" line="212" column="10" />
@@ -629,17 +635,17 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/settings.py" timestamp="1528889574736">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/settings.py" timestamp="1528893599645">
+        <mark key="[" line="9" column="67" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528891558694">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="87" />
-        <mark key="^" line="3" column="87" />
-        <mark key="." line="3" column="87" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528893263103">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="51" />
+        <mark key="." line="10" column="51" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
         <mark key="[" line="4" column="25" />
@@ -730,11 +736,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1528715238211">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1528894180057">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -798,12 +804,12 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528892058865">
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528893328453">
         <mark key="'" line="13" column="14" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+        <mark key="." line="19" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/api/external.rst" timestamp="1527254700098">
         <mark key="'" line="185" column="0" />
@@ -1099,43 +1105,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>sftp_address</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIGNvcHlfc2lsa3Moc2lsa19hcmNoaXZlLCBkYXRlX2ZvciwgY29ycmVsYXRlZF9zaWxrc19saXN0PVtdKToKICAgICIiIgogICAgQ29waWVzIGNvcnJlbGF0ZWQgc2lsa3MgZnJvbSBzaWxrIGFyY2hpdmUgdG8gR0JJIHNpbGsgaG9zdC4KICAgIEFyZ3M6CiAgICAgICAgc2lsa19hcmNoaXZlOiBBIGNvbXByZXNzZWQgc2lsayBpbWFnZSBhcmNoaXZlLgogICAgICAgIGNvcnJlbGF0ZWRfc2lsa3NfbGlzdDogQSBsaXN0IG9mIGNvcnJlbGF0ZWQgc2lsa3MuCiAgICAiIiIKICAgIGlmIG5vdCBjb3JyZWxhdGVkX3NpbGtzX2xpc3Q6CiAgICAgICAgYm90X2xvZ2dlci5lcnJvcignQ29weSBzaWxrcyByZWNlaXZlZCBlbXB0eSBjb3JyZWxhdGVkIHNpbGtzIGxpc3QuIFJldHVybmluZy4uLicpCiAgICAgICAgcmV0dXJuCgogICAgYm90X2xvZ2dlci5pbmZvKCdDb3B5aW5nIHNpbGsgZmlsZXMuLi4nKQogICAgc3NoID0gcGFyYW1pa28uU1NIQ2xpZW50KCkKICAgIHNzaC5zZXRfbWlzc2luZ19ob3N0X2tleV9wb2xpY3kocGFyYW1pa28uQXV0b0FkZFBvbGljeSgpKQogICAgc3NoLmxvYWRfc3lzdGVtX2hvc3Rfa2V5cygpCgogICAgdHJ5OgogICAgICAgIHNzaC5jb25uZWN0KFNJTEtfSE9TVCkKICAgIGV4Y2VwdCBwYXJhbWlrby5TU0hFeGNlcHRpb24gYXMgZToKICAgICAgICBib3RfbG9nZ2VyLmVycm9yKCdFcnJvciBhdHRlbXB0aW5nIHRvIG9wZW4gU1NIIGNvbm5lY3Rpb24gdG86IHswfSAtIHsxfScuZm9ybWF0KFNJTEtfSE9TVCwgZSkpICAjIG5vcWEKICAgICAgICByZXR1cm4KCiAgICBzZnRwID0gcGFyYW1pa28uU0ZUUENsaWVudC5mcm9tX3RyYW5zcG9ydChzc2guZ2V0X3RyYW5zcG9ydCgpKQogICAgZGVzdGluYXRpb24gPSAnezB9L3sxfScuZm9ybWF0KFNJTEtfREVTVElOQVRJT04sIGRhdGVfZm9yKQogICAgbWtkaXJfcChzZnRwLCBkZXN0aW5hdGlvbikKICAgIHRtcF9kaXIgPSBleHRyYWN0X2ltYWdlcyhzaWxrX2FyY2hpdmUpCgogICAgd2l0aCBTQ1BDbGllbnQoc3NoLmdldF90cmFuc3BvcnQoKSkgYXMgc2NwOgogICAgICAgIGZvciBkaXJwYXRoLCBkaXJuYW1lcywgZmlsZW5hbWVzIGluIG9zLndhbGsodG1wX2Rpcik6CiAgICAgICAgICAgIGZvciBmIGluIGZpbGVuYW1lczoKICAgICAgICAgICAgICAgIGlmIGYgaW4gY29ycmVsYXRlZF9zaWxrc19saXN0OgogICAgICAgICAgICAgICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihkaXJwYXRoLCBmKQogICAgICAgICAgICAgICAgICAgIGJvdF9sb2dnZXIuZGVidWcoJ0NvcHlpbmcgZmlsZToge30nLmZvcm1hdChmKSkKICAgICAgICAgICAgICAgICAgICBzY3AucHV0KHNvdXJjZSwgcmVtb3RlX3BhdGg9ZGVzdGluYXRpb24pCgogICAgYm90X2xvZ2dlci5pbmZvKCdTdWNjZXNzZnVsbHkgY29waWVkIHNpbGsgZmlsZXMgdG86IHt9Jy5mb3JtYXQoU0lMS19IT1NUKSkKICAgICMgY2xlYW4gdXAKICAgIHNmdHAuY2xvc2UoKQogICAgc3NoLmNsb3NlKCkKICAgIHNodXRpbC5ybXRyZWUodG1wX2RpcikK</text>
+        <text>http://127.0.0.1:5000/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5ybXRyZWUodG1wX2RpcikK</text>
+        <text encoding="base64">Y2hhbm5lbC5xdWV1ZV9kZWNsYXJlKHF1ZXVlPSd0ZXN0JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgY2xlYW4gdXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuaW5mbygnU3VjY2Vzc2Z1bGx5IGNvcGllZCBzaWxrIGZpbGVzIHRvOiB7fScuZm9ybWF0KFNJTEtfSE9TVCkpCg==</text>
+        <text encoding="base64">Q09VTlRFUiA9IDk5Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRtcF9kaXIgPSBleHRyYWN0X2ltYWdlcyhzaWxrX2FyY2hpdmUpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVmIGNhbGxiYWNrKGNoLCBtZXRob2QsIHByb3BlcnRpZXMsIGJvZHkpOgogICAgZ2xvYmFsIENPVU5URVIKICAgIHN0cl9ib2R5ID0gc3RyKGJvZHksICd1dGYtOCcpLmZvcm1hdChDT1VOVEVSKQogICAgcHJpbnQoJ1JlY2VpdmVkIGEgdmVyc2U6IHt9Jy5mb3JtYXQoc3RyX2JvZHkpKQogICAgaWYgbm90IHN0cl9ib2R5LnN0YXJ0c3dpdGgoJ1Rha2UnKToKICAgICAgICBDT1VOVEVSIC09IDEKCgpjaGFubmVsLmJhc2ljX2NvbnN1bWUoY2FsbGJhY2ssIHF1ZXVlPSd0ZXN0Jywgbm9fYWNrPVRydWUpCnByaW50KCdXYWl0aW5nLi4uJykKCmNoYW5uZWwuc3RhcnRfY29uc3VtaW5nKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZSkpICAjIG5vcWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0Vycm9yIGF0dGVtcHRpbmcgdG8gb3BlbiBTU0ggY29ubmVjdGlvbiB0bzogezB9IC0gezF9Jy5mb3JtYXQoU0lMS19IT1NULAo=</text>
+        <text encoding="base64">Y2hhbm5lbCA9IGNvbm5lY3Rpb24uY2hhbm5lbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfbG9nZ2VyLmVycm9yKAo=</text>
+        <text encoding="base64">Y29ubmVjdGlvbiA9IHBpa2EuQmxvY2tpbmdDb25uZWN0aW9uKHBpa2EuQ29ubmVjdGlvblBhcmFtZXRlcnMoaG9zdD0nbG9jYWxob3N0JykpCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvdF9sb2dnZXIuaW5mbygnQ29weWluZyBzaWxrIGZpbGVzLi4uJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

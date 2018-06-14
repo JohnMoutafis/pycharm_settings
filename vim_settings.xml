@@ -420,12 +420,12 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" timestamp="1528967832149">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" timestamp="1528974652667">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/errors.py" timestamp="1528890671775">
         <mark key="'" line="31" column="7" />
@@ -642,11 +642,11 @@
         <mark key="^" line="16" column="73" />
         <mark key="." line="16" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528967372485">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="10" />
-        <mark key="^" line="10" column="42" />
-        <mark key="." line="10" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528975357748">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
         <mark key="[" line="4" column="25" />
@@ -737,11 +737,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1528968505938">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="13" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1528973925611">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -805,12 +805,12 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528968007195">
-        <mark key="'" line="15" column="14" />
-        <mark key="[" line="41" column="66" />
-        <mark key="]" line="43" column="65" />
-        <mark key="." line="43" column="65" />
-        <mark key="^" line="43" column="65" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528974815792">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="49" column="85" />
+        <mark key="." line="49" column="85" />
+        <mark key="^" line="49" column="85" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/api/external.rst" timestamp="1527254700098">
         <mark key="'" line="185" column="0" />
@@ -977,9 +977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" />
-      <jump line="83" column="26" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" />
       <jump line="39" column="28" filename="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" />
       <jump line="35" column="8" filename="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" />
@@ -1077,6 +1074,9 @@
       <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" />
       <jump line="152" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="12" column="23" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/env.example" />
+      <jump line="31" column="12" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" />
+      <jump line="45" column="4" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1092,7 +1092,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>/host/share/c1_folder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -1100,35 +1100,35 @@
       <register name="0" type="4">
         <text>CUSTOMER_1_DELIVERY_DESTINATION=/host/share</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNmdHAuCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CkFzc3VtZXMgdGhhdCB3ZSBoYXZlIGEgc2lsayBmb2xkZXIgcGVyIGN1c3RvbWVyLCBuYW1lZA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ZnJvbSBocnNpYi51dGlscyBpbXBvcnQgZmluZF9jdXN0b21lcl9zaWxrc19mb2xkZXIK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlci5zcGxpdCgnLycpWy0xXSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlcikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyX2hvc3RfaW5mbyA9IGN1c3RvbWVyX2hvc3Quc3BsaXQoJzonKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBzc2guY29ubmVjdChjdXN0b21lcl9ob3N0LCB1c2VybmFtZT1jdXN0b21lcl9ob3N0X2luZm9bMF0sIHBhc3N3b3JkPSdwYXNzJykK</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyX2hvc3RfaW5mbyA9IGN1c3RvbWVyX2hvc3Quc3BsaXQoJzonKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBzc2guY29ubmVjdChjdXN0b21lcl9ob3N0LCB1c2VybmFtZT1jdXN0b21lcl9ob3N0X2luZm9bMF0sIHBhc3N3b3JkPSdwYXNzJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyX2hvc3RfaW5mbyA9IGN1c3RvbWVyX2hvc3Quc3BsaXQoJ0AnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

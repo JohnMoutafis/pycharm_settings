@@ -420,11 +420,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" timestamp="1528898507286">
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" timestamp="1528967832149">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
         <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/errors.py" timestamp="1528890671775">
@@ -618,10 +618,11 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="34" column="84" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1528963532270">
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/docker/Dockerfile" timestamp="1528967681931">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/rust_test/Cargo.toml" timestamp="1526045219723">
         <mark key="[" line="6" column="6" />
@@ -635,17 +636,17 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/settings.py" timestamp="1528896360943">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="15" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/settings.py" timestamp="1528967216924">
+        <mark key="[" line="15" column="60" />
+        <mark key="]" line="16" column="73" />
+        <mark key="^" line="16" column="73" />
+        <mark key="." line="16" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528966284902">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="54" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528967372485">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
         <mark key="[" line="4" column="25" />
@@ -736,11 +737,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1528896647120">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="26" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1528968505938">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -804,12 +805,12 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528966419252">
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528968007195">
         <mark key="'" line="15" column="14" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="42" column="54" />
-        <mark key="." line="42" column="54" />
-        <mark key="^" line="42" column="54" />
+        <mark key="[" line="41" column="66" />
+        <mark key="]" line="43" column="65" />
+        <mark key="." line="43" column="65" />
+        <mark key="^" line="43" column="65" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/api/external.rst" timestamp="1527254700098">
         <mark key="'" line="185" column="0" />
@@ -836,11 +837,12 @@
         <mark key="." line="3" column="78" />
         <mark key="^" line="3" column="78" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/env.example" timestamp="1528891114584">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="2" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/env.example" timestamp="1528967193659">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/tests/test_utils/test_median_of_scores.py" timestamp="1522245160847">
         <mark key="'" line="0" column="0" />
@@ -854,16 +856,6 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/.gitmodules" timestamp="1528709352294">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1528715499175">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1528702902056">
         <mark key="'" line="70" column="0" />
@@ -970,11 +962,6 @@
         <mark key="." line="46" column="35" />
         <mark key="^" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_bot.rst" timestamp="1528702947106">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/main.py" timestamp="1528712280019">
         <mark key="'" line="6" column="46" />
         <mark key="[" line="7" column="34" />
@@ -990,7 +977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" />
       <jump line="82" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" />
       <jump line="83" column="26" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" />
       <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/settings.py" />
@@ -1090,6 +1076,7 @@
       <jump line="10" column="14" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" />
       <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" />
       <jump line="152" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
+      <jump line="12" column="23" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/env.example" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1105,43 +1092,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>foo@172.17.0.4/host/share</text>
+        <text>CUSTOMER_1_DELIVERY_DESTINATION=/host/share</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBzc2guY29ubmVjdChjdXN0b21lcl9ob3N0LCB1c2VybmFtZT1jdXN0b21lcl9ob3N0X2luZm9bMF0sIHBhc3N3b3JkPSdwYXNzJykK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CkFzc3VtZXMgdGhhdCB3ZSBoYXZlIGEgc2lsayBmb2xkZXIgcGVyIGN1c3RvbWVyLCBuYW1lZA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBocnNpYi51dGlscyBpbXBvcnQgZmluZF9jdXN0b21lcl9zaWxrc19mb2xkZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyX2hvc3RfaW5mbyA9IGN1c3RvbWVyX2hvc3Quc3BsaXQoJ0AnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlci5zcGxpdCgnLycpWy0xXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyX2hvc3RfaW5mbyA9IGN1c3RvbWVyX2hvc3Quc3BsaXQoJ0AnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcGtleSA9IHBhcmFtaWtvLlJTQUtleS5mcm9tX3ByaXZhdGVfa2V5X2ZpbGUoJy9ob21lL2pvaG5tb3V0YWZpcy9QeWNoYXJtUHJvamVjdHMvc2lsa3MvdmVybWFudGlhLXJhY2luZy1jaGFubmVscy5ocl9zaWxrcy9rZXlzL2hyX3NpbGtzJykK</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyX2hvc3RfaW5mbyA9IGN1c3RvbWVyX2hvc3Quc3BsaXQoJzonKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc3NoLmxvYWRfc3lzdGVtX2hvc3Rfa2V5cygpCg==</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBzc2guY29ubmVjdChjdXN0b21lcl9ob3N0LCB1c2VybmFtZT1jdXN0b21lcl9ob3N0X2luZm9bMF0sIHBhc3N3b3JkPSdwYXNzJykK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyX2hvc3RfaW5mbyA9IGN1c3RvbWVyX2hvc3Quc3BsaXQoJ0AnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyX2hvc3RfaW5mbyA9IGN1c3RvbWVyX2hvc3Quc3BsaXQoJ0AnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

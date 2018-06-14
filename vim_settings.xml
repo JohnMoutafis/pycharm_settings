@@ -414,6 +414,18 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/env.example" timestamp="1528980357596">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/.env" timestamp="1528980672030">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_lineg_table.sql" timestamp="1525378301321">
         <mark key="[" line="1" column="68" />
         <mark key="]" line="1" column="71" />
@@ -598,6 +610,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/requirements/prod.txt" timestamp="1528979738796">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/cm_xls.py" timestamp="1527458807428">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="72" />
@@ -768,6 +786,12 @@
         <mark key="^" line="81" column="38" />
         <mark key="." line="81" column="38" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/settings.py" timestamp="1528980689620">
+        <mark key="[" line="178" column="31" />
+        <mark key="]" line="178" column="31" />
+        <mark key="." line="178" column="31" />
+        <mark key="^" line="178" column="31" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/strategies.rst" timestamp="1527664052066">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="121" column="88" />
@@ -856,6 +880,9 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="/Dummy.txt" timestamp="1528980739981">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1528702902056">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="70" column="97" />
@@ -881,6 +908,9 @@
         <mark key="]" line="23" column="20" />
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/views.py" timestamp="1528980142771">
+        <mark key="'" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live horses feed/index.rst" timestamp="1527256522675">
         <mark key="[" line="1" column="0" />
@@ -976,8 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="28" filename="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-hellashorses.py" />
-      <jump line="35" column="8" filename="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-phumelela.py" />
       <jump line="24" column="13" filename="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-remote-silks.py" />
       <jump line="12" column="30" filename="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-nrc.py" />
@@ -1076,6 +1104,8 @@
       <jump line="31" column="12" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" />
       <jump line="45" column="4" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" />
       <jump line="10" column="4" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" />
+      <jump line="10" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/views.py" />
+      <jump line="178" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1091,52 +1121,52 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwzXD4=</text>
+        <text encoding="base64">XDxodHRwc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>ssh.load_system_host_keys()</text>
+        <text>'https://02e639174b464e69ac28fa87bc457ec9:7fa9f84a5ca84dfcb09c38443406fe57@sentry.io/1226405'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQmVmb3JlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQWZ0ZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnQmVmb3JlJykK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnQWZ0ZXInKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHNmdHAuCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CkFzc3VtZXMgdGhhdCB3ZSBoYXZlIGEgc2lsayBmb2xkZXIgcGVyIGN1c3RvbWVyLCBuYW1lZA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBocnNpYi51dGlscyBpbXBvcnQgZmluZF9jdXN0b21lcl9zaWxrc19mb2xkZXIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlci5zcGxpdCgnLycpWy0xXSkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlcikK</text>
+        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlci5zcGxpdCgnLycpWy0xXSkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyX2hvc3RfaW5mbyA9IGN1c3RvbWVyX2hvc3Quc3BsaXQoJzonKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwzXD4=</last-search>
+      <last-search encoding="base64">XDxodHRwc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxodHRwc1w+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1150,7 +1180,6 @@
         <entry>300</entry>
         <entry>:46</entry>
         <entry encoding="base64">XDxET01BSU5fTkFNRVw+</entry>
-        <entry encoding="base64">XDxodHRwc1w+</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>cards_path</entry>
         <entry>alias</entry>
@@ -1162,6 +1191,7 @@
         <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDwzXD4=</entry>
         <entry encoding="base64">XDxtZWV0aW5nX2RhdGVfX2xlXD4=</entry>
+        <entry encoding="base64">XDxodHRwc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>

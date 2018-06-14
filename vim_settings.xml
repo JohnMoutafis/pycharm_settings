@@ -829,11 +829,11 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528978338331">
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="37" column="67" />
-        <mark key="." line="37" column="67" />
-        <mark key="^" line="37" column="67" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528981675884">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/api/external.rst" timestamp="1527254700098">
         <mark key="'" line="185" column="0" />
@@ -1121,7 +1121,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
@@ -1130,34 +1130,34 @@
         <text>'https://02e639174b464e69ac28fa87bc457ec9:7fa9f84a5ca84dfcb09c38443406fe57@sentry.io/1226405'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdIRVknKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQmVmb3JlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQWZ0ZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnQmVmb3JlJykK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnQWZ0ZXInKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHNmdHAuCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CkFzc3VtZXMgdGhhdCB3ZSBoYXZlIGEgc2lsayBmb2xkZXIgcGVyIGN1c3RvbWVyLCBuYW1lZA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBocnNpYi51dGlscyBpbXBvcnQgZmluZF9jdXN0b21lcl9zaWxrc19mb2xkZXIK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlci5zcGxpdCgnLycpWy0xXSkK</text>
+        <text encoding="base64">ZnJvbSBocnNpYi51dGlscyBpbXBvcnQgZmluZF9jdXN0b21lcl9zaWxrc19mb2xkZXIK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlcikK</text>
+        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlci5zcGxpdCgnLycpWy0xXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

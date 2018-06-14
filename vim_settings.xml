@@ -660,11 +660,11 @@
         <mark key="^" line="16" column="73" />
         <mark key="." line="16" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528978298995">
-        <mark key="[" line="6" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1528983913283">
+        <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="38" />
-        <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
         <mark key="[" line="4" column="25" />
@@ -786,12 +786,6 @@
         <mark key="^" line="81" column="38" />
         <mark key="." line="81" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/settings.py" timestamp="1528980689620">
-        <mark key="[" line="178" column="31" />
-        <mark key="]" line="178" column="31" />
-        <mark key="." line="178" column="31" />
-        <mark key="^" line="178" column="31" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/strategies.rst" timestamp="1527664052066">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="121" column="88" />
@@ -829,11 +823,11 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528981675884">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="34" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528983990253">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/api/external.rst" timestamp="1527254700098">
         <mark key="'" line="185" column="0" />
@@ -1121,7 +1115,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
@@ -1130,34 +1124,34 @@
         <text>'https://02e639174b464e69ac28fa87bc457ec9:7fa9f84a5ca84dfcb09c38443406fe57@sentry.io/1226405'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdIRVknKQo=</text>
+        <text encoding="base64">ICAgICMgZGVzdGluYXRpb24gPSAnezB9L3sxfScuZm9ybWF0KGN1c3RvbWVyX2Rlc3RpbmF0aW9uLCBzaWxrc19mb2xkZXIuc3BsaXQoJy8nKVstMV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcF9rZXkgPSBwYXJhbWlrby5SU0FLZXkuZnJvbV9wcml2YXRlX2tleV9maWxlKCcvaG9tZS9qb2hubW91dGFmaXMvUHljaGFybVByb2plY3RzL3NpbGtzL3Zlcm1hbnRpYS1yYWNpbmctY2hhbm5lbHMuaHJfc2lsa3Mva2V5cy9ocl9zaWxrcycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQmVmb3JlJykK</text>
+        <text encoding="base64">ICAgICMgcF9rZXkgPSBwYXJhbWlrby5SU0FLZXkuZnJvbV9wcml2YXRlX2tleV9maWxlKCcvaG9tZS9qb2hubW91dGFmaXMvUHljaGFybVByb2plY3RzL3NpbGtzL3Zlcm1hbnRpYS1yYWNpbmctY2hhbm5lbHMuaHJfc2lsa3Mva2V5cy9ocl9zaWxrcycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQWZ0ZXInKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdIRVknKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNmdHAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CkFzc3VtZXMgdGhhdCB3ZSBoYXZlIGEgc2lsayBmb2xkZXIgcGVyIGN1c3RvbWVyLCBuYW1lZA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnQmVmb3JlJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBocnNpYi51dGlscyBpbXBvcnQgZmluZF9jdXN0b21lcl9zaWxrc19mb2xkZXIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnQWZ0ZXInKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlci5zcGxpdCgnLycpWy0xXSkK</text>
+        <text encoding="base64">ICAgIHNmdHAuCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNpbGtzX2ZvbGRlcikK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CkFzc3VtZXMgdGhhdCB3ZSBoYXZlIGEgc2lsayBmb2xkZXIgcGVyIGN1c3RvbWVyLCBuYW1lZA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1234,7 +1228,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">

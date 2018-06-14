@@ -809,12 +809,12 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528900915102">
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1528962899100">
         <mark key="'" line="15" column="14" />
         <mark key="[" line="36" column="73" />
-        <mark key="]" line="36" column="93" />
-        <mark key="." line="36" column="93" />
-        <mark key="^" line="36" column="93" />
+        <mark key="]" line="36" column="73" />
+        <mark key="." line="36" column="73" />
+        <mark key="^" line="33" column="75" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/api/external.rst" timestamp="1527254700098">
         <mark key="'" line="185" column="0" />
@@ -1110,7 +1110,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>

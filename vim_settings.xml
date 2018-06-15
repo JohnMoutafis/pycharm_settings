@@ -323,10 +323,10 @@
         <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/flask_upload_server/app.py" timestamp="1529055340858">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="6" column="36" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/conf.py" timestamp="1527014643365">
         <mark key="[" line="78" column="0" />
@@ -425,6 +425,10 @@
         <mark key="]" line="10" column="68" />
         <mark key="." line="10" column="68" />
         <mark key="^" line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/setup.cfg" timestamp="1529055432281">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
         <mark key="[" line="4" column="25" />
@@ -622,11 +626,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/setup.cfg" timestamp="1529055319910">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="5" />
-        <mark key="." line="27" column="5" />
-        <mark key="^" line="27" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/setup.cfg" timestamp="1529055474310">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/.env" timestamp="1526398270661">
         <mark key="[" line="7" column="0" />
@@ -774,25 +778,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>SANIC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>[isort]
-line-length = 70
-multi_line_output = 5
-balanced_wrapping = True
-verbose = True
-include_trailing_comma = True
-
-[flake8]
-max-line-length = 99
-exclude =
-	.git
-	__pycache__,
-	pmusib/__init__.py</text>
+        <text>sections = FUTURE,STDLIB,SANIC,THIRDPARTY,FIRSTPARTY,LOCALFOLDER</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

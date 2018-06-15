@@ -48,6 +48,10 @@
         <mark key="^" line="72" column="38" />
         <mark key="." line="72" column="38" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/requirements_dev.txt" timestamp="1529055852991">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1528705050723">
         <mark key="[" line="47" column="5" />
         <mark key="]" line="47" column="4" />
@@ -274,11 +278,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055249646">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
         <mark key="[" line="14" column="0" />
@@ -369,9 +373,6 @@
         <mark key="." line="56" column="7" />
         <mark key="^" line="56" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/api/urls.py" timestamp="1528988894059">
-        <mark key="'" line="21" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
         <mark key="[" line="125" column="22" />
         <mark key="]" line="125" column="26" />
@@ -420,8 +421,8 @@
         <mark key="^" line="16" column="73" />
         <mark key="." line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1529052140606">
-        <mark key="[" line="10" column="67" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1529055898054">
+        <mark key="[" line="5" column="25" />
         <mark key="]" line="10" column="68" />
         <mark key="." line="10" column="68" />
         <mark key="^" line="9" column="33" />
@@ -466,11 +467,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1528973925611">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/receiver.py" timestamp="1529055906405">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -525,11 +526,11 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1529052033535">
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="69" />
-        <mark key="^" line="34" column="69" />
-        <mark key="." line="34" column="69" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1529055965231">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="35" column="69" />
+        <mark key="^" line="35" column="69" />
+        <mark key="." line="35" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_line_g.sql" timestamp="1525379334042">
         <mark key="[" line="0" column="12" />
@@ -548,6 +549,12 @@
         <mark key="]" line="3" column="78" />
         <mark key="." line="3" column="78" />
         <mark key="^" line="3" column="78" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/env.example" timestamp="1529055933542">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527015919992">
         <mark key="[" line="2" column="21" />
@@ -574,9 +581,6 @@
         <mark key="]" line="23" column="20" />
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/views.py" timestamp="1528980142771">
-        <mark key="'" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live horses feed/index.rst" timestamp="1527256522675">
         <mark key="[" line="1" column="0" />
@@ -626,10 +630,10 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/setup.cfg" timestamp="1529055474310">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/setup.cfg" timestamp="1529055771913">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
         <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/.env" timestamp="1526398270661">
@@ -784,7 +788,7 @@
         <text encoding="base64">XDxodHRwc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>sections = FUTURE,STDLIB,SANIC,THIRDPARTY,FIRSTPARTY,LOCALFOLDER</text>
+        <text>bumpversion==0.5.3</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

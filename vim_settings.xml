@@ -158,7 +158,7 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1529403679493">
+      <file name="/Python Console" timestamp="1529406575651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
@@ -644,11 +644,11 @@
         <mark key="." line="46" column="35" />
         <mark key="^" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/main.py" timestamp="1529405743223">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/main.py" timestamp="1529406566966">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526646057965">
         <mark key="[" line="17" column="29" />
@@ -773,7 +773,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>body_str</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>

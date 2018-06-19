@@ -226,9 +226,6 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/setup.cfg" timestamp="1529055297711">
-        <mark key="]" line="9" column="21" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env.example" timestamp="1525963205367">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
@@ -646,6 +643,12 @@
         <mark key="]" line="46" column="35" />
         <mark key="." line="46" column="35" />
         <mark key="^" line="46" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/main.py" timestamp="1529405743223">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526646057965">
         <mark key="[" line="17" column="29" />

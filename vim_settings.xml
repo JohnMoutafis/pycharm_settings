@@ -158,7 +158,7 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1528893337628">
+      <file name="/Python Console" timestamp="1529403679493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
@@ -418,17 +418,17 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/settings.py" timestamp="1529401334696">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="23" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/settings.py" timestamp="1529403664032">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="47" />
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1529397365217">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="5" column="8" />
-        <mark key="." line="5" column="8" />
-        <mark key="^" line="5" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1529403675559">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/setup.cfg" timestamp="1529055432281">
         <mark key="[" line="31" column="0" />
@@ -776,12 +776,7 @@
         <text encoding="base64">XDxodHRwc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>redis_server = redis.StrictRedis(
-    host=settings.REDIS_HOST,
-    port=settings.REDIS_PORT,
-    db=settings.REDIS_DB,
-    decode_responses=True
-)</text>
+        <text>localhost</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnZGVsaXZlcnlfZGVzdGluYXRpb24nOiBjb25maWcoJ0NVU1RPTUVSXzJfREVMSVZFUllfREVTVElOQVRJT04nKSwK</text>

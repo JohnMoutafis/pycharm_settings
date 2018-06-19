@@ -373,11 +373,11 @@
         <mark key="^" line="273" column="30" />
         <mark key="." line="273" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/README.md" timestamp="1529413854111">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="30" column="53" />
-        <mark key="^" line="30" column="53" />
-        <mark key="." line="30" column="53" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/README.md" timestamp="1529414461423">
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="76" column="81" />
+        <mark key="." line="76" column="81" />
+        <mark key="^" line="76" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements.txt" timestamp="1529397498400">
         <mark key="[" line="2" column="20" />
@@ -560,7 +560,7 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529069384013">
+      <file name="/Dummy.txt" timestamp="1529414702180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env" timestamp="1526462525996">
@@ -776,7 +776,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>command</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
@@ -786,34 +786,34 @@
     main()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpbGtzOnRlc3RfcmFjZV9pZDowMDAwME4gKHdoZXJlIE4gaXMgYW4gaW50ZWdlcikuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">d2l0aCB0aGUgZm9sbG93aW5nIGtleTp2YWx1ZSBmb3JtYXQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">aW4gdGhlIGBTSUxLU19QQVRIYCwgZW5jb2RlcyB0aGVzZSBjb250ZW50cyBpbiBiYXNlNjQgYW5kIGFkZHMgdGhlbSB0byBhIHJlZGlzIHNlcnZlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhlIGBtYWluLnByb2Nlc3MoKWAgcmVhZHMgdGhlIGNvbnRlbnRzIG9mIGEgZm9sZGVyIG5hbWVkIGB0ZXN0X2FkZF90b19yZWRpc2AK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc19zZXJ2ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBocnNpYi5zZXR0aW5ncyBpbXBvcnQgU0lMS1NfRk9MREVSCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

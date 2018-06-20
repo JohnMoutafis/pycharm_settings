@@ -385,11 +385,11 @@
         <mark key="^" line="273" column="30" />
         <mark key="." line="273" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/README.md" timestamp="1529414461423">
-        <mark key="[" line="73" column="37" />
-        <mark key="]" line="76" column="81" />
-        <mark key="." line="76" column="81" />
-        <mark key="^" line="76" column="81" />
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/README.md" timestamp="1529492979818">
+        <mark key="[" line="78" column="42" />
+        <mark key="]" line="81" column="29" />
+        <mark key="^" line="81" column="29" />
+        <mark key="." line="81" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements.txt" timestamp="1529489465091">
         <mark key="[" line="0" column="13" />
@@ -581,7 +581,7 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529414702180">
+      <file name="/Dummy.txt" timestamp="1529493084502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env" timestamp="1526462525996">
@@ -797,7 +797,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
@@ -806,34 +806,34 @@
         <text encoding="base64">IyBMb2dnZXIgc2V0dGluZ3MKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3BtdWJvdCcpCmxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLmdldExldmVsTmFtZShMT0dfTEVWRUwpKQpmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcignJShhc2N0aW1lKXMgLSAlKG5hbWUpcyAtICUobGV2ZWxuYW1lKXMgLSAlKG1lc3NhZ2UpcycpCgpjb25zb2xlX2xvZ2dlciA9IGxvZ2dpbmcuU3RyZWFtSGFuZGxlcigpCmNvbnNvbGVfbG9nZ2VyLnNldEZvcm1hdHRlcihmb3JtYXR0ZXIpCmxvZ2dlci5hZGRIYW5kbGVyKGNvbnNvbGVfbG9nZ2VyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q1VTVE9NRVJfMl9ERUxJVkVSWV9ERVNUSU5BVElPTj0vaG9tZS9kZXZ1c2VyL0RvY3VtZW50cy90ZXN0X3NmdHAvYzJfZm9sZGVyCg==</text>
+        <text encoding="base64">YFNJTEtTX0ZPTERFUmAgcGF0aCBhbmQgY29udGFpbnMgc2lsayBmaWxlcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q1VTVE9NRVJfMl9ERUxJVkVSWV9IT1NUPTEyNy4wLjEuMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1VTVE9NRVJfMl9ERUxJVkVSWV9NT0RFPXNmdHAK</text>
+        <text encoding="base64">Q1VTVE9NRVJfMl9ERUxJVkVSWV9ERVNUSU5BVElPTj0vaG9tZS9kZXZ1c2VyL0RvY3VtZW50cy90ZXN0X3NmdHAvYzJfZm9sZGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q1VTVE9NRVJfM19ERUxJVkVSWV9IT1NUPTxob3N0Pgo=</text>
+        <text encoding="base64">Q1VTVE9NRVJfMl9ERUxJVkVSWV9IT1NUPTEyNy4wLjEuMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q1VTVE9NRVJfM19ERUxJVkVSWV9NT0RFPWh0dHAK</text>
+        <text encoding="base64">Q1VTVE9NRVJfMl9ERUxJVkVSWV9NT0RFPXNmdHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Q1VTVE9NRVJfM19ERUxJVkVSWV9IT1NUPTxob3N0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnZm9sZGVyX3BhdHRlcm4nOiAnYzJfdG9kYXknCg==</text>
+        <text encoding="base64">Q1VTVE9NRVJfM19ERUxJVkVSWV9NT0RFPWh0dHAK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnlfZGVzdGluYXRpb24nOiBjb25maWcoJ0NVU1RPTUVSXzJfREVMSVZFUllfREVTVElOQVRJT04nKSwK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnlfaG9zdCc6IGNvbmZpZygnQ1VTVE9NRVJfMl9ERUxJVkVSWV9IT1NUJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAnZm9sZGVyX3BhdHRlcm4nOiAnYzJfdG9kYXknCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -367,6 +367,12 @@
         <mark key="." line="56" column="7" />
         <mark key="^" line="56" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" timestamp="1529487746350">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="33" column="76" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
         <mark key="[" line="125" column="22" />
         <mark key="]" line="125" column="26" />
@@ -661,9 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="18" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
-      <jump line="52" column="5" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/pmusib/main.py" />
-      <jump line="33" column="10" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/utils.py" />
       <jump line="99" column="63" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="64" column="43" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
       <jump line="83" column="37" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
@@ -761,6 +764,9 @@
       <jump line="24" column="30" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/api/views.py" />
       <jump line="29" column="19" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/api/views.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/storage.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
+      <jump line="1399" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -786,34 +792,34 @@
     main()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNpbGtzOnRlc3RfcmFjZV9pZDowMDAwME4gKHdoZXJlIE4gaXMgYW4gaW50ZWdlcikuCg==</text>
+        <text encoding="base64">ICAgICAgPC9UcmFwPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8UnVubmVyIGlkPSIyMzYyODkxIiBuYW1lPSJNYXJ5IE1hcGVsIiBmb3JtPSIiIHN0YXR1cz0iUk4iIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2l0aCB0aGUgZm9sbG93aW5nIGtleTp2YWx1ZSBmb3JtYXQ6Cg==</text>
+        <text encoding="base64">ICAgICAgPFRyYXAgdHJhcD0iOCIgd2lkZT0iTm8iPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW4gdGhlIGBTSUxLU19QQVRIYCwgZW5jb2RlcyB0aGVzZSBjb250ZW50cyBpbiBiYXNlNjQgYW5kIGFkZHMgdGhlbSB0byBhIHJlZGlzIHNlcnZlcgo=</text>
+        <text encoding="base64">ICAgICAgPC9UcmFwPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhlIGBtYWluLnByb2Nlc3MoKWAgcmVhZHMgdGhlIGNvbnRlbnRzIG9mIGEgZm9sZGVyIG5hbWVkIGB0ZXN0X2FkZF90b19yZWRpc2AK</text>
+        <text encoding="base64">ICAgICAgICA8UnVubmVyIGlkPSIyMzE1MDczIiBuYW1lPSJFYXN0IFdpbmQiIGZvcm09IiIgc3RhdHVzPSJSTiIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFRyYXAgdHJhcD0iNyIgd2lkZT0iTm8iPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9UcmFwPgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICA8UnVubmVyIGlkPSIyMzY1MjY2IiBuYW1lPSJUaGUgTmlnaHQgUG9ydGVyIiBmb3JtPSIiIHN0YXR1cz0iUk4iIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgICAgPFRyYXAgdHJhcD0iNiIgd2lkZT0iTm8iPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

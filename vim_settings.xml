@@ -53,11 +53,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/ADRS_Linear_SVM.py" timestamp="1530371319696">
-        <mark key="[" line="74" column="29" />
-        <mark key="]" line="75" column="32" />
-        <mark key="." line="75" column="32" />
-        <mark key="^" line="75" column="32" />
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/ADRS_Linear_SVM.py" timestamp="1530377333312">
+        <mark key="[" line="89" column="44" />
+        <mark key="]" line="89" column="49" />
+        <mark key="." line="89" column="49" />
+        <mark key="^" line="89" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/urls.py" timestamp="1528988633454">
         <mark key="[" line="20" column="0" />
@@ -817,8 +817,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eyJ0eXBlIjoiRmVhdHVyZUNvbGxlY3Rpb24iLCJ0b3RhbEZlYXR1cmVzIjo2LCJmZWF0dXJlcyI6W3sidHlwZSI6IkZlYXR1cmUiLCJpZCI6InpvbmVzLjUwMSIsImdlb21ldHJ5Ijp7InR5cGUiOiJQb2x5Z29uIiwiY29vcmRpbmF0ZXMiOltbWzQ3MzU2OSw0MjAyMTQ4XSxbNDc0Nzc4LDQyMDE1NzVdLFs0NzQ4MjUsNDIwMTUyNV0sWzQ3NTI0MCw0MjAxMDgyXSxbNDc0Nzk0LDQyMDA2MDRdLFs0NzU2NDQsNDIwMDAzMF0sWzQ3ODI2NCw0MjAxNzgyXSxbNDc4NTgyLDQyMDMyOTRdLFs0ODEyNTYsNDIwMzQ1M10sWzQ4MTUxMSw0MjA0OTMzXSxbNDc5NDI2LDQyMDU2MThdLFs0NzcyMjksNDIwNjY1Ml0sWzQ3ODIxNiw0MjA4NTQ2XSxbNDc2Njg4LDQyMDg3NTNdLFs0NzUxNzYsNDIwNzMwNV0sWzQ3NTA2NSw0MjA2NjY4XSxbNDczMDkxLDQyMDUxNzJdLFs0NzI0MjMsNDIwMzEwM10sWzQ3MzU2OSw0MjAyMTQ4XV1dfSwiZ2VvbWV0cnlfbmFtZSI6InNlY3RvciIsInByb3BlcnRpZXMiOnsiem9uZV9uYW1lIjoizpHOmM6Xzp3OkSJ9fSx7InR5cGUiOiJGZWF0dXJlIiwiaWQiOiJ6b25lcy41MDIiLCJnZW9tZXRyeSI6eyJ0eXBlIjoiUG9seWdvbiIsImNvb3JkaW5hdGVzIjpbW1s0NzEwNzYsNDE5OTIzNl0sWzQ3MTIxNCw0MjAwNjA3XSxbNDY5Nzc5LDQyMDEyNTVdLFs0NjcyODIsNDIwMTU2M10sWzQ2NzEzMyw0MjAwMTkyXSxbNDY1ODE1LDQxOTk2NTBdLFs0NjY1OTEsNDE5ODkyN10sWzQ2NzYxMSw0MTk5MTI5XSxbNDY3OTMwLDQxOTk4NDFdLFs0NjgzNzcsNDE5OTg2M10sWzQ2ODMwMiw0MTk5MjI1XSxbNDY4MDA1LDQxOTg2ODNdLFs0NjczMTQsNDE5ODg3NF0sWzQ2NjYwMiw0MTk4NTM0XSxbNDY3MTY1LDQxOTc3ODBdLFs0Njc4NjcsNDE5NzM3Nl0sWzQ2ODg3Niw0MTk3ODQzXSxbNDY4NzU5LDQxOTg1MzRdLFs0NjkwMDQsNDE5ODgyMV0sWzQ2OTEzMSw0MTk4Mjc5XSxbNDY5NzkwLDQxOTg0MTddLFs0NzAyNzksNDE5ODkyN10sWzQ3MDM1Myw0MTk5MzEwXSxbNDcxMDc2LDQxOTkyMzZdXV19LCJnZW9tZXRyeV9uYW1lIjoic2VjdG9yIiwicHJvcGVydGllcyI6eyJ6b25lX25hbWUiOiLOoM6VzpnOoc6RzpnOkc6jIn19LHsidHlwZSI6IkZlYXR1cmUiLCJpZCI6InpvbmVzLjUwMyIsImdlb21ldHJ5Ijp7InR5cGUiOiJQb2x5Z29uIiwiY29vcmRpbmF0ZXMiOltbWzQ4MTM3MCw0MjA4MTY5XSxbNDgxODY1LDQyMDkyMzFdLFs0ODQyNTksNDIwOTMwMl0sWzQ4NTAwOSw0MjEwMzIxXSxbNDg0ODgyLDQyMTIzODldLFs0ODI1MTcsNDIxMzAxMl0sWzQ4MTY5Niw0MjExMTAwXSxbNDgxMDAyLDQyMTExNzFdLFs0ODAxNjYsNDIxMDE4MF0sWzQ4MDY2Miw0MjA4ODIwXSxbNDgxMzcwLDQyMDgxNjldXV19LCJnZW9tZXRyeV9uYW1lIjoic2VjdG9yIiwicHJvcGVydGllcyI6eyJ6b25lX25hbWUiOiLOnM6RzqHOn86lzqPOmSJ9fSx7InR5cGUiOiJGZWF0dXJlIiwiaWQiOiJ6b25lcy41MDQiLCJnZW9tZXRyeSI6eyJ0eXBlIjoiUG9seWdvbiIsImNvb3JkaW5hdGVzIjpbW1s0NzI4NTIsNDIwNTAxMl0sWzQ3MzA5MSw0MjA1MTcyXSxbNDc1MDY1LDQyMDY2NjhdLFs0NzUxNzYsNDIwNzMwNV0sWzQ3NDAzNiw0MjA3NzU5XSxbNDcyNTM0LDQyMDg3MTZdLFs0NzA4NjQsNDIwOTQ3NV0sWzQ3MDQyNCw0MjA4NDEyXSxbNDcxMjI4LDQyMDcxOThdLFs0NzEwMDAsNDIwNjM5M10sWzQ3Mjg1Miw0MjA1MDEyXV1dfSwiZ2VvbWV0cnlfbmFtZSI6InNlY3RvciIsInByb3BlcnRpZXMiOnsiem9uZV9uYW1lIjoizqDOlc6hzpnOo86kzpXOoc6ZIn19LHsidHlwZSI6IkZlYXR1cmUiLCJpZCI6InpvbmVzLjUwNSIsImdlb21ldHJ5Ijp7InR5cGUiOiJQb2x5Z29uIiwiY29vcmRpbmF0ZXMiOltbWzQ3MzQzNyw0MTk5MjQ3XSxbNDc0MTQxLDQxOTg4MzBdLFs0NzM5OTMsNDE5ODQ3MF0sWzQ3NDgxOCw0MTk3ODU2XSxbNDc1NDUzLDQxOTg5NTddLFs0NzYwMDMsNDE5OTMyN10sWzQ3NTY0NCw0MjAwMDMwXSxbNDc0Nzk0LDQyMDA2MDRdLFs0NzM0MzcsNDE5OTI0N11dXX0sImdlb21ldHJ5X25hbWUiOiJzZWN0b3IiLCJwcm9wZXJ0aWVzIjp7InpvbmVfbmFtZSI6Is6dzpXOkSDOo86czqXOoc6dzpcifX0seyJ0eXBlIjoiRmVhdHVyZSIsImlkIjoiem9uZXMuNTA2IiwiZ2VvbWV0cnkiOnsidHlwZSI6IlBvbHlnb24iLCJjb29yZGluYXRlcyI6W1tbNDcyNjc4LDQxOTg3NDJdLFs0NzI5NzEsNDE5ODc5Nl0sWzQ3MzQzNyw0MTk5MjQ3XSxbNDc0Nzk0LDQyMDA2MDRdLFs0NzUyNDAsNDIwMTA4Ml0sWzQ3NDgyNSw0MjAxNTI1XSxbNDc0NDkxLDQyMDE0NDRdLFs0NzQwMjAsNDIwMTU3MF0sWzQ3MzAwMSw0MjAxMzg2XSxbNDczMDQzLDQyMDA4MTldLFs0NzIzNjMsNDIwMDE5Nl0sWzQ3MTkzOSw0MTk5MjYyXSxbNDcyNDYyLDQxOTg4OTRdLFs0NzI1MzMsNDE5ODg0NF0sWzQ3MjY3OCw0MTk4NzQyXV1dfSwiZ2VvbWV0cnlfbmFtZSI6InNlY3RvciIsInByb3BlcnRpZXMiOnsiem9uZV9uYW1lIjoizprOkc6bzpvOmc6YzpXOkSJ9fV0sImNycyI6eyJ0eXBlIjoiRVBTRyIsInByb3BlcnRpZXMiOnsiY29kZSI6IjIxMDAifX19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>classes</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -830,7 +830,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>classes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>

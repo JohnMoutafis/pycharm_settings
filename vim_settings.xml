@@ -71,6 +71,13 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1531138758894">
+        <mark key="'" line="148" column="90" />
+        <mark key="[" line="168" column="24" />
+        <mark key="]" line="168" column="28" />
+        <mark key="." line="168" column="28" />
+        <mark key="^" line="168" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="5" />
@@ -605,6 +612,7 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Programs/3d-dss/3d-dss/README" timestamp="1531137896369" />
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia_racing_silks/flask_upload_server/app.py" timestamp="1528893109174">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="17" column="22" />
@@ -689,6 +697,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="35" />
@@ -715,7 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="63" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="64" column="43" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
       <jump line="83" column="37" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/processors.py" />
       <jump line="47" column="2" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" />
@@ -815,10 +828,11 @@
       <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
       <jump line="1399" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
+      <jump line="148" column="90" filename="$USER_HOME$/dotfiles/bashrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>~</text>
       </register>
       <register name="c" type="4">
         <text>Σ</text>
@@ -830,43 +844,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eyJ0eXBlIjoiRmVhdHVyZUNvbGxlY3Rpb24iLCJ0b3RhbEZlYXR1cmVzIjo2LCJmZWF0dXJlcyI6W3sidHlwZSI6IkZlYXR1cmUiLCJpZCI6InpvbmVzLjUwMSIsImdlb21ldHJ5Ijp7InR5cGUiOiJQb2x5Z29uIiwiY29vcmRpbmF0ZXMiOltbWzQ3MzU2OSw0MjAyMTQ4XSxbNDc0Nzc4LDQyMDE1NzVdLFs0NzQ4MjUsNDIwMTUyNV0sWzQ3NTI0MCw0MjAxMDgyXSxbNDc0Nzk0LDQyMDA2MDRdLFs0NzU2NDQsNDIwMDAzMF0sWzQ3ODI2NCw0MjAxNzgyXSxbNDc4NTgyLDQyMDMyOTRdLFs0ODEyNTYsNDIwMzQ1M10sWzQ4MTUxMSw0MjA0OTMzXSxbNDc5NDI2LDQyMDU2MThdLFs0NzcyMjksNDIwNjY1Ml0sWzQ3ODIxNiw0MjA4NTQ2XSxbNDc2Njg4LDQyMDg3NTNdLFs0NzUxNzYsNDIwNzMwNV0sWzQ3NTA2NSw0MjA2NjY4XSxbNDczMDkxLDQyMDUxNzJdLFs0NzI0MjMsNDIwMzEwM10sWzQ3MzU2OSw0MjAyMTQ4XV1dfSwiZ2VvbWV0cnlfbmFtZSI6InNlY3RvciIsInByb3BlcnRpZXMiOnsiem9uZV9uYW1lIjoizpHOmM6Xzp3OkSJ9fSx7InR5cGUiOiJGZWF0dXJlIiwiaWQiOiJ6b25lcy41MDIiLCJnZW9tZXRyeSI6eyJ0eXBlIjoiUG9seWdvbiIsImNvb3JkaW5hdGVzIjpbW1s0NzEwNzYsNDE5OTIzNl0sWzQ3MTIxNCw0MjAwNjA3XSxbNDY5Nzc5LDQyMDEyNTVdLFs0NjcyODIsNDIwMTU2M10sWzQ2NzEzMyw0MjAwMTkyXSxbNDY1ODE1LDQxOTk2NTBdLFs0NjY1OTEsNDE5ODkyN10sWzQ2NzYxMSw0MTk5MTI5XSxbNDY3OTMwLDQxOTk4NDFdLFs0NjgzNzcsNDE5OTg2M10sWzQ2ODMwMiw0MTk5MjI1XSxbNDY4MDA1LDQxOTg2ODNdLFs0NjczMTQsNDE5ODg3NF0sWzQ2NjYwMiw0MTk4NTM0XSxbNDY3MTY1LDQxOTc3ODBdLFs0Njc4NjcsNDE5NzM3Nl0sWzQ2ODg3Niw0MTk3ODQzXSxbNDY4NzU5LDQxOTg1MzRdLFs0NjkwMDQsNDE5ODgyMV0sWzQ2OTEzMSw0MTk4Mjc5XSxbNDY5NzkwLDQxOTg0MTddLFs0NzAyNzksNDE5ODkyN10sWzQ3MDM1Myw0MTk5MzEwXSxbNDcxMDc2LDQxOTkyMzZdXV19LCJnZW9tZXRyeV9uYW1lIjoic2VjdG9yIiwicHJvcGVydGllcyI6eyJ6b25lX25hbWUiOiLOoM6VzpnOoc6RzpnOkc6jIn19LHsidHlwZSI6IkZlYXR1cmUiLCJpZCI6InpvbmVzLjUwMyIsImdlb21ldHJ5Ijp7InR5cGUiOiJQb2x5Z29uIiwiY29vcmRpbmF0ZXMiOltbWzQ4MTM3MCw0MjA4MTY5XSxbNDgxODY1LDQyMDkyMzFdLFs0ODQyNTksNDIwOTMwMl0sWzQ4NTAwOSw0MjEwMzIxXSxbNDg0ODgyLDQyMTIzODldLFs0ODI1MTcsNDIxMzAxMl0sWzQ4MTY5Niw0MjExMTAwXSxbNDgxMDAyLDQyMTExNzFdLFs0ODAxNjYsNDIxMDE4MF0sWzQ4MDY2Miw0MjA4ODIwXSxbNDgxMzcwLDQyMDgxNjldXV19LCJnZW9tZXRyeV9uYW1lIjoic2VjdG9yIiwicHJvcGVydGllcyI6eyJ6b25lX25hbWUiOiLOnM6RzqHOn86lzqPOmSJ9fSx7InR5cGUiOiJGZWF0dXJlIiwiaWQiOiJ6b25lcy41MDQiLCJnZW9tZXRyeSI6eyJ0eXBlIjoiUG9seWdvbiIsImNvb3JkaW5hdGVzIjpbW1s0NzI4NTIsNDIwNTAxMl0sWzQ3MzA5MSw0MjA1MTcyXSxbNDc1MDY1LDQyMDY2NjhdLFs0NzUxNzYsNDIwNzMwNV0sWzQ3NDAzNiw0MjA3NzU5XSxbNDcyNTM0LDQyMDg3MTZdLFs0NzA4NjQsNDIwOTQ3NV0sWzQ3MDQyNCw0MjA4NDEyXSxbNDcxMjI4LDQyMDcxOThdLFs0NzEwMDAsNDIwNjM5M10sWzQ3Mjg1Miw0MjA1MDEyXV1dfSwiZ2VvbWV0cnlfbmFtZSI6InNlY3RvciIsInByb3BlcnRpZXMiOnsiem9uZV9uYW1lIjoizqDOlc6hzpnOo86kzpXOoc6ZIn19LHsidHlwZSI6IkZlYXR1cmUiLCJpZCI6InpvbmVzLjUwNSIsImdlb21ldHJ5Ijp7InR5cGUiOiJQb2x5Z29uIiwiY29vcmRpbmF0ZXMiOltbWzQ3MzQzNyw0MTk5MjQ3XSxbNDc0MTQxLDQxOTg4MzBdLFs0NzM5OTMsNDE5ODQ3MF0sWzQ3NDgxOCw0MTk3ODU2XSxbNDc1NDUzLDQxOTg5NTddLFs0NzYwMDMsNDE5OTMyN10sWzQ3NTY0NCw0MjAwMDMwXSxbNDc0Nzk0LDQyMDA2MDRdLFs0NzM0MzcsNDE5OTI0N11dXX0sImdlb21ldHJ5X25hbWUiOiJzZWN0b3IiLCJwcm9wZXJ0aWVzIjp7InpvbmVfbmFtZSI6Is6dzpXOkSDOo86czqXOoc6dzpcifX0seyJ0eXBlIjoiRmVhdHVyZSIsImlkIjoiem9uZXMuNTA2IiwiZ2VvbWV0cnkiOnsidHlwZSI6IlBvbHlnb24iLCJjb29yZGluYXRlcyI6W1tbNDcyNjc4LDQxOTg3NDJdLFs0NzI5NzEsNDE5ODc5Nl0sWzQ3MzQzNyw0MTk5MjQ3XSxbNDc0Nzk0LDQyMDA2MDRdLFs0NzUyNDAsNDIwMTA4Ml0sWzQ3NDgyNSw0MjAxNTI1XSxbNDc0NDkxLDQyMDE0NDRdLFs0NzQwMjAsNDIwMTU3MF0sWzQ3MzAwMSw0MjAxMzg2XSxbNDczMDQzLDQyMDA4MTldLFs0NzIzNjMsNDIwMDE5Nl0sWzQ3MTkzOSw0MTk5MjYyXSxbNDcyNDYyLDQxOTg4OTRdLFs0NzI1MzMsNDE5ODg0NF0sWzQ3MjY3OCw0MTk4NzQyXV1dfSwiZ2VvbWV0cnlfbmFtZSI6InNlY3RvciIsInByb3BlcnRpZXMiOnsiem9uZV9uYW1lIjoizprOkc6bzpvOmc6YzpXOkSJ9fV0sImNycyI6eyJ0eXBlIjoiRVBTRyIsInByb3BlcnRpZXMiOnsiY29kZSI6IjIxMDAifX19Cg==</text>
+      <register name="0" type="4">
+        <text>git clone https://github.com/magicmonty/bash-git-prompt.git .bash-git-prompt --depth=1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbWFrZXMgcGlwIGRldGVjdCBhbiBhY3RpdmUgdmlydHVhbGVudiBhbmQgaW5zdGFsbCB0byBpdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNwX21pc2MuaW1zYXZlKHBhdGgoUkVTVUxUU19QQVRILCAndGVzdCcpLCBsYWJlbF9pbWFnZSkK</text>
+        <text encoding="base64">ICAgICMgdXNlIHRoZSBzYW1lIGRpcmVjdG9yeSBmb3IgdmlydHVhbGVudnMgYXMgdmlydHVhbGVudndyYXBwZXIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHggPSBwbHQuY29sb3JiYXIoZHJhd2VkZ2VzPVRydWUsIGJvdW5kYXJpZXM9diArIDAuNSwgdGlja3M9dikK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CnNvdXJjZSAvdXNyL2xvY2FsL2Jpbi92aXJ0dWFsZW52d3JhcHBlci5zaA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHYgPSBucC5hcmFuZ2UoMCwgY2xhc3NlcyArIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsdC5pbXNob3cobGFiZWxfaW1hZ2UsIGNtYXA9Y21hcF9qKQo=</text>
+        <text encoding="base64">ICAgIHNwX21pc2MuaW1zYXZlKHBhdGgoUkVTVUxUU19QQVRILCAndGVzdCcpLCBsYWJlbF9pbWFnZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsdC5maWd1cmUoKQo=</text>
+        <text encoding="base64">ICAgIHggPSBwbHQuY29sb3JiYXIoZHJhd2VkZ2VzPVRydWUsIGJvdW5kYXJpZXM9diArIDAuNSwgdGlja3M9dikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHYgPSBucC5hcmFuZ2UoMCwgY2xhc3NlcyArIDEpCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNtYXBfaiA9IG1hdHBsb3RsaWIuY20ubmlweV9zcGVjdHJhbAo=</text>
+        <text encoding="base64">ICAgIHBsdC5pbXNob3cobGFiZWxfaW1hZ2UsIGNtYXA9Y21hcF9qKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc2hvdyByZXN1bHRzCg==</text>
+        <text encoding="base64">ICAgIHBsdC5maWd1cmUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Database view" shouldLog="false" />
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-  </component>
-</application>

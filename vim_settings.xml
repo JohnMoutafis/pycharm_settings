@@ -677,6 +677,9 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" timestamp="1531219502911">
+        <mark key="'" line="798" column="87" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180620.xml" timestamp="1529491098187">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="26" />
@@ -741,8 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="2" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" />
-      <jump line="50" column="4" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" />
       <jump line="14" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/processors.py" />
       <jump line="76" column="31" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" />
       <jump line="82" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" />
@@ -841,6 +842,8 @@
       <jump line="148" column="90" filename="$USER_HOME$/dotfiles/bashrc" />
       <jump line="75" column="0" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
       <jump line="333" column="29" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" />
+      <jump line="798" column="87" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

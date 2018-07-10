@@ -7,6 +7,8 @@
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.Submit" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
   <action id="GotoDeclaration">
@@ -17,6 +19,12 @@
   <action id="Images.ShowThumbnails" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />

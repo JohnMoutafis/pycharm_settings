@@ -260,12 +260,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" timestamp="1531216967311">
-        <mark key="'" line="333" column="29" />
-        <mark key="[" line="320" column="33" />
-        <mark key="]" line="320" column="33" />
-        <mark key="^" line="320" column="40" />
-        <mark key="." line="320" column="33" />
+      <file name="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" timestamp="1531222586804">
+        <mark key="'" line="16" column="52" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/gateway.rst" timestamp="1528281200871">
         <mark key="[" line="191" column="4" />
@@ -527,6 +526,11 @@
         <mark key="^" line="62" column="32" />
         <mark key="." line="62" column="32" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/utils_arcpy.py" timestamp="1531221035848">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="13" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/flask_upload_server/.env" timestamp="1529054593463">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -677,8 +681,10 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" timestamp="1531219502911">
-        <mark key="'" line="798" column="87" />
+      <file name="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" timestamp="1531221892879">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="760" column="4" />
+        <mark key="]" line="760" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180620.xml" timestamp="1529491098187">
         <mark key="[" line="4" column="20" />
@@ -744,11 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="9" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/processors.py" />
-      <jump line="76" column="31" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" />
-      <jump line="82" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" />
-      <jump line="76" column="25" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_bot.rst" />
-      <jump line="76" column="25" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_bot.rst" />
       <jump line="21" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/phumelela_bot.rst" />
       <jump line="35" column="23" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/processors.py" />
       <jump line="62" column="28" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.hellashorsesbot/helsib/main.py" />
@@ -842,8 +843,13 @@
       <jump line="148" column="90" filename="$USER_HOME$/dotfiles/bashrc" />
       <jump line="75" column="0" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
       <jump line="333" column="29" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" />
       <jump line="798" column="87" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" />
+      <jump line="330" column="13" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
+      <jump line="411" column="18" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
+      <jump line="16" column="52" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -862,50 +868,50 @@
         <text>gdfaa vf</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwc1w+</text>
+        <text>GEOSGeometry</text>
       </register>
       <register name="0" type="4">
-        <text>git clone https://github.com/magicmonty/bash-git-prompt.git .bash-git-prompt --depth=1</text>
+        <text>export_corridor_to_point_fc_and_to_table</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbWFrZXMgcGlwIGRldGVjdCBhbiBhY3RpdmUgdmlydHVhbGVudiBhbmQgaW5zdGFsbCB0byBpdAo=</text>
+        <text encoding="base64">ZmFkZ3NhZGdhc2ZhZmFhc2RhYWEK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICMgbWFrZXMgcGlwIGRldGVjdCBhbiBhY3RpdmUgdmlydHVhbGVudiBhbmQgaW5zdGFsbCB0byBpdAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICMgdXNlIHRoZSBzYW1lIGRpcmVjdG9yeSBmb3IgdmlydHVhbGVudnMgYXMgdmlydHVhbGVudndyYXBwZXIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CnNvdXJjZSAvdXNyL2xvY2FsL2Jpbi92aXJ0dWFsZW52d3JhcHBlci5zaA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHNwX21pc2MuaW1zYXZlKHBhdGgoUkVTVUxUU19QQVRILCAndGVzdCcpLCBsYWJlbF9pbWFnZSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHggPSBwbHQuY29sb3JiYXIoZHJhd2VkZ2VzPVRydWUsIGJvdW5kYXJpZXM9diArIDAuNSwgdGlja3M9dikK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHYgPSBucC5hcmFuZ2UoMCwgY2xhc3NlcyArIDEpCg==</text>
+        <text encoding="base64">ICAgIHggPSBwbHQuY29sb3JiYXIoZHJhd2VkZ2VzPVRydWUsIGJvdW5kYXJpZXM9diArIDAuNSwgdGlja3M9dikK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdC5pbXNob3cobGFiZWxfaW1hZ2UsIGNtYXA9Y21hcF9qKQo=</text>
+        <text encoding="base64">ICAgIHYgPSBucC5hcmFuZ2UoMCwgY2xhc3NlcyArIDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBsdC5maWd1cmUoKQo=</text>
+        <text encoding="base64">ICAgIHBsdC5pbXNob3cobGFiZWxfaW1hZ2UsIGNtYXA9Y21hcF9qKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodHRwc1w+</last-search>
+      <last-search>GEOSGeometry</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwc1w+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>GEOSGeometry</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -930,6 +936,10 @@
         <entry encoding="base64">XDwzXD4=</entry>
         <entry encoding="base64">XDxtZWV0aW5nX2RhdGVfX2xlXD4=</entry>
         <entry encoding="base64">XDxodHRwc1w+</entry>
+        <entry>os</entry>
+        <entry>geos</entry>
+        <entry encoding="base64">XDxHRU9TR2VvbWV0cnlcPg==</entry>
+        <entry>GEOSGeometry</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>

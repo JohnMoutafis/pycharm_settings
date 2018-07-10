@@ -3,7 +3,16 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CollapseBlock" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.Submit" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="MoveTabRight">
@@ -13,7 +22,15 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
+  <action id="ViewSource" />
 </keymap>

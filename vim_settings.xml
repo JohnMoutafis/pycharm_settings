@@ -681,10 +681,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" timestamp="1531221892879">
+      <file name="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" timestamp="1531296337116">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="760" column="4" />
-        <mark key="]" line="760" column="43" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180620.xml" timestamp="1529491098187">
         <mark key="[" line="4" column="20" />
@@ -916,10 +917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>utils</entry>
-        <entry>transaction-detail</entry>
-        <entry>ARTIS</entry>
-        <entry>Navigation</entry>
         <entry>-S</entry>
         <entry>300</entry>
         <entry>:46</entry>

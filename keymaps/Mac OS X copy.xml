@@ -26,9 +26,11 @@
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />

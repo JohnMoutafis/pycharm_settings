@@ -686,7 +686,7 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531338113915">
+      <file name="/Dummy.txt" timestamp="1531751046552">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
@@ -905,8 +905,6 @@
     </search>
     <history>
       <history-search>
-        <entry>transaction-detail</entry>
-        <entry>ARTIS</entry>
         <entry>Navigation</entry>
         <entry>-S</entry>
         <entry>300</entry>

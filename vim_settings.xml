@@ -370,6 +370,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="7" column="8" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/Pipfile" timestamp="1531753913997">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_4/jgmoutafis_zones.json" timestamp="1529765598905">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2503" />
@@ -854,7 +859,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>gdfaa vf</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
@@ -863,34 +868,34 @@
         <text>sudo apt-get install libgdal-dev</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmFkZ3NhZGdhc2ZhZmFhc2RhYWEK</text>
+        <text encoding="base64">b3BlbmFwaS1jb2RlYyA9ICI9PTEuMy4yIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgbWFrZXMgcGlwIGRldGVjdCBhbiBhY3RpdmUgdmlydHVhbGVudiBhbmQgaW5zdGFsbCB0byBpdAo=</text>
+        <text encoding="base64">TWFya3VwU2FmZSA9ICI9PTEuMCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgdXNlIHRoZSBzYW1lIGRpcmVjdG9yeSBmb3IgdmlydHVhbGVudnMgYXMgdmlydHVhbGVudndyYXBwZXIK</text>
+        <text encoding="base64">IkppbmphMiIgPSAiPT0yLjEwIgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnNvdXJjZSAvdXNyL2xvY2FsL2Jpbi92aXJ0dWFsZW52d3JhcHBlci5zaA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">InVybGxpYjMiID0gIj09MS4yMiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXJpdGVtcGxhdGUgPSAiPT0zLjAuMCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNwX21pc2MuaW1zYXZlKHBhdGgoUkVTVUxUU19QQVRILCAndGVzdCcpLCBsYWJlbF9pbWFnZSkK</text>
+        <text encoding="base64">c2ltcGxlanNvbiA9ICI9PTMuMTQuMCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHggPSBwbHQuY29sb3JiYXIoZHJhd2VkZ2VzPVRydWUsIGJvdW5kYXJpZXM9diArIDAuNSwgdGlja3M9dikK</text>
+        <text encoding="base64">IkppbmphMiIgPSAiPT0yLjEwIgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHYgPSBucC5hcmFuZ2UoMCwgY2xhc3NlcyArIDEpCg==</text>
+        <text encoding="base64">InVybGxpYjMiID0gIj09MS4yMiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBsdC5pbXNob3cobGFiZWxfaW1hZ2UsIGNtYXA9Y21hcF9qKQo=</text>
+        <text encoding="base64">InBzeWNvcGcyLWJpbmFyeSIgPSAiPT0yLjcuNSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

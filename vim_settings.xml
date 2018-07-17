@@ -329,18 +329,24 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.gitignore" timestamp="1531828293609">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="111" column="14" />
+        <mark key="^" line="111" column="14" />
+        <mark key="." line="111" column="14" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527015919992">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1531825741137">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1531829198497">
         <mark key="'" line="15" column="41" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="18" />
-        <mark key="." line="42" column="18" />
-        <mark key="^" line="42" column="18" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -901,34 +907,34 @@
         <text>DATABASE_URL=postgresql://{db_user}:{db_pass}@{db_host}:{db_port}/{db_name}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">InBzeWNvcGcyIiA9ICI9PTIuNy41Igo=</text>
+        <text encoding="base64">ICAgICdyYXN0ZXInLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">InBzeWNvcGcyIiA9ICI9PTIuNy41Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRqX2RhdGFiYXNlX3VybAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+        <text encoding="base64">aW1wb3J0IGRqX2RhdGFiYXNlX3VybAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ05BTUUnOiBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdkYi5zcWxpdGUzJyksCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMuc3FsaXRlMycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ05BTUUnOiBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdkYi5zcWxpdGUzJyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVmYXVsdCc6IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMuc3FsaXRlMycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

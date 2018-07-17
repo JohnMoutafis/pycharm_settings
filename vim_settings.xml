@@ -281,11 +281,11 @@
         <mark key="." line="191" column="40" />
         <mark key="^" line="191" column="40" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/env.example" timestamp="1531820435663">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="11" column="56" />
-        <mark key="^" line="11" column="56" />
-        <mark key="." line="11" column="56" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/env.example" timestamp="1531821498951">
+        <mark key="[" line="6" column="65" />
+        <mark key="]" line="6" column="65" />
+        <mark key="^" line="6" column="73" />
+        <mark key="." line="6" column="65" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
         <mark key="[" line="14" column="0" />
@@ -335,12 +335,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1531820119820">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1531821518927">
         <mark key="'" line="224" column="39" />
-        <mark key="[" line="160" column="38" />
-        <mark key="]" line="160" column="51" />
-        <mark key="." line="160" column="51" />
-        <mark key="^" line="160" column="51" />
+        <mark key="[" line="84" column="36" />
+        <mark key="]" line="84" column="49" />
+        <mark key="." line="84" column="49" />
+        <mark key="^" line="84" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -666,11 +666,11 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1531820466814">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="25" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1531821475441">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="6" column="68" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
@@ -892,51 +892,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>gilytics</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text># Django Setup
-PROD=False
-SECRET_KEY=
-ALLOWED_HOSTS=
-ADMINS=</text>
+        <text>DATABASE_URL=postgresql://{db_user}:{db_pass}@{db_host}:{db_port}/{db_name}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoREFUQUJBU0VfVVJMKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRiX25hbWU9Y29uZmlnKCdEQl9OQU1FJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFMTE9XRURfSE9TVFMuZXh0ZW5kKG9zLmdldGVudignQUxMT1dFRF9IT1NUUycpLnNwbGl0KCcsJykpCg==</text>
+        <text encoding="base64">ICAgIGRiX2hvc3Q9Y29uZmlnKCdEQl9IT1NUJyksIGRiX3BvcnQ9Y29uZmlnKCdEQl9QT1JUJyksCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>DB_USER=developer
-DB_PASS=developer
-DB_HOST=localhost
-DB_NAME=gilytics
-DATABASE_URL=postgresql://DB_USER:DB_PASS@DB_HOST/DB_NAME</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRiX3VzZXI9Y29uZmlnKCdEQl9VU0VSJyksIGRiX3Bhc3M9Y29uZmlnKCdEQl9QQVNTJyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REJfTkFNRT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFETUlOUyA9IGVtYWlsLnV0aWxzLmdldGFkZHJlc3Nlcyhvcy5nZXRlbnYoJ0FETUlOUycpLnNwbGl0KCcsJykpCg==</text>
+        <text encoding="base64">REJfUE9SVD0K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgb3MuZ2V0ZW52KCdBRE1JTlMnKToK</text>
+        <text encoding="base64">REJfSE9TVD0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGVtYWlsLnV0aWxzCg==</text>
+        <text encoding="base64">REJfUEFTUz0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

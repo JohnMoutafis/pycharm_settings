@@ -736,6 +736,12 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/README.md" timestamp="1531989534284">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/docs/index.rst" timestamp="1527249790379">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="45" column="14" />
@@ -871,7 +877,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>

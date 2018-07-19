@@ -307,12 +307,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1531995100837">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1532009223699">
         <mark key="'" line="16" column="41" />
-        <mark key="[" line="147" column="19" />
-        <mark key="]" line="147" column="28" />
-        <mark key="." line="147" column="28" />
-        <mark key="^" line="147" column="28" />
+        <mark key="[" line="213" column="28" />
+        <mark key="]" line="214" column="29" />
+        <mark key="." line="214" column="29" />
+        <mark key="^" line="214" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -881,7 +881,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>postgres</text>
+        <text>mail_admins</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
@@ -890,22 +890,22 @@
         <text encoding="base64">ejkoJGkoNS0pb2ZxKDIpanU3ZDB4ZGFwYzh4ajkkIy1wdGpmYyt5K3U0YTUhJm5AKnY=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZpbHRlcnMnOiBbJ3NwZWNpYWwnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZHVtbXkoKToK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBUcnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfZHVtbXkoKToK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CkFkZGVkIGxvZ2dlciBjb25maWd1cmF0aW9uLg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -920,7 +920,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -972,8 +972,8 @@
         <entry>ws</entry>
         <entry>we</entry>
         <entry>310</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

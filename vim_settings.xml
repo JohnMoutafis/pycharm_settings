@@ -647,9 +647,9 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1531925767318">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="54" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1531989932849">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="68" />
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
@@ -736,11 +736,11 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/README.md" timestamp="1531989534284">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="14" column="6" />
-        <mark key="^" line="14" column="6" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/README.md" timestamp="1531990129075">
+        <mark key="[" line="30" column="74" />
+        <mark key="]" line="30" column="49" />
+        <mark key="." line="30" column="49" />
+        <mark key="^" line="30" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/docs/index.rst" timestamp="1527249790379">
         <mark key="[" line="40" column="0" />
@@ -877,15 +877,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>developer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>MEDIA_ROOT = os.path.join(BASE_DIR, 'mcda/project_be/data/tif3_lcp')
-
-MEDIA_URL = 'media/'</text>
+        <text encoding="base64">IyBEamFuZ28gU2V0dXAKREVCVUc9VHJ1ZQpTRUNSRVRfS0VZPXo5KCRpKDUtKW9mcSgyKWp1N2QweGRhcGM4eGo5JCMtcHRqZmMreSt1NGE1ISZuQCp2CkFMTE9XRURfSE9TVFM9CkFETUlOUz0KIyBEYXRhYmFzZSBTZXR1cApEQVRBQkFTRV9VUkw9cG9zdGdyZXNxbDovL2RldmVsb3BlcjpkZXZlbG9wZXJAbG9jYWxob3N0OjU0MzIvZ2lseXRpY3M=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CkFkZGVkIGxvZ2dlciBjb25maWd1cmF0aW9uLg==</text>

@@ -253,6 +253,10 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/3d-dss_original/3d-dss/urls.py" timestamp="1532092742570">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="58" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="18" />
@@ -580,10 +584,11 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/urls.py" timestamp="1532012547779">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/urls.py" timestamp="1532093394167">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+        <mark key="^" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements.txt" timestamp="1529489465091">
         <mark key="[" line="0" column="13" />
@@ -887,51 +892,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>super_secret_key</text>
+        <text>accounts</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text># Django Setup
-DEBUG=True
-SECRET_KEY=super_secret_key
-ALLOWED_HOSTS=
-ADMINS=
-# Database Setup
-DATABASE_URL=postgresql://db_user:db_pass@db_host:db_port/db_name
-# Sentry Setup
-SENTRY_DSN=</text>
+        <text>path('accounts/', include('django.contrib.auth.urls')),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ImZsYWtlOCIgPSAiKiIK</text>
+        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvJywgaW5jbHVkZSgnZGphbmdvLmNvbnRyaWIuYXV0aC51cmxzJykpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgoJ2FjY291bnRzLycsIGluY2x1ZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TWFya3VwU2FmZSA9ICI9PTEuMCIK</text>
+        <text encoding="base64">ImZsYWtlOCIgPSAiKiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IkppbmphMiIgPSAiPT0yLjEwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">InVybGxpYjMiID0gIj09MS4yMiIK</text>
+        <text encoding="base64">TWFya3VwU2FmZSA9ICI9PTEuMCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXJpdGVtcGxhdGUgPSAiPT0zLjAuMCIK</text>
+        <text encoding="base64">IkppbmphMiIgPSAiPT0yLjEwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2l4ID0gIj09MS4xMS4wIgo=</text>
+        <text encoding="base64">InVybGxpYjMiID0gIj09MS4yMiIK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2ltcGxlanNvbiA9ICI9PTMuMTQuMCIK</text>
+        <text encoding="base64">dXJpdGVtcGxhdGUgPSAiPT0zLjAuMCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWVzdHMgPSAiPT0yLjE4LjQiCg==</text>
+        <text encoding="base64">c2l4ID0gIj09MS4xMS4wIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

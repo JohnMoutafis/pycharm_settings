@@ -405,7 +405,6 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/3d-dss_original/mcda/templates/registration/login.html" timestamp="1532091601034" />
       <file name="$USER_HOME$/Programs/intelligems/django-skeleton/project_name/settings.py" timestamp="1532083431513">
         <mark key="'" line="33" column="32" />
         <mark key="[" line="16" column="41" />
@@ -610,11 +609,11 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/urls.py" timestamp="1532094137598">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/urls.py" timestamp="1532333997993">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements.txt" timestamp="1529489465091">
         <mark key="[" line="0" column="13" />
@@ -688,11 +687,11 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1531995839535">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="60" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1532333656544">
+        <mark key="[" line="8" column="74" />
+        <mark key="]" line="8" column="74" />
+        <mark key="^" line="8" column="74" />
+        <mark key="." line="8" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
@@ -924,7 +923,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+        <text encoding="base64">U2VudHJ5OiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
@@ -933,34 +932,34 @@
         <text>logger = logging.getLogger(__name__)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2luZzogQ2hhbmdlIHByaW50IHN0YXRlbWVudHMgdG8gbG9nZ2luZy4K</text>
+        <text encoding="base64">bG9nZ2luZy5lcnJvcignVEVTVCBTbGFjaycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvCg==</text>
+        <text encoding="base64">bG9nZ2luZzogQ2hhbmdlIHByaW50IHN0YXRlbWVudHMgdG8gbG9nZ2luZy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ICgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvJywgaW5jbHVkZSgnZGphbmdvLmNvbnRyaWIuYXV0aC51cmxzJykpLAo=</text>
+        <text encoding="base64">ICAgIHByaW50ICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2FjY291bnRzLycsIGluY2x1ZCkK</text>
+        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvJywgaW5jbHVkZSgnZGphbmdvLmNvbnRyaWIuYXV0aC51cmxzJykpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ImZsYWtlOCIgPSAiKiIK</text>
+        <text encoding="base64">ICAgIHBhdGgoJ2FjY291bnRzLycsIGluY2x1ZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ImZsYWtlOCIgPSAiKiIK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TWFya3VwU2FmZSA9ICI9PTEuMCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IkppbmphMiIgPSAiPT0yLjEwIgo=</text>
+        <text encoding="base64">TWFya3VwU2FmZSA9ICI9PTEuMCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

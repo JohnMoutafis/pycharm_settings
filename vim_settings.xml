@@ -325,18 +325,24 @@
         <mark key="^" line="111" column="14" />
         <mark key="." line="111" column="14" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/admin.py" timestamp="1532444143607">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527015919992">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1532085435690">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="70" column="58" />
-        <mark key="]" line="70" column="57" />
-        <mark key="." line="70" column="57" />
-        <mark key="^" line="70" column="57" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1532443917706">
+        <mark key="'" line="147" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -591,11 +597,6 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/views.py" timestamp="1532011259505">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526646057965">
         <mark key="[" line="17" column="29" />
@@ -920,7 +921,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VudHJ5OiA=</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
@@ -929,34 +930,34 @@
         <text>logger = logging.getLogger(__name__)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2luZy5lcnJvcignVEVTVCBTbGFjaycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2luZzogQ2hhbmdlIHByaW50IHN0YXRlbWVudHMgdG8gbG9nZ2luZy4K</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uaHR0cCBpbXBvcnQgSHR0cFJlc3BvbnNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICgpCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoLm1vZGVscyBpbXBvcnQgVXNlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnYWNjb3VudHMvJywgaW5jbHVkZSgnZGphbmdvLmNvbnRyaWIuYXV0aC51cmxzJykpLAo=</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2FjY291bnRzLycsIGluY2x1ZCkK</text>
+        <text encoding="base64">bG9nZ2luZy5lcnJvcignVEVTVCBTbGFjaycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ImZsYWtlOCIgPSAiKiIK</text>
+        <text encoding="base64">bG9nZ2luZzogQ2hhbmdlIHByaW50IHN0YXRlbWVudHMgdG8gbG9nZ2luZy4K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TWFya3VwU2FmZSA9ICI9PTEuMCIK</text>
+        <text encoding="base64">ICAgIHByaW50ICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

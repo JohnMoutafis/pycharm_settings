@@ -58,9 +58,9 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/project_be/upload_raster.py" timestamp="1532531271950">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="29" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/project_be/upload_raster.py" timestamp="1532532781316">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="74" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
@@ -928,7 +928,7 @@
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>logger = logging.getLogger(__name__)</text>
+        <text>'https://gilytics-geoserver.dev.intelligems.eu/geoserver/rest/'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiByZXF1ZXN0Lmpzb24oKQo=</text>

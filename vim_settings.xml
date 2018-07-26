@@ -424,6 +424,9 @@
         <mark key="^" line="70" column="39" />
         <mark key="." line="70" column="39" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/mcda.py" timestamp="1532591746337">
+        <mark key="'" line="597" column="31" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/requirements.txt" timestamp="1526473970420">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="19" />
@@ -809,7 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="62" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/phusib/main.py" />
       <jump line="25" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/crawler/entrypoint.py" />
       <jump line="120" column="62" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/crawler/entrypoint.py" />
       <jump line="57" column="31" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/endpoints.rst" />
@@ -909,6 +911,7 @@
       <jump line="146" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" />
       <jump line="97" column="19" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/costComputation.py" />
       <jump line="203" column="4" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/Wind_modules_noArc.py" />
+      <jump line="597" column="31" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/mcda.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

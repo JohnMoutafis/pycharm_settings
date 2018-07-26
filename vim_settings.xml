@@ -424,7 +424,6 @@
         <mark key="^" line="70" column="39" />
         <mark key="." line="70" column="39" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/models.py" timestamp="1532513885877" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/requirements.txt" timestamp="1526473970420">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="19" />
@@ -728,6 +727,9 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
+      <file name="/Django Console" timestamp="1532590042180">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler.rst" timestamp="1527673914505">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="0" />
@@ -995,7 +997,6 @@
         <entry encoding="base64">XDxwYW5kYXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>25</entry>
         <entry>89</entry>
         <entry>61</entry>
         <entry>189</entry>

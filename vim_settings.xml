@@ -681,9 +681,9 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1532707891730">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="30" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1532709007557">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="82" />
         <mark key="^" line="11" column="82" />
         <mark key="." line="10" column="30" />
       </file>
@@ -927,7 +927,8 @@
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IFVuLWNvbW1lbmQgdGhvc2Ugd2hlbiBzZW50cnkgaXMgYmFjayBvbmxpbmUu</text>
+        <text>GEOSERVER_WMS_ENDPOINT=http://gilytics-geoserver.dev.intelligems.eu/geoserver/wms
+GEOSERVER_REST_ENDPOINT=http://gilytics-geoserver.dev.intelligems.eu/geoserver/rest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>

@@ -33,6 +33,9 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
+      <file name="/a.dummy" timestamp="1532677279884">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" timestamp="1529490687651">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="5" />
@@ -266,11 +269,11 @@
         <mark key="." line="191" column="40" />
         <mark key="^" line="191" column="40" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/env.example" timestamp="1532083573232">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="10" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/env.example" timestamp="1532677836869">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/3d-dss_original/3d-dss/urls.py" timestamp="1532092742570">
         <mark key="[" line="22" column="4" />
@@ -342,6 +345,13 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1532677994697">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="226" column="33" />
+        <mark key="]" line="226" column="47" />
+        <mark key="^" line="226" column="47" />
+        <mark key="." line="226" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -456,10 +466,11 @@
         <mark key="^" line="81" column="29" />
         <mark key="." line="81" column="29" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" timestamp="1532619655974">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" timestamp="1532679202668">
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="25" />
+        <mark key="^" line="52" column="25" />
+        <mark key="." line="52" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_consumer_bot.rst" timestamp="1528384364871">
         <mark key="[" line="120" column="104" />
@@ -686,11 +697,11 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1532333656544">
-        <mark key="[" line="8" column="74" />
-        <mark key="]" line="8" column="74" />
-        <mark key="^" line="8" column="74" />
-        <mark key="." line="8" column="74" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1532677902073">
+        <mark key="[" line="8" column="89" />
+        <mark key="]" line="11" column="82" />
+        <mark key="^" line="11" column="82" />
+        <mark key="." line="11" column="82" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
@@ -727,9 +738,6 @@
         <mark key="]" line="22" column="74" />
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
-      </file>
-      <file name="/Django Console" timestamp="1532590042180">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler.rst" timestamp="1527673914505">
         <mark key="[" line="9" column="0" />
@@ -810,8 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/crawler/entrypoint.py" />
-      <jump line="120" column="62" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/crawler/entrypoint.py" />
       <jump line="57" column="31" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/endpoints.rst" />
       <jump line="34" column="16" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
       <jump line="122" column="54" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/services.py" />
@@ -910,6 +916,8 @@
       <jump line="97" column="19" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/costComputation.py" />
       <jump line="203" column="4" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/Wind_modules_noArc.py" />
       <jump line="597" column="31" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/mcda.py" />
+      <jump line="150" column="2" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -925,43 +933,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>'https://gilytics-geoserver.dev.intelligems.eu/geoserver/rest/'</text>
+        <text>GEOSERVER_WMS_ENDPOINT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBlcnJvcnMuQmFkUmVxdWVzdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIGUucmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gNDAwOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnQ29udGUK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoZXJyb3IpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvciA9IGUucmVzcG9uc2UuanNvbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXF1ZXN0Lmpzb24oKQo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCByZXF1ZXN0cy5leGNlcHRpb25zLkhUVFBFcnJvciBhcyBlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICB1cmw6Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uaHR0cCBpbXBvcnQgSHR0cFJlc3BvbnNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

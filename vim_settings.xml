@@ -96,11 +96,10 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533034448894">
-        <mark key="[" line="186" column="32" />
-        <mark key="]" line="186" column="36" />
-        <mark key="^" line="186" column="36" />
-        <mark key="." line="186" column="36" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533038990797">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/FionaBufferMerge.py" timestamp="1532105624520">
         <mark key="[" line="133" column="4" />
@@ -130,11 +129,10 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533036112042">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="77" column="16" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533038451424">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
         <mark key="[" line="54" column="25" />
@@ -484,11 +482,11 @@
         <mark key="^" line="57" column="87" />
         <mark key="." line="57" column="87" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/serializers.py" timestamp="1533033145252">
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="27" column="29" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/serializers.py" timestamp="1533038278371">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/.env" timestamp="1529052628447">
         <mark key="[" line="15" column="11" />
@@ -938,7 +936,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>up_file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
@@ -947,34 +945,34 @@
         <text>FileUploadSerializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlLnJlc3BvbnNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGFwZWZpbGVfcGF0aCA9IGRlZmF1bHRfc3RvcmFnZS5zYXZlKHNhdmVfcGF0aCwgdXBfZmlsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBtb2RlbHMuRmlsZUZpZWxkKHVwbG9hZF90bz0nLi4vbWVkaWEvdXBsb2FkcycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRmlsZVVwbG9hZChtb2RlbHMuTW9kZWwpOgo=</text>
+        <text encoding="base64">ZnJvbSBtY2RhLm1vZGVscyBpbXBvcnQgRmlsZVVwbG9hZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBGaWxlVXBsb2FkU2VyaWFsaXplcgo=</text>
+        <text encoding="base64">ZnJvbSBtY2RhLm1vZGVscyBpbXBvcnQgRmlsZVVwbG9hZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gRmlsZVVwbG9hZC5vYmplY3RzLmFsbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBmaWxlX3NlcmlhbGl6ZXIuc2F2ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGZpbGVfc2VyaWFsaXplci5pc192YWxpZCgpOgo=</text>
+        <text encoding="base64">ICAgIGZpbGUgPSBtb2RlbHMuRmlsZUZpZWxkKHVwbG9hZF90bz0nLi4vbWVkaWEvdXBsb2FkcycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZpbGVfc2VyaWFsaXplciA9IHNlbGYuc2VyaWFsaXplcl9jbGFzcyhkYXRhPXJlcXVlc3QuZGF0YSkK</text>
+        <text encoding="base64">Y2xhc3MgRmlsZVVwbG9hZChtb2RlbHMuTW9kZWwpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

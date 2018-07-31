@@ -78,6 +78,12 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/media/.gitignore" timestamp="1533021342039">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="33" />
@@ -335,9 +341,9 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1532970907207">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1533021154127">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="220" column="22" />
+        <mark key="[" line="124" column="37" />
         <mark key="]" line="220" column="47" />
         <mark key="^" line="220" column="47" />
         <mark key="." line="220" column="47" />
@@ -445,7 +451,6 @@
         <mark key="^" line="81" column="29" />
         <mark key="." line="81" column="29" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" timestamp="1532958699366" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_consumer_bot.rst" timestamp="1528384364871">
         <mark key="[" line="120" column="104" />
         <mark key="]" line="120" column="103" />

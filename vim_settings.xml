@@ -96,11 +96,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533129074763">
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="90" column="38" />
-        <mark key="." line="107" column="53" />
-        <mark key="^" line="114" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533133375501">
+        <mark key="[" line="113" column="20" />
+        <mark key="]" line="113" column="24" />
+        <mark key="." line="113" column="24" />
+        <mark key="^" line="113" column="24" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/FionaBufferMerge.py" timestamp="1532105624520">
         <mark key="[" line="133" column="4" />
@@ -134,11 +134,11 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533129105630">
-        <mark key="[" line="55" column="74" />
-        <mark key="]" line="55" column="23" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533133342766">
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="17" />
         <mark key="^" line="55" column="23" />
-        <mark key="." line="55" column="23" />
+        <mark key="." line="56" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
         <mark key="[" line="54" column="25" />
@@ -758,10 +758,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533129203740">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1533133450957">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -940,7 +940,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Add service to fetch vector layer from repository.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>

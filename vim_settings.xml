@@ -130,6 +130,12 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533111109112">
+        <mark key="[" line="109" column="45" />
+        <mark key="]" line="109" column="49" />
+        <mark key="^" line="109" column="49" />
+        <mark key="." line="109" column="49" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
         <mark key="[" line="54" column="25" />
         <mark key="]" line="50" column="79" />
@@ -939,47 +945,14 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>gilytics-geoserver.dev.intelligems.eu</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>def publish_shapefile(workspace, store, shapefile):
-    &quot;&quot;&quot;
-    Publishes a shapefile to GeoServer.
-    Args:
-        workspace: The GeoServer's workspace name.
-        store:     The Geoserver's store name.
-        shapefile: The Shapefile directory.
-
-    Raises:
-        errors.BadRequest
-        errors.Unauthorized
-        errors.Unavailable
-
-    Returns:
-        A Response type object
-    &quot;&quot;&quot;
-    headers = {'Content-Type': 'application/zip'}
-    upload_url = '/'.join(
-        [GEOSERVER_REST_ENDPOINT, 'workspaces', workspace, 'datastores', store, 'file.shp']
-    )
-
-    try:
-        with open(shapefile, 'rb') as data:
-            response = perform_put_request(upload_url, data=data, headers=headers)
-    except requests.exceptions.HTTPError as e:
-        error_message = e.response.content.decode('UTF-8')
-        if e.response.status_code == 400:
-            raise errors.BadRequest(message=error_message) from e
-        if e.response.status_code == 401:
-            raise errors.Unauthorized('This User is Unauthenticated') from e
-        raise errors.Unavailable(
-            'An Internal Error occurred on GeoServer: {}'.format(error_message)
-        )
-
-    return response</text>
+        <text>logger.info('Publishing shapefile to Repository...')
+                publish_shapefile('test_workspace', 'test_storage', save_path)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>

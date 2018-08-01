@@ -96,10 +96,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533053025870">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533109955532">
+        <mark key="[" line="188" column="90" />
+        <mark key="]" line="188" column="96" />
+        <mark key="^" line="188" column="96" />
+        <mark key="." line="188" column="96" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/FionaBufferMerge.py" timestamp="1532105624520">
         <mark key="[" line="133" column="4" />
@@ -128,12 +129,6 @@
         <mark key="]" line="13" column="68" />
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533107627620">
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="83" column="25" />
-        <mark key="^" line="83" column="25" />
-        <mark key="." line="83" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
         <mark key="[" line="54" column="25" />
@@ -459,10 +454,10 @@
         <mark key="^" line="81" column="29" />
         <mark key="." line="81" column="29" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" timestamp="1533052598708">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" timestamp="1533109543589">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_consumer_bot.rst" timestamp="1528384364871">
         <mark key="[" line="120" column="104" />
@@ -699,7 +694,7 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1533041613379">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1533110283379">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="44" />
         <mark key="^" line="11" column="44" />
@@ -762,7 +757,7 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532968603852">
+      <file name="/Dummy.txt" timestamp="1533109545403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -944,31 +939,65 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>gilytics-geoserver.dev.intelligems.eu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>logger = logging.getLogger('gilytics')</text>
+        <text>def publish_shapefile(workspace, store, shapefile):
+    &quot;&quot;&quot;
+    Publishes a shapefile to GeoServer.
+    Args:
+        workspace: The GeoServer's workspace name.
+        store:     The Geoserver's store name.
+        shapefile: The Shapefile directory.
+
+    Raises:
+        errors.BadRequest
+        errors.Unauthorized
+        errors.Unavailable
+
+    Returns:
+        A Response type object
+    &quot;&quot;&quot;
+    headers = {'Content-Type': 'application/zip'}
+    upload_url = '/'.join(
+        [GEOSERVER_REST_ENDPOINT, 'workspaces', workspace, 'datastores', store, 'file.shp']
+    )
+
+    try:
+        with open(shapefile, 'rb') as data:
+            response = perform_put_request(upload_url, data=data, headers=headers)
+    except requests.exceptions.HTTPError as e:
+        error_message = e.response.content.decode('UTF-8')
+        if e.response.status_code == 400:
+            raise errors.BadRequest(message=error_message) from e
+        if e.response.status_code == 401:
+            raise errors.Unauthorized('This User is Unauthenticated') from e
+        raise errors.Unavailable(
+            'An Internal Error occurred on GeoServer: {}'.format(error_message)
+        )
+
+    return response</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R0VPU0VSVkVSX1JFU1RfRU5EUE9JTlQ9aHR0cDovL2dpbHl0aWNzLWdlb3NlcnZlci5kZXYuaW50ZWxsaWdlbXMuZXUvZ2Vvc2VydmVyL3Jlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgIGZpZWxkcyA9ICgnZmlsZScsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgIG1vZGVsID0gRmlsZVVwbG9hZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgY2xhc3MgTWV0YToK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhyZXF1ZXN0LmRhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBjbGFzcyBGaWxlVXBsb2FkU2VyaWFsaXplcihzZXJpYWxpemVycy5Nb2RlbFNlcmlhbGl6ZXIpOgo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -980,7 +1009,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcy5wYXRoLnNwbGl0ZXh0KGFyY2hpdmVfcGF0aClbMF0K</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBlcnJvcnMuVW5hdmFpbGFibGUoJ0FuIEludGVybmFsIEVycm9yIG9jY3VycmVkIG9uIEdlb1NlcnZlclwncyBFbmRwb2ludCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

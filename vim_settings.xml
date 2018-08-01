@@ -130,11 +130,10 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533112328927">
-        <mark key="[" line="97" column="13" />
-        <mark key="]" line="101" column="11" />
-        <mark key="^" line="101" column="11" />
-        <mark key="." line="101" column="11" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533114389298">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
         <mark key="[" line="54" column="25" />
@@ -415,9 +414,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/mcda.py" timestamp="1532591746337">
-        <mark key="'" line="597" column="31" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/media/uploads/.gitignore" timestamp="1533023681338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -441,6 +437,11 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/forms.py" timestamp="1533114438231">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -951,38 +952,37 @@
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>logger.info('Publishing shapefile to Repository...')
-                publish_shapefile('test_workspace', 'test_storage', save_path)</text>
+        <text>Layer type not supported</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjbGVhbmVkX2RhdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R0VPU0VSVkVSX1JFU1RfRU5EUE9JTlQ9aHR0cDovL2dpbHl0aWNzLWdlb3NlcnZlci5kZXYuaW50ZWxsaWdlbXMuZXUvZ2Vvc2VydmVyL3Jlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsnZXJyb3JzJzogJ0xheWVyIHR5cGUgbm90IGRlY2xhcmVkJ30sIHN0YXR1cz1zdGF0dXMuSFRUUF80MDBfQkFEX1JFUVVFU1QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgbGF5ZXJfdHlwZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhyZXF1ZXN0LmRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsnZXJyb3JzJzogJ0ZpbGUgbm90IGRlY2xhcmVkJ30sIHN0YXR1cz1zdGF0dXMuSFRUUF80MDBfQkFEX1JFUVVFU1QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdXBfZmlsZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQogICAgICAgICAgICApCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXR1cz1zdGF0dXMuSFRUUF80MDBfQkFEX1JFUVVFU1QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBlcnJvcnMuVW5hdmFpbGFibGUoJ0FuIEludGVybmFsIEVycm9yIG9jY3VycmVkIG9uIEdlb1NlcnZlclwncyBFbmRwb2ludCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsnZXJyb3JzJzogJ1dvcmtzcGFjZSBhbmQgU3RvcmUgbmFtZSBub3QgZGVjbGFyZWQnfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

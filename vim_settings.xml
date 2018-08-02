@@ -96,11 +96,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533197331491">
-        <mark key="[" line="118" column="26" />
-        <mark key="]" line="111" column="70" />
-        <mark key="." line="111" column="70" />
-        <mark key="^" line="111" column="70" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="128" column="24" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/FionaBufferMerge.py" timestamp="1532105624520">
         <mark key="[" line="133" column="4" />
@@ -134,11 +134,11 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533133342766">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="56" column="17" />
-        <mark key="^" line="55" column="23" />
-        <mark key="." line="56" column="17" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533199034702">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="103" column="52" />
+        <mark key="." line="103" column="52" />
+        <mark key="^" line="103" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
         <mark key="[" line="54" column="25" />
@@ -457,10 +457,11 @@
         <mark key="^" line="81" column="29" />
         <mark key="." line="81" column="29" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" timestamp="1533109543589">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" timestamp="1533197928921">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="33" column="87" />
+        <mark key="^" line="33" column="87" />
+        <mark key="." line="33" column="87" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_consumer_bot.rst" timestamp="1528384364871">
         <mark key="[" line="120" column="104" />
@@ -943,46 +944,45 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>http://gilytics-geoserver.dev.intelligems.eu/geoserver/</text>
+        <text>raise errors.Unavailable('An Internal Error occurred on GeoServer\'s Endpoint')
+
+    return response.json()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoZSkK</text>
+        <text encoding="base64">ZnJvbSBtY2RhLmFwaV92MS51dGlscyBpbXBvcnQgdHJhbnNmb3JtX2Jib3hfZXBzZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAndHJhbnNwYXJlbnQnOiBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc3RhdHVzPXN0YXR1cy5IVFRQXzIwMV9DUkVBVEVEKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnaGVpZ2h0JzogJzM3NCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIERpZmZlcmVudGx5IHJlbmRlciBhIEpTT04gcmVzcG9uc2UuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnd2lkdGgnOiAnNTEyJywK</text>
+        <text encoding="base64">ICAgICAgICAjIElmIHNvdXJjZSBpcyBhIGJyb3dzZXIsIHJlbmRlciB0aGUgVGVtcGxhdGUK</text>
       </register>
-      <register name="5" type="4">
-        <text>method to import raster.
-
-Added method to import raster to geoserver through it's REST API.
-Added form and template for file uploading.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0LmFjY2VwdGVkX3JlbmRlcmVyLmZvcm1hdCA9PSAnaHRtbCc6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgVGVtcGxhdGVWaWV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3VwbG9hZCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J21jZGEvdXBsb2FkLmh0bWwnKSwgbmFtZT0ndXBsb2FkJykK</text>
+        <text encoding="base64">ICAgIHJldHVybiBbcmVwcm9qZWN0ZWRfeDEsIHJlcHJvamVjdGVkX3kxLCByZXByb2plY3RlZF94MiwgcmVwcm9qZWN0ZWRfeTJdCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChBbGxvd0FueSwpCg==</text>
+        <text encoding="base64">ICAgIHJlcHJvamVjdGVkX3gyLCByZXByb2plY3RlZF95MiA9IHRyYW5zZm9ybSh3Z3M4NCwgcHJvamVjdF9wcm9qLCBiYm94WzJdLCBiYm94WzNdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgIHJlcHJvamVjdGVkX3gxLCByZXByb2plY3RlZF95MSA9IHRyYW5zZm9ybSh3Z3M4NCwgcHJvamVjdF9wcm9qLCBiYm94WzBdLCBiYm94WzFdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

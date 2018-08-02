@@ -134,11 +134,10 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533199034702">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="103" column="52" />
-        <mark key="." line="103" column="52" />
-        <mark key="^" line="103" column="52" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/views.py" timestamp="1533203888187">
+        <mark key="]" line="102" column="7" />
+        <mark key="^" line="102" column="7" />
+        <mark key="." line="102" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
         <mark key="[" line="54" column="25" />
@@ -163,6 +162,11 @@
         <mark key="]" line="15" column="44" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import.html" timestamp="1533201934961">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="403" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -457,11 +461,12 @@
         <mark key="^" line="81" column="29" />
         <mark key="." line="81" column="29" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" timestamp="1533197928921">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="87" />
-        <mark key="^" line="33" column="87" />
-        <mark key="." line="33" column="87" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" timestamp="1533203348535">
+        <mark key="'" line="33" column="13" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="36" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_consumer_bot.rst" timestamp="1528384364871">
         <mark key="[" line="120" column="104" />
@@ -636,6 +641,13 @@
         <mark key="^" line="56" column="85" />
         <mark key="." line="56" column="85" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import_errors.html" timestamp="1533202171054">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="14" column="14" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/fuzzybot/strategies.py" timestamp="1526401878676">
         <mark key="[" line="107" column="11" />
         <mark key="]" line="107" column="18" />
@@ -756,6 +768,12 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import_report.html" timestamp="1533204658239">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180620.xml" timestamp="1529491098187">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="26" />
@@ -829,9 +847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/strategies.rst" />
-      <jump line="135" column="30" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.fuzzybot/fuzzybot/strategies.py" />
-      <jump line="39" column="94" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/index.rst" />
       <jump line="62" column="23" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/shortcuts.py" />
       <jump line="42" column="27" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" />
       <jump line="118" column="22" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
@@ -929,6 +944,9 @@
       <jump line="140" column="26" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" />
       <jump line="141" column="25" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" />
       <jump line="9" column="6" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/upload.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import_errors.html" />
+      <jump line="4" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import_errors.html" />
+      <jump line="34" column="13" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -944,45 +962,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ZXJyb3Ig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>raise errors.Unavailable('An Internal Error occurred on GeoServer\'s Endpoint')
-
-    return response.json()</text>
+        <text>{% load rest_framework %}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtY2RhLmFwaV92MS51dGlscyBpbXBvcnQgdHJhbnNmb3JtX2Jib3hfZXBzZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHJlc3BvbnNlX3BpY2tlcihlLm1lc3NhZ2UsIGFjY2VwdGVkX2Zvcm1hdCksIHN0YXR1cz1lLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc3RhdHVzPXN0YXR1cy5IVFRQXzIwMV9DUkVBVEVEKQo=</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIERpZmZlcmVudGx5IHJlbmRlciBhIEpTT04gcmVzcG9uc2UuCg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBmb3IgZmllbGQgaW4gc2VyaWFsaXplciAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIElmIHNvdXJjZSBpcyBhIGJyb3dzZXIsIHJlbmRlciB0aGUgVGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZSh7J2Vycm9ycyc6IHNlcmlhbGl6ZXIuZXJyb3JzfSwgc3RhdHVzPXN0YXR1cy5IVFRQXzQwMF9CQURfUkVRVUVTVCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0LmFjY2VwdGVkX3JlbmRlcmVyLmZvcm1hdCA9PSAnaHRtbCc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbcmVwcm9qZWN0ZWRfeDEsIHJlcHJvamVjdGVkX3kxLCByZXByb2plY3RlZF94MiwgcmVwcm9qZWN0ZWRfeTJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZV9uYW1lPSdtY2RhL2xheWVyX2ltcG9ydF9yZXBvcnQuaHRtbCcK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcHJvamVjdGVkX3gyLCByZXByb2plY3RlZF95MiA9IHRyYW5zZm9ybSh3Z3M4NCwgcHJvamVjdF9wcm9qLCBiYm94WzJdLCBiYm94WzNdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7J3NlcmlhbGl6ZXInOiBzZXJpYWxpemVyfSwgc3RhdHVzPXN0YXR1cy5IVFRQXzQwMF9CQURfUkVRVUVTVCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcHJvamVjdGVkX3gxLCByZXByb2plY3RlZF95MSA9IHRyYW5zZm9ybSh3Z3M4NCwgcHJvamVjdF9wcm9qLCBiYm94WzBdLCBiYm94WzFdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZSgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

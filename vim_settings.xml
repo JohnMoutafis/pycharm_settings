@@ -96,11 +96,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533133375501">
-        <mark key="[" line="113" column="20" />
-        <mark key="]" line="113" column="24" />
-        <mark key="." line="113" column="24" />
-        <mark key="^" line="113" column="24" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533194937090">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/FionaBufferMerge.py" timestamp="1532105624520">
         <mark key="[" line="133" column="4" />
@@ -749,8 +749,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/errors.py" timestamp="1533025369919">
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/errors.py" timestamp="1533194464599">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="37" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180620.xml" timestamp="1529491098187">
         <mark key="[" line="4" column="20" />
@@ -940,46 +943,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Add service to fetch vector layer from repository.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>GEOSERVER_WFS_ENDPOINT=http://gilytics-geoserver.dev.intelligems.eu/geoserver/wfs</text>
+        <text>headers = {'Content-Type': 'application/json'}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAndHJhbnNwYXJlbnQnOiBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnaGVpZ2h0JzogJzM3NCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAndHJhbnNwYXJlbnQnOiBUcnVlCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAnaGVpZ2h0JzogJzM3NCcsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAnd2lkdGgnOiAnNTEyJywK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>method to import raster.
 
 Added method to import raster to geoserver through it's REST API.
 Added form and template for file uploading.</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgVGVtcGxhdGVWaWV3Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3VwbG9hZCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J21jZGEvdXBsb2FkLmh0bWwnKSwgbmFtZT0ndXBsb2FkJykK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChBbGxvd0FueSwpCg==</text>
+        <text encoding="base64">ICAgIHBhdGgoJ3VwbG9hZCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J21jZGEvdXBsb2FkLmh0bWwnKSwgbmFtZT0ndXBsb2FkJykK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChBbGxvd0FueSwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5wYXJzZXJzIGltcG9ydCBGaWxlVXBsb2FkUGFyc2VyLCBGb3JtUGFyc2VyLCBNdWx0aVBhcnRQYXJzZXIK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -243,6 +243,12 @@
       <file name="/fragment.py" timestamp="1533121526701">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/views.py" timestamp="1533314840352">
+        <mark key="[" line="163" column="34" />
+        <mark key="]" line="163" column="34" />
+        <mark key="." line="163" column="34" />
+        <mark key="^" line="238" column="85" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/templates/index.html" timestamp="1527771315675">
         <mark key="[" line="17" column="40" />
         <mark key="]" line="17" column="44" />
@@ -883,11 +889,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/templates/workspace_templates/workspace_list_template.html" timestamp="1533313257894">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="36" />
-        <mark key="^" line="31" column="36" />
-        <mark key="." line="31" column="36" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/templates/workspace_templates/workspace_list_template.html" timestamp="1533315003551">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="36" />
+        <mark key="^" line="32" column="36" />
+        <mark key="." line="32" column="36" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/tests.py" timestamp="1531992534449">
         <mark key="[" line="2" column="0" />
@@ -1029,7 +1035,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>layer</text>
+        <text encoding="base64">d29ya3NwYWNlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>

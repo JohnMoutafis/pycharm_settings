@@ -237,6 +237,12 @@
       <file name="/fragment.py" timestamp="1533121526701">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/views.py" timestamp="1533311124136">
+        <mark key="[" line="180" column="6" />
+        <mark key="]" line="180" column="26" />
+        <mark key="." line="180" column="5" />
+        <mark key="^" line="180" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/templates/index.html" timestamp="1527771315675">
         <mark key="[" line="17" column="40" />
         <mark key="]" line="17" column="44" />
@@ -660,11 +666,11 @@
         <mark key="^" line="56" column="85" />
         <mark key="." line="56" column="85" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/urls.py" timestamp="1533304386549">
-        <mark key="[" line="8" column="77" />
-        <mark key="]" line="10" column="96" />
-        <mark key="." line="10" column="96" />
-        <mark key="^" line="10" column="96" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/urls.py" timestamp="1533311237627">
+        <mark key="[" line="10" column="97" />
+        <mark key="]" line="11" column="63" />
+        <mark key="." line="11" column="63" />
+        <mark key="^" line="11" column="63" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import_errors.html" timestamp="1533202171054">
         <mark key="'" line="22" column="0" />
@@ -1019,37 +1025,37 @@
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>{'success': 'Layer Imported Successfully.'</text>
+        <text>WorkspaceTemplateView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R0VPU0VSVkVSX1dGU19FTkRQT0lOVCA9ICcvJy5qb2luKFtHRU9TRVJdKQo=</text>
+        <text encoding="base64">ICAgIEVuYWJsZXMgdGhlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEdFT1NFUlZFUl9XRlNfRU5EUE9JTlQK</text>
+        <text encoding="base64">ICAgIEFkbWluaXN0cmF0aW9uIFZpZXcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">R0VPU0VSVkVSX1dGU19FTkRQT0lOVCA9ICcvJy5qb2luKFtHRU9TRVJdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdHRU9TRVJWRVJfV01TX0VORFBPSU5UJywgZGVmYXVsdD1vcy5nZXRlbnYoJ0dFT1NFUlZFUl9XTVNfRU5EUE9JTlQnKQo=</text>
+        <text encoding="base64">ICAgIEdFT1NFUlZFUl9XRlNfRU5EUE9JTlQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R0VPU0VSVkVSX1dNU19FTkRQT0lOVCA9IGNvbmZpZygK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">R0VPU0VSVkVSX1dGU19FTkRQT0lOVD0K</text>
+        <text encoding="base64">ICAgICdHRU9TRVJWRVJfV01TX0VORFBPSU5UJywgZGVmYXVsdD1vcy5nZXRlbnYoJ0dFT1NFUlZFUl9XTVNfRU5EUE9JTlQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R0VPU0VSZGRSX1dNU19FTkRQT0lOVD1odHRwOi8vZ2lseXRpY3MtZ2Vvc2VydmVyLmRldi5pbnRlbGxpZ2Vtcy5ldS9nZW9zZXJ2ZXIvd21zCg==</text>
+        <text encoding="base64">R0VPU0VSVkVSX1dNU19FTkRQT0lOVCA9IGNvbmZpZygK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyX2NsYXNzZXMgPSAoRmlsZVVwbG9hZFBhcnNlciwgRm9ybVBhcnNlciwgTXVsdGlQYXJ0UGFyc2VyKQo=</text>
+        <text encoding="base64">R0VPU0VSVkVSX1dGU19FTkRQT0lOVD0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzaGFwZWx5Lmdlb21ldHJ5IGltcG9ydCBQb2x5Z29uCg==</text>
+        <text encoding="base64">R0VPU0VSZGRSX1dNU19FTkRQT0lOVD1odHRwOi8vZ2lseXRpY3MtZ2Vvc2VydmVyLmRldi5pbnRlbGxpZ2Vtcy5ldS9nZW9zZXJ2ZXIvd21zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

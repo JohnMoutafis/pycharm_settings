@@ -273,11 +273,10 @@
         <mark key="." line="191" column="40" />
         <mark key="^" line="191" column="40" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/env.example" timestamp="1533128938094">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="10" column="11" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/env.example" timestamp="1533309933014">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
         <mark key="[" line="14" column="0" />
@@ -345,12 +344,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1533215301109">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1533309975563">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="55" column="24" />
-        <mark key="." line="55" column="24" />
-        <mark key="^" line="55" column="24" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="^" line="237" column="61" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -686,11 +685,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/services.py" timestamp="1533303560323">
-        <mark key="[" line="120" column="4" />
-        <mark key="]" line="120" column="23" />
-        <mark key="^" line="117" column="26" />
-        <mark key="." line="117" column="26" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/services.py" timestamp="1533310069229">
+        <mark key="[" line="241" column="51" />
+        <mark key="]" line="241" column="53" />
+        <mark key="." line="241" column="53" />
+        <mark key="^" line="241" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
         <mark key="[" line="45" column="0" />
@@ -745,11 +744,10 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1533286042846">
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="10" column="80" />
-        <mark key="^" line="10" column="80" />
-        <mark key="." line="10" column="80" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1533309907785">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
@@ -775,7 +773,6 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/templates/layer_templates/layer_list_template.html" timestamp="1533290680158" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="78" />
@@ -1016,7 +1013,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Layer Imported</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
@@ -1025,34 +1022,34 @@
         <text>{'success': 'Layer Imported Successfully.'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyX2NsYXNzZXMgPSAoRmlsZVVwbG9hZFBhcnNlciwgRm9ybVBhcnNlciwgTXVsdGlQYXJ0UGFyc2VyKQo=</text>
+        <text encoding="base64">R0VPU0VSVkVSX1dGU19FTkRQT0lOVCA9ICcvJy5qb2luKFtHRU9TRVJdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzaGFwZWx5Lmdlb21ldHJ5IGltcG9ydCBQb2x5Z29uCg==</text>
+        <text encoding="base64">ICAgIEdFT1NFUlZFUl9XRlNfRU5EUE9JTlQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlLnJlc3BvbnNlLmNvbnRlbnQpCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYXlsb2FkKQo=</text>
+        <text encoding="base64">ICAgICdHRU9TRVJWRVJfV01TX0VORFBPSU5UJywgZGVmYXVsdD1vcy5nZXRlbnYoJ0dFT1NFUlZFUl9XTVNfRU5EUE9JTlQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsYXllci5maW5kX2FsbChuYW1lPSdLZXl3b3JkJywgc3RyaW5nPSdXQ1MnKSkK</text>
+        <text encoding="base64">R0VPU0VSVkVSX1dNU19FTkRQT0lOVCA9IGNvbmZpZygK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqc29uLmR1bXBzKHJlcy5kYXRhLmdldCgnbGF5ZXJzJykpKQo=</text>
+        <text encoding="base64">R0VPU0VSVkVSX1dGU19FTkRQT0lOVD0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXMpCg==</text>
+        <text encoding="base64">R0VPU0VSZGRSX1dNU19FTkRQT0lOVD1odHRwOi8vZ2lseXRpY3MtZ2Vvc2VydmVyLmRldi5pbnRlbGxpZ2Vtcy5ldS9nZW9zZXJ2ZXIvd21zCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHJlbmRlcmVyX2NsYXNzZXMoW0pTT05SZW5kZXJlcl0pCg==</text>
+        <text encoding="base64">ICAgICMgcGFyc2VyX2NsYXNzZXMgPSAoRmlsZVVwbG9hZFBhcnNlciwgRm9ybVBhcnNlciwgTXVsdGlQYXJ0UGFyc2VyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXMpCg==</text>
+        <text encoding="base64">ZnJvbSBzaGFwZWx5Lmdlb21ldHJ5IGltcG9ydCBQb2x5Z29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

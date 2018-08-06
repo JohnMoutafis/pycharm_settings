@@ -308,6 +308,10 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
+      <file name="/env.example" timestamp="1533545076029">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="22" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1529492234955">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="14" column="10" />
@@ -356,10 +360,10 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1533309975563">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1533545011647">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="21" />
         <mark key="^" line="236" column="61" />
         <mark key="." line="239" column="0" />
       </file>
@@ -673,9 +677,9 @@
         <mark key="." line="56" column="85" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/urls.py" timestamp="1533540437802">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import_errors.html" timestamp="1533202171054">
         <mark key="'" line="22" column="0" />
@@ -837,8 +841,8 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533294305882">
-        <mark key="[" line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1533544813099">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
@@ -1042,7 +1046,8 @@
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>create_workspace_template</text>
+        <text>GEOSERVER_WFS_ENDPOINT=
+GEOSERVER_WMS_ENDPOINT=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxoMSBjbGFzcz0icGFnZS1oZWFkZXIiPldvcmtzcGFjZSBMaXN0PC9oMT4K</text>

@@ -700,11 +700,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/services.py" timestamp="1533552887013">
-        <mark key="[" line="237" column="23" />
-        <mark key="]" line="237" column="22" />
-        <mark key="^" line="237" column="22" />
-        <mark key="." line="237" column="22" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/services.py" timestamp="1533555881000">
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="^" line="243" column="4" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
         <mark key="[" line="45" column="0" />
@@ -844,8 +844,8 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533544813099">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1533556089201">
+        <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
@@ -1052,35 +1052,35 @@
         <text>area_iterator = iter(attrs['area'])
         polygon = Polygon(zip(area_iterator, area_iterator))</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwb2x5Z29uID0gUG9seWdvbih6aXAoYXJlYV9pdGVyYXRvciwgYXJlYV9pdGVyYXRvcikpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGQgd29ya3NwYWNlIGxpc3QvY3JlYXRlIGZ1bmN0aW9uYWxpdHkuQQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhX2l0ZXJhdG9yID0gaXRlcihhdHRyc1snYXJlYSddKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3RfcGFyYW1zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyc1snYXJlYSddID0gcG9seWdvbi53a3QK</text>
+        <text encoding="base64">ICAgICAgICBwb2x5Z29uID0gUG9seWdvbih6aXAoYXJlYV9pdGVyYXRvciwgYXJlYV9pdGVyYXRvcikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzaGFwZWx5LndrdCBpbXBvcnQgbG9hZHMK</text>
+        <text encoding="base64">ICAgICAgICBhcmVhX2l0ZXJhdG9yID0gaXRlcihhdHRyc1snYXJlYSddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhdHRyc1snYXJlYSddKQo=</text>
+        <text encoding="base64">ICAgICAgICBhdHRyc1snYXJlYSddID0gcG9seWdvbi53a3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwb2x5Z29uID0gbG9hZHMoYXR0cnNbJ2FyZWEnXSkK</text>
+        <text encoding="base64">ZnJvbSBzaGFwZWx5LndrdCBpbXBvcnQgbG9hZHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhdHRyc1snYXJlYSddKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsaWRhdGVkCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2x5Z29uID0gbG9hZHMoYXR0cnNbJ2FyZWEnXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZWRbJ2FyZWEnXSA9IFBvbHlnb24oemlwKGFyZWFfaXRlcmF0b3IsIGFyZWFfaXRlcmF0b3IpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

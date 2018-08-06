@@ -243,11 +243,10 @@
       <file name="/fragment.py" timestamp="1533121526701">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/views.py" timestamp="1533314840352">
-        <mark key="[" line="163" column="34" />
-        <mark key="]" line="163" column="34" />
-        <mark key="." line="163" column="34" />
-        <mark key="^" line="238" column="85" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/views.py" timestamp="1533548851392">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/templates/index.html" timestamp="1527771315675">
         <mark key="[" line="17" column="40" />
@@ -348,11 +347,11 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/utils.py" timestamp="1533293950484">
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="13" column="79" />
-        <mark key="." line="13" column="79" />
-        <mark key="^" line="13" column="79" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/utils.py" timestamp="1533549195508">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527015919992">
         <mark key="[" line="2" column="21" />
@@ -397,11 +396,11 @@
         <mark key="^" line="377" column="7" />
         <mark key="." line="377" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/serializers.py" timestamp="1533312553201">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="75" />
-        <mark key="." line="14" column="75" />
-        <mark key="^" line="14" column="75" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/serializers.py" timestamp="1533549972021">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/cleanup_scripts.rst" timestamp="1528703762075">
         <mark key="[" line="307" column="41" />
@@ -699,6 +698,12 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/services.py" timestamp="1533549991051">
+        <mark key="[" line="231" column="56" />
+        <mark key="]" line="231" column="56" />
+        <mark key="^" line="235" column="41" />
+        <mark key="." line="231" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
         <mark key="[" line="45" column="0" />
@@ -1037,7 +1042,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF5ZXIg</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
@@ -1047,34 +1052,34 @@
 GEOSERVER_WMS_ENDPOINT=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMSBjbGFzcz0icGFnZS1oZWFkZXIiPldvcmtzcGFjZSBMaXN0PC9oMT4K</text>
+        <text encoding="base64">ZnJvbSBzaGFwZWx5LndrdCBpbXBvcnQgbG9hZHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhdHRyc1snYXJlYSddKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyN7JSBlbmRibG9jayAlfSN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2x5Z29uID0gbG9hZHMoYXR0cnNbJ2FyZWEnXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyMgICAgPC9zY3JpcHQ+I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyMgICAgICAgIGNvbnNvbGUubG9nKCJ7eyBsYXllcnMgfX0iKTsjfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsaWRhdGVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyMgICAgPHNjcmlwdD4jfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZWRbJ2FyZWEnXSA9IFBvbHlnb24oemlwKGFyZWFfaXRlcmF0b3IsIGFyZWFfaXRlcmF0b3IpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyN7JSBibG9jayBoZWFkX2pzICV9I30K</text>
+        <text encoding="base64">ICAgICAgICBhcmVhX2l0ZXJhdG9yID0gaXRlcih2YWxpZGF0ZWRbJ2FyZWEnXSkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZWQgPSBzdXBlcigpLnRvX2ludGVybmFsX3ZhbHVlKGRhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1120,7 +1125,6 @@ GEOSERVER_WMS_ENDPOINT=</text>
         <entry>:w</entry>
         <entry>q</entry>
         <entry>6</entry>
-        <entry>w2</entry>
         <entry>W</entry>
         <entry>ew</entry>
         <entry>wq</entry>
@@ -1130,6 +1134,7 @@ GEOSERVER_WMS_ENDPOINT=</text>
         <entry>qw</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

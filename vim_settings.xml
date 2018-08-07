@@ -101,11 +101,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533645871004">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="20" column="7" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="20" column="7" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533648230105">
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="24" />
+        <mark key="." line="45" column="24" />
+        <mark key="^" line="45" column="24" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -296,6 +296,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/utils.py" timestamp="1533646383227">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="18" />
@@ -313,10 +318,6 @@
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
-      </file>
-      <file name="/env.example" timestamp="1533545076029">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/.env" timestamp="1529492234955">
         <mark key="[" line="14" column="9" />
@@ -402,6 +403,12 @@
         <mark key="]" line="43" column="63" />
         <mark key="." line="43" column="63" />
         <mark key="^" line="43" column="63" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1533646640888">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/cleanup_scripts.rst" timestamp="1528703762075">
         <mark key="[" line="307" column="41" />
@@ -529,6 +536,11 @@
         <mark key="]" line="10" column="91" />
         <mark key="." line="10" column="91" />
         <mark key="^" line="10" column="91" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/serializers.py" timestamp="1533647842623">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="45" />
+        <mark key="." line="29" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/.env" timestamp="1529052628447">
         <mark key="[" line="15" column="11" />
@@ -812,6 +824,9 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
+      <file name="/Django Console" timestamp="1533647327318">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1043,43 +1058,44 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>allow_null=True</text>
+        <text>if not Point(attrs['start_point']).is_valid:
+            return serializers.ValidationError({'message': self.error_messages['point_invalid']})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZHVsZXMubWNkYS5hcGlfdjEudmlld3MgYXMgYXBpX3ZpZXdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKHsnbWVzc2FnZSc6IHNlbGYuZXJyb3JfbWVzc2FnZXNbJ2FyZWFfaW52YWxpZCddfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2FwaS92MS8nLCBpbmNsdWRlKHJvdXRlci51cmxzKSksCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnYXBpLWF1dGgvJywgaW5jbHVkZSgncmVzdF9mcmFtZXdvcmsudXJscycpKSwK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB1cAo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0X3RvX3BvbHlnb24oYXR0cnNbJ2FyZWEnXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKHsnbWVzc2FnZSc6IHNlbGYuZXJyb3JfbWVzc2FnZXNbJ2FyZWFfaW52YWxpZCddfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZXMgdGhlIGRhdGEuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

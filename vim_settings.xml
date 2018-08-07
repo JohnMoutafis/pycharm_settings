@@ -101,11 +101,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533649142599">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="11" column="62" />
-        <mark key="." line="11" column="62" />
-        <mark key="^" line="11" column="62" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533650344272">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="14" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -312,6 +312,13 @@
         <mark key="]" line="22" column="2" />
         <mark key="." line="22" column="2" />
         <mark key="^" line="22" column="2" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1533650127021">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="21" />
+        <mark key="^" line="34" column="21" />
+        <mark key="." line="34" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -949,7 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="35" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/meetings/service.py" />
       <jump line="106" column="43" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.gbi_service/gbisib/main.py" />
       <jump line="43" column="41" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks_service/nrcsib/main.py" />
       <jump line="70" column="0" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/gbi_bot.rst" />
@@ -1049,6 +1055,7 @@
       <jump line="4" column="14" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/templates/workspace_templates/workspace_list_template.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/templates/workspace_templates/workspace_list_template.html" />
       <jump line="32" column="25" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/serializers.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1064,44 +1071,60 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Central_rep</text>
+        <text encoding="base64">UG9seWdvbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5kYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>if not Point(attrs['start_point']).is_valid:
-            return serializers.ValidationError({'message': self.error_messages['point_invalid']})</text>
+        <text>def list_to_polygon(coordinate_list):
+    &quot;&quot;&quot;
+    Receives a list of float numbers and transforms them to a list of tuples.
+    Then creates a shapely.Polygon from that list.
+    Args:
+        coordinate_list (:ob:`list` of :obj:`float`): A list of coordinates in float format.
+
+    Raises:
+        ValueError
+
+    Returns:
+        A shapely.Polygon object.
+    &quot;&quot;&quot;
+    it = iter(coordinate_list)
+    try:
+        return Polygon(zip(it, it))
+    except ValueError as e:
+        raise e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKHsnbWVzc2FnZSc6IHNlbGYuZXJyb3JfbWVzc2FnZXNbJ2FyZWFfaW52YWxpZCddfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0X3RvX3BvbHlnb24oYXR0cnNbJ2FyZWEnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdGVkX2RhdGE6IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKHsnbWVzc2FnZSc6IHNlbGYuZXJyb3JfbWVzc2FnZXNbJ2FyZWFfaW52YWxpZCddfSkK</text>
+        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKHsnbWVzc2FnZSc6IHNlbGYuZXJyb3JfbWVzc2FnZXNbJ2FyZWFfaW52YWxpZCddfSkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZXMgdGhlIGRhdGEuCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

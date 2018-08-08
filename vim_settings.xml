@@ -104,11 +104,10 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533716494864">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="45" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533722883103">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -495,11 +494,10 @@
         <mark key="]" line="18" column="66" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1533722656567">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
-        <mark key="^" line="27" column="7" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1533724579825">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -701,9 +699,11 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/urls.py" timestamp="1533645342729">
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/urls.py" timestamp="1533724986221">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="46" />
+        <mark key="." line="21" column="46" />
+        <mark key="^" line="21" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements.txt" timestamp="1529489465091">
         <mark key="[" line="0" column="13" />
@@ -896,10 +896,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533722167360">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/Dummy.txt" timestamp="1533725015592">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1095,7 +1095,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Created ViewSet for Project Model Instances.</text>
+        <text encoding="base64">VGhvciA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
@@ -1103,32 +1103,38 @@
       <register name="0" type="4">
         <text>validators=[MinValueValidator(1), MaxValueValidator(6)]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHF1ZXIK</text>
+      <register name="1" type="4">
+        <text>Refactor Layer and Category Models.
+
+Created Category Model.
+Refactored Layer Model.
+Added rest_framework_gis to project requirements.
+Refactored Project serializer to utilize rest_framework_gis GeoJSON
+serializer.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gUHJvamVjdC5vYmplY3RzLmFsbCgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZXF1ZXN0LnBhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcnkgPSBtb2RlbHMuRm9yZWlnbktleSgiUmVwb3NpdG9yeSIsIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5TmFtZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNTYpCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29ya19naXMuc2VyaWFsaXplcnMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcmVwb3NpdG9yeTogZm9yZWduIGtleSB0byBsYXllciBvYmplY3QgaW4gcmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBzZXJpYWxpemVycy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMDAsIHJlcXVpcmVkPUZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcHJvamVjdDoK</text>
+        <text encoding="base64">ICAgIHF1ZXIK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgTGF5ZXIgbW9kZWwgc2hvdWxkIGJlIGltcG9ydCBmcm9tIHJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gUHJvamVjdC5vYmplY3RzLmFsbCgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

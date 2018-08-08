@@ -104,12 +104,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533727943259">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="34" />
-        <mark key="." line="26" column="34" />
-        <mark key="^" line="26" column="34" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533728770315">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="32" />
+        <mark key="^" line="39" column="32" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />

@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533807311750">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="24" column="24" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533809530758">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="36" column="55" />
+        <mark key="." line="36" column="55" />
+        <mark key="^" line="36" column="55" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533660788656">
         <mark key="[" line="0" column="13" />
@@ -330,12 +330,12 @@
         <mark key="." line="22" column="2" />
         <mark key="^" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1533804274499">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1533808993202">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="7" />
-        <mark key="^" line="33" column="7" />
-        <mark key="." line="33" column="7" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="7" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -427,9 +427,9 @@
         <mark key="." line="43" column="63" />
         <mark key="^" line="43" column="63" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1533651322970">
-        <mark key="[" line="225" column="41" />
-        <mark key="]" line="225" column="50" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1533807879648">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="37" />
         <mark key="." line="225" column="50" />
         <mark key="^" line="225" column="50" />
       </file>
@@ -864,7 +864,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1533807314758">
+      <file name="/Django Console" timestamp="1533808540584">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1107,34 +1107,34 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>transform(4326)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IFtJc0F1dGhlbnRpY2F0ZWQsIF0=</text>
+        <text>logger = logging.getLogger('gilytics')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UFJPSkVDVF9TUklEPTMxMzcwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBQcm9qZWN0IFNwZWNpZmljcwo=</text>
+        <text encoding="base64">ZGVmIG1ldGVyc190b19kZWdyZWVzKG1ldGVycywgZGVncmVlcyk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UFJPSkVDVF9TUklEID0gY29uZmlnKCdQUk9KRUNUX1NSSUQnLCBjYXN0PWludCwgZGVmYXVsdD1vcy5nZXRlbnYoJ1BST0pFQ1RfU1JJRCcsICc0MzI2JykpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NlZF9kYXRhID0gR2VvbWV0cnlDb2xsZWN0aW9uRmllbGQobnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQodGVzdF8yKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdlb19maWVsZCA9ICd2ZWN0b3JfZGF0YScK</text>
+        <text encoding="base64">ICAgICMgdGVzdF8yLnRyYW5zZm9ybSg0MzI2KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmcm9tIHJlc3RfZnJhbWV3b3JrX2dpcy5maWVsZHMgaW1wb3J0IEdlb21ldHJ5RmllbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
@@ -1143,7 +1143,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoKS52YWxpZGF0ZShhdHRycykK</text>
+        <text encoding="base64">ICAgICAgICBsYXllci50cmFuc2Zvcm0oMzg1NykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -112,12 +112,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533903622490">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533919133699">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="49" column="37" />
-        <mark key="]" line="49" column="36" />
-        <mark key="." line="49" column="36" />
-        <mark key="^" line="49" column="36" />
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="16" />
+        <mark key="." line="77" column="16" />
+        <mark key="^" line="77" column="16" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -271,7 +271,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1533121586111">
+      <file name="/Python Console" timestamp="1533918873770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1533121526701">
@@ -513,6 +513,13 @@
         <mark key="]" line="18" column="66" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1533919281421">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="85" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
         <mark key="]" line="27" column="5" />
@@ -741,11 +748,11 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/urls.py" timestamp="1533726249995">
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="47" />
-        <mark key="^" line="12" column="47" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/urls.py" timestamp="1533916399170">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="66" />
+        <mark key="^" line="12" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
         <mark key="[" line="45" column="0" />
@@ -825,11 +832,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533911623755">
-        <mark key="[" line="65" column="37" />
-        <mark key="]" line="65" column="36" />
-        <mark key="." line="65" column="36" />
-        <mark key="^" line="65" column="36" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533917673253">
+        <mark key="[" line="57" column="69" />
+        <mark key="]" line="57" column="69" />
+        <mark key="." line="57" column="69" />
+        <mark key="^" line="56" column="96" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -1093,45 +1100,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Refactor Layer Models.</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>redis:</text>
+        <text>(
+            'id', 'name', 'status', 'area', 'start_point',
+            'end_point', 'intermediate_points', 'categories'
+        )</text>
       </register>
-      <register name="1" type="4">
-        <text>Refactored Layer Model.
-Refactored Layer serializer to utilize rest_framework_gis GeoJSON
-serializer.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW5ncy5NRURJQV9ST09ULCAncmFzdGVycycsIGxheWVyLnByb2plY3QubmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGphbmdvLXN0b3JhZ2VzPT0xLjYuNgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmFjdGlvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QVdTX1MzX0NVU1RPTV9ET01BSU49Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QVdTX1MzX1JFR0lPTl9OQU1FPQo=</text>
+        <text encoding="base64">Y2xhc3MgUmV0cmlldmVMYXllclNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QVdTX1NUT1JBR0VfQlVDS0VUX05BTUU9Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPQo=</text>
+        <text encoding="base64">ICAgIFJldHJpZXZlIE9ubHkgTGF5ZXIK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBTMyBCdWNrZXQgU2V0dXAK</text>
+        <text encoding="base64">ICAgICAgICAjIHJlYWRfb25seV9maWVsZHMgPSAoJ2lkJywgJ25hbWUnLCAnd2VpZ2h0JywgJ3Byb2plY3QnLCAnbGF5ZXJfc2V0JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1175,7 +1183,6 @@ serializer.</text>
         <entry>100</entry>
         <entry>75</entry>
         <entry>:w</entry>
-        <entry>q</entry>
         <entry>6</entry>
         <entry>ew</entry>
         <entry>wq</entry>
@@ -1185,8 +1192,9 @@ serializer.</text>
         <entry>qw</entry>
         <entry>we</entry>
         <entry>w2</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -33,9 +33,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1533631114663">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" timestamp="1529490687651">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="5" />
@@ -72,14 +69,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533896578319">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="80" column="14" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533660788656">
-        <mark key="[" line="0" column="13" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533899137631">
+        <mark key="[" line="40" column="52" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
         <mark key="[" line="18" column="5" />
@@ -110,11 +104,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533897094082">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533898457907">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="57" column="85" />
-        <mark key="]" line="57" column="84" />
-        <mark key="." line="57" column="84" />
+        <mark key="[" line="57" column="55" />
+        <mark key="]" line="57" column="55" />
+        <mark key="." line="57" column="55" />
         <mark key="^" line="57" column="84" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
@@ -188,11 +182,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1533655876007">
-        <mark key="[" line="8" column="65" />
-        <mark key="]" line="8" column="68" />
-        <mark key="^" line="8" column="68" />
-        <mark key="." line="8" column="68" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1533898492888">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="29" />
+        <mark key="." line="62" column="37" />
+        <mark key="^" line="62" column="37" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import.html" timestamp="1533201934961">
         <mark key="[" line="0" column="0" />
@@ -269,12 +263,6 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1533121586111">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1533121526701">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/igthorses/templates/index.html" timestamp="1527771315675">
         <mark key="[" line="17" column="40" />
         <mark key="]" line="17" column="44" />
@@ -338,13 +326,10 @@
         <mark key="." line="22" column="2" />
         <mark key="^" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1533893987076">
-        <mark key="'" line="51" column="21" />
-        <mark key="i" line="50" column="4" />
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="44" column="62" />
-        <mark key="^" line="44" column="62" />
-        <mark key="." line="44" column="62" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1533898240903">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -845,10 +830,10 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533896118167">
-        <mark key="[" line="65" column="4" />
-        <mark key="]" line="65" column="17" />
-        <mark key="." line="82" column="28" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533897550110">
+        <mark key="[" line="63" column="63" />
+        <mark key="]" line="63" column="64" />
+        <mark key="." line="63" column="64" />
         <mark key="^" line="82" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
@@ -869,13 +854,10 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1533896640887">
+      <file name="/Django Console" timestamp="1533899142359">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1532968148181">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.drone.yml" timestamp="1533284007899">
         <mark key="[" line="135" column="0" />
@@ -942,7 +924,7 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/mcda.py" timestamp="1533893459962">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/mcda.py" timestamp="1533898638359">
         <mark key="[" line="533" column="24" />
         <mark key="]" line="533" column="27" />
       </file>
@@ -1116,43 +1098,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Layer.objects.create(project=project, category=category, **validated_data)</text>
+        <text encoding="base64">b2JqIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>processed_data</text>
+        <text>2580</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRhc2sK</text>
+        <text encoding="base64">ICAgICAgICBidWZmZXJfbGlzdDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ1RyYW5zZm9ybTpcbnt9Jy5mb3JtYXQodHJhbnNmb3JtKSkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnQWZ0ZXIgdHJhbnNmb3JtYXRpb246IHt9Jy5mb3JtYXQodmVjdG9yX2RhdGEpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQXBwbHlpbmcgVHJhbnNmb3JtYXRpb24gdG8gaW1hZ2UuLi4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxheWVyLnZlY3Rvcl9kYXRhLnNyaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByYXN0ZXJpby50cmFuc2Zvcm0gaW1wb3J0IGZyb21fYm91bmRzCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxheWVyX2RhdGEucHJvamVjdC5hcmVhLmFyZWEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZHN0LnJlYWQoMSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFuc2Zvcm0pCg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24udXRpbHMgaW1wb3J0IGNyZWF0ZV9nZW9tZXRyeV90cmFuc2Zvcm0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

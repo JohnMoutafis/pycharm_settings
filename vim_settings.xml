@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533894510652">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="69" column="52" />
-        <mark key="^" line="69" column="52" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533896578319">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="80" column="14" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533660788656">
         <mark key="[" line="0" column="13" />
@@ -110,12 +110,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533889735494">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="50" column="49" />
-        <mark key="]" line="51" column="11" />
-        <mark key="." line="51" column="11" />
-        <mark key="^" line="51" column="11" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533897094082">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="57" column="85" />
+        <mark key="]" line="57" column="84" />
+        <mark key="." line="57" column="84" />
+        <mark key="^" line="57" column="84" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -845,11 +845,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533890427071">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="77" column="10" />
-        <mark key="." line="77" column="10" />
-        <mark key="^" line="77" column="10" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533896118167">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="17" />
+        <mark key="." line="82" column="28" />
+        <mark key="^" line="82" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -869,7 +869,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1533893483547">
+      <file name="/Django Console" timestamp="1533896640887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1116,43 +1116,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Layer.objects.create(project=project, category=category, **validated_data)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>from matplotlib import pyplot</text>
+        <text>processed_data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxheWVyX2RhdGEucHJvamVjdC5hcmVhLmFyZWEpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRhc2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZHN0LnJlYWQoMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ1RyYW5zZm9ybTpcbnt9Jy5mb3JtYXQodHJhbnNmb3JtKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFuc2Zvcm0pCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQXBwbHlpbmcgVHJhbnNmb3JtYXRpb24gdG8gaW1hZ2UuLi4nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVudmVsb3BlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHlzaXplPXBpeGVsX3NpemUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ1Jhc3Rlcml6ZSByZXN1bHQ6XG57fScuZm9ybWF0KHJlc3VsdCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZW9tZXRyeSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGxheWVyX2RhdGEucHJvamVjdC5hcmVhLmFyZWEpCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0LndyaXRlKHJlc3VsdC5hc3R5cGUocmFzdGVyaW8udWludDgpLCBpbmRleGVzPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZHN0LnJlYWQoMSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9cmFzdGVyaW8udWludDgsIGZpbGw9MCwgZGVmYXVsdF92YWx1ZT0xKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFuc2Zvcm0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

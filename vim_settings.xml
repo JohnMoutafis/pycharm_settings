@@ -72,16 +72,17 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533912448935">
-        <mark key="[" line="6" column="71" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533924646133">
+        <mark key="[" line="59" column="47" />
+        <mark key="]" line="59" column="47" />
+        <mark key="." line="59" column="47" />
+        <mark key="^" line="59" column="47" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533911897128">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533923773548">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
         <mark key="[" line="189" column="0" />
@@ -190,9 +191,9 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1533912363899">
-        <mark key="[" line="15" column="54" />
-        <mark key="]" line="23" column="21" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1533923957732">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="38" />
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
@@ -393,12 +394,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1533911872644">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1533923798585">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="234" column="34" />
-        <mark key="." line="129" column="0" />
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+        <mark key="." line="47" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -430,7 +431,7 @@
         <mark key="^" line="377" column="7" />
         <mark key="." line="377" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1533921736556">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1533922528651">
         <mark key="[" line="51" column="32" />
         <mark key="]" line="43" column="21" />
         <mark key="^" line="43" column="21" />
@@ -862,7 +863,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1533912459334">
+      <file name="/Django Console" timestamp="1533924574243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
@@ -903,10 +904,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533920388890">
+      <file name="/Dummy.txt" timestamp="1533924675061">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1106,47 +1107,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>os.path.join(raster_folder_path, item))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>modificationDate</text>
+        <text>settings.MEDIA_ROOT, 'rasters',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUnKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>Refactored Project's retrieve endpoint to return a full representation 
-of a Project (containing categories and layers).ˆ</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VuZF9wb2ludCcsICdpbnRlcm1lZGlhdGVfcG9pbnRzJywgJ2F0ZWdvcnlfc2V0Jwo=</text>
+        <text encoding="base64">ICAgIGZvciBkaXIgaW4gb3MubGlzdGRpcihyYXN0ZXJfZm9sZGVyX3BhdGgpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VuZF9wb2ludCcsICdpbnRlcm1lZGlhdGVfcG9pbnRzJywgJ2F0ZWdvcnlfc2V0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5X3NldCA9IFJldHJpZXZlQ2F0ZWdvcnlTZXJpYWxpemVyKG1hbnk9VHJ1ZSwgcmVhZF9vbmx5PVRydWUpCg==</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5X3NldCA9IFJldHJpZXZlQ2F0ZWdvcnlTZXJpYWxpemVyKG1hbnk9VHJ1ZSwgcmVhZF9vbmx5PVRydWUpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="7" type="4">
-        <text>Add async layer processing. 
-
-Added celery task to process Layer objects after creation/update.
-Modified Layer model to store initial and processed data</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIChzcGVjaWZpZWQgb24gdGhlIC5lbnYgZmlsZSkuIElmIGNsZWFuaW5nIGZhaWxzLCByYWlzZXMgYW4gZXhjZXB0aW9uIGFuZCBsb2dzIGl0Lgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENsZWFucyB1cCB0aGUgZGF0YWJhc2UgZXZlcnkgbWlkbmlnaHQgZnJvbSBtYWlscyBvbGRlciB0aGFuIE4gZGF5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

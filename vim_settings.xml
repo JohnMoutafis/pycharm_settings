@@ -69,11 +69,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533899137631">
-        <mark key="[" line="40" column="52" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="20" />
-        <mark key="^" line="41" column="20" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533900469567">
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
         <mark key="[" line="18" column="5" />
@@ -104,12 +104,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533898457907">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533900585377">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="57" column="55" />
-        <mark key="]" line="57" column="55" />
-        <mark key="." line="57" column="55" />
-        <mark key="^" line="57" column="84" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+        <mark key="^" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -182,11 +182,10 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1533898492888">
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="29" />
-        <mark key="." line="62" column="37" />
-        <mark key="^" line="62" column="37" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1533900402771">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import.html" timestamp="1533201934961">
         <mark key="[" line="0" column="0" />
@@ -854,7 +853,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1533899142359">
+      <file name="/Django Console" timestamp="1533900473288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1098,7 +1097,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2JqIA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
@@ -1107,34 +1106,34 @@
         <text>2580</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWZmZXJfbGlzdDoK</text>
+        <text encoding="base64">ICAgIHByaW50KHJhcy5uYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnQWZ0ZXIgdHJhbnNmb3JtYXRpb246IHt9Jy5mb3JtYXQodmVjdG9yX2RhdGEpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJhcy5pbmZvKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxheWVyLnZlY3Rvcl9kYXRhLnNyaWQK</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSByYXN0ZXJpby50cmFuc2Zvcm0gaW1wb3J0IGZyb21fYm91bmRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXllci5zYXZlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24udXRpbHMgaW1wb3J0IGNyZWF0ZV9nZW9tZXRyeV90cmFuc2Zvcm0K</text>
+        <text encoding="base64">ICAgICAgICBsYXllci5yYXN0ZXJfZGF0YSA9IHJhc3Rlcml6ZV92ZWN0b3IocmFzdGVyX2Rlc3RpbmF0aW9uLCBsYXllci52ZWN0b3JfZGF0YSwgd2lkdGgsIGhlaWdodCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1180,7 +1179,6 @@
         <entry>:w</entry>
         <entry>q</entry>
         <entry>6</entry>
-        <entry>W</entry>
         <entry>ew</entry>
         <entry>wq</entry>
         <entry>ws</entry>
@@ -1190,6 +1188,7 @@
         <entry>we</entry>
         <entry>w2</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

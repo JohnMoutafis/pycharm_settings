@@ -112,12 +112,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533919133699">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533920405989">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="16" />
-        <mark key="." line="77" column="16" />
-        <mark key="^" line="77" column="16" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="95" column="57" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -429,6 +429,12 @@
         <mark key="]" line="377" column="7" />
         <mark key="^" line="377" column="7" />
         <mark key="." line="377" column="7" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1533920700575">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="43" column="21" />
+        <mark key="^" line="43" column="21" />
+        <mark key="." line="43" column="21" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/serializers.py" timestamp="1533632199821">
         <mark key="[" line="43" column="44" />
@@ -832,11 +838,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533917673253">
-        <mark key="[" line="57" column="69" />
-        <mark key="]" line="57" column="69" />
-        <mark key="." line="57" column="69" />
-        <mark key="^" line="56" column="96" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533920242716">
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+        <mark key="^" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -897,10 +903,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533912712578">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/Dummy.txt" timestamp="1533920388890">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1100,46 +1106,47 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>(
-            'id', 'name', 'status', 'area', 'start_point',
-            'end_point', 'intermediate_points', 'categories'
-        )</text>
+        <text>modificationDate</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
+      <register name="2" type="4">
+        <text>Refactored Project's retrieve endpoint to return a full representation 
+of a Project (containing categories and layers).ˆ</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmFjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VuZF9wb2ludCcsICdpbnRlcm1lZGlhdGVfcG9pbnRzJywgJ2F0ZWdvcnlfc2V0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VuZF9wb2ludCcsICdpbnRlcm1lZGlhdGVfcG9pbnRzJywgJ2F0ZWdvcnlfc2V0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUmV0cmlldmVMYXllclNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToK</text>
+        <text encoding="base64">ICAgIGNhdGVnb3J5X3NldCA9IFJldHJpZXZlQ2F0ZWdvcnlTZXJpYWxpemVyKG1hbnk9VHJ1ZSwgcmVhZF9vbmx5PVRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGNhdGVnb3J5X3NldCA9IFJldHJpZXZlQ2F0ZWdvcnlTZXJpYWxpemVyKG1hbnk9VHJ1ZSwgcmVhZF9vbmx5PVRydWUpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFJldHJpZXZlIE9ubHkgTGF5ZXIK</text>
+      <register name="7" type="4">
+        <text>Add async layer processing. 
+
+Added celery task to process Layer objects after creation/update.
+Modified Layer model to store initial and processed data</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlYWRfb25seV9maWVsZHMgPSAoJ2lkJywgJ25hbWUnLCAnd2VpZ2h0JywgJ3Byb2plY3QnLCAnbGF5ZXJfc2V0JykK</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

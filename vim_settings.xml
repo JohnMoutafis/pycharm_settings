@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533889811508">
-        <mark key="[" line="60" column="9" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533894510652">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="69" column="52" />
+        <mark key="^" line="69" column="52" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533660788656">
         <mark key="[" line="0" column="13" />
@@ -338,12 +338,13 @@
         <mark key="." line="22" column="2" />
         <mark key="^" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1533890572556">
-        <mark key="'" line="35" column="21" />
-        <mark key="[" line="33" column="57" />
-        <mark key="]" line="35" column="22" />
-        <mark key="^" line="35" column="22" />
-        <mark key="." line="35" column="22" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1533893987076">
+        <mark key="'" line="51" column="21" />
+        <mark key="i" line="50" column="4" />
+        <mark key="[" line="33" column="55" />
+        <mark key="]" line="44" column="62" />
+        <mark key="^" line="44" column="62" />
+        <mark key="." line="44" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -868,7 +869,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1533889029942">
+      <file name="/Django Console" timestamp="1533893483547">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -941,7 +942,10 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/mcda.py" timestamp="1533830121744" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/mcda.py" timestamp="1533893459962">
+        <mark key="[" line="533" column="24" />
+        <mark key="]" line="533" column="27" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="35" />
@@ -1112,43 +1116,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>IDENTITY</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>http://www.gdal.org/formats_list.html</text>
+        <text>from matplotlib import pyplot</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0LndyaXRlKHJlc3VsdC5hc3R5cGUocmFzdGVyaW8udWludDgpLCBpbmRleGVzPTEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxheWVyX2RhdGEucHJvamVjdC5hcmVhLmFyZWEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9cmFzdGVyaW8udWludDgsIGZpbGw9MCwgZGVmYXVsdF92YWx1ZT0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZHN0LnJlYWQoMSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSByYXN0ZXJpemUoW2dlb21ldHJ5XSwgb3V0X3NoYXBlPShyb3dzLCBjb2xzKSwgdHJhbnNmb3JtPXRyYW5zZm9ybSwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFuc2Zvcm0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNycz17J2luaXQnOiAiRVBTRzo0MzI2In0pIGFzIG91dDoK</text>
+        <text encoding="base64">ICAgIHByaW50KGVudmVsb3BlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zZm9ybT10cmFuc2Zvcm0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHlzaXplPXBpeGVsX3NpemUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGF0YT0wLAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ1Jhc3Rlcml6ZSByZXN1bHQ6XG57fScuZm9ybWF0KHJlc3VsdCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0eXBlPXJhc3RlcmlvLnVpbnQ4LAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnZW9tZXRyeSkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50PTEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LndyaXRlKHJlc3VsdC5hc3R5cGUocmFzdGVyaW8udWludDgpLCBpbmRleGVzPTEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodD1yZXN1bHQuc2hhcGVbMV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9cmFzdGVyaW8udWludDgsIGZpbGw9MCwgZGVmYXVsdF92YWx1ZT0xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

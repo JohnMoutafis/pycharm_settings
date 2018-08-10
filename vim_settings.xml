@@ -113,12 +113,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533920405989">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533927354746">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="95" column="57" />
+        <mark key="[" line="45" column="58" />
+        <mark key="]" line="46" column="11" />
+        <mark key="." line="46" column="11" />
+        <mark key="^" line="46" column="11" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -839,11 +839,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533920242716">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="38" column="3" />
-        <mark key="." line="38" column="3" />
-        <mark key="^" line="38" column="3" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533927193242">
+        <mark key="[" line="86" column="47" />
+        <mark key="]" line="86" column="10" />
+        <mark key="." line="86" column="10" />
+        <mark key="^" line="86" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -904,10 +904,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533924675061">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1533927398911">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1115,35 +1115,37 @@
       <register name="0" type="4">
         <text>settings.MEDIA_ROOT, 'rasters',</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUnKQo=</text>
+      <register name="1" type="4">
+        <text>Add cleanup tasks.
+
+Added periodic cleanup tasks for the media folder.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXllci5pcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBkaXIgaW4gb3MubGlzdGRpcihyYXN0ZXJfZm9sZGVyX3BhdGgpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgIGZvciBkaXIgaW4gb3MubGlzdGRpcihyYXN0ZXJfZm9sZGVyX3BhdGgpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChzcGVjaWZpZWQgb24gdGhlIC5lbnYgZmlsZSkuIElmIGNsZWFuaW5nIGZhaWxzLCByYWlzZXMgYW4gZXhjZXB0aW9uIGFuZCBsb2dzIGl0Lgo=</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENsZWFucyB1cCB0aGUgZGF0YWJhc2UgZXZlcnkgbWlkbmlnaHQgZnJvbSBtYWlscyBvbGRlciB0aGFuIE4gZGF5cwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIChzcGVjaWZpZWQgb24gdGhlIC5lbnYgZmlsZSkuIElmIGNsZWFuaW5nIGZhaWxzLCByYWlzZXMgYW4gZXhjZXB0aW9uIGFuZCBsb2dzIGl0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

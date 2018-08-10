@@ -72,12 +72,12 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533833972248">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533882816950">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="90" column="43" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="86" column="0" />
+        <mark key="[" line="90" column="57" />
+        <mark key="]" line="90" column="57" />
+        <mark key="." line="90" column="57" />
+        <mark key="^" line="90" column="57" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533660788656">
         <mark key="[" line="0" column="13" />
@@ -462,10 +462,6 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/gilytics-X1tuC10g/lib/python3.6/site-packages/django/contrib/gis/geos/polygon.py" timestamp="1533659404389">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="26" column="67" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/index.rst" timestamp="1528466387798">
         <mark key="[" line="72" column="2" />
         <mark key="]" line="70" column="39" />
@@ -519,10 +515,6 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/gilytics-X1tuC10g/lib/python3.6/site-packages/rest_framework/serializers.py" timestamp="1533656600263">
-        <mark key="[" line="974" column="8" />
-        <mark key="]" line="982" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/rust_test/Cargo.toml" timestamp="1526045219723">
         <mark key="[" line="6" column="6" />
@@ -873,7 +865,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1533834496128">
+      <file name="/Django Console" timestamp="1533835306826">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1126,34 +1118,34 @@
         <text>all_touched</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZ2VvbWV0cnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0LnRyYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdlb21ldHJ5Wydjb29yZGluYXRlcyddID0gW1t0dXBsZShjb29yZCkgZm9yIGNvb3JkIGluIGdlb21ldHJ5Wydjb29yZGluYXRlcyddWzBdXV0K</text>
+        <text encoding="base64">cHJpbnQoZ2VvbWV0cnkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdlb21ldHJ5LmdldCgnY29vcmRpbmF0ZXMnKSkK</text>
+        <text encoding="base64">ICAgIGdlb21ldHJ5Wydjb29yZGluYXRlcyddID0gW1t0dXBsZShjb29yZCkgZm9yIGNvb3JkIGluIGdlb21ldHJ5Wydjb29yZGluYXRlcyddWzBdXV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUoZ2VvbWV0cnkpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGdlb21ldHJ5LmdldCgnY29vcmRpbmF0ZXMnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdlb21ldHJ5ID0gbGF5ZXJfZGF0YS5nZW9qc29uCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHR5cGUoZ2VvbWV0cnkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxheWVyX2RhdGEuCg==</text>
+        <text encoding="base64">ICAgIGdlb21ldHJ5ID0gbGF5ZXJfZGF0YS5nZW9qc29uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxheWVyX2RhdGEuanNvbikK</text>
+        <text encoding="base64">ICAgIGxheWVyX2RhdGEuCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0ZXN0LnRpZiIsCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxheWVyX2RhdGEuanNvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZW9tZXRyeS5ib3VuZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0ZXN0LnRpZiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

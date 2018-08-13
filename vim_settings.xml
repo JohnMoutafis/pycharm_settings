@@ -839,7 +839,7 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1534159721120">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1534161994879">
         <mark key="[" line="82" column="28" />
         <mark key="]" line="82" column="75" />
         <mark key="." line="82" column="75" />
@@ -904,10 +904,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533927398911">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1534162209922">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1115,37 +1115,39 @@
       <register name="0" type="4">
         <text># TODO: Update this to async when Celery is configured properly.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUocHJvY2Vzc2VkX2RhdGEpKQo=</text>
+      <register name="1" type="4">
+        <text>Update layer serializer.
+
+Updated Layer model to include is_processed flag.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxheWVyLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHR5cGUocHJvY2Vzc2VkX2RhdGEpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGxheWVyLnNhdmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxheWVyLnJhc3Rlcl9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIGxheWVyLnNhdmUoKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxheWVyLnJhc3Rlcl9kYXRhKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50KHJhc3Rlcl9kYXRhLm5hbWUpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Add cleanup tasks.
 
 Added periodic cleanup tasks for the media folder.</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXllci5pcwo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXllci5pcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

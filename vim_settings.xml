@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534160669599">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="39" column="14" />
-        <mark key="." line="39" column="14" />
-        <mark key="^" line="39" column="14" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534172349855">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533923773548">
         <mark key="[" line="0" column="0" />
@@ -1125,39 +1125,39 @@
       <register name="0" type="4">
         <text>django.contrib.gis.db.models.fields.GeometryCollectionField(null=True, srid=4326),</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGxheWVyLnZlY3Rvcl9kYXRhLgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>Update layer serializer.
 
 Updated Layer model to include is_processed flag.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUocHJvY2Vzc2VkX2RhdGEpKQo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxheWVyLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHR5cGUocHJvY2Vzc2VkX2RhdGEpKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGxheWVyLnNhdmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxheWVyLnJhc3Rlcl9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIGxheWVyLnNhdmUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJhc3Rlcl9kYXRhLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxheWVyLnJhc3Rlcl9kYXRhKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Add cleanup tasks.
-
-Added periodic cleanup tasks for the media folder.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJhc3Rlcl9kYXRhLm5hbWUpCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXllci5pcwo=</text>
+      <register name="8" type="4">
+        <text>Add cleanup tasks.
+
+Added periodic cleanup tasks for the media folder.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXllci5pcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1533924646133">
-        <mark key="[" line="59" column="47" />
-        <mark key="]" line="59" column="47" />
-        <mark key="." line="59" column="47" />
-        <mark key="^" line="59" column="47" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534160669599">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="39" column="14" />
+        <mark key="." line="39" column="14" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533923773548">
         <mark key="[" line="0" column="0" />
@@ -113,12 +113,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1533928053144">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534161255698">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="58" column="41" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="40" />
-        <mark key="^" line="58" column="40" />
+        <mark key="[" line="65" column="45" />
+        <mark key="]" line="66" column="75" />
+        <mark key="." line="66" column="75" />
+        <mark key="^" line="66" column="75" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -191,7 +191,7 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1533923957732">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534160127947">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="26" column="38" />
         <mark key="." line="23" column="21" />
@@ -272,7 +272,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1533918873770">
+      <file name="/Python Console" timestamp="1534160946587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1533121526701">
@@ -839,11 +839,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1533927193242">
-        <mark key="[" line="86" column="47" />
-        <mark key="]" line="86" column="10" />
-        <mark key="." line="86" column="10" />
-        <mark key="^" line="86" column="10" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1534159721120">
+        <mark key="[" line="82" column="28" />
+        <mark key="]" line="82" column="75" />
+        <mark key="." line="82" column="75" />
+        <mark key="^" line="82" column="75" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -863,7 +863,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1533924574243">
+      <file name="/Django Console" timestamp="1534159473158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
@@ -1107,45 +1107,45 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>os.path.join(raster_folder_path, item))</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>settings.MEDIA_ROOT, 'rasters',</text>
+        <text># TODO: Update this to async when Celery is configured properly.</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KHR5cGUocHJvY2Vzc2VkX2RhdGEpKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxheWVyLnNhdmUoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxheWVyLnNhdmUoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxheWVyLnJhc3Rlcl9kYXRhKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJhc3Rlcl9kYXRhLm5hbWUpCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>Add cleanup tasks.
 
 Added periodic cleanup tasks for the media folder.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXllci5pcwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUnKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBkaXIgaW4gb3MubGlzdGRpcihyYXN0ZXJfZm9sZGVyX3BhdGgpOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXllci5pcwo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChzcGVjaWZpZWQgb24gdGhlIC5lbnYgZmlsZSkuIElmIGNsZWFuaW5nIGZhaWxzLCByYWlzZXMgYW4gZXhjZXB0aW9uIGFuZCBsb2dzIGl0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

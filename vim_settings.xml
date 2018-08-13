@@ -367,10 +367,10 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1533923798585">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1534187694955">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="47" column="24" />
+        <mark key="[" line="149" column="15" />
+        <mark key="]" line="149" column="45" />
         <mark key="^" line="47" column="24" />
         <mark key="." line="47" column="24" />
       </file>
@@ -655,11 +655,11 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/views.py" timestamp="1533821581719">
-        <mark key="[" line="129" column="20" />
-        <mark key="]" line="129" column="31" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="21" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/views.py" timestamp="1534187937887">
+        <mark key="[" line="129" column="54" />
+        <mark key="]" line="129" column="62" />
+        <mark key="^" line="129" column="62" />
+        <mark key="." line="129" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526646057965">
         <mark key="[" line="17" column="29" />
@@ -757,12 +757,12 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1533909876178">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1534187368291">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="10" />
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
@@ -1050,7 +1050,7 @@
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>list_to_shapely_geometry</text>
+        <text>os.path.join(BASE_DIR, 'media')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChjb2xsZWN0aW9uLnNyaWQpCg==</text>

@@ -72,11 +72,10 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534241854107">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534255361583">
         <mark key="[" line="31" column="48" />
-        <mark key="]" line="31" column="53" />
-        <mark key="." line="31" column="53" />
-        <mark key="^" line="31" column="53" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="31" column="48" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533923773548">
         <mark key="[" line="0" column="0" />
@@ -253,7 +252,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1534236970484">
+      <file name="/Python Console" timestamp="1534255296407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534179943143">
@@ -806,7 +805,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1534229882397">
+      <file name="/Django Console" timestamp="1534255322565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1044,7 +1043,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>difference</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1053,34 +1052,34 @@
         <text>clip_layer_to_project_area</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxheWVyLnZlY3Rvcl9kYXRhLmRpZmZlcmVuY2UoKQo=</text>
+        <text encoding="base64">ICAgIHByb2Nlc3NlZF9kYXRhID0gYnVmZmVyX2FuZF9kaXNzb2x2ZV92ZWN0b3IobGF5ZXIudmVjdG9yX2RhdGEsIGxheWVyLmJ1ZmZlcl92YWx1ZXMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGEgPSBsYXllci5wcm9qZWN0LmFyZWEuaW50ZXJzZWN0aW9uKGxheWVyLnZlY3Rvcl9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIGxheWVyLnZlY3Rvcl9kYXRhLmRpZmZlcmVuY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxheWVyX2RhdGEgPSBHRU9TR2VvbWV0cnkobGF5ZXJfZGF0YSwgc3JpZD1zcmlkKQo=</text>
+        <text encoding="base64">ICAgIGEgPSBsYXllci5wcm9qZWN0LmFyZWEuaW50ZXJzZWN0aW9uKGxheWVyLnZlY3Rvcl9kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RfYXJlYSA9IFBvbHlnb24ocHJvamVjdF9hcmVhKQo=</text>
+        <text encoding="base64">ICAgIGxheWVyX2RhdGEgPSBHRU9TR2VvbWV0cnkobGF5ZXJfZGF0YSwgc3JpZD1zcmlkKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb2plY3RfYXJlYSA9IFBvbHlnb24ocHJvamVjdF9hcmVhKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50KHByb2plY3RfYXJlYSkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Update Buffer and Dissolve process.
 
 Updated process to save processed data as a GeometryCollection of 
 separate dissolved buffer Polygons.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">TUVESUFfUk9PVCA9ICdtZWRpYScK</text>
-      </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb2xsZWN0aW9uLnNyaWQpCg==</text>
+        <text encoding="base64">TUVESUFfUk9PVCA9ICdtZWRpYScK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChjb2xsZWN0aW9uLnNyaWQpCg==</text>

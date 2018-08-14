@@ -367,12 +367,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1534187694955">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1534229630506">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="149" column="15" />
-        <mark key="]" line="149" column="45" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
         <mark key="^" line="47" column="24" />
-        <mark key="." line="47" column="24" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -806,7 +806,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1534180350342">
+      <file name="/Django Console" timestamp="1534229882397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -844,7 +844,7 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534182996818">
+      <file name="/Dummy.txt" timestamp="1534230026900">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1052,35 +1052,38 @@
       <register name="0" type="4">
         <text>os.path.join(BASE_DIR, 'media')</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb2xsZWN0aW9uLnNyaWQpCg==</text>
+      <register name="1" type="4">
+        <text>Update Buffer and Dissolve process.
+
+Updated process to save processed data as a GeometryCollection of 
+separate dissolved buffer Polygons.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb2xsZWN0aW9uLnNyaWQpCg==</text>
+        <text encoding="base64">TUVESUFfUk9PVCA9ICdtZWRpYScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb2xsZWN0aW9uLnNyaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZW9tX2NvbGxlY3Rpb24uaXNfdmFsaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb2xsZWN0aW9uLnNyaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZW9tX2NvbGxlY3Rpb24uZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnZW9tX2NvbGxlY3Rpb24uaXNfdmFsaWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW9tX2NvbGxlY3Rpb24uZQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdChsaXN0X3RvX3NoYXBlbHlfZ2VvbWV0cnkoZ2VvbS5jb29yZHMsICdwb2x5Z29uJykgZm9yIGdlb20gaW4gbGlzdChjb2xsZWN0aW9uKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsc3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

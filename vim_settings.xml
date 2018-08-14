@@ -72,12 +72,6 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534275083177">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="34" />
-        <mark key="^" line="30" column="34" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533923773548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
@@ -181,11 +175,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534275185493">
-        <mark key="[" line="72" column="85" />
-        <mark key="]" line="72" column="86" />
-        <mark key="." line="72" column="86" />
-        <mark key="^" line="72" column="86" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534276294483">
+        <mark key="[" line="125" column="16" />
+        <mark key="]" line="125" column="16" />
+        <mark key="." line="125" column="16" />
+        <mark key="^" line="125" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -840,7 +834,7 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534275260407">
+      <file name="/Dummy.txt" timestamp="1534277000350">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1040,7 +1034,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Revert media_url to utilize base_dir.</text>
+        <text>Implemented initial Layer data clipping.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1049,34 +1043,34 @@
         <text>reverse_polygon_coordinates</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0LmFwcGVuZChnZW9tLmludGVyc2VjdGlvbihwcm9qZWN0X2FyZWEpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ID0gZ2VvbS5pbnRlcnNlY3RzKHBkKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0LmFwcGVuZChnZW9tLmludGVyc2VjdGlvbihwcm9qZWN0X2FyZWEpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBnZW9tIGluIGxpc3QobGF5ZXJfZGF0YSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ID0gZ2VvbS5pbnRlcnNlY3RzKHBkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHQxID0gcHJvamVjdF9hcmVhLmludGVyc2VjdHMobGF5ZXJfZGF0YSkK</text>
+        <text encoding="base64">ICAgIGZvciBnZW9tIGluIGxpc3QobGF5ZXJfZGF0YSk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSBbXQo=</text>
+        <text encoding="base64">ICAgIHQxID0gcHJvamVjdF9hcmVhLmludGVyc2VjdHMobGF5ZXJfZGF0YSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXZfY29vcmRzWzBdKQo=</text>
+        <text encoding="base64">ICAgIHRlc3QgPSBbXQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb29yZF9wYWlyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXZfY29vcmRzWzBdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdlb2pzb25fYmFzZVsnY29vcmRpbmF0ZXMnXSA9IGdlb2pzb25fYmFzZVsnY29vcmRpbmF0ZXMnXS5mb3JtYXQocmV2X2Nvb3JkcykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb29yZF9wYWlyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -72,10 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534412920166">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534415825593">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533923773548">
         <mark key="[" line="0" column="0" />
@@ -180,10 +181,10 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534414345646">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534415514845">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -803,7 +804,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1534357395819">
+      <file name="/Django Console" timestamp="1534415528883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
@@ -1048,34 +1049,34 @@
         <text>reverse_polygon_coordinates</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBVcGRhdGUgdGhpcyB0byBhc3luYyB3aGVuIENlbGVyeSBpcyBjb25maWd1cmVkIHByb3Blcmx5Lgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAnTGF5ZXIgd2l0aCBpZDp7fSB3YXMgcHJvY2Vzc2VkIHN1Y2Nlc3NmdWxseScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0YXNrcy5wcm9jZXNzX2FuZF9yYXN0ZXJpemVfbGF5ZXIoaW5zdGFuY2UuaWQpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnUmFzdGVyIEZvbGRlciBDbGVhbnVwIFN1Y2Nlc3MnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRhc2tzLnByb2Nlc3NfYW5kX3Jhc3Rlcml6ZV9sYXllcihsYXllci5pZCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAnVXBsb2FkIEZvbGRlciBDbGVhbnVwIFN1Y2Nlc3MnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IFVwZGF0ZSB0aGlzIHRvIGFzeW5jIHdoZW4gQ2VsZXJ5IGlzIGNvbmZpZ3VyZWQgcHJvcGVybHkuCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBsYXllcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdhZnRlciBtYXRwbG90JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdCZWZvcmUgbWF0cGxvdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsYXllcgo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KHJhc3Rlcl9kYXRhKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoQ0VMRVJZX0JST0tFUl9VUkwpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLkRFQlVHOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

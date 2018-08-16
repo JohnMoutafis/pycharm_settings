@@ -74,9 +74,6 @@
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534415825593">
         <mark key="[" line="28" column="5" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1533923773548">
         <mark key="[" line="0" column="0" />
@@ -110,9 +107,9 @@
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534414411829">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
         <mark key="^" line="90" column="26" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
@@ -366,10 +363,10 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1534409889729">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1534416695808">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
+        <mark key="[" line="253" column="64" />
+        <mark key="]" line="253" column="85" />
         <mark key="." line="255" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
@@ -840,7 +837,7 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534277000350">
+      <file name="/Dummy.txt" timestamp="1534416603429">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1046,37 +1043,41 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>reverse_polygon_coordinates</text>
+        <text>redis://localhost:6379</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnTGF5ZXIgd2l0aCBpZDp7fSB3YXMgcHJvY2Vzc2VkIHN1Y2Nlc3NmdWxseScK</text>
+      <register name="1" type="4">
+        <text>Refactor Buffering Process.
+
+Refactored buffering process to apply each consecutive ring to the 
+previously buffered layer (if any).
+The processed data are finally clipped to the Project area.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnUmFzdGVyIEZvbGRlciBDbGVhbnVwIFN1Y2Nlc3MnCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnTGF5ZXIgd2l0aCBpZDp7fSB3YXMgcHJvY2Vzc2VkIHN1Y2Nlc3NmdWxseScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnVXBsb2FkIEZvbGRlciBDbGVhbnVwIFN1Y2Nlc3MnCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnUmFzdGVyIEZvbGRlciBDbGVhbnVwIFN1Y2Nlc3MnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsYXllcgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAnVXBsb2FkIEZvbGRlciBDbGVhbnVwIFN1Y2Nlc3MnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBsYXllcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KHJhc3Rlcl9kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KHJhc3Rlcl9kYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLkRFQlVHOgo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

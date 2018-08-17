@@ -105,12 +105,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534414411829">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534528016171">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="86" column="26" />
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="80" column="7" />
+        <mark key="." line="80" column="7" />
+        <mark key="^" line="80" column="7" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -484,12 +484,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1534425401757">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1534528066718">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="69" />
-        <mark key="]" line="49" column="83" />
-        <mark key="^" line="49" column="83" />
-        <mark key="." line="49" column="83" />
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="70" />
+        <mark key="^" line="60" column="70" />
+        <mark key="." line="60" column="70" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1036,13 +1036,17 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>asynchronous task handling</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgTWV0YToKICAgICAgICB2ZXJib3NlX25hbWUgPSAnQ2F0ZWdvcnknCiAgICAgICAgdmVyYm9zZV9uYW1lX3BsdXJhbCA9ICdDYXRlZ29yaWVzJwogICAgICAgIHVuaXF1ZV90b2dldGhlciA9ICgncHJvamVjdCcsICduYW1lJykK</text>
+        <text>fields = (
+            'id', 'project', 'category', 'name', 'weight', 'buffer_values',
+            'vector_data', 'processed_data', 'is_processed'
+        )
+        read_only_fields = ('id', 'processed_data')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

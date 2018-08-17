@@ -753,7 +753,7 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1534409849868">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1534493674711">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="31" />
@@ -1081,7 +1081,7 @@ The processed data are finally clipped to the Project area.</text>
         <text encoding="base64">ICAgIHJldHVybiBsYXllcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -1132,9 +1132,9 @@ The processed data are finally clipped to the Project area.</text>
         <entry>we</entry>
         <entry>w2</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -416,11 +416,11 @@
         <mark key="." line="43" column="63" />
         <mark key="^" line="43" column="63" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1534505837146">
-        <mark key="[" line="192" column="4" />
-        <mark key="]" line="192" column="48" />
-        <mark key="." line="225" column="50" />
-        <mark key="^" line="225" column="50" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1534520864826">
+        <mark key="[" line="278" column="40" />
+        <mark key="]" line="278" column="40" />
+        <mark key="." line="278" column="40" />
+        <mark key="^" line="278" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/cleanup_scripts.rst" timestamp="1528703762075">
         <mark key="[" line="307" column="41" />
@@ -652,11 +652,11 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/views.py" timestamp="1534187937887">
-        <mark key="[" line="129" column="54" />
-        <mark key="]" line="129" column="62" />
-        <mark key="^" line="129" column="62" />
-        <mark key="." line="129" column="62" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/views.py" timestamp="1534520935564">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="129" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526646057965">
         <mark key="[" line="17" column="29" />
@@ -839,10 +839,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534416603429">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1534520975039">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1039,7 +1039,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Implemented initial Layer data clipping.</text>
+        <text>asynchronous task handling</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1048,41 +1048,37 @@
         <text>headers = {'Content-Type': 'application/zip'}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSBkYXRhWydmaWxlJ10ubmFtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdpdGggZGVmYXVsdF9zdG9yYWdzLm9wZW4oZGF0YVsnZmlsZSddLm5hbWUpIGFzIHVmaWxlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB5cGxvdC5pbXNob3cK</text>
+        <text encoding="base64">ICAgICAgICAjIHdpdGggb3BlbihzaGFwZWZpbGUsICdyYicpIGFzIGRhdGE6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHBsb3RfcmFzdGVyKGxheWVyX2lkKToK</text>
+        <text encoding="base64">ICAgICAgICAjIHNhdmVfcGF0aCA9IG9zLnBhdGguam9pbihzZXR0aW5ncy5NRURJQV9ST09ULCAndXBsb2FkcycsIGRhdGFbJ2ZpbGUnXS5uYW1lKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Refactor Buffering Process.
-
-Refactored buffering process to apply each consecutive ring to the 
-previously buffered layer (if any).
-The processed data are finally clipped to the Project area.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKGRhdGFbJ2ZpbGUnXSkgYXMgdXBsb2FkZWRfZmlsZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnTGF5ZXIgd2l0aCBpZDp7fSB3YXMgcHJvY2Vzc2VkIHN1Y2Nlc3NmdWxseScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVsnZmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnUmFzdGVyIEZvbGRlciBDbGVhbnVwIFN1Y2Nlc3MnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnVXBsb2FkIEZvbGRlciBDbGVhbnVwIFN1Y2Nlc3MnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsYXllcgo=</text>
+        <text encoding="base64">ICAgIHB5cGxvdC5pbXNob3cK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1134,8 +1130,8 @@ The processed data are finally clipped to the Project area.</text>
         <entry>w2</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

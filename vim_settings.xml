@@ -416,9 +416,9 @@
         <mark key="." line="43" column="63" />
         <mark key="^" line="43" column="63" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1534503711064">
-        <mark key="[" line="160" column="21" />
-        <mark key="]" line="164" column="4" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1534505837146">
+        <mark key="[" line="192" column="4" />
+        <mark key="]" line="192" column="48" />
         <mark key="." line="225" column="50" />
         <mark key="^" line="225" column="50" />
       </file>
@@ -1045,11 +1045,7 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>{
-        'service': 'wms',
-        'version': '1.1.1',
-        'request': 'GetCapabilities',
-    }</text>
+        <text>headers = {'Content-Type': 'application/zip'}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

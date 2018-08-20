@@ -105,7 +105,6 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534767168985" />
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -392,7 +391,7 @@
         <mark key="^" line="377" column="7" />
         <mark key="." line="377" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1534525174295">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1534771190915">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
         <mark key="^" line="43" column="21" />
@@ -848,6 +847,7 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/mcda.py" timestamp="1534771177220" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="35" />

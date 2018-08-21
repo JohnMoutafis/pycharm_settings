@@ -171,11 +171,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534783514275">
-        <mark key="[" line="131" column="34" />
-        <mark key="]" line="132" column="50" />
-        <mark key="^" line="132" column="50" />
-        <mark key="." line="132" column="50" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534843826473">
+        <mark key="[" line="160" column="25" />
+        <mark key="]" line="160" column="24" />
+        <mark key="^" line="160" column="24" />
+        <mark key="." line="160" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -766,10 +766,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1534840713091">
-        <mark key="[" line="79" column="47" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1534843289049">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="61" column="90" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -1025,40 +1026,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>width</text>
+        <text>vector_data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>from django.contrib.gis.geos import</text>
+        <text>if vector_data.srs['UNIT'] != 'metre':</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxheWVyX2NvbG9yID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1pbl95ID0gZW52ZWxvcGVbMF1bMV0K</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1heF94ID0gZW52ZWxvcGVbMl1bMF0K</text>
+        <text encoding="base64">ICAgIG1pbl95ID0gZW52ZWxvcGVbMF1bMV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGluc3RhbmNlLmlkKQo=</text>
+        <text encoding="base64">ICAgIG1heF94ID0gZW52ZWxvcGVbMl1bMF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gbGlzdChjb2xsZWN0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGluc3RhbmNlLmlkKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhID0gbGlzdChjb2xsZWN0aW9uKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

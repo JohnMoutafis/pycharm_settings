@@ -108,11 +108,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534935992152">
-        <mark key="[" line="58" column="79" />
-        <mark key="]" line="59" column="11" />
-        <mark key="^" line="59" column="11" />
-        <mark key="." line="59" column="11" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534948525161">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -485,12 +485,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1534927903857">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="56" />
-        <mark key="^" line="32" column="56" />
-        <mark key="." line="32" column="56" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1534948464542">
+        <mark key="'" line="87" column="62" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -780,12 +779,12 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1534940666615">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1534946301268">
         <mark key="'" line="6" column="45" />
-        <mark key="[" line="129" column="72" />
-        <mark key="]" line="132" column="12" />
-        <mark key="^" line="132" column="12" />
-        <mark key="." line="132" column="12" />
+        <mark key="[" line="108" column="4" />
+        <mark key="]" line="115" column="14" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="52" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -839,10 +838,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534870049446">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="/Dummy.txt" timestamp="1534948541023">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -930,13 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="23" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" />
-      <jump line="117" column="24" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
-      <jump line="101" column="10" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
-      <jump line="70" column="38" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
-      <jump line="23" column="50" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
-      <jump line="18" column="16" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
-      <jump line="41" column="42" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/client.py" />
       <jump line="44" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" />
       <jump line="3" column="46" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/errors.py" />
@@ -1030,6 +1022,13 @@
       <jump line="68" column="39" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" />
       <jump line="107" column="40" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" />
       <jump line="6" column="45" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" />
+      <jump line="42" column="31" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
+      <jump line="43" column="33" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
+      <jump line="44" column="34" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
+      <jump line="45" column="34" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
+      <jump line="46" column="29" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
+      <jump line="57" column="85" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
+      <jump line="58" column="62" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1045,43 +1044,63 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2NjdXJyZW5jZSA=</text>
+        <text encoding="base64">UHJvamVjdCdzIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>weight_multiplier</text>
+        <text>name = models.CharField(max_length=50)
+    weight = models.IntegerField(null=True)
+    weight_multiplier = models.FloatField(blank=True)
+    buffer_values = ArrayField(models.IntegerField(), default=[0])
+    vector_data = GeometryCollectionField()
+    processed_data = GeometryCollectionField(null=True)
+    raster_data = models.RasterField(null=True)
+    layer_color</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
+      <register name="1" type="4">
+        <text>Add Project Preferences model.
+
+Added Project Preferences model and corresponding endpoint 
+(/project-preferences).
+Added validators on Layer and Category models to take under 
+consideration the Project Preferences.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlX2ZpZWxkczogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGF5ZXIub2JqZWN0cy5idWxrX2NyZWF0ZShsYXllcnMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmc6IAo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yY2VfdXBkYXRlOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X2xlbmd0aD0yMCwgY2hvaWNlcz1DQVRFR09SWV9WQUxVRVNfU0VUVElORywgZGVmYXVsdD0xCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yY2VfaW5zZXJ0OiAK</text>
+      <register name="6" type="4">
+        <text>try:
+            preferences = ProjectPreferences.objects.get(project=project).values
+        except ProjectPreferences.DoesNotExist:
+            return Response(
+                {
+                    'error': 'ProjectPreferences for project with id {} does not exist.'
+                             .format(project_id)
+                }, status=status.HTTP_404_NOT_FOUND
+            )</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
+        <text encoding="base64">ICAgICAgICAjICkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAnbGF5ZXJfbWF4X3Jlc2lzdGFuY2UnLCAnbGF5ZXJfd2VpZ2h0X3ZhbHVlcycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBtb2R1bGVzLm1jZGEuYXBpX3YxLnV0aWxzIGltcG9ydCB2YWxpZGF0ZV9sYXllcgo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAncmFzdGVyX3Jlc29sdXRpb24nLCAnY2F0ZWdvcnlfdmFsdWVzX3NldHRpbmcnLCAnbGF5ZXJfbWluX3Jlc2lzdGFuY2UnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

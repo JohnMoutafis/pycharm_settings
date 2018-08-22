@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534950989854">
-        <mark key="[" line="39" column="63" />
-        <mark key="]" line="41" column="3" />
-        <mark key="." line="41" column="3" />
-        <mark key="^" line="41" column="3" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534957626524">
+        <mark key="[" line="39" column="57" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+        <mark key="^" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1534497203109">
         <mark key="[" line="0" column="0" />
@@ -108,11 +108,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534948525161">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="18" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534959550331">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="86" column="56" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -180,11 +180,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534952819390">
-        <mark key="[" line="118" column="56" />
-        <mark key="]" line="118" column="55" />
-        <mark key="." line="118" column="55" />
-        <mark key="^" line="118" column="55" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534959532488">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="^" line="179" column="33" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -287,6 +287,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/gilytics-X1tuC10g/lib/python3.6/site-packages/rasterio/features.py" timestamp="1534958782775">
+        <mark key="[" line="194" column="12" />
+        <mark key="]" line="194" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/gateway.rst" timestamp="1528281200871">
         <mark key="[" line="191" column="4" />
@@ -755,13 +759,6 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1534493674711">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="15" />
@@ -842,7 +839,7 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534948541023">
+      <file name="/Dummy.txt" timestamp="1534959588467">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -1048,63 +1045,45 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHJvamVjdCdzIA==</text>
+        <text encoding="base64">X2ZlYXR1cmVzIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>name = models.CharField(max_length=50)
-    weight = models.IntegerField(null=True)
-    weight_multiplier = models.FloatField(blank=True)
-    buffer_values = ArrayField(models.IntegerField(), default=[0])
-    vector_data = GeometryCollectionField()
-    processed_data = GeometryCollectionField(null=True)
-    raster_data = models.RasterField(null=True)
-    layer_color</text>
+        <text>MergeAlg.add</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQWRkIHJhc3RlciByZXNvbHV0aW9uIHdoZW4gZW52IHZhcmlhYmxlcyBhcmUgaW1wbGVtZW50ZWQK</text>
-      </register>
-      <register name="2" type="4">
-        <text>Add Project Preferences model.
+      <register name="1" type="4">
+        <text>Add copy-project endpoint
 
-Added Project Preferences model and corresponding endpoint 
-(/project-preferences).
-Added validators on Layer and Category models to take under 
-consideration the Project Preferences.</text>
+Added endpoint to allow full copy of a project.</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGluc3RhbmNlLmlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90LnNob3coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGF5ZXIub2JqZWN0cy5idWxrX2NyZWF0ZShsYXllcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90Lmltc2hvdyhkc3QucmVhZCgxKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X2xlbmd0aD0yMCwgY2hvaWNlcz1DQVRFR09SWV9WQUxVRVNfU0VUVElORywgZGVmYXVsdD0xCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90LnNob3coKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>try:
-            preferences = ProjectPreferences.objects.get(project=project).values
-        except ProjectPreferences.DoesNotExist:
-            return Response(
-                {
-                    'error': 'ProjectPreferences for project with id {} does not exist.'
-                             .format(project_id)
-                }, status=status.HTTP_404_NOT_FOUND
-            )</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90Lmltc2hvdyhkc3QucmVhZCgxKSkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAnbGF5ZXJfbWF4X3Jlc2lzdGFuY2UnLCAnbGF5ZXJfd2VpZ2h0X3ZhbHVlcycK</text>
+        <text encoding="base64">ICAgICMgcHJpbnQobGlzdCh6aXAoYnVmZmVyX3JpbmdzLCB3ZWlnaHRfbGlzdCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

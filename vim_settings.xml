@@ -180,11 +180,10 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534931876304">
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="60" column="61" />
-        <mark key="." line="60" column="61" />
-        <mark key="^" line="60" column="61" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1534932635952">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -775,12 +774,12 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1534932159874">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1534933254473">
         <mark key="'" line="6" column="45" />
-        <mark key="[" line="115" column="22" />
-        <mark key="]" line="116" column="7" />
-        <mark key="^" line="116" column="7" />
-        <mark key="." line="116" column="7" />
+        <mark key="[" line="75" column="7" />
+        <mark key="]" line="75" column="44" />
+        <mark key="^" line="75" column="44" />
+        <mark key="." line="75" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -1034,40 +1033,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">LiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>django.core.exceptions</text>
+        <text encoding="base64">bGF5ZXJfaW5zdGFuY2Uud2VpZ2h0ID4gbGF5ZXJfbWF4X3Jlc2lzdGFuY2U=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdXZWlnaHQgbm90IHdpdGhpbiBhY2NlcHRhYmxlIGxpbWl0cycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndlaWdodF9tdWx0aXBsaWVyID0gc2VsZi5wcm9qZWN0LnByZWZlcmVuY2UubGF5ZXJfd2VpZ2h0X3ZhbHVlcwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYXllcl9pbnN0YW5jZS53ZWlnaHQgPiBsYXllcl9tYXhfcmVzaXN0YW5jZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JtYXQobGF5ZXJfbWluX3Jlc2lzdGFuY2UsIGxheWVyX21heF9yZXNpc3RhbmNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheWVyX21heF9yZXNpc3RhbmNlKTogICMgbm9xYQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXllcl9pbnN0YW5jZS5wcm9qZWN0LnByZWZlcmVuY2UubGF5ZXJfd2VpZ2h0X3ZhbHVlczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

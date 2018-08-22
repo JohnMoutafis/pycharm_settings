@@ -805,7 +805,10 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1534932164900" />
+      <file name="/Django Console" timestamp="1534953669665">
+        <mark key="'" line="0" column="24" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
         <mark key="[" line="0" column="0" />
       </file>
@@ -930,7 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/opsis/main.py" />
       <jump line="3" column="46" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/errors.py" />
       <jump line="10" column="14" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" />
@@ -1030,6 +1032,7 @@
       <jump line="46" column="29" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
       <jump line="57" column="85" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
       <jump line="58" column="62" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
+      <jump line="0" column="24" filename="/Django Console" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

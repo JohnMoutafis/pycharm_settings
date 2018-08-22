@@ -108,11 +108,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534869658235">
-        <mark key="[" line="46" column="45" />
-        <mark key="]" line="46" column="59" />
-        <mark key="^" line="46" column="59" />
-        <mark key="." line="46" column="59" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1534927822719">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="29" column="7" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -486,12 +486,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1534528066718">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1534927903857">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="70" />
-        <mark key="^" line="4" column="70" />
-        <mark key="." line="4" column="70" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="56" />
+        <mark key="^" line="32" column="56" />
+        <mark key="." line="32" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1039,10 +1039,7 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>min_x = envelope[0][0]
-    max_x = envelope[2][0]
-    min_y = envelope[0][1]
-    max_y = envelope[2][1]</text>
+        <text>ProjectPreferencesSerializer</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

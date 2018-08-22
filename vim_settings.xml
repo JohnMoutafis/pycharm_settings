@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534858944562">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="38" column="68" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1534950989854">
+        <mark key="[" line="39" column="63" />
+        <mark key="]" line="41" column="3" />
+        <mark key="." line="41" column="3" />
+        <mark key="^" line="41" column="3" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1534497203109">
         <mark key="[" line="0" column="0" />
@@ -1059,7 +1059,10 @@
     raster_data = models.RasterField(null=True)
     layer_color</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogQWRkIHJhc3RlciByZXNvbHV0aW9uIHdoZW4gZW52IHZhcmlhYmxlcyBhcmUgaW1wbGVtZW50ZWQK</text>
+      </register>
+      <register name="2" type="4">
         <text>Add Project Preferences model.
 
 Added Project Preferences model and corresponding endpoint 
@@ -1067,19 +1070,19 @@ Added Project Preferences model and corresponding endpoint
 Added validators on Layer and Category models to take under 
 consideration the Project Preferences.</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTGF5ZXIub2JqZWN0cy5idWxrX2NyZWF0ZShsYXllcnMpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWF4X2xlbmd0aD0yMCwgY2hvaWNlcz1DQVRFR09SWV9WQUxVRVNfU0VUVElORywgZGVmYXVsdD0xCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>try:
             preferences = ProjectPreferences.objects.get(project=project).values
         except ProjectPreferences.DoesNotExist:
@@ -1090,17 +1093,14 @@ consideration the Project Preferences.</text>
                 }, status=status.HTTP_404_NOT_FOUND
             )</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICkK</text>
-      </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAnbGF5ZXJfbWF4X3Jlc2lzdGFuY2UnLCAnbGF5ZXJfd2VpZ2h0X3ZhbHVlcycK</text>
+        <text encoding="base64">ICAgICAgICAjICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAncmFzdGVyX3Jlc29sdXRpb24nLCAnY2F0ZWdvcnlfdmFsdWVzX3NldHRpbmcnLCAnbGF5ZXJfbWluX3Jlc2lzdGFuY2UnLAo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAnbGF5ZXJfbWF4X3Jlc2lzdGFuY2UnLCAnbGF5ZXJfd2VpZ2h0X3ZhbHVlcycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

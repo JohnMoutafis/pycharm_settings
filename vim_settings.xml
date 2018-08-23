@@ -868,7 +868,10 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/mcda.py" timestamp="1535011045029" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/mcda.py" timestamp="1535021910656">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/validators.py" timestamp="1534933891354">
         <mark key="[" line="26" column="17" />
         <mark key="]" line="29" column="45" />
@@ -1052,7 +1055,7 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>MergeAlg.add</text>
+        <text>Joram Schito</text>
       </register>
       <register name="1" type="4">
         <text>Add copy-project endpoint

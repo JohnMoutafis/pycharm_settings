@@ -782,10 +782,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1535113068341">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1535118831042">
         <mark key="'" line="6" column="45" />
-        <mark key="]" line="146" column="76" />
-        <mark key="." line="146" column="76" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
         <mark key="^" line="146" column="76" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
@@ -1062,34 +1063,34 @@
         <text>django.core.exceptions.ValidationError</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGluc3RhbmNlLmlkKQo=</text>
+        <text encoding="base64">ICAgICMgc2NlbmFyaW86Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICMgZGF0YTogUmFzdGVyIGRhdGEgZm9yIGdlbmVyYXRlZCBtYXAuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90Lmltc2hvdyhkc3QucmVhZCgxKSkK</text>
+        <text encoding="base64">ICAgICMgdHlwZTogIyBjYW4gYmUgJ1Jlc2lzdGFuY2UnLCAnQ29ycmlkb3InIG9yICdQYXRoJy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICMgUmFzdGVyIG1vZGVsOiBjb250YWlucyByZXNpc3RhbmNlLCBjb3JyaWRvciByYXN0ZXIgZGF0YSBmb3IgZWFjaCBzY2VuYXJpbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGluc3RhbmNlLmlkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90LnNob3coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsYXllcl9pbnN0YW5jZS53ZWlnaHQgPCAwIGVsc2UgbWF4X3dlaWdodF92YWx1ZSAtIDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90Lmltc2hvdyhkc3QucmVhZCgxKSkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXllcl9pbnN0YW5jZS53ZWlnaHQgKyBtYXhfd2VpZ2h0X3ZhbHVlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd2VpZ2h0X3ZhbHVlc1tsYXllcl9pbnN0YW5jZS53ZWlnaHQgKyBtYXhfd2VpZ2h0X3ZhbHVlIC0gMV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

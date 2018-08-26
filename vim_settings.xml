@@ -490,12 +490,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535283371012">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535285899638">
         <mark key="'" line="6" column="29" />
-        <mark key="[" line="170" column="35" />
-        <mark key="]" line="170" column="63" />
-        <mark key="." line="170" column="63" />
-        <mark key="^" line="170" column="63" />
+        <mark key="[" line="165" column="49" />
+        <mark key="]" line="172" column="60" />
+        <mark key="." line="172" column="60" />
+        <mark key="^" line="172" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1056,7 +1056,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'Resistance map with id:{} was processed successfully'.format(map_instance.id)</text>
+        <text encoding="base64">dXBkYXRlcyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>

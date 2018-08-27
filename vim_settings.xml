@@ -109,11 +109,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1535371956929">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1535376778598">
+        <mark key="[" line="14" column="95" />
+        <mark key="]" line="14" column="95" />
+        <mark key="." line="14" column="95" />
+        <mark key="^" line="14" column="95" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -785,8 +785,10 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1535303109216">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1535375228544">
         <mark key="'" line="6" column="45" />
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -843,10 +845,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535303313253">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1535376854224">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1053,43 +1055,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXBkYXRlZCA=</text>
+        <text>Weights Implementation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>validate_buffer_resistance_factors</text>
+        <text>preferences = ProjectPreferencesSerializer(read_only=True)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3dlaWdodF9pbnRlcnZhbHMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UoeydyZXNpc3RhbmNlX21hcCc6IHJlc2lzdGFuY2VfbWFwLmlkfSwgc3RhdHVzPXN0YXR1cy5IVFRQXzIwMl9BQ0NFUFRFRCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ByZWZlcmVuY2VzJywK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAuYXBwbHlfYXN5bmMoW3Jlc2lzdGFuY2VfbWFwLmlkXSkK</text>
+        <text encoding="base64">ICAgIHByZWZlcmVuY2VzID0gc2VyaWFsaXplcnMuUmVhZE9ubHlGaWVsZChzb3VyY2U9J3ByZWZlcmVuY2UnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpc3RhbmNlX21hcCwgdXBkYXRlZCA9IFJlc2lzdGFuY2VNYXAub2JqZWN0cy5nZXRfb3JfY3JlYXRlKHByb2plY3Q9cHJvamVjdCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2JqLnByZWZlcmVuY2UK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsnZXJyb3InOiAnUHJvamVjdCBkb2VzIG5vdCBleGlzdCd9LCBzdGF0dXM9c3RhdHVzLkhUVFBfNDA0X05PVF9GT1VORCkK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcHJlZmVyZW5jZXMoc2VsZiwgb2JqKToK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgUHJvamVjdC5Eb2VzTm90RXhpc3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ByZWZlcmVuY2UuaWQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdCA9IFByb2plY3Qub2JqZWN0cy5nZXQocGs9cmVxdWVzdC5kYXRhLmdldCgncHJvamVjdCcsIE5vbmUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

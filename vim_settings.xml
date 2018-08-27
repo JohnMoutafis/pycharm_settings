@@ -497,12 +497,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535385663414">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535391099810">
         <mark key="'" line="188" column="70" />
-        <mark key="[" line="216" column="17" />
-        <mark key="]" line="217" column="7" />
-        <mark key="." line="217" column="7" />
-        <mark key="^" line="217" column="7" />
+        <mark key="[" line="226" column="62" />
+        <mark key="]" line="227" column="7" />
+        <mark key="." line="227" column="7" />
+        <mark key="^" line="227" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -847,10 +847,10 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535385734038">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1535391130004">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1065,35 +1065,38 @@
       <register name="0" type="4">
         <text>logger = logging.getLogger('gilytics')</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA5NTE1ODk1ZDFlZGZlMzI5YmI0Yjk3ZGJjM2Y2YTkzNzhiNGFiYWE0Cg==</text>
+      <register name="1" type="4">
+        <text>Remove race condition.
+
+Removed race condition in resistance map generation, where the previous
+raster_data could interfere with the polling method.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiYXNlNjQuYjY0ZW5jb2RlKHJlc2lzdGFuY2VfbWFwLnRvX3BuZy50b2J5dGVzKCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA5NTE1ODk1ZDFlZGZlMzI5YmI0Yjk3ZGJjM2Y2YTkzNzhiNGFiYWE0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIGxheWVyX2lkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXllcl9jb2xvcjogcmdiQ29sb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhdGNoTGF5ZXIoewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIGxheWVyX2lkKTsK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxheWVyX2lkICE9ICJ1bmRlZmluZWQiKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXllcl9jb2xvcjogcmdiQ29sb3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhdGNoTGF5ZXIoewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

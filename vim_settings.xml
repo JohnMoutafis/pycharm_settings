@@ -188,12 +188,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1535447778357">
-        <mark key="'" line="220" column="4" />
-        <mark key="[" line="189" column="77" />
-        <mark key="]" line="73" column="33" />
-        <mark key="." line="73" column="33" />
-        <mark key="^" line="73" column="33" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1535451210102">
+        <mark key="'" line="217" column="4" />
+        <mark key="[" line="186" column="80" />
+        <mark key="]" line="186" column="30" />
+        <mark key="^" line="186" column="30" />
+        <mark key="." line="186" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -1062,7 +1062,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>layer</text>
+        <text>collection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1073,37 +1073,34 @@
         pyplot.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2plY3RfYXJlYS50cmFuc2Zvcm0oMzEzNzApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFyZWEgPSBwcm9qZWN0X2FyZWEudHJhbnNmb3JtKCkK</text>
+        <text encoding="base64">ICAgIGJvdW5kcyA9IHByb2plY3RfYXJlYS5leHRlbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHhzaXplPXJhc3Rlcl9yZXNvbHV0aW9uLCB5c2l6ZT1yYXN0ZXJfcmVzb2x1dGlvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybSA9IGZyb21fb3JpZ2luKHdlc3Q9cHJvamVjdF9hcmVhLmV4dGVudFswXSwgbm9ydGg9cHJvamVjdF9hcmVhLmV4dGVudFszXSwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bG9nZ2VyLmluZm8oJ1JlbW92aW5nIGFueSBwcmV2aW91c2x5IHByb2Nlc3NlZCBkYXRhLi4uJykKICAgIGxheWVyLnByb2Nlc3NlZF9kYXRhID0gTm9uZQogICAgbGF5ZXIucmFzdGVyX2RhdGEgPSBOb25lCiAgICBsYXllci5zYXZlKCkK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb2plY3RfYXJlYS50cmFuc2Zvcm0oMzEzNzApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB5cGxvdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyb20gbWF0cGxvdGxpYiBpbXBvcnQgcHlwbG90Cg==</text>
+        <text encoding="base64">ICAgIGFyZWEgPSBwcm9qZWN0X2FyZWEudHJhbnNmb3JtKCkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text>Remove race condition.
-
-Removed race condition in resistance map generation, where the previous
-raster_data could interfere with the polling method.</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiYXNlNjQuYjY0ZW5jb2RlKHJlc2lzdGFuY2VfbWFwLnRvX3BuZy50b2J5dGVzKCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

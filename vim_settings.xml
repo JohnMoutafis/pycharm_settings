@@ -72,13 +72,13 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1535447379176">
-        <mark key="a" line="56" column="22" />
-        <mark key="'" line="106" column="4" />
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="76" column="30" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1535448456010">
+        <mark key="a" line="55" column="22" />
+        <mark key="'" line="105" column="4" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="75" column="30" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1534497203109">
         <mark key="[" line="0" column="0" />
@@ -115,12 +115,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1535447501901">
-        <mark key="'" line="98" column="19" />
-        <mark key="[" line="99" column="74" />
-        <mark key="]" line="100" column="56" />
-        <mark key="." line="100" column="56" />
-        <mark key="^" line="100" column="56" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1535448382154">
+        <mark key="'" line="99" column="19" />
+        <mark key="[" line="89" column="67" />
+        <mark key="]" line="90" column="49" />
+        <mark key="." line="90" column="49" />
+        <mark key="^" line="90" column="49" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -261,7 +261,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1535445631646">
+      <file name="/Python Console" timestamp="1535448687884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534179943143">
@@ -1071,37 +1071,37 @@
         pyplot.show()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFyZWEgPSBwcm9qZWN0X2FyZWEudHJhbnNmb3JtKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZWEgPSBwcm9qZWN0X2FyZWEudHJhbnNmb3JtKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">bG9nZ2VyLmluZm8oJ1JlbW92aW5nIGFueSBwcmV2aW91c2x5IHByb2Nlc3NlZCBkYXRhLi4uJykKICAgIGxheWVyLnByb2Nlc3NlZF9kYXRhID0gTm9uZQogICAgbGF5ZXIucmFzdGVyX2RhdGEgPSBOb25lCiAgICBsYXllci5zYXZlKCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB5cGxvdC4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGZyb20gbWF0cGxvdGxpYiBpbXBvcnQgcHlwbG90Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="w" type="4">
+        <text>u</text>
+      </register>
+      <register name="8" type="4">
         <text>Remove race condition.
 
 Removed race condition in resistance map generation, where the previous
 raster_data could interfere with the polling method.</text>
       </register>
-      <register name="w" type="4">
-        <text>u</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiYXNlNjQuYjY0ZW5jb2RlKHJlc2lzdGFuY2VfbWFwLnRvX3BuZy50b2J5dGVzKCkpKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA5NTE1ODk1ZDFlZGZlMzI5YmI0Yjk3ZGJjM2Y2YTkzNzhiNGFiYWE0Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiYXNlNjQuYjY0ZW5jb2RlKHJlc2lzdGFuY2VfbWFwLnRvX3BuZy50b2J5dGVzKCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

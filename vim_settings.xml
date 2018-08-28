@@ -498,12 +498,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535463839805">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535464479188">
         <mark key="'" line="188" column="70" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
-        <mark key="^" line="237" column="83" />
+        <mark key="[" line="237" column="59" />
+        <mark key="]" line="237" column="59" />
+        <mark key="." line="237" column="59" />
+        <mark key="^" line="237" column="85" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1061,13 +1061,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Convert map png to base64 string.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>The extent by definition has the following format: `(min_x, min_y, max_x, max_y)`.</text>
+        <text>resistance_map.to_png.tobytes()), content_type=&quot;image/png&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKHJlc2lzdGFuY2VfbWFwLnRvX3BuZy50b2J5dGVzKCksIGNvbnRlbnRfdHlwZT0naW1hZ2UvcG5nJykK</text>

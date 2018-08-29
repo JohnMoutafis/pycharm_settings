@@ -72,12 +72,12 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1535540450479">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="70" column="70" />
-        <mark key="]" line="70" column="54" />
-        <mark key="^" line="70" column="54" />
-        <mark key="." line="70" column="54" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1535554374421">
+        <mark key="'" line="101" column="29" />
+        <mark key="[" line="86" column="25" />
+        <mark key="]" line="87" column="27" />
+        <mark key="^" line="87" column="27" />
+        <mark key="." line="87" column="27" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1534497203109">
         <mark key="[" line="0" column="0" />
@@ -501,11 +501,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535542199078">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535553817894">
         <mark key="'" line="240" column="88" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
+        <mark key="[" line="222" column="29" />
+        <mark key="]" line="222" column="30" />
+        <mark key="." line="222" column="30" />
+        <mark key="^" line="222" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -818,7 +819,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1535449311648">
+      <file name="/Django Console" timestamp="1535553626668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
@@ -949,7 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/settings.py" />
       <jump line="58" column="12" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/api/serializers.py" />
       <jump line="14" column="6" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/api/views.py" />
       <jump line="10" column="7" filename="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/mailer/views.py" />
@@ -1049,6 +1049,7 @@
       <jump line="92" column="19" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" />
       <jump line="323" column="80" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
       <jump line="240" column="88" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
+      <jump line="95" column="29" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1064,43 +1065,48 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>GTiff</text>
+        <text>by combining the corresponding project layers' raster data into a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>scenario__project__owner</text>
+        <text>&quot;&quot;&quot;
+    Generates a resistance map by combining the corresponding project layers' raster data into a
+    single raster.
+    Args:
+        map_id: A ResistanceMap instance's id.
+    &quot;&quot;&quot;</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHNpbmdsZSByYXN0ZXIuCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKHJlc2lzdGFuY2VfbWFwLnRvX3BuZy50b2J5dGVzKCksIGNvbnRlbnRfdHlwZT0naW1hZ2UvcG5nJykK</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;</text>
-      </register>
       <register name="3" type="4">
-        <text>image/png</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="5" type="4">
         <text>image/png</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2NhdGFsb2d1ZV9uZXcnLCAnMDAwMV9pbml0aWFsJyksCg==</text>
+      <register name="5" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="6" type="4">
+        <text>image/png</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoID0gbW9kZWxzLgo=</text>
+        <text encoding="base64">ICAgICAgICAoJ2NhdGFsb2d1ZV9uZXcnLCAnMDAwMV9pbml0aWFsJyksCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X3BvaW50ID0gCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoID0gbW9kZWxzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAlICAgIDAgMCAwIDI1NVxuCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3BvaW50ID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

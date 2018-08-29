@@ -386,12 +386,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1534526979861">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="253" column="64" />
-        <mark key="]" line="253" column="85" />
-        <mark key="." line="255" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
@@ -470,6 +464,7 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/corridor.py" timestamp="1535551015383" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/index.rst" timestamp="1528466387798">
         <mark key="[" line="72" column="2" />
         <mark key="]" line="70" column="39" />

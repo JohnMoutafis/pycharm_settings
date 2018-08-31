@@ -114,12 +114,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1535709163689">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1535714093297">
         <mark key="'" line="97" column="19" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="157" column="39" />
-        <mark key="." line="152" column="48" />
-        <mark key="^" line="152" column="48" />
+        <mark key="[" line="143" column="39" />
+        <mark key="]" line="143" column="49" />
+        <mark key="^" line="143" column="49" />
+        <mark key="." line="143" column="49" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -187,11 +187,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1535712549832">
-        <mark key="[" line="243" column="96" />
-        <mark key="]" line="244" column="3" />
-        <mark key="^" line="244" column="3" />
-        <mark key="." line="244" column="3" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1535714487674">
+        <mark key="[" line="280" column="14" />
+        <mark key="]" line="281" column="21" />
+        <mark key="^" line="281" column="21" />
+        <mark key="." line="281" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -463,10 +463,10 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/corridor.py" timestamp="1535712495908">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/corridor.py" timestamp="1535714194909">
         <mark key="'" line="529" column="29" />
-        <mark key="[" line="518" column="4" />
-        <mark key="]" line="520" column="32" />
+        <mark key="[" line="524" column="4" />
+        <mark key="]" line="562" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/index.rst" timestamp="1528466387798">
         <mark key="[" line="72" column="2" />
@@ -504,11 +504,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535709205234">
-        <mark key="[" line="161" column="4" />
-        <mark key="]" line="161" column="4" />
-        <mark key="^" line="161" column="4" />
-        <mark key="." line="161" column="4" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1535714079274">
+        <mark key="'" line="259" column="0" />
+        <mark key="[" line="271" column="52" />
+        <mark key="]" line="271" column="53" />
+        <mark key="^" line="271" column="52" />
+        <mark key="." line="271" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -952,7 +953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="7" filename="$USER_HOME$/PycharmProjects/vermantia-rgs.ermis/ermis/mailer/views.py" />
       <jump line="25" column="29" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/api/views.py" />
       <jump line="13" column="13" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/api/views.py" />
       <jump line="21" column="27" filename="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/api/urls.py" />
@@ -1052,6 +1052,7 @@
       <jump line="95" column="29" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" />
       <jump line="182" column="12" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" />
       <jump line="529" column="29" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/corridor.py" />
+      <jump line="258" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1067,45 +1068,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>indices, weight = route_through_array(cost_surface_array, points_idx[0], points_idx[1], geometric=False,
-                                          fully_connected=True)
-    indices = np.array(indices).T</text>
+        <text encoding="base64">aWYgZXBzaWxvbiA9PSAwOgogICAgICAgIHBhdGhfYXJyYXkgPSBucC5uYW4gKiBucC5lbXB0eV9saWtlKGNvc3Rfc3VyZmFjZV9hcnJheSkKICAgICAgICBwYXRoX2FycmF5W2luZGljZXNbMF0sIGluZGljZXNbMV1dID0gMQogICAgICAgIHJldHVybiBwYXRoX2FycmF5CiAgICBlbHNlOgogICAgICAgIGluZGljZXNfc21vb3RoZWQgPSByZHAoaW5kaWNlcy5yZXNoYXBlKAogICAgICAgICAgICAoLTEpLCBvcmRlcj0nRicpLnJlc2hhcGUoKC0xLCAyKSksIGVwc2lsb24pLnJlc2hhcGUoKC0xKSkKICAgICAgICAjIHByaW50KCAiaW5kaWNlc19zbW9vdGhlZCIsIGluZGljZXNfc21vb3RoZWQpCiAgICAgICAgeDAgPSBOb25lCiAgICAgICAgeTAgPSBOb25lCiAgICAgICAgaW5kaWNlc19zbW9vdGhlZF94ID0gW10KICAgICAgICBpbmRpY2VzX3Ntb290aGVkX3kgPSBbXQogICAgICAgIGZvciAoeCwgeSkgaW4gaW5kaWNlc19zbW9vdGhlZC5yZXNoYXBlKCgtMSwgMikpOgogICAgICAgICAgICBpZiBub3QgeDAgaXMgTm9uZToKICAgICAgICAgICAgICAgICMgcHJpbnQoIHgwLHkwLCItPiIseCx5KQogICAgICAgICAgICAgICAgaWYgYWJzKHggLSB4MCkgPj0gYWJzKHkgLSB5MCk6CiAgICAgICAgICAgICAgICAgICAgc2NhbGUgPSAxLiAqICh5IC0geTApIC8gKHggLSB4MCkKICAgICAgICAgICAgICAgICAgICBmb3IgeHggaW4gcmFuZ2UoeDAsIHggKyAoMSBpZiB4ID4geDAgZWxzZSAtMSksIDEgaWYgeCA+IHgwIGVsc2UgLTEpOgogICAgICAgICAgICAgICAgICAgICAgICB5eSA9IHkwICsgaW50KHJvdW5kKHNjYWxlICogKHh4IC0geDApKSkKICAgICAgICAgICAgICAgICAgICAgICAgIyBwcmludCggInh4IiwgeHgsIHl5KQogICAgICAgICAgICAgICAgICAgICAgICBpbmRpY2VzX3Ntb290aGVkX3guYXBwZW5kKHh4KQogICAgICAgICAgICAgICAgICAgICAgICBpbmRpY2VzX3Ntb290aGVkX3kuYXBwZW5kKHl5KQogICAgICAgICAgICAgICAgICAgIGFzc2VydCAoeHggPT0geCBhbmQgeXkgPT0geSkKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgc2NhbGUgPSAxLiAqICh4IC0geDApIC8gKHkgLSB5MCkKICAgICAgICAgICAgICAgICAgICBmb3IgeXkgaW4gcmFuZ2UoeTAsIHkgKyAoMSBpZiB5ID4geTAgZWxzZSAtMSksIDEgaWYgeSA+IHkwIGVsc2UgLTEpOgogICAgICAgICAgICAgICAgICAgICAgICB4eCA9IHgwICsgaW50KHJvdW5kKHNjYWxlICogKHl5IC0geTApKSkKICAgICAgICAgICAgICAgICAgICAgICAgIyBwcmludCggInl5IiwgeHgsIHl5KQogICAgICAgICAgICAgICAgICAgICAgICBpbmRpY2VzX3Ntb290aGVkX3guYXBwZW5kKHh4KQogICAgICAgICAgICAgICAgICAgICAgICBpbmRpY2VzX3Ntb290aGVkX3kuYXBwZW5kKHl5KQogICAgICAgICAgICAgICAgICAgIGFzc2VydCAoeHggPT0geCBhbmQgeXkgPT0geSkKICAgICAgICAgICAgeDAgPSB4CiAgICAgICAgICAgIHkwID0geQogICAgICAgICMgYWRkIGxhc3QgcG9pbnQKICAgICAgICAjIHByaW50KCAiZW5kIHBvaW50Iix4LHkpCiAgICAgICAgcGF0aF9hcnJheV9zbW9vdGhlZCA9IG5wLmVtcHR5X2xpa2UoY29zdF9zdXJmYWNlX2FycmF5KQogICAgICAgICMgcGF0aF9hcnJheV9zbW9vdGhlZFtpbmRpY2VzX3Ntb290aGVkWzo6Ml0saW5kaWNlc19zbW9vdGhlZFsxOjoyXV0gPSAxCiAgICAgICAgcGF0aF9hcnJheV9zbW9vdGhlZFtpbmRpY2VzX3Ntb290aGVkX3gsIGluZGljZXNfc21vb3RoZWRfeV0gPSAxCiAgICAgICAgcmV0dXJuIHBhdGhfYXJyYXlfc21vb3RoZWQsIGluZGljZXNfc21vb3RoZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoICJpbmRpY2VzX3Ntb290aGVkIiwgaW5kaWNlc19zbW9vdGhlZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdEZWZpbmVkIHRocmVzaG9sZCBpczoge30nLmZvcm1hdCh0aHJlc2hvbGQpKQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRocmVzaG9sZCA9IDEgKyB0aHJlc2hvbGQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGF0aF9hcnJheQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlc2hvbGQ6ICAgVGhlIGNvcnJpZG9yJ3MgYWNjZXB0ZWQgdGhyZXNob2xkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9uIGEK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29ycmlkb3JTZXJpYWxpemVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ0NyZWF0ZScsIHZpZXdzLkNyZWF0ZSwgbmFtZT0iQ3JlYXRlIiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyZWF0ZUNvcnJpZG9yU2VyaWFsaXplcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ0dlbmVyYXRlQ29ycmlkb3InLCB2aWV3cy5HZW5lcmF0ZUNvcnJpZG9yLCBuYW1lPSJHZW5lcmF0ZUNvcnJpZG9yIiksCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFjdGlvbiA9PSAnY2FsY3VsYXRlX2NvcnJpZG9yJzoK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ0dlbmVyYXRlUmVzaXN0YW5jZScsIHZpZXdzLkdlbmVyYXRlUmVzaXN0YW5jZSwgbmFtZT0iR2VuZXJhdGVSZXNpc3RhbmNlIiksCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPdmVycmlkZSBnZXRfc2VyaWFsaXplcl9jbGFzcyB0byByZXR1cm4gYSBzcGVjaWFsIHNlcmlhbGl6ZXIgaWYgYWN0aW9uPT1jYWxjdWxhdGVfY29ycmlkb3IuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

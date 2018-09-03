@@ -180,11 +180,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1535974533873">
-        <mark key="[" line="293" column="24" />
-        <mark key="]" line="293" column="62" />
-        <mark key="." line="293" column="62" />
-        <mark key="^" line="293" column="62" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1535975263736">
+        <mark key="[" line="293" column="30" />
+        <mark key="]" line="293" column="20" />
+        <mark key="." line="293" column="20" />
+        <mark key="^" line="293" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -1072,7 +1072,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ret_x</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1081,34 +1081,34 @@
         <text>np.ravel_multi_index(ret, path_array_smoothed.shape)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG8gPSBucC5peF8ocmV0WzBdLCByZXRbMV0pCg==</text>
+        <text encoding="base64">ICAgIHBhdGhfYXJyYXlfc21vb3RoZWQgPSBucC5uYW4gKiBucC5lbXB0eV9saWtlKGNvc3Rfc3VyZmFjZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG8gPSBucC5yYXZlbF9tdWx0aV9pbmRleChyZXQsIHBhdGhfYXJyYXlfc21vb3RoZWQuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIG8gPSBucC5peF8ocmV0WzBdLCByZXRbMV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGhfYXJyYXlfc21vb3RoZWRbdHVwbGUocmV0KV0gPSAxCg==</text>
+        <text encoding="base64">ICAgIG8gPSBucC5yYXZlbF9tdWx0aV9pbmRleChyZXQsIHBhdGhfYXJyYXlfc21vb3RoZWQuc2hhcGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdIT0RPUj8/JykK</text>
+        <text encoding="base64">ICAgIHBhdGhfYXJyYXlfc21vb3RoZWRbdHVwbGUocmV0KV0gPSAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXQK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdIT0RPUj8/JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZmlsdGVyZWQgPSBzYXZnb2xfZmlsdGVyKGluZGljZXNfc21vb3RoZWQsIGxlbihpbmRpY2VzX3Ntb290aGVkKS0xLCAzKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBzYXZnb2xfZmlsdGVyCg==</text>
+        <text encoding="base64">ICAgICMgZmlsdGVyZWQgPSBzYXZnb2xfZmlsdGVyKGluZGljZXNfc21vb3RoZWQsIGxlbihpbmRpY2VzX3Ntb290aGVkKS0xLCAzKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBzYXZnb2xfZmlsdGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

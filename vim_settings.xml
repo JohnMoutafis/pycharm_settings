@@ -138,6 +138,12 @@
         <mark key="." line="4" column="55" />
         <mark key="^" line="4" column="59" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/admin.py" timestamp="1536241722572">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg" timestamp="1526646209106">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="78" />
@@ -1076,34 +1082,34 @@
         <text>x_cell = (raster_extent[2] - raster_extent[0])/raster_shape[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhLCBiID0gcG9pbnQueCwgcG9pbnQueQo=</text>
+        <text encoding="base64">YWRtaW4ucmVnaXN0ZXIoQWNjb3VudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQ2hhbmdlIHRoaXMgdG8gYSBzY2VuYXJpbyBmaWVsZCB3aGVuIGltcGxlbWVudGVkLgo=</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICBhLCBiID0gcG9pbnQueCwgcG9pbnQueQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQ2hhbmdlIHRoaXMgdG8gYSBzY2VuYXJpbyBmaWVsZCB3aGVuIGltcGxlbWVudGVkLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGluc3RhbmNlLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5wcm9jZXNzX2FuZF9yYXN0ZXJpemVfbGF5ZXIobGF5ZXIuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGluc3RhbmNlLmlkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

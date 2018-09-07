@@ -132,6 +132,9 @@
         <mark key="." line="133" column="46" />
         <mark key="^" line="133" column="46" />
       </file>
+      <file name="/gilytics.public.users_account [gilytics@localhost]" timestamp="1536327259194">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/bot_index.rst" timestamp="1527015880560">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -875,6 +878,9 @@
         <mark key="]" line="8" column="26" />
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
+      </file>
+      <file name="/dummy.sql" timestamp="1536327262361">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/errors.py" timestamp="1533194464599">
         <mark key="[" line="36" column="21" />

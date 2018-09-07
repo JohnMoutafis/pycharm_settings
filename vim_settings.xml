@@ -114,11 +114,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1536305379652">
-        <mark key="[" line="163" column="50" />
-        <mark key="]" line="163" column="69" />
-        <mark key="^" line="163" column="69" />
-        <mark key="." line="163" column="69" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1536306011731">
+        <mark key="[" line="174" column="71" />
+        <mark key="]" line="174" column="66" />
+        <mark key="^" line="174" column="66" />
+        <mark key="." line="174" column="66" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -814,9 +814,9 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1536305304687">
-        <mark key="[" line="192" column="8" />
-        <mark key="]" line="192" column="24" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1536306166162">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
         <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
@@ -1103,34 +1103,34 @@
         <text>resistance_map_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQ2hhbmdlIHRoaXMgdG8gYSBzY2VuYXJpbyBmaWVsZCB3aGVuIGltcGxlbWVudGVkLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBnaWx5dGljcyBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gcmVxdWVzdC51c2VyLmEK</text>
+        <text encoding="base64">ZnJvbSBnaWx5dGljcyBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuCg==</text>
+        <text encoding="base64">ICAgICAgICBhID0gcmVxdWVzdC51c2VyLmEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRtaW4ucmVnaXN0ZXIoQWNjb3VudCkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
+        <text encoding="base64">YWRtaW4ucmVnaXN0ZXIoQWNjb3VudCkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhLCBiID0gcG9pbnQueCwgcG9pbnQueQo=</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQ2hhbmdlIHRoaXMgdG8gYSBzY2VuYXJpbyBmaWVsZCB3aGVuIGltcGxlbWVudGVkLgo=</text>
+        <text encoding="base64">ICAgICAgICBhLCBiID0gcG9pbnQueCwgcG9pbnQueQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

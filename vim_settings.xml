@@ -176,11 +176,11 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/Programs/db_project_2018/spatial_queries.sql" timestamp="1536504195446">
-        <mark key="[" line="67" column="24" />
-        <mark key="]" line="69" column="81" />
-        <mark key="^" line="69" column="81" />
-        <mark key="." line="69" column="81" />
+      <file name="$USER_HOME$/Programs/db_project_2018/spatial_queries.sql" timestamp="1536514882496">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="67" column="23" />
+        <mark key="^" line="89" column="57" />
+        <mark key="." line="89" column="57" />
       </file>
       <file name="/jgmoutafisdb.project_2018.gr_administrativeareas [ntua_postgis]" timestamp="1536497405435">
         <mark key="[" line="0" column="0" />
@@ -637,12 +637,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" timestamp="1536504142695">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" timestamp="1536515229539">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="13" column="2" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1528705050723">
         <mark key="[" line="47" column="5" />
@@ -785,6 +785,12 @@
         <mark key="^" line="11" column="76" />
         <mark key="." line="11" column="76" />
       </file>
+      <file name="$USER_HOME$/Programs/db_project_2018/geometry_function_queries.sql" timestamp="1536515289939">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="39" column="23" />
+        <mark key="^" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/fuzzybot/strategies.py" timestamp="1526401878676">
         <mark key="[" line="107" column="11" />
         <mark key="]" line="107" column="18" />
@@ -806,6 +812,12 @@
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/urls.py" timestamp="1536337416884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/Programs/db_project_2018/project_2018_visualization.html" timestamp="1536517240897">
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="15" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="30" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
         <mark key="[" line="45" column="0" />
@@ -941,7 +953,7 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="/dummy.sql" timestamp="1536500088747">
+      <file name="/dummy.sql" timestamp="1536514896631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/errors.py" timestamp="1533194464599">
@@ -965,7 +977,7 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536430602061">
+      <file name="/Dummy.txt" timestamp="1536517726943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -1056,7 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
       <jump line="1399" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
       <jump line="148" column="90" filename="$USER_HOME$/dotfiles/bashrc" />
@@ -1155,6 +1166,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/tests/test_login.py" />
       <jump line="2" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" />
       <jump line="6" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" />
     </jumps>
     <registers>
@@ -1171,43 +1183,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ST_DISTANCE(rrd.geom, mrd.geom)</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U0VMRUNUCiAgYWRtLm5hbWVfMSBBUyBhcmVhX25hbWUsCiAgcnJkLmlkIEFTIHJhaWxyb2FkX2lkLAogIG1yZC5pZCBBUyByb2FkX2lkLAogIG1yZC5ydHRfZGVzY3JpIEFTIHJvYWRfdHlwZSwKICBTVF9ESVNUQU5DRShycmQuZ2VvbSwgbXJkLmdlb20pIEFTIGRpc3RhbmNlCkZST00KICBwcm9qZWN0XzIwMTguZ3JfcmFpbHJvYWRzeXN0ZW0gQVMgcnJkLAogIHByb2plY3RfMjAxOC5ncl9hZG1pbmlzdHJhdGl2ZWFyZWFzIEFTIGFkbQogIEpPSU4gcHJvamVjdF8yMDE4LmdyX21ham9ycm9hZHN5c3RlbSBBUyBtcmQgT04gKAogICAgYWRtLm5hbWVfMSBMSUtFICdBdHRpY2EnIEFORAogICAgbXJkLnJ0dF9kZXNjcmkgTElLRSAnUHJpbWFyeSBSb3V0ZScgQU5ECiAgICBTVF9JTlRFUlNFQ1RTKG1yZC5nZW9tLCBhZG0uZ2VvbSkKICApCldIRVJFIHJyZC5pZCA9IDYxCk9SREVSIEJZIG1yZC5nZW9tIDwtPiBycmQuZ2VvbSBMSU1JVCAxOw==</text>
+        <text>DB Project 2018 by John Moutafis</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNUX0lOVEVSU0VDVFMocnJkLmdlb20sIGFkbS5nZW9tKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJyZC5leHNfZGVzY3JpIExJS0UgJ09wZXJhdGlvbmFsJyBBTkQK</text>
+        <text encoding="base64">ICAgICAgICBdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkbS5uYW1lXzEgTElLRSAnQXR0aWNhJyBBTkQK</text>
+        <text encoding="base64">ICAgICAgICAgIG9wZW5TZWFNYXBMYXllcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBKT0lOIHByb2plY3RfMjAxOC5ncl9yYWlscm9hZHN5c3RlbSBBUyBycmQgT04gKAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9wZW5DeWNsZU1hcExheWVyLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1yZF9zZWNvbmRhcnkucnR0X2Rlc2NyaSBMSUtFICdTZWNvbmRhcnkgUm91dGUnIEFORAo=</text>
+        <text encoding="base64">ICAgICAgICBsYXllcnM6IFsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1yZF9wcmltYXJ5LnJ0dF9kZXNjcmkgTElLRSAnUHJpbWFyeSBSb3V0ZScgQU5ECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNUX0lOVEVSU0VDVFMobXJkX3NlY29uZGFyeS5nZW9tLCBhZG0uZ2VvbSkK</text>
+        <text encoding="base64">ICAgIC8vIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

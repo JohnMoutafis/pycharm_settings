@@ -176,11 +176,11 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/Programs/db_project_2018/spatial_queries.sql" timestamp="1536502399191">
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="43" column="57" />
-        <mark key="^" line="43" column="57" />
-        <mark key="." line="43" column="57" />
+      <file name="$USER_HOME$/Programs/db_project_2018/spatial_queries.sql" timestamp="1536504195446">
+        <mark key="[" line="67" column="24" />
+        <mark key="]" line="69" column="81" />
+        <mark key="^" line="69" column="81" />
+        <mark key="." line="69" column="81" />
       </file>
       <file name="/jgmoutafisdb.project_2018.gr_administrativeareas [ntua_postgis]" timestamp="1536497405435">
         <mark key="[" line="0" column="0" />
@@ -637,12 +637,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" timestamp="1536502373088">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" timestamp="1536504142695">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="57" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="13" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1528705050723">
         <mark key="[" line="47" column="5" />
@@ -1171,59 +1171,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>ST_DISTANCE(rrd.geom, mrd.geom)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>SELECT
-  adm.name_1 AS area_name,
-  mrd_primary.id AS primary_road_id,
-  mrd_secondary.id AS secondary_road_id
-FROM
-  project_2018.gr_administrativeareas AS adm
-  JOIN project_2018.gr_majorroadsystem AS mrd_primary ON (
-    adm.name_1 LIKE 'Attica' AND
-    mrd_primary.rtt_descri LIKE 'Primary Route' AND
-    ST_INTERSECTS(mrd_primary.geom, adm.geom)
-  )
-  JOIN project_2018.gr_majorroadsystem AS mrd_secondary ON (
-    adm.name_1 LIKE 'Attica' AND
-    mrd_secondary.rtt_descri LIKE 'Secondary Route' AND
-    ST_INTERSECTS(mrd_secondary.geom, adm.geom)
-  )
-WHERE ST_INTERSECTS(mrd_primary.geom, mrd_secondary.geom);</text>
+        <text encoding="base64">U0VMRUNUCiAgYWRtLm5hbWVfMSBBUyBhcmVhX25hbWUsCiAgcnJkLmlkIEFTIHJhaWxyb2FkX2lkLAogIG1yZC5pZCBBUyByb2FkX2lkLAogIG1yZC5ydHRfZGVzY3JpIEFTIHJvYWRfdHlwZSwKICBTVF9ESVNUQU5DRShycmQuZ2VvbSwgbXJkLmdlb20pIEFTIGRpc3RhbmNlCkZST00KICBwcm9qZWN0XzIwMTguZ3JfcmFpbHJvYWRzeXN0ZW0gQVMgcnJkLAogIHByb2plY3RfMjAxOC5ncl9hZG1pbmlzdHJhdGl2ZWFyZWFzIEFTIGFkbQogIEpPSU4gcHJvamVjdF8yMDE4LmdyX21ham9ycm9hZHN5c3RlbSBBUyBtcmQgT04gKAogICAgYWRtLm5hbWVfMSBMSUtFICdBdHRpY2EnIEFORAogICAgbXJkLnJ0dF9kZXNjcmkgTElLRSAnUHJpbWFyeSBSb3V0ZScgQU5ECiAgICBTVF9JTlRFUlNFQ1RTKG1yZC5nZW9tLCBhZG0uZ2VvbSkKICApCldIRVJFIHJyZC5pZCA9IDYxCk9SREVSIEJZIG1yZC5nZW9tIDwtPiBycmQuZ2VvbSBMSU1JVCAxOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICApOwo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUK</text>
+        <text encoding="base64">ICAgIFNUX0lOVEVSU0VDVFMocnJkLmdlb20sIGFkbS5nZW9tKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm9qZWN0XzIwMTguZ3JfbWFqb3Jyb2Fkc3lzdGVtIEFTIG1yZF9zZWNvbmRhcnkK</text>
+        <text encoding="base64">ICAgIHJyZC5leHNfZGVzY3JpIExJS0UgJ09wZXJhdGlvbmFsJyBBTkQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm9qZWN0XzIwMTguZ3JfbWFqb3Jyb2Fkc3lzdGVtIEFTIG1yZF9wcmltYXJ5LAo=</text>
+        <text encoding="base64">ICAgIGFkbS5uYW1lXzEgTElLRSAnQXR0aWNhJyBBTkQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcm9qZWN0XzIwMTguZ3JfYWRtaW5pc3RyYXRpdmVhcmVhcyBBUyBhZG0sCg==</text>
+        <text encoding="base64">ICBKT0lOIHByb2plY3RfMjAxOC5ncl9yYWlscm9hZHN5c3RlbSBBUyBycmQgT04gKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTQo=</text>
+        <text encoding="base64">ICAgIG1yZF9zZWNvbmRhcnkucnR0X2Rlc2NyaSBMSUtFICdTZWNvbmRhcnkgUm91dGUnIEFORAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIG1yZF9wcmltYXJ5LnJ0dF9kZXNjcmkgTElLRSAnUHJpbWFyeSBSb3V0ZScgQU5ECg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTVF9JTlRFUlNFQ1RTKG1yZF9zZWNvbmRhcnkuZ2VvbSwgYWRtLmdlb20pCg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtcmRfc2Vjb25kYXJ5LnJ0dF9kZXNjcmkgTElLRSAnU2Vjb25kYXJ5IFJvdXRlJyBBTkQK</text>
+        <text encoding="base64">ICAgIFNUX0lOVEVSU0VDVFMobXJkX3NlY29uZGFyeS5nZW9tLCBhZG0uZ2VvbSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -551,11 +551,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536752599810">
-        <mark key="[" line="388" column="55" />
-        <mark key="]" line="388" column="58" />
-        <mark key="." line="388" column="58" />
-        <mark key="^" line="388" column="58" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536753578605">
+        <mark key="[" line="400" column="89" />
+        <mark key="]" line="401" column="7" />
+        <mark key="." line="401" column="7" />
+        <mark key="^" line="401" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -862,9 +862,9 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1536572080062">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1536753931321">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="60" />
         <mark key="." line="13" column="32" />
         <mark key="^" line="3" column="64" />
       </file>
@@ -956,10 +956,10 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536751664632">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1536753588290">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1174,43 +1174,44 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>corridor_id</text>
+        <text>Refactor to use cache instead of db on processing.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2FjaGVfa2V5ID0gc2V0dGluZ3MuQ09SUklET1JfQ0FDSEVfS0VZLmZvcm1hdChjb3JyaWRvcl9pZCkKICAgIGNhY2hlLnNldChjYWNoZV9rZXksIEZhbHNlKQogICAgbG9nZ2VyLmRlYnVnKCdVcGRhdGVkIGNhY2hlZCBrZXk6IHt9IHRvIHt9Jy5mb3JtYXQoY2FjaGVfa2V5LCBjYWNoZS5nZXQoY2FjaGVfa2V5KSkpCg==</text>
+        <text encoding="base64">ejkoJGkoNS0pb2ZxKDIpanU3ZDB4ZGFwYzh4ajkkIy1wdGpmYyt5K3U0YTUhJm5AKnY=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnRGVsZXRpbmcgcHJldmlvdXNseSBjYWxjdWxhdGVkIHJlc2lzdGFuY2UgbWFwLi4uJykK</text>
+      <register name="1" type="4">
+        <text>Refactored calculation to use cache instead of 
+db for the polling.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnRGVsZXRpbmcgcHJldmlvdXNseSBjYWxjdWxhdGVkIHJlc2lzdGFuY2UgbWFwLi4uJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBTdWNjZXNzOiBEZWZhdWx0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MDBfQkFEX1JFUVVFU1QgYW5kIHRoZSBzZXJpYWxpemVyIGVycm9ycy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBTdWNjZXNzOiBEZWZhdWx0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MDBfQkFEX1JFUVVFU1QgYW5kIHRoZSBzZXJpYWxpemVyIGVycm9ycy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

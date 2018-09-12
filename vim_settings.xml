@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1536747988415">
-        <mark key="[" line="49" column="30" />
-        <mark key="]" line="49" column="30" />
-        <mark key="." line="49" column="30" />
-        <mark key="^" line="49" column="38" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1536752626599">
+        <mark key="[" line="165" column="51" />
+        <mark key="]" line="165" column="57" />
+        <mark key="." line="165" column="57" />
+        <mark key="^" line="165" column="57" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1536749301649">
         <mark key="[" line="1" column="36" />
@@ -551,11 +551,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536750705135">
-        <mark key="[" line="185" column="21" />
-        <mark key="]" line="185" column="20" />
-        <mark key="." line="185" column="20" />
-        <mark key="^" line="185" column="20" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536752599810">
+        <mark key="[" line="388" column="55" />
+        <mark key="]" line="388" column="58" />
+        <mark key="." line="388" column="58" />
+        <mark key="^" line="388" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1174,45 +1174,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>corridor_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>request: Request type object.
-
-        Returns:
-            - On Success: 201_CREATED, the layer_id and the process_key flag that the async task
-                          will update when finished.
-            - On Fail: 400_BAD_REQUEST and the serializer errors.</text>
+        <text encoding="base64">Y2FjaGVfa2V5ID0gc2V0dGluZ3MuQ09SUklET1JfQ0FDSEVfS0VZLmZvcm1hdChjb3JyaWRvcl9pZCkKICAgIGNhY2hlLnNldChjYWNoZV9rZXksIEZhbHNlKQogICAgbG9nZ2VyLmRlYnVnKCdVcGRhdGVkIGNhY2hlZCBrZXk6IHt9IHRvIHt9Jy5mb3JtYXQoY2FjaGVfa2V5LCBjYWNoZS5nZXQoY2FjaGVfa2V5KSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnRGVsZXRpbmcgcHJldmlvdXNseSBjYWxjdWxhdGVkIHJlc2lzdGFuY2UgbWFwLi4uJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBTdWNjZXNzOiBEZWZhdWx0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MDBfQkFEX1JFUVVFU1QgYW5kIHRoZSBzZXJpYWxpemVyIGVycm9ycy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBTdWNjZXNzOiBEZWZhdWx0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MDBfQkFEX1JFUVVFU1QgYW5kIHRoZSBzZXJpYWxpemVyIGVycm9ycy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6IAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

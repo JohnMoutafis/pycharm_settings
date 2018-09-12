@@ -78,11 +78,11 @@
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="38" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1536338541239">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1536749301649">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
         <mark key="[" line="189" column="0" />
@@ -421,11 +421,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1536748885257">
-        <mark key="[" line="293" column="40" />
-        <mark key="]" line="298" column="34" />
-        <mark key="." line="298" column="34" />
-        <mark key="^" line="298" column="34" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1536749252217">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="^" line="280" column="34" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -460,11 +460,11 @@
         <mark key="^" line="377" column="7" />
         <mark key="." line="377" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1536747293242">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="21" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1536749481760">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+        <mark key="^" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/urls.py" timestamp="1536673751478">
         <mark key="[" line="5" column="4" />
@@ -551,10 +551,10 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536748262972">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536749940594">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1173,51 +1173,48 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CREATED</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>f'{REDIS_URL}/0'</text>
+        <text>request: Request type object.
+
+        Returns:
+            - On Success: 201_CREATED, the layer_id and the process_key flag that the async task
+                          will update when finished.
+            - On Fail: 400_BAD_REQUEST and the serializer errors.</text>
       </register>
-      <register name="1" type="4">
-        <text>CACHES = {
-    &quot;default&quot;: {
-        &quot;BACKEND&quot;: &quot;django_redis.cache.RedisCache&quot;,
-        &quot;LOCATION&quot;: f'{REDIS_URL}/0',
-        &quot;OPTIONS&quot;: {
-            &quot;CLIENT_CLASS&quot;: &quot;django_redis.client.DefaultClient&quot;,
-        }
-    }
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0YXNrcy5wcm9jZXNzX2FuZF9yYXN0ZXJpemVfbGF5ZXIobGF5ZXJfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBTdWNjZXNzOiBEZWZhdWx0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGxheWVyLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBPbiBGYWlsOiA0MDBfQkFEX1JFUVVFU1QgYW5kIHRoZSBzZXJpYWxpemVyIGVycm9ycy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHBvc3Rfc3VjY2VzcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHRhc2tfc3VjY2Vzcy5jb25uZWN0KHNlbmRlcj0nZ2lseXRpY3MubW9kdWxlcy5tY2RhLnRhc2tzLnJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6IAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkuc2lnbmFscyBpbXBvcnQgdGFza19zdWNjZXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgY2FjaGUuZGVsZXRlKGNhY2hlX2tleSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1273,6 +1270,7 @@
         <entry encoding="base64">dyA=</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>171</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

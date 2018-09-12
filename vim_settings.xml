@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1536744774869">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="35" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1536747988415">
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="49" column="30" />
+        <mark key="." line="49" column="30" />
+        <mark key="^" line="49" column="38" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1536338541239">
         <mark key="[" line="11" column="19" />
@@ -301,7 +301,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1536744322676">
+      <file name="/Python Console" timestamp="1536747593046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536679513956">
@@ -421,9 +421,9 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1536742648264">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1536746263628">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="235" column="5" />
         <mark key="." line="227" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
@@ -459,10 +459,10 @@
         <mark key="^" line="377" column="7" />
         <mark key="." line="377" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1536743886939">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1536747293242">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
         <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/urls.py" timestamp="1536673751478">
@@ -550,11 +550,10 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536744512776">
-        <mark key="[" line="162" column="37" />
-        <mark key="]" line="162" column="37" />
-        <mark key="^" line="149" column="43" />
-        <mark key="." line="162" column="37" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536748262972">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1173,43 +1172,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>from django.core.cache import cache</text>
+        <text>rocess_and_rasterize_layer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgY2FjaGUuZGVsZXRlKGNhY2hlX2tleSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0YXNrcy5wcm9jZXNzX2FuZF9yYXN0ZXJpemVfbGF5ZXIobGF5ZXJfaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhY2hlLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGxheWVyLikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jYWNoZSBpbXBvcnQgY2FjaGVfY29udHJvbAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0tFWV9GVU5DVElPTic6ICdnaWx5dGljcy51dGlscy5teV9rZXlfbWFrZXInCg==</text>
+        <text encoding="base64">ZGVmIHBvc3Rfc3VjY2VzcygpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRhc2tfc3VjY2Vzcy5jb25uZWN0KHNlbmRlcj0nZ2lseXRpY3MubW9kdWxlcy5tY2RhLnRhc2tzLnJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyJykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjZWxlcnkuc2lnbmFscyBpbXBvcnQgdGFza19zdWNjZXNzCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBrZXkK</text>
+        <text encoding="base64">ICAgICMgY2FjaGUuZGVsZXRlKGNhY2hlX2tleSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIG15X2tleV9tYWtlcihrZXksIGtleV9wcmVmaXgsIHZlcnNpb24pOgo=</text>
+        <text encoding="base64">ICAgIGNhY2hlLmdldAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

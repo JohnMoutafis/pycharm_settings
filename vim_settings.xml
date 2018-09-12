@@ -414,8 +414,8 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1536338620685">
-        <mark key="[" line="106" column="30" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1536737551807">
+        <mark key="[" line="299" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="^" line="107" column="0" />
         <mark key="." line="107" column="0" />
@@ -544,7 +544,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536679459750">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536737524114">
         <mark key="[" line="161" column="17" />
         <mark key="]" line="161" column="27" />
         <mark key="^" line="161" column="27" />

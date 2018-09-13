@@ -494,11 +494,11 @@
         <mark key="^" line="326" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1536596639723">
-        <mark key="[" line="419" column="21" />
-        <mark key="]" line="419" column="30" />
-        <mark key="." line="419" column="30" />
-        <mark key="^" line="419" column="30" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1536842490569">
+        <mark key="[" line="741" column="45" />
+        <mark key="]" line="741" column="50" />
+        <mark key="." line="741" column="50" />
+        <mark key="^" line="741" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/env.example" timestamp="1526473873292">
         <mark key="[" line="11" column="0" />
@@ -551,11 +551,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536836149471">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="316" column="60" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536842747434">
+        <mark key="[" line="330" column="0" />
+        <mark key="]" line="330" column="83" />
+        <mark key="." line="330" column="83" />
+        <mark key="^" line="330" column="83" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1180,7 +1180,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1193,37 +1193,37 @@
             )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGxheWVyLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKHJlc2lzdGFuY2VfbWFwLnRvX3BuZy50b2J5dGVzKCksIGNvbnRlbnRfdHlwZT0naW1hZ2UvcG5nJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGxheWVyX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGxheWVyLmlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGxheWVyX2lkKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoKHBhdGguaWQsIHJlcXVlc3QuZGF0YS5nZXQoJ2Vwc2lsb24nLCBGYWxzZSkpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Path calculation: Refactor path calculation
 
 Path calculation is now creating a GDAL LineString and stores it on the
 Scenario.scenario_path field.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

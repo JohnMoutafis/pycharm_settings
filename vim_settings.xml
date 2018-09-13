@@ -494,11 +494,11 @@
         <mark key="^" line="326" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1536848813535">
-        <mark key="[" line="300" column="33" />
-        <mark key="]" line="300" column="34" />
-        <mark key="." line="300" column="34" />
-        <mark key="^" line="741" column="50" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1536854856259">
+        <mark key="[" line="791" column="38" />
+        <mark key="]" line="791" column="45" />
+        <mark key="." line="791" column="45" />
+        <mark key="^" line="791" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/env.example" timestamp="1526473873292">
         <mark key="[" line="11" column="0" />
@@ -856,11 +856,11 @@
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/MapGenerator.js" timestamp="1536853761737">
-        <mark key="[" line="255" column="12" />
-        <mark key="]" line="258" column="77" />
-        <mark key="." line="258" column="77" />
-        <mark key="^" line="258" column="77" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/MapGenerator.js" timestamp="1536854562385">
+        <mark key="[" line="258" column="65" />
+        <mark key="]" line="258" column="72" />
+        <mark key="." line="258" column="72" />
+        <mark key="^" line="258" column="72" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/config.yml" timestamp="1526472605404">
         <mark key="[" line="5" column="0" />
@@ -1186,7 +1186,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>process to use correct EPSG:4326 data.</text>
+        <text>viewableLayerData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1304,6 +1304,7 @@
         <entry>171</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>792</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

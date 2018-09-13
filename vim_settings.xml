@@ -856,6 +856,12 @@
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/MapGenerator.js" timestamp="1536853761737">
+        <mark key="[" line="255" column="12" />
+        <mark key="]" line="258" column="77" />
+        <mark key="." line="258" column="77" />
+        <mark key="^" line="258" column="77" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/config.yml" timestamp="1526472605404">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="8" column="33" />
@@ -1211,35 +1217,38 @@
              nv    0   0   0   0
         '''</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+      <register name="1" type="4">
+        <text>success: function (data, textStatus, jqXHR) {
+                if (data) {
+                    // getPath(data.path);
+                    getCachedValueRequest(data.process_key, data.path, &quot;path&quot;);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG52ICAgIDAgICAwICAgMCAgIDAK</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDAlICAyNTUgMjQ1IDI0MCAgMzBcbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG52ICAgIDAgICAwICAgMCAgIDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDUlICAyNTUgMjM3IDIyOSAgMzBcbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDAlICAyNTUgMjQ1IDI0MCAgMzBcbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAlICAyNTUgMjI5IDIxNyAgMzBcbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDUlICAyNTUgMjM3IDIyOSAgMzBcbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTUlICAyNTQgMjE5IDIwMyAgNTBcbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAlICAyNTUgMjI5IDIxNyAgMzBcbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMjAlICAyNTMgMjA0IDE4NCAgNjNcbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTUlICAyNTQgMjE5IDIwMyAgNTBcbgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMjUlICAyNTMgMTkwIDE2NSAgNzVcbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMjAlICAyNTMgMjA0IDE4NCAgNjNcbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMzAlICAyNTIgMTc1IDE0NyAgODdcbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMjUlICAyNTMgMTkwIDE2NSAgNzVcbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

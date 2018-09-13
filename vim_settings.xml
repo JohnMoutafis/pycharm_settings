@@ -421,11 +421,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1536757901309">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="^" line="280" column="34" />
-        <mark key="." line="221" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1536845244915">
+        <mark key="[" line="314" column="26" />
+        <mark key="]" line="321" column="2" />
+        <mark key="^" line="321" column="2" />
+        <mark key="." line="321" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -551,11 +551,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536842747434">
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="83" />
-        <mark key="." line="330" column="83" />
-        <mark key="^" line="330" column="83" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536845300032">
+        <mark key="[" line="317" column="58" />
+        <mark key="]" line="317" column="83" />
+        <mark key="^" line="317" column="83" />
+        <mark key="." line="317" column="83" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1065,7 +1065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1399" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180619.xml" />
       <jump line="148" column="90" filename="$USER_HOME$/dotfiles/bashrc" />
       <jump line="75" column="0" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
@@ -1165,6 +1164,7 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bdd65507-bf2c-4f74-bc67-2361f0d57988/console.sql" />
       <jump line="0" column="0" filename="/Django Console" />
+      <jump line="304" column="33" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1180,50 +1180,66 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>if not scenario.resistance_map_id:
-            return Response(
-                {'error': 'A resistance map must be generated before path calculation'},
-                status=status.HTTP_409_CONFLICT
-            )</text>
+        <text>'''
+            100% 103   0  13 255\n
+            95%  134   7  17 243\n
+            90%  165  15  21 231\n
+            85%  181  18  24 219\n
+            80%  197  22  27 207\n
+            75%  212  32  32 195\n
+            70%  226  45  38 183\n
+            65%  239  59  44 171\n
+            60%  244  77  55 159\n
+            55%  249  95  67 147\n 
+            50%  252 112  80 135\n
+            45%  252 128  95 123\n
+            40%  252 143 111 111\n
+            35%  252 159 128  99\n
+            30%  252 175 147  87\n
+            25%  253 190 165  75\n
+            20%  253 204 184  63\n
+            15%  254 219 203  50\n
+            10%  255 229 217  30\n
+             5%  255 237 229  30\n
+             0%  255 245 240  30\n
+             nv    0   0   0   0
+        '''</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKHJlc2lzdGFuY2VfbWFwLnRvX3BuZy50b2J5dGVzKCksIGNvbnRlbnRfdHlwZT0naW1hZ2UvcG5nJykK</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGxheWVyLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG52ICAgIDAgICAwICAgMCAgIDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MucHJvY2Vzc19hbmRfcmFzdGVyaXplX2xheWVyKGxheWVyX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDAlICAyNTUgMjQ1IDI0MCAgMzBcbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDUlICAyNTUgMjM3IDIyOSAgMzBcbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoKHBhdGguaWQsIHJlcXVlc3QuZGF0YS5nZXQoJ2Vwc2lsb24nLCBGYWxzZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAlICAyNTUgMjI5IDIxNyAgMzBcbgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>Path calculation: Refactor path calculation
-
-Path calculation is now creating a GDAL LineString and stores it on the
-Scenario.scenario_path field.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgMTUlICAyNTQgMjE5IDIwMyAgNTBcbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMjAlICAyNTMgMjA0IDE4NCAgNjNcbgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMjUlICAyNTMgMTkwIDE2NSAgNzVcbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMzAlICAyNTIgMTc1IDE0NyAgODdcbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

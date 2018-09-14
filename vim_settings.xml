@@ -108,12 +108,6 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1536857096552">
-        <mark key="[" line="170" column="47" />
-        <mark key="]" line="170" column="51" />
-        <mark key="." line="170" column="51" />
-        <mark key="^" line="170" column="51" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -209,12 +203,6 @@
         <mark key="]" line="15" column="44" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1536860123567">
-        <mark key="[" line="311" column="46" />
-        <mark key="]" line="311" column="83" />
-        <mark key="^" line="311" column="83" />
-        <mark key="." line="311" column="83" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -545,10 +533,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536857138720">
-        <mark key="[" line="387" column="0" />
-        <mark key="]" line="387" column="0" />
-        <mark key="." line="387" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536912345611">
+        <mark key="[" line="77" column="61" />
+        <mark key="]" line="77" column="70" />
+        <mark key="." line="77" column="70" />
+        <mark key="^" line="77" column="70" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -788,9 +777,6 @@
         <mark key="]" line="30" column="15" />
         <mark key="^" line="30" column="15" />
         <mark key="." line="30" column="15" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/urls.py" timestamp="1536857122850">
-        <mark key="^" line="22" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
         <mark key="[" line="45" column="0" />
@@ -1164,7 +1150,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Integrated path calculation to the application.</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1237,7 +1223,6 @@
         <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
         <entry>50</entry>
         <entry>100</entry>
         <entry>75</entry>

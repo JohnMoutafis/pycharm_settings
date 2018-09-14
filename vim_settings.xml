@@ -288,7 +288,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1536921980190">
+      <file name="/Python Console" timestamp="1536923930306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536679513956">
@@ -537,11 +537,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536922757442">
-        <mark key="[" line="134" column="53" />
-        <mark key="]" line="134" column="58" />
-        <mark key="." line="134" column="58" />
-        <mark key="^" line="134" column="58" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536923927151">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="37" column="72" />
+        <mark key="." line="37" column="72" />
+        <mark key="^" line="37" column="72" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1169,34 +1169,34 @@
         <text>'projectpreferences', 'category', 'scenario'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gUHJvamVjdC5vYmplY3RzLmFsbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlzZXQgPSBzZWxmLmdldF9zZXJpYWxpemVyX2NsYXNzKCkuZWFnZXJfbG9hZGVyKHF1ZXJ5c2V0KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFjdGlvbiA9PSAncmV0cmlldmUnOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlzZXQgPSBzZWxmLmdldF9zZXJpYWxpemVyX2NsYXNzKCkuZWFnZXJfbG9hZGVyKHF1ZXJ5c2V0KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFjdGlvbiA9PSAncmV0cmlldmUnOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0LnNlbGVjdF9yZWxhdGVkKCdvcmVmZXJlbmNlcycsICdjYXRlZ29yaWVzJywgJ3NjZW5hcmlvcycpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBlYWdlcl9sb2FkZXIocXVlcnlzZXQpOgo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0LnNlbGVjdF9yZWxhdGVkKCdvcmVmZXJlbmNlcycsICdjYXRlZ29yaWVzJywgJ3NjZW5hcmlvcycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgIGRlZiBlYWdlcl9sb2FkZXIocXVlcnlzZXQpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

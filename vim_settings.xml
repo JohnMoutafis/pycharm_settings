@@ -215,11 +215,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537197287480">
-        <mark key="[" line="231" column="56" />
-        <mark key="]" line="238" column="29" />
-        <mark key="^" line="238" column="29" />
-        <mark key="." line="238" column="29" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537200244523">
+        <mark key="[" line="287" column="12" />
+        <mark key="]" line="287" column="12" />
+        <mark key="." line="287" column="12" />
+        <mark key="^" line="287" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -300,7 +300,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1536923930306">
+      <file name="/Python Console" timestamp="1537198531650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1536679513956">
@@ -552,11 +552,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1536935343973">
-        <mark key="[" line="201" column="15" />
-        <mark key="]" line="201" column="78" />
-        <mark key="." line="201" column="78" />
-        <mark key="^" line="201" column="78" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537198567486">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="79" />
+        <mark key="." line="245" column="79" />
+        <mark key="^" line="245" column="79" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -956,7 +956,7 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536860666509">
+      <file name="/Dummy.txt" timestamp="1537200655761">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -1174,7 +1174,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>Epsilon flag for path smoothing from frontend.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1183,34 +1183,34 @@
         <text encoding="base64">IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgICAgICAgTGF5ZXIgUHJvY2Vzc2luZyBNZXRob2RzCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgQVdTX1MzX0VOQ1JZUFRJT04gPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwYXRoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBpZiBub3QgREVCVUc6Cg==</text>
+        <text encoding="base64">ICAgICMgcGF0aC50cmFuc2Zvcm0oaW5pdGlhbF9zcmlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHAgPSBmbG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcGF0aC50cmFuc2Zvcm0oaW5pdGlhbF9zcmlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5naXMuZ2VvcyBpbXBvcnQgTGluZVN0cmluZwo=</text>
+        <text encoding="base64">IyAgICAgQVdTX1MzX0VOQ1JZUFRJT04gPSBUcnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdDYWxjdWxhdGluZyBuZXcgb3B0aW1hbCBwYXRoLi4uJykK</text>
+        <text encoding="base64">IyBpZiBub3QgREVCVUc6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdDYWxjdWxhdGluZyBuZXcgb3B0aW1hbCBwYXRoLi4uJykK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5naXMuZ2VvcyBpbXBvcnQgTGluZVN0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1250,7 +1250,6 @@
         <entry>50</entry>
         <entry>100</entry>
         <entry>75</entry>
-        <entry>:w</entry>
         <entry>6</entry>
         <entry>ew</entry>
         <entry>wq</entry>
@@ -1266,6 +1265,7 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>792</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

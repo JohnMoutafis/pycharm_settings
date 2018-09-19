@@ -288,7 +288,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1537366918981">
+      <file name="/Python Console" timestamp="1537369716500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1537261766337">
@@ -450,11 +450,11 @@
         <mark key="^" line="377" column="7" />
         <mark key="." line="377" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1537364788843">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="48" column="25" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1537370712290">
+        <mark key="[" line="52" column="84" />
+        <mark key="]" line="52" column="83" />
+        <mark key="." line="52" column="83" />
+        <mark key="^" line="52" column="83" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/serializers.py" timestamp="1533632199821">
         <mark key="[" line="43" column="44" />
@@ -540,9 +540,9 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537368154366">
-        <mark key="[" line="176" column="98" />
-        <mark key="]" line="176" column="11" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537370421228">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="37" />
         <mark key="." line="176" column="11" />
         <mark key="^" line="176" column="11" />
       </file>
@@ -1151,43 +1151,45 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>latest_scenario.get('project__id')}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>auth = (request.user.geoserver_username, request.user.geoserver_password)</text>
+        <text>return render(
+            request, 'mcda/basic.html', context={'project_id': latest_scenario.get('project__id')}
+        )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGF1dGgsIHR5cGUoYXV0aCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHJlcXVlc3QudXNlci5nZW9zZXJ2ZXJfdXNlcm5hbWUsIHJlcXVlc3QudXNlci5nZW9zZXJ2ZXJfcGFzc3dvcmQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTGF5ZXIub2JqZWN0cy5hbGwoKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGF1dGgsIHR5cGUoYXV0aCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIExheWVyLm9iamVjdHMuZGVmZXIoJ3ZlY3Rvcl9kYXRhJywgJ3Byb2Nlc3NlZF9kYXRhJywgJ3Jhc3Rlcl9kYXRhJykuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHJlcXVlc3QudXNlci5nZW9zZXJ2ZXJfdXNlcm5hbWUsIHJlcXVlc3QudXNlci5nZW9zZXJ2ZXJfcGFzc3dvcmQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFjdGlvbiA9PSAnbGlzdCc6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTGF5ZXIub2JqZWN0cy5hbGwoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIExheWVyLm9iamVjdHMuZGVmZXIoJ3ZlY3Rvcl9kYXRhJywgJ3Byb2Nlc3NlZF9kYXRhJywgJ3Jhc3Rlcl9kYXRhJykuYWxsKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFjdGlvbiA9PSAnbGlzdCc6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

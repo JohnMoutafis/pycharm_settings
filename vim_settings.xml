@@ -459,7 +459,7 @@
         <mark key="." line="43" column="63" />
         <mark key="^" line="43" column="63" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1537287328222">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1537533402071">
         <mark key="[" line="216" column="4" />
         <mark key="]" line="216" column="38" />
       </file>
@@ -900,11 +900,6 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1537521418821">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-      </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1166,13 +1161,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWRkZWQgYW5hbHl0aWNzIGVuZHBvaW50IGA8c2NlbmFyaW9faWQ+L2FuYWx5dGljc2Au</text>
+        <text>fetch_vector_layers_from_repository(['Avelgem-Bredene:Bos_loofbos'], 4326, )</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ScenarioJsonRenderer</text>
+        <text>fetch_vector_layers_from_repository</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>

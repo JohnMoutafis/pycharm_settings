@@ -72,12 +72,7 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1537457569030">
-        <mark key="[" line="94" column="87" />
-        <mark key="]" line="94" column="88" />
-        <mark key="." line="94" column="88" />
-        <mark key="^" line="95" column="71" />
-      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1537521124548" />
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="190" column="1" />
@@ -210,6 +205,9 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537521436762">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
         <mark key="]" line="39" column="9" />
@@ -282,7 +280,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1537436913819">
+      <file name="/Python Console" timestamp="1537523452579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1537261766337">
@@ -357,8 +355,10 @@
       <file name="/a.sql" timestamp="1536496733881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/lcp.py" timestamp="1537261517732">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/lcp.py" timestamp="1537520978180">
         <mark key="'" line="187" column="11" />
+        <mark key="[" line="175" column="15" />
+        <mark key="]" line="175" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dea61306-89a2-40b6-8a8b-fe299c231af3/console.sql" timestamp="1536308371401">
         <mark key="[" line="0" column="0" />
@@ -529,11 +529,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537459870053">
-        <mark key="[" line="169" column="54" />
-        <mark key="]" line="169" column="67" />
-        <mark key="^" line="169" column="67" />
-        <mark key="." line="169" column="67" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537524053778">
+        <mark key="[" line="292" column="23" />
+        <mark key="]" line="292" column="23" />
+        <mark key="." line="292" column="23" />
+        <mark key="^" line="293" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -856,7 +856,6 @@
       <file name="/jgmoutafisdb.project_2018.GR_RailRoadSystem [ntua_postgis]" timestamp="1536493345365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1537440276827" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="78" />
@@ -874,6 +873,11 @@
         <mark key="]" line="22" column="74" />
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
+      </file>
+      <file name="/Django Console" timestamp="1537521418821">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
         <mark key="[" line="0" column="0" />
@@ -917,9 +921,6 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537458386467">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="3" />
@@ -944,6 +945,7 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/mcda.py" timestamp="1537520935752" />
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="35" />
@@ -1018,8 +1020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/scripts/corridor.py" />
       <jump line="330" column="13" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
       <jump line="411" column="18" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
       <jump line="0" column="7" filename="$USER_HOME$/Programs/intelligems/3d-dss/mcda/views.py" />
@@ -1118,6 +1118,8 @@
       <jump line="1147" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/lcp.py" />
       <jump line="187" column="11" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/lcp.py" />
       <jump line="212" column="12" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" />
+      <jump line="284" column="26" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1139,37 +1141,37 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>'id', 'name', 'intermediate_point'</text>
+        <text>calculate_path_cost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoKHNjZW5hcmlvLmlkLCByZXF1ZXN0LmRhdGEuZ2V0KCdlcHNpbG9uJywgRmFsc2UpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF0pCg==</text>
+        <text encoding="base64">ZnJvbSBudW1weSBpbXBvcnQgYWRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZlY3Rvcl9kYXRhJywgJ3Byb2Nlc3NlZF9kYXRhJywgJ2xheWVyX2NvbG9yJywgJ25hbWUnLAo=</text>
+        <text encoding="base64">ICAgIHBhdGgudHJhbnNmb3JtKDMxMzcwLCBjbG9uZT1UcnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ZnJvbSBjb3B5IGltcG9ydCBkZWVwY29weQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPdmVycmlkZXMgZGVmYXVsdCBtZXRob2QgdG8gY3VzdG9taXplIGFuZCBvcHRpbWl6ZSBzaW5nbGUgcHJvamVjdCBsb2FkaW5nLgo=</text>
+        <text encoding="base64">ICAgIGlmIHBhdGguc3JzWydVTklUJ10gIT0gJ21ldHJlJzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JtYXQoaW5pdGlhbF9zcmlkLCB2ZWN0b3JfZGF0YS5zcnNbJ1VOSVQnXSkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1RyYW5zZm9ybWluZyBsYXllciBmcm9tIHNyaWQge30gKHVuaXQ6IHt9KSB0byAzMTM3MCAodW5pdDogbWV0cmUpLi4uJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6IAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

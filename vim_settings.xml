@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1537799465603">
-        <mark key="[" line="206" column="17" />
-        <mark key="]" line="206" column="29" />
-        <mark key="." line="206" column="29" />
-        <mark key="^" line="206" column="29" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1537801550046">
+        <mark key="[" line="193" column="51" />
+        <mark key="]" line="193" column="62" />
+        <mark key="." line="193" column="62" />
+        <mark key="^" line="193" column="62" />
       </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
         <mark key="[" line="189" column="0" />
@@ -214,12 +214,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537800760972">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537804072319">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="402" column="11" />
-        <mark key="]" line="402" column="11" />
-        <mark key="." line="402" column="11" />
-        <mark key="^" line="328" column="80" />
+        <mark key="[" line="412" column="11" />
+        <mark key="]" line="412" column="13" />
+        <mark key="." line="412" column="13" />
+        <mark key="^" line="412" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -293,7 +293,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1537798684586">
+      <file name="/Python Console" timestamp="1537803920709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1537546344391">
@@ -544,6 +544,12 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537803717353">
+        <mark key="[" line="275" column="33" />
+        <mark key="]" line="275" column="33" />
+        <mark key="." line="275" column="33" />
+        <mark key="^" line="275" column="92" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
         <mark key="[" line="5" column="41" />
@@ -950,7 +956,7 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537797281263">
+      <file name="/Dummy.txt" timestamp="1537804269616">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1168,38 +1174,34 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RXhjZXB0aW9uIA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>path_si = LineString(
-        *convert_array_indexes_to_coordinates(
-            geotransform, list(zip(indices_si_smoothed[0], indices_si_smoothed[1]))
-        ), srid=4326
-    )</text>
+        <text>tasks.create_optimal_path.apply_async([scenario.id, request.data.get('epsilon', False)])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBlCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoKHNjZW5hcmlvLmlkLCByZXF1ZXN0LmRhdGEuZ2V0KCdlcHNpbG9uJywgRmFsc2UpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfY29ycmlkb3IoY29ycmlkb3IuaWQsIHRocmVzaG9sZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ3RvbiBocGlhbWUnCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
@@ -1207,10 +1209,8 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgIHRyeToK</text>
       </register>
-      <register name="9" type="4">
-        <text>LineString(
-
-        )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ3RvbiBocGlhbWUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

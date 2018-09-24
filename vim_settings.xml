@@ -72,6 +72,12 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1537792499253">
+        <mark key="[" line="197" column="32" />
+        <mark key="]" line="199" column="25" />
+        <mark key="^" line="199" column="25" />
+        <mark key="." line="199" column="25" />
+      </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="190" column="1" />
@@ -1168,13 +1174,14 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>processed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>find_all_ends</text>
+        <text>logger.error('Layer {} could not be processed. Reason: {}'.format(map_id, exc.message))
+        return exc.message</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>

@@ -214,12 +214,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537798508538">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537800760972">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="321" column="68" />
-        <mark key="]" line="324" column="71" />
-        <mark key="." line="324" column="71" />
-        <mark key="^" line="324" column="71" />
+        <mark key="[" line="402" column="11" />
+        <mark key="]" line="402" column="11" />
+        <mark key="." line="402" column="11" />
+        <mark key="^" line="328" column="80" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -1168,7 +1168,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text encoding="base64">RXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1181,36 +1181,36 @@
     )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBlCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>LineString(
-
-        )</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApLCBzcmlkPTQzMjYK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ3RvbiBocGlhbWUnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ycmlkb3IuZ2VvdHJhbnNmb3JtLCBsaXN0KHppcChpbmRpY2VzX3Ntb290aGVkWzBdLCBpbmRpY2VzX3Ntb290aGVkWzFdKSkK</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAqY29udmVydF9hcnJheV9pbmRleGVzX3RvX2Nvb3JkaW5hdGVzKAo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNtb290aGVkX3BhdGggPSBMaW5lU3RyaW5nKAo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>LineString(
+
+        )</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

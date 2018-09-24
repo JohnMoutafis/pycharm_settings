@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1537792499253">
-        <mark key="[" line="197" column="32" />
-        <mark key="]" line="199" column="25" />
-        <mark key="^" line="199" column="25" />
-        <mark key="." line="199" column="25" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1537798457085">
+        <mark key="[" line="206" column="17" />
+        <mark key="]" line="206" column="17" />
+        <mark key="." line="206" column="17" />
+        <mark key="^" line="206" column="24" />
       </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
         <mark key="[" line="189" column="0" />
@@ -214,12 +214,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537787525561">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537798508538">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="212" column="82" />
-        <mark key="]" line="213" column="27" />
-        <mark key="." line="213" column="27" />
-        <mark key="^" line="213" column="27" />
+        <mark key="[" line="321" column="68" />
+        <mark key="]" line="324" column="71" />
+        <mark key="." line="324" column="71" />
+        <mark key="^" line="324" column="71" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -293,7 +293,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1537786869484">
+      <file name="/Python Console" timestamp="1537798684586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1537546344391">
@@ -544,12 +544,6 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537787408220">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="51" />
-        <mark key="." line="274" column="51" />
-        <mark key="^" line="274" column="51" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
         <mark key="[" line="5" column="41" />
@@ -956,7 +950,7 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537550015814">
+      <file name="/Dummy.txt" timestamp="1537797281263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1174,44 +1168,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>processed</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>logger.error('Layer {} could not be processed. Reason: {}'.format(map_id, exc.message))
-        return exc.message</text>
+        <text>path_si = LineString(
+        *convert_array_indexes_to_coordinates(
+            geotransform, list(zip(indices_si_smoothed[0], indices_si_smoothed[1]))
+        ), srid=4326
+    )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob2JqKQo=</text>
+      <register name="2" type="4">
+        <text>LineString(
+
+        )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cG9pbnRfaW5kZXhlcyA9IGZpbmRfcG9pbnRfaW5kZXhlc19vbl9yYXN0ZXIoCiAgICAgICAgY29ycmlkb3IuZ2VvdHJhbnNmb3JtLCBbc3RhcnRfcG9pbnQsIGVuZF9wb2ludF0KICAgICkKICAgIGxvZ2dlci5kZWJ1ZygnUG9pbnRzOiB7fSwgIFNoYXBlOiB7fScuZm9ybWF0KHBvaW50X2luZGV4ZXMsIGNvc3Rfc3VyZmFjZS5zaGFwZSkpCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICApLCBzcmlkPTQzMjYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfY29ycmlkb3IoY29ycmlkb3IuaWQsIHRocmVzaG9sZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ycmlkb3IuZ2VvdHJhbnNmb3JtLCBsaXN0KHppcChpbmRpY2VzX3Ntb290aGVkWzBdLCBpbmRpY2VzX3Ntb290aGVkWzFdKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnbGFsYWxhbGEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAqY29udmVydF9hcnJheV9pbmRleGVzX3RvX2Nvb3JkaW5hdGVzKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBudW1weSBpbXBvcnQgYWRkCg==</text>
+        <text encoding="base64">ICAgIHNtb290aGVkX3BhdGggPSBMaW5lU3RyaW5nKAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">b3IgaXRlbSBpbiBsaXN0KG8uY29vcmRzKToKICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wcy5saW5lbWVyZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1261,12 +1260,12 @@
         <entry>w2</entry>
         <entry>q</entry>
         <entry encoding="base64">dyA=</entry>
-        <entry>W</entry>
         <entry>171</entry>
         <entry>we</entry>
         <entry>792</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

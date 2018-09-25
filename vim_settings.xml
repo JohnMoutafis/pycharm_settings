@@ -208,12 +208,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537873517447">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537874679209">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="178" column="93" />
-        <mark key="]" line="178" column="93" />
-        <mark key="." line="178" column="93" />
-        <mark key="^" line="178" column="93" />
+        <mark key="[" line="214" column="14" />
+        <mark key="]" line="215" column="34" />
+        <mark key="." line="215" column="34" />
+        <mark key="^" line="215" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -412,11 +412,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1537863184448">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1537874503807">
         <mark key="[" line="333" column="21" />
-        <mark key="]" line="333" column="23" />
-        <mark key="^" line="333" column="23" />
-        <mark key="." line="333" column="23" />
+        <mark key="]" line="352" column="22" />
+        <mark key="^" line="352" column="22" />
+        <mark key="." line="352" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -539,11 +539,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537873556647">
-        <mark key="[" line="417" column="53" />
-        <mark key="]" line="417" column="53" />
-        <mark key="^" line="417" column="53" />
-        <mark key="." line="417" column="53" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537874751554">
+        <mark key="[" line="450" column="46" />
+        <mark key="]" line="450" column="49" />
+        <mark key="^" line="450" column="49" />
+        <mark key="." line="450" column="49" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
         <mark key="[" line="5" column="41" />
@@ -950,10 +950,8 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537873192250">
+      <file name="/Dummy.txt" timestamp="1537874792573">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
@@ -1168,7 +1166,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>bluered</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1177,34 +1175,34 @@
         <text>http://gylitics-staging-1489714874.eu-west-1.elb.amazonaws.com/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoKHNjZW5hcmlvLmlkLCByZXF1ZXN0LmRhdGEuZ2V0KCdlcHNpbG9uJywgRmFsc2UpKQo=</text>
+        <text encoding="base64">U2NlbmFyaW8gQW5hbHl0aWNzOiBJbnRlZ3JhdGUgaW50ZXJtZWRpYXRlIHBvaW50IGludG8gY29ycmlkb3IgCmNhbGN1bGF0aW9uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfY29ycmlkb3IoY29ycmlkb3IuaWQsIHRocmVzaG9sZCkK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoKHNjZW5hcmlvLmlkLCByZXF1ZXN0LmRhdGEuZ2V0KCdlcHNpbG9uJywgRmFsc2UpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfY29ycmlkb3IoY29ycmlkb3IuaWQsIHRocmVzaG9sZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBlCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBlCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ3RvbiBocGlhbWUnCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -72,6 +72,7 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1537868140780" />
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="190" column="1" />
@@ -287,7 +288,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1537866899075">
+      <file name="/Python Console" timestamp="1537870402245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1537546344391">
@@ -414,9 +415,9 @@
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1537863184448">
         <mark key="[" line="333" column="21" />
-        <mark key="]" line="352" column="23" />
-        <mark key="^" line="352" column="23" />
-        <mark key="." line="352" column="23" />
+        <mark key="]" line="333" column="23" />
+        <mark key="^" line="333" column="23" />
+        <mark key="." line="333" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
@@ -457,7 +458,7 @@
         <mark key="." line="43" column="63" />
         <mark key="^" line="43" column="63" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1537533402071">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1537869768427">
         <mark key="[" line="216" column="4" />
         <mark key="]" line="216" column="38" />
       </file>
@@ -538,12 +539,6 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537866418354">
-        <mark key="[" line="360" column="70" />
-        <mark key="]" line="361" column="52" />
-        <mark key="." line="361" column="52" />
-        <mark key="^" line="361" column="52" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
         <mark key="[" line="5" column="41" />

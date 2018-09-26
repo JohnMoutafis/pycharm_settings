@@ -215,12 +215,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537952382163">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1537957163391">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="233" column="43" />
-        <mark key="]" line="233" column="45" />
-        <mark key="." line="233" column="45" />
-        <mark key="^" line="233" column="45" />
+        <mark key="[" line="236" column="43" />
+        <mark key="]" line="236" column="45" />
+        <mark key="." line="236" column="45" />
+        <mark key="^" line="236" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -297,7 +297,7 @@
       <file name="/Python Console" timestamp="1537950639742">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1537950956033">
+      <file name="/fragment.py" timestamp="1537957053847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/migrations/0002_auto_20180906_1857.py" timestamp="1536311867283">
@@ -541,11 +541,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537952416029">
-        <mark key="[" line="274" column="96" />
-        <mark key="]" line="274" column="32" />
-        <mark key="^" line="274" column="32" />
-        <mark key="." line="274" column="32" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1537956250897">
+        <mark key="[" line="430" column="0" />
+        <mark key="]" line="430" column="51" />
+        <mark key="^" line="430" column="51" />
+        <mark key="." line="430" column="51" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
         <mark key="[" line="5" column="41" />
@@ -958,7 +958,7 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537951448240">
+      <file name="/Dummy.txt" timestamp="1537957215993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1176,7 +1176,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>to np.nan if the layer weight is equal to the maximun</text>
+        <text>nan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1185,34 +1185,34 @@
         <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoLmFwcGx5X2FzeW5jKFtzY2VuYXJpby5pZCwgcmVxdWVzdC5kYXRhLmdldCgnZXBzaWxvbicsIEZhbHNlKV0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGEgPSBucC5hbWF4KGNvc3Rfc3VyZmFjZSkK</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>''</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>Couldn\'t calculate optimal path for scenario {}. Reason: {}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGEgPSBucC5hbWF4KGNvc3Rfc3VyZmFjZSkK</text>
+      </register>
+      <register name="5" type="4">
+        <text>''</text>
+      </register>
+      <register name="6" type="4">
+        <text>Couldn\'t calculate optimal path for scenario {}. Reason: {}</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5ZXJfcmVzaXN0YW5jZSA9IG5wLm5hbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZGVmIGNhbGN1bGF0ZV9sYXllcl9yZXNpc3RhbmNlKGxheWVyX2luc3RhbmNlKToKICAgICIiIgogICAgQ2FsY3VsYXRlcyB0aGUgTGF5ZXIgaW5zdGFuY2UncyByZXNpc3RhbmNlIHdpdGggdGhlIGZvcm11bGE6CiAgICBgKGxheWVyX3dlaWdodCArIGxheWVyX3Jlc2lzdGFuY2UpICogY2F0ZWdvcnlfd2VpZ2h0YAogICAgQXJnczoKICAgICAgICBsYXllcl9pbnN0YW5jZTogQSBMYXllciBtb2RlbCBpbnN0YW5jZQoKICAgIFJldHVybnM6CiAgICAgICAgVGhlIGNhbGN1bGF0ZWQgTGF5ZXIgcmVzaXN0YW5jZSB2YWx1ZSAoZmxvYXQpLgogICAgIiIiCiAgICB3ZWlnaHRfdmFsdWVzID0gbGlzdChyYW5nZSgxLCBsYXllcl9pbnN0YW5jZS5wcm9qZWN0LnByZWZlcmVuY2VzLndlaWdodF9pbnRlcnZhbHMgKyAxKSkKICAgIG1heF93ZWlnaHRfdmFsdWUgPSBsYXllcl9pbnN0YW5jZS5wcm9qZWN0LnByZWZlcmVuY2VzLmxheWVyX21heF9yZXNpc3RhbmNlCgogICAgaWYgbGF5ZXJfaW5zdGFuY2Uud2VpZ2h0IDwgMDoKICAgICAgICB3ZWlnaHQgPSB3ZWlnaHRfdmFsdWVzW2xheWVyX2luc3RhbmNlLndlaWdodCArIG1heF93ZWlnaHRfdmFsdWVdCiAgICBlbHNlOgogICAgICAgIHdlaWdodCA9IHdlaWdodF92YWx1ZXNbbGF5ZXJfaW5zdGFuY2Uud2VpZ2h0ICsgbWF4X3dlaWdodF92YWx1ZSAtIDFdCgogICAgcmV0dXJuICh3ZWlnaHQgKyBsYXllcl9pbnN0YW5jZS5yZXNpc3RhbmNlX3ZhbHVlKSAqIGxheWVyX2luc3RhbmNlLmNhdGVnb3J5LndlaWdodAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgbGF5ZXIud2VpZ2h0ID09IGxheWVyLnByb2plY3QucHJlZmVyZW5jZXMubGF5ZXJfbWF4X3Jlc2lzdGFuY2U6CiAgICAgICAgICAgIGxheWVyX3Jlc2lzdGFuY2UgPSBucC5uYW4KICAgICAgICBlbHNlOgogICAgICAgICAgICBsYXllcl9yZXNpc3RhbmNlID0gY2FsY3VsYXRlX2xheWVyX3Jlc2lzdGFuY2UobGF5ZXIpCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGF5ZXJfcmVzaXN0YW5jZSA9IG5wLm5hbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

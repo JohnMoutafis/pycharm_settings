@@ -889,6 +889,12 @@
       <file name="/jgmoutafisdb.project_2018.GR_RailRoadSystem [ntua_postgis]" timestamp="1536493345365">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1538132053304">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="8" column="40" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="78" />
@@ -1172,43 +1178,44 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>.astype(dtype=np.int16)</text>
+        <text>min_allowed = instance.project.preferences.layer_min_resistance
+    max_allowed = instance.project.preferences.layer_max_resistance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBWYWxpZGF0aW9uRXJyb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmZvcm1hdChtaW5fYWxsb3dlZCwgbWF4X2FsbG93ZWQpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ludGVybWVkaWF0ZSBwb2ludCkuLi4nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dlaWdodCBub3Qgd2l0aGluIGFjY2VwdGFibGUgcmFuZ2UgW3t9LCB7fV0gKGV4Y2x1ZGluZyAwKScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1N3aXRjaGluZyB0byBjYWxjdWxhdGlvbiB3aXRoIHJlc2lzdGFuY2UgbWFwIChub3QgdGFja2luZyB1bmRlciBjb25zaWRlcmF0aW9uIHRoZSAnCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWxpZGF0aW9uRXJyb3IoCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NvdWxkIG5vdCBjYWxjdWxhdGUgb3B0aW1hbCBwYXRoIHdpdGggY29ycmlkb3IuICcK</text>
+        <text encoding="base64">ICAgIGlmIChpbnN0YW5jZS53ZWlnaHQgPCBtaW5fYWxsb3dlZCkgb3IgKGluc3RhbmNlLndlaWdodCA+IG1heF9hbGxvd2VkKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZygK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWxpZGF0aW9uRXJyb3IoJ1dlaWdodCBjYW5ub3QgYmUgMC4nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

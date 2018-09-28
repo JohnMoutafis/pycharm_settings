@@ -538,11 +538,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1538039158480">
-        <mark key="[" line="275" column="33" />
-        <mark key="]" line="275" column="33" />
-        <mark key="^" line="275" column="45" />
-        <mark key="." line="275" column="33" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1538126275616">
+        <mark key="[" line="164" column="32" />
+        <mark key="]" line="164" column="32" />
+        <mark key="^" line="274" column="45" />
+        <mark key="." line="164" column="32" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
         <mark key="[" line="5" column="41" />
@@ -1172,7 +1172,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T3B0aW1hbCA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>

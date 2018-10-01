@@ -215,12 +215,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1538406853691">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1538410022527">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="528" column="88" />
-        <mark key="]" line="529" column="7" />
-        <mark key="." line="529" column="7" />
-        <mark key="^" line="529" column="7" />
+        <mark key="[" line="533" column="0" />
+        <mark key="]" line="533" column="0" />
+        <mark key="^" line="389" column="33" />
+        <mark key="." line="533" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -297,7 +297,7 @@
       <file name="/Python Console" timestamp="1538404991078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1538405395538">
+      <file name="/fragment.py" timestamp="1538408259636">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -545,11 +545,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1538403411638">
-        <mark key="[" line="358" column="70" />
-        <mark key="]" line="359" column="52" />
-        <mark key="." line="359" column="52" />
-        <mark key="^" line="359" column="52" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1538409160954">
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="80" />
+        <mark key="." line="274" column="80" />
+        <mark key="^" line="274" column="80" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
         <mark key="[" line="5" column="41" />
@@ -967,7 +967,7 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538404638183">
+      <file name="/Dummy.txt" timestamp="1538410075843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -996,10 +996,10 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/validators.py" timestamp="1538398607162">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/validators.py" timestamp="1538410448739">
+        <mark key="[" line="16" column="90" />
+        <mark key="]" line="16" column="91" />
+        <mark key="." line="16" column="91" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
         <mark key="[" line="2" column="0" />
@@ -1190,43 +1190,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>np.around(np.nan_to_num(nd_array)).astype(np.uint32)</text>
+        <text>scenario.id, request.data.get('epsilon', False)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZF9hcnJheSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5kX2FycmF5ID0gbnAuYXJvdW5kKG5wLm5hbl90b19udW0obmRfYXJyYXkpKS5hc3R5cGUobnAudWludDgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3Quc2hvdygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90Lmltc2hvdyhkc3QucmVhZCgxKSkK</text>
+        <text encoding="base64">ICAgICAgICBweXBsb3QuaW1zaG93KGRzdC5yZWFkKDEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBHREFMUmFzdGVyKGZpbGVfZHN0LCB3cml0ZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZF9hcnJheSA9IAo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhc3RlcmlvLnVpbnQ4Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBWYWxpZGF0aW9uRXJyb3IK</text>
+        <text encoding="base64">ICAgIG5kX2FycmF5ID0gbnAuYXJvdW5kKG5wLm5hbl90b19udW0obmRfYXJyYXkpKS5hc3R5cGUobnAudWludDgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

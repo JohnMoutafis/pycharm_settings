@@ -72,7 +72,7 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1538122950508">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1538397334925">
         <mark key="[" line="219" column="64" />
         <mark key="]" line="219" column="62" />
         <mark key="." line="219" column="62" />
@@ -215,12 +215,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1538395797241">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1538406853691">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="532" column="57" />
-        <mark key="]" line="535" column="19" />
-        <mark key="." line="535" column="19" />
-        <mark key="^" line="535" column="19" />
+        <mark key="[" line="528" column="88" />
+        <mark key="]" line="529" column="7" />
+        <mark key="." line="529" column="7" />
+        <mark key="^" line="529" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -294,13 +294,13 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1538394537757">
+      <file name="/Python Console" timestamp="1538404991078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1538123225918">
+      <file name="/fragment.py" timestamp="1538405395538">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/migrations/0002_auto_20180906_1857.py" timestamp="1536311867283">
@@ -545,11 +545,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1538394582222">
-        <mark key="[" line="226" column="71" />
-        <mark key="]" line="227" column="53" />
-        <mark key="^" line="227" column="53" />
-        <mark key="." line="227" column="53" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1538403411638">
+        <mark key="[" line="358" column="70" />
+        <mark key="]" line="359" column="52" />
+        <mark key="." line="359" column="52" />
+        <mark key="^" line="359" column="52" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
         <mark key="[" line="5" column="41" />
@@ -920,8 +920,8 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1538395701703">
-        <mark key="[" line="0" column="46" />
+      <file name="/Django Console" timestamp="1538404637828">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
@@ -967,7 +967,7 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538395052568">
+      <file name="/Dummy.txt" timestamp="1538404638183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -995,6 +995,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="7" column="36" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/validators.py" timestamp="1538398607162">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
         <mark key="[" line="2" column="0" />
@@ -1185,44 +1190,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.dtype</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>min_allowed = instance.project.preferences.layer_min_resistance
-    max_allowed = instance.project.preferences.layer_max_resistance</text>
+        <text>np.around(np.nan_to_num(nd_array)).astype(np.uint32)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZF9hcnJheSA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90Lmltc2hvdyhkc3QucmVhZCgxKSkK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QK</text>
+        <text encoding="base64">ICAgIG5kX2FycmF5ID0gbnAuYXJvdW5kKG5wLm5hbl90b19udW0obmRfYXJyYXkpKS5hc3R5cGUobnAudWludDgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBHREFMUmFzdGVyKGZpbGVfZHN0LCB3cml0ZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90LnNob3coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhc3RlcmlvLnVpbnQ4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHlwbG90Lmltc2hvdyhkc3QucmVhZCgxKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBWYWxpZGF0aW9uRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBHREFMUmFzdGVyKGZpbGVfZHN0LCB3cml0ZT1UcnVlKQo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhc3RlcmlvLnVpbnQ4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBWYWxpZGF0aW9uRXJyb3IK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1269,7 +1273,6 @@
         <entry>2</entry>
         <entry>qw</entry>
         <entry>w2</entry>
-        <entry>q</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>171</entry>
         <entry>we</entry>
@@ -1277,6 +1280,7 @@
         <entry>:w</entry>
         <entry>W</entry>
         <entry>217</entry>
+        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>

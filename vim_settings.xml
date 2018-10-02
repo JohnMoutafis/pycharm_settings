@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1538397334925">
-        <mark key="[" line="219" column="64" />
-        <mark key="]" line="219" column="62" />
-        <mark key="." line="219" column="62" />
-        <mark key="^" line="219" column="62" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1538474070316">
+        <mark key="[" line="104" column="88" />
+        <mark key="]" line="104" column="88" />
+        <mark key="." line="104" column="88" />
+        <mark key="^" line="104" column="88" />
       </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
         <mark key="[" line="189" column="0" />
@@ -109,11 +109,7 @@
         <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1538395096826">
-        <mark key="'" line="177" column="80" />
         <mark key="[" line="76" column="81" />
-        <mark key="]" line="77" column="62" />
-        <mark key="^" line="77" column="62" />
-        <mark key="." line="77" column="62" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -217,7 +213,7 @@
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1538412496065">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="532" column="9" />
+        <mark key="[" line="191" column="9" />
         <mark key="]" line="535" column="19" />
         <mark key="^" line="535" column="19" />
         <mark key="." line="535" column="19" />
@@ -544,12 +540,6 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1538414509656">
-        <mark key="[" line="265" column="99" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
-        <mark key="^" line="268" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
         <mark key="[" line="5" column="41" />
@@ -995,12 +985,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="7" column="36" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/validators.py" timestamp="1538414201949">
-        <mark key="[" line="26" column="73" />
-        <mark key="]" line="26" column="73" />
-        <mark key="." line="26" column="73" />
-        <mark key="^" line="26" column="73" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
         <mark key="[" line="2" column="0" />

@@ -355,6 +355,12 @@
         <mark key="." line="22" column="2" />
         <mark key="^" line="22" column="2" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1538484664109">
+        <mark key="[" line="29" column="61" />
+        <mark key="]" line="29" column="60" />
+        <mark key="^" line="29" column="60" />
+        <mark key="." line="29" column="60" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="20" />
@@ -448,11 +454,11 @@
         <mark key="." line="43" column="63" />
         <mark key="^" line="43" column="63" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1538056906510">
-        <mark key="[" line="242" column="23" />
-        <mark key="]" line="242" column="44" />
-        <mark key="^" line="242" column="44" />
-        <mark key="." line="242" column="44" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1538484896830">
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="^" line="242" column="64" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/cleanup_scripts.rst" timestamp="1528703762075">
         <mark key="[" line="307" column="41" />
@@ -906,7 +912,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1538404637828">
+      <file name="/Django Console" timestamp="1538484773977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
@@ -1180,34 +1186,34 @@
         <text encoding="base64">ZXhjZXB0IFZhbGlkYXRpb25FcnJvciBhcyBleGM6CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZSh7J2Vycm9yJzogZXhjLm1lc3NhZ2V9LCBzdGF0dXM9c3RhdHVzLkhUVFBfNDAwX0JBRF9SRVFVRVNUKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlIGZvciB0aGUgY29ycmVzcG9uZGluZyBQcm9qZWN0Lgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGluc3RhbmNlIGZvciB0aGUgY29ycmVzcG9uZGluZyBQcm9qZWN0Lgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoKS5zYXZlKGZvcmNlX2luc2VydCwgZm9yY2VfdXBkYXRlLCB1c2luZywgdXBkYXRlX2ZpZWxkcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZV9jYXRlZ29yeV93ZWlnaHRfdmFsdWVzKHByb2plY3RfY2F0ZWdvcmllcz1zZWxmKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoKS5zYXZlKGZvcmNlX2luc2VydCwgZm9yY2VfdXBkYXRlLCB1c2luZywgdXBkYXRlX2ZpZWxkcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZV9jYXRlZ29yeV93ZWlnaHRfdmFsdWVzKHByb2plY3RfY2F0ZWdvcmllcz1zZWxmKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBWYWxpZGF0ZXMgd2VpZ2h0IGZpZWxkIGFjY29yZGluZyB0byBjb3JyZXNwb25kaW5nIHByb2plY3QncyBwcmVmZXJlbmNlcy4K</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPbiBTYXZlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBWYWxpZGF0ZXMgd2VpZ2h0IGZpZWxkIGFjY29yZGluZyB0byBjb3JyZXNwb25kaW5nIHByb2plY3QncyBwcmVmZXJlbmNlcy4K</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBPbiBTYXZlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsIGZvcmNlX2luc2VydD1GYWxzZSwgZm9yY2VfdXBkYXRlPUZhbHNlLCB1c2luZz1Ob25lLCB1cGRhdGVfZmllbGRzPU5vbmUpOgo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -211,12 +211,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1538560162292">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1538563219986">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="101" column="26" />
-        <mark key="]" line="101" column="31" />
-        <mark key="^" line="101" column="31" />
-        <mark key="." line="101" column="31" />
+        <mark key="[" line="230" column="38" />
+        <mark key="]" line="224" column="39" />
+        <mark key="^" line="224" column="39" />
+        <mark key="." line="224" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -553,11 +553,11 @@
         <mark key="^" line="7" column="84" />
         <mark key="." line="7" column="84" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1538559412602">
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="^" line="284" column="81" />
-        <mark key="." line="285" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1538563257862">
+        <mark key="[" line="453" column="69" />
+        <mark key="]" line="454" column="51" />
+        <mark key="^" line="454" column="51" />
+        <mark key="." line="454" column="51" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -1187,7 +1187,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW5pdGlhbCA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1199,34 +1199,34 @@
         costs += costs_destination.astype(dtype=np.float32)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2ludGVyX3BvaW50XSwgW3N0YXJ0X3BvaW50LCBlbmRfcG9pbnRdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAnaW50ZXJtZWRpYXRlIHBvaW50KS4uLicK</text>
+        <text encoding="base64">ICAgICAgICBjb3N0c19pbnRlciwgdHJhY2ViYWNrX2FycmF5ID0gcGF0aF9mdW5jdGlvbi5maW5kX2Nvc3RzKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAnU3dpdGNoaW5nIHRvIGNhbGN1bGF0aW9uIHdpdGggcmVzaXN0YW5jZSBtYXAgKG5vdCB0YWNraW5nIHVuZGVyIGNvbnNpZGVyYXRpb24gdGhlICcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAnQ291bGQgbm90IGNhbGN1bGF0ZSBvcHRpbWFsIHBhdGggd2l0aCBjb3JyaWRvci4gJwo=</text>
+        <text encoding="base64">ICAgICMgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgICAgIGxvZ2dlci53YXJuaW5nKAo=</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAnaW50ZXJtZWRpYXRlIHBvaW50KS4uLicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAnU3dpdGNoaW5nIHRvIGNhbGN1bGF0aW9uIHdpdGggcmVzaXN0YW5jZSBtYXAgKG5vdCB0YWNraW5nIHVuZGVyIGNvbnNpZGVyYXRpb24gdGhlICcK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgIHNjZW5hcmlvLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAnQ291bGQgbm90IGNhbGN1bGF0ZSBvcHRpbWFsIHBhdGggd2l0aCBjb3JyaWRvci4gJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgICAgICkK</text>
+        <text encoding="base64">ICAgICMgICAgIGxvZ2dlci53YXJuaW5nKAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

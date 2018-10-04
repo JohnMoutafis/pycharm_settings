@@ -888,11 +888,10 @@
       <file name="/jgmoutafisdb.project_2018.GR_RailRoadSystem [ntua_postgis]" timestamp="1536493345365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1538638132577">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="59" />
-        <mark key="^" line="35" column="59" />
-        <mark key="." line="35" column="59" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1538650400766">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
@@ -912,7 +911,7 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="/Django Console" timestamp="1538564899575">
+      <file name="/Django Console" timestamp="1538650056083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
@@ -1186,36 +1185,36 @@
         <text>// name: layerRow.attr(&quot;element-name&quot;).split(&quot;:&quot;)[1],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgbGFsYSAoZ2VvbW9kZWxzLk1vZGVsKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpcHBlZF9nZW9tZXRyaWVzLmFwcGVuZChnZW9tKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpcHBlZF9nZW9tZXRyaWVzLmFwcGVuZChnZW9tKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiBwcm9qZWN0X2FyZWEuY29udGFpbnMoZ2VvbSk6Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>corridor_array = np.zeros(cost_surface.shape, dtype=np.float32)
     corridor_array.fill(np.nan)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>_array = np.zeros(cost_surface.shape, dtype=np.float32)
     corridor_</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgICAgIGxvZ2dlci5lcnJvcignQ291bGQgTm90IENyZWF0ZSBhIENvcnJpZG9yIGZvciB0aGlzIHJlc2lzdGFuY2UgbWFwLicpCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIGxvZ2dlci5lcnJvcignQ291bGQgTm90IENyZWF0ZSBhIENvcnJpZG9yIGZvciB0aGlzIHJlc2lzdGFuY2UgbWFwLicpCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgIGNvcnJpZG9yX2FycmF5W2Nvc3RzIDw9IHRocmVzaG9sZCAqIG5wLnBhcnRpdGlvbihucC51bmlxdWUoY29zdHMpLCAxMClbMTBdXSA9IDEK</text>
+        <text encoding="base64">ICAgICMgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICMgICAgIGNvcnJpZG9yX2FycmF5W2Nvc3RzIDw9IHRocmVzaG9sZCAqIG5wLnBhcnRpdGlvbihucC51bmlxdWUoY29zdHMpLCAxMClbMTBdXSA9IDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

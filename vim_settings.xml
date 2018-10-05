@@ -455,6 +455,11 @@
         <mark key="^" line="377" column="7" />
         <mark key="." line="377" column="7" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/views.py" timestamp="1538734430550">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/serializers.py" timestamp="1533632199821">
         <mark key="[" line="43" column="44" />
         <mark key="]" line="43" column="63" />
@@ -1192,36 +1197,34 @@
         <text>// name: layerRow.attr(&quot;element-name&quot;).split(&quot;:&quot;)[1],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWZmZXJfbGlzdC5zb3J0KCkK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgbGFsYSAoZ2VvbW9kZWxzLk1vZGVsKToK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uYXBwcyBpbXBvcnQgYXBwcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuc2NyaXB0cyBpbXBvcnQgbGNwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpcHBlZF9nZW9tZXRyaWVzLmFwcGVuZChnZW9tKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcm9qZWN0X2FyZWEuY29udGFpbnMoZ2VvbSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>corridor_array = np.zeros(cost_surface.shape, dtype=np.float32)
-    corridor_array.fill(np.nan)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBIdHRwUmVzcG9uc2UoanNvbi5kdW1wcyhyZXN1bHRzKSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>_array = np.zeros(cost_surface.shape, dtype=np.float32)
-    corridor_</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgIGxvZ2dlci5lcnJvcignQ291bGQgTm90IENyZWF0ZSBhIENvcnJpZG9yIGZvciB0aGlzIHJlc2lzdGFuY2UgbWFwLicpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAndG90YWxDb3N0Jzogc2VjdGlvbnNMaXN0WzBdWzNdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

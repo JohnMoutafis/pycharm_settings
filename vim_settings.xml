@@ -269,10 +269,11 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1539170681818">
-        <mark key="[" line="454" column="0" />
-        <mark key="]" line="454" column="0" />
-        <mark key="." line="454" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1539173186619">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="410" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -483,7 +484,7 @@
       <file name="/dummy.sql" timestamp="1536514896631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539171453728">
+      <file name="/Dummy.txt" timestamp="1539172664026">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -731,11 +732,11 @@
         <mark key="." line="22" column="2" />
         <mark key="^" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1539168996204">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="31" column="96" />
-        <mark key="." line="16" column="31" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1539172213218">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/env.example" timestamp="1529492220261">
         <mark key="[" line="17" column="0" />
@@ -1219,7 +1220,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1228,57 +1229,34 @@
         <text>0 0 4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHJhc3Rlcl9kYXRhX21ldGEpCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5maWxlcy5zdG9yYWdlIGltcG9ydCBkZWZhdWx0X3N0b3JhZ2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfY29ycmlkb3IoY29ycmlkb3IuaWQsIHRocmVzaG9sZCkK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGRlZmF1bHRfc3RvcmFnZS5vcGVuKHJlc2lzdGFuY2VfbWFwLnBuZ19kYXRhKSBhcyBwbmdfZGF0YToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGRlZmF1bHRfc3RvcmFnZS5vcGVuKGNvcnJpZG9yLnBuZ19kYXRhKSBhcyBwbmdfZGF0YToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfY29ycmlkb3IoY29ycmlkb3IuaWQsIHRocmVzaG9sZCkK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3RhZyA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB1cHBlcl9yZ2I6IFJHQiB0dXBsZSB3aXRoIHZhbHVlcyBiZXR3ZWVuIDAuMCBhbmQgMS4wCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>'''
-    100% 103   0  13 235\n
-    95%  134   7  17 235\n
-    90%  165  15  21 235\n
-    85%  181  18  24 235\n
-    80%  197  22  27 235\n
-    75%  212  32  32 235\n
-    70%  226  45  38 235\n
-    65%  239  59  44 235\n
-    60%  244  77  55 235\n
-    55%  249  95  67 235\n 
-    50%  252 112  80 235\n
-    45%  252 128  95 235\n
-    40%  252 143 111 235\n
-    35%  252 159 128 235\n
-    30%  252 175 147 235\n
-    25%  253 190 165 235\n
-    20%  253 204 184 235\n
-    15%  254 219 203 235\n
-    10%  255 229 217 235\n
-     5%  255 237 229 235\n
-     0%  255 245 240 235\n
-     nv    0   0   0   0
-'''.strip()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb3dlcl9yZ2I6IFJHQiB0dXBsZSB3aXRoIHZhbHVlcyBiZXR3ZWVuIDAuMCBhbmQgMS4wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHJhc3Rlcl9kYXRhX21ldGEpCg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfY29ycmlkb3IoY29ycmlkb3IuaWQsIHRocmVzaG9sZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjb2xvdXIgaW1wb3J0IENvbG9yCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

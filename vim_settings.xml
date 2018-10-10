@@ -269,10 +269,11 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1539178818113">
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="382" column="0" />
-        <mark key="." line="382" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1539181090701">
+        <mark key="[" line="381" column="70" />
+        <mark key="]" line="382" column="52" />
+        <mark key="." line="382" column="52" />
+        <mark key="^" line="382" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
@@ -648,11 +649,11 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539180090218">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539181712325">
         <mark key="'" line="3" column="0" />
         <mark key="i" line="169" column="55" />
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="24" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="52" />
         <mark key="^" line="51" column="3" />
         <mark key="." line="36" column="24" />
       </file>
@@ -1013,17 +1014,17 @@
       <file name="/jgmoutafisdb.project_2018.GR_RailRoadSystem [ntua_postgis]" timestamp="1536493345365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1539162196034" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1539181514048">
+        <mark key="[" line="189" column="37" />
+        <mark key="]" line="189" column="45" />
+        <mark key="^" line="189" column="45" />
+        <mark key="." line="189" column="45" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/components/NavigationBar.html" timestamp="1531922546497">
         <mark key="[" line="22" column="75" />
         <mark key="]" line="22" column="74" />
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
-      </file>
-      <file name="/Django Console" timestamp="1539171385784">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
         <mark key="[" line="0" column="0" />
@@ -1220,8 +1221,7 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>logger.info('Updating default storage with generetated images...')
-    create_or_update_image(raster_dst)</text>
+        <text>from django.core.files.storage import default_storage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>

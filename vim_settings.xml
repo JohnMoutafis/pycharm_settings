@@ -655,12 +655,12 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539273563405">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539274628227">
         <mark key="i" line="168" column="55" />
-        <mark key="[" line="605" column="43" />
-        <mark key="]" line="605" column="44" />
-        <mark key="." line="605" column="44" />
-        <mark key="^" line="44" column="52" />
+        <mark key="[" line="628" column="40" />
+        <mark key="]" line="628" column="41" />
+        <mark key="." line="628" column="41" />
+        <mark key="^" line="628" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/settings.py" timestamp="1529492212324">
         <mark key="[" line="28" column="28" />
@@ -1220,7 +1220,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>

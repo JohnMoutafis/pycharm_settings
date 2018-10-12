@@ -582,9 +582,9 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539356918670">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539358192980">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="45" />
         <mark key="." line="137" column="0" />
         <mark key="^" line="142" column="57" />
       </file>
@@ -1037,6 +1037,11 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
+      <file name="/Django Console" timestamp="1539358185618">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1232,38 +1237,37 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>logger.debug(default_storage.url(raster_data))
-        resistance_map.raster_data = GDALRaster(default_storage.url(raster_data), write=True)</text>
+        <text>from django.contrib.gis.gdal import GDALRaster</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgd2l0aCBkZWZhdWx0X3N0b3JhZ2Uub3BlbihyYXN0ZXJfZGF0YSwgJ3JiKycpIGFzIHJhc3Rlcl9kYXRhOgo=</text>
+        <text encoding="base64">Z2RhbC5SCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKGRlZmF1bHRfc3RvcmFnZS5wYXRoKHJhc3Rlcl9kYXRhKSkK</text>
+        <text encoding="base64">ICAgICMgd2l0aCBkZWZhdWx0X3N0b3JhZ2Uub3BlbihyYXN0ZXJfZGF0YSwgJ3JiKycpIGFzIHJhc3Rlcl9kYXRhOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKGRlZmF1bHRfc3RvcmFnZS5wYXRoKHJhc3Rlcl9kYXRhKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnRmlsZSBwYXRoczpcbnt9XG57fScuZm9ybWF0KHJhc3Rlcl9kc3QsIHBuZ19kc3QpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBuZ19kc3QgPSBnZXRfb3JfY3JlYXRlX2Jhc2VfaW1hZ2UocG5nX2RzdCkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnRmlsZSBwYXRoczpcbnt9XG57fScuZm9ybWF0KHJhc3Rlcl9kc3QsIHBuZ19kc3QpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJhc3Rlcl9kc3QgPSBnZXRfb3JfY3JlYXRlX2Jhc2VfaW1hZ2UocmFzdGVyX2RzdCkK</text>
+        <text encoding="base64">ICAgIHBuZ19kc3QgPSBnZXRfb3JfY3JlYXRlX2Jhc2VfaW1hZ2UocG5nX2RzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdSZXRyaWV2aW5nIG9yIGNyZWF0aW5nIGJhc2UgaW1hZ2VzLi4uJykK</text>
+        <text encoding="base64">ICAgIHJhc3Rlcl9kc3QgPSBnZXRfb3JfY3JlYXRlX2Jhc2VfaW1hZ2UocmFzdGVyX2RzdCkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGVfZHN0ID0gZ2V0X29yX2NyZWF0ZV9iYXNlX2ltYWdlKGZpbGVfZHN0KQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdSZXRyaWV2aW5nIG9yIGNyZWF0aW5nIGJhc2UgaW1hZ2VzLi4uJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVfZHN0ID0gZ2V0X29yX2NyZWF0ZV9iYXNlX2ltYWdlKGZpbGVfZHN0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>

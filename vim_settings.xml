@@ -216,13 +216,13 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539618597255">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539621149578">
         <mark key="'" line="635" column="12" />
         <mark key="i" line="186" column="55" />
-        <mark key="[" line="616" column="24" />
-        <mark key="]" line="616" column="23" />
-        <mark key="." line="616" column="23" />
-        <mark key="^" line="616" column="23" />
+        <mark key="[" line="600" column="27" />
+        <mark key="]" line="600" column="32" />
+        <mark key="." line="600" column="32" />
+        <mark key="^" line="600" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -431,6 +431,7 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1539619378358" />
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
@@ -988,9 +989,6 @@
       <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539617988687">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1531138092651">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="3" />
@@ -1208,45 +1206,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>np.interp(
-                    scale_array, (np.nanmin(scale_array), np.nanmax(scale_array)), (0, 255)
-                ).astype(dtype=np.uint8)</text>
+        <text>np.nanmin(nd_array), np.nanmax(nd_array)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvaW50X2xpc3QgPSBbc3RhcnRfcG9pbnQsIGVuZF9wb2ludF0KCg==</text>
+        <text encoding="base64">Q2hhbmdlIEdEQUwgcmFzdGVyIHdyaXRlIGZsYWcgdG8gVHJ1ZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICAgIHBvaW50X2xpc3QuYXBwZW5kKGludGVyX3BvaW50KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgaWYgaW50ZXJfcG9pbnQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdSYXN0ZXJpemUgbnVtcHkgYXJyYXkuLi4nKQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZGVmIGdlbmVyYXRlX2NvcnJpZG9yKHJlc2lzdGFuY2VfbWFwLCBzdGFydF9wb2ludCwgZW5kX3BvaW50LCBpbnRlcl9wb2ludD1Ob25lLCB0aHJlc2hvbGQ9MC4wNSk6CiAgICAiIiIKICAgIENhbGN1bGF0ZXMgZXZlcnkgcGF0aCBiZXR3ZWVuIHN0YXJ0IGFuZCBlbmQgcG9pbnQgYW5kIGtlZXBzIHRob3NlIHRoYXQgYXJlIGluc2lkZSB0aGUKICAgIHRocmVzaG9sZCBjb3JyaWRvciB3aWR0aC4KICAgIEFyZ3M6CiAgICAgICAgcmVzaXN0YW5jZV9tYXA6IEEgUmVzaXN0YW5jZSBNYXAgaW5zdGFuY2UncyByYXN0ZXIgZGF0YS4KICAgICAgICBzdGFydF9wb2ludDogICAgU3RhcnRpbmcgcG9pbnQgb2YgcHJvamVjdC4KICAgICAgICBlbmRfcG9pbnQ6ICAgICAgRW5kaW5nIHBvaW50IG9mIHByb2plY3QuCiAgICAgICAgaW50ZXJfcG9pbnQ6ICAgIEludGVybWVkaWF0ZSBwb2ludCBvZiB0aGUgc2NlbmFyaW8KICAgICAgICB0aHJlc2hvbGQ6ICAgICAgVGhlIHRocmVzaG9sZCAoaW4gbWV0ZXJzKSBvZiB0aGUgY29ycmlkb3IncyB3aWR0aC4KCiAgICBSZXR1cm5zOgogICAgICAgIEEgbnVtcHkgYXJyYXkuCiAgICAiIiIKICAgIGNvc3Rfc3VyZmFjZSA9IHJlc2lzdGFuY2VfbWFwLmJhbmRzWzBdLmRhdGEoKS5hc3R5cGUoZHR5cGU9bnAuZmxvYXQzMikKICAgICMgVGhpcyB3aWxsIGJlIHVzZWQgdG8gY3JvcCB0aGUgcmVzdWx0aW5nIGNvcnJpZG9yCiAgICBtYXNrID0gY29zdF9zdXJmYWNlICE9IDAKCiAgICBwb2ludF9saXN0ID0gW3N0YXJ0X3BvaW50LCBlbmRfcG9pbnRdCiAgICBpZiBpbnRlcl9wb2ludDoKICAgICAgICBwb2ludF9saXN0LmFwcGVuZChpbnRlcl9wb2ludCkKCiAgICAjIENhbGN1bGF0aW5nIFByb2plY3QgcG9pbnQgaW5kZXhlcyBvbiBjb3N0X3N1cmZhY2UKICAgIHBvaW50X2luZGV4ZXMgPSBmaW5kX3BvaW50X2luZGV4ZXNfb25fcmFzdGVyKHJlc2lzdGFuY2VfbWFwLmdlb3RyYW5zZm9ybSwgcG9pbnRfbGlzdCkKICAgIGxvZ2dlci5kZWJ1ZygnUG9pbnRzOiB7fSwgIFNoYXBlOiB7fScuZm9ybWF0KHBvaW50X2luZGV4ZXMsIGNvc3Rfc3VyZmFjZS5zaGFwZSkpCgogICAgIyBDYWxjdWxhdGUgdGhlIENvcnJpZG9yLgogICAgY29zdF9zdXJmYWNlW25wLndoZXJlKGNvc3Rfc3VyZmFjZSA9PSAwKV0gPSBucC5uYW5tYXgoY29zdF9zdXJmYWNlKSAqIDEwMDAwCiAgICBtaW5pbXVtX3BhdGhzID0gTUNQX0dlb21ldHJpYyhjb3N0X3N1cmZhY2UsIGZ1bGx5X2Nvbm5lY3RlZD1UcnVlKQogICAgY29zdHMgPSBjYWxjdWxhdGVfY29ycmlkb3JfcGF0aHMobWluaW11bV9wYXRocywgKnBvaW50X2luZGV4ZXMpCgogICAgY29ycmlkb3JfYXJyYXkgPSBucC56ZXJvcyhjb3N0X3N1cmZhY2Uuc2hhcGUsIGR0eXBlPW5wLmZsb2F0MzIpCiAgICBjb3JyaWRvcl9hcnJheS5maWxsKG5wLm5hbikKICAgIHRyeToKICAgICAgICBjb3JyaWRvcl9hcnJheVtjb3N0cyA8PSB0aHJlc2hvbGQgKiBucC5uYW5taW4oY29zdHNbY29zdHMgIT0gbnAuaW5mXSldID0gMQogICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgbG9nZ2VyLmVycm9yKCdDb3VsZCBOb3QgQ3JlYXRlIGEgQ29ycmlkb3IgZm9yIHRoaXMgcmVzaXN0YW5jZSBtYXAuJykKCiAgICByZXR1cm4gbnAud2hlcmUobWFzaywgY29ycmlkb3JfYXJyYXkgKiBjb3N0cywgbnAubmFuKQo=</text>
+        <text>logger.info('Defining pixel edge values for interpolation and png colormap to use...')
+    if 'resistance' in png_dst:
+        edge_values = (np.nanmin(nd_array), np.nanmax(nd_array))
+        new_edge_values = (0, 255)
+        current_colormap = settings.RESISTANCE_COLORMAP
+    else:
+        edge_values = (np.nan, np.nanmin(nd_array), np.nanmax(nd_array))
+        new_edge_values = (0, 1, 255)
+        current_colormap = settings.CORRIDOR_COLORMAP
+    logger.debug('Edge Values: {} New Edge Values: {}'.format(edge_values, new_edge_values))</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBucC53aGVyZShtYXNrLCBjb3JyaWRvciwgbnAubmFuKQo=</text>
+      <register name="6" type="4">
+        <text>logger.info('Defining png colormap to use...')
+        if 'resistance' in png_dst.name:
+            current_colormap = settings.RESISTANCE_COLORMAP
+        else:
+            current_colormap = settings.CORRIDOR_COLORMAP</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NhbGVfYXJyYXkgPSAK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoJ0NvdWxkIE5vdCBDcmVhdGUgQ29ycmlkb3IuIENoZWNrIHRoZSBjb3JyZXNwb25kaW5nIFJlc2lzdGFuY2UgTWFwLicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ZXM9MQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

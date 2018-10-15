@@ -9,11 +9,29 @@
         <mark key="^" line="33" column="76" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/services.py" timestamp="1524834811378">
+        <mark key="[" line="67" column="84" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/silkbot/index.rst" timestamp="1527599525659">
         <mark key="[" line="22" column="15" />
         <mark key="]" line="23" column="20" />
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
+        <mark key="[" line="125" column="22" />
+        <mark key="]" line="125" column="26" />
+        <mark key="^" line="273" column="30" />
+        <mark key="." line="273" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live horses feed/index.rst" timestamp="1527256522675">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="29" />
       </file>
       <file name="/a.dummy" timestamp="1539245835499">
         <mark key="[" line="0" column="0" />
@@ -23,6 +41,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="^" line="45" column="31" />
         <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" timestamp="1529490687651">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/parsers/requirements.txt" timestamp="1526473974772">
         <mark key="[" line="2" column="13" />
@@ -48,17 +72,53 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539359818540">
+        <mark key="[" line="140" column="73" />
+        <mark key="]" line="141" column="147" />
+        <mark key="." line="141" column="147" />
+        <mark key="^" line="141" column="147" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1539273913077">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="6" column="14" />
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="190" column="1" />
+        <mark key="^" line="190" column="1" />
+        <mark key="." line="190" column="1" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/Element.js" timestamp="1538581621319">
         <mark key="[" line="458" column="43" />
         <mark key="]" line="458" column="43" />
         <mark key="." line="458" column="43" />
         <mark key="^" line="458" column="55" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+        <mark key="^" line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1538656060771">
+        <mark key="[" line="86" column="98" />
+        <mark key="]" line="87" column="26" />
+        <mark key="^" line="87" column="26" />
+        <mark key="." line="87" column="26" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/services.py" timestamp="1533198818015">
         <mark key="[" line="7" column="0" />
@@ -75,11 +135,29 @@
       <file name="/gilytics.public.users_account [gilytics@localhost]" timestamp="1536327259194">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/bot_index.rst" timestamp="1527015880560">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/serializers.py" timestamp="1536739417011">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/templates/workspace_templates/workspace_create_template.html" timestamp="1533542505248">
         <mark key="[" line="4" column="54" />
         <mark key="]" line="4" column="55" />
         <mark key="." line="4" column="55" />
         <mark key="^" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/forms.py" timestamp="1536324528119">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/admin.py" timestamp="1536328220333">
         <mark key="[" line="14" column="58" />
@@ -93,6 +171,18 @@
         <mark key="^" line="7" column="67" />
         <mark key="." line="16" column="11" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525966585438">
+        <mark key="[" line="13" column="89" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="13" column="68" />
+      </file>
+      <file name="$USER_HOME$/Programs/db_project_2018/spatial_queries.sql" timestamp="1536514882496">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="67" column="23" />
+        <mark key="^" line="89" column="57" />
+        <mark key="." line="89" column="57" />
+      </file>
       <file name="/jgmoutafisdb.project_2018.gr_administrativeareas [ntua_postgis]" timestamp="1536497405435">
         <mark key="[" line="0" column="0" />
       </file>
@@ -101,6 +191,18 @@
         <mark key="]" line="9" column="50" />
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="50" column="79" />
+        <mark key="^" line="54" column="24" />
+        <mark key="." line="59" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/runners/service.py" timestamp="1526474484291">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/env.example" timestamp="1526458892181">
         <mark key="[" line="6" column="65" />
@@ -114,11 +216,25 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539359860526">
+        <mark key="'" line="596" column="12" />
+        <mark key="i" line="167" column="55" />
+        <mark key="[" line="571" column="0" />
+        <mark key="]" line="571" column="0" />
+        <mark key="." line="571" column="0" />
+        <mark key="^" line="37" column="31" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
         <mark key="]" line="39" column="9" />
         <mark key="." line="39" column="9" />
         <mark key="^" line="39" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/settings.py" timestamp="1529492212324">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="33" column="51" />
+        <mark key="." line="28" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/index.rst" timestamp="1527674030811">
         <mark key="[" line="1" column="0" />
@@ -131,6 +247,12 @@
         <mark key="]" line="179" column="28" />
         <mark key="^" line="179" column="28" />
         <mark key="." line="179" column="28" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/tests/test_logout.py" timestamp="1536341781779">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="22" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_services/index.rst" timestamp="1528378457624">
         <mark key="[" line="0" column="0" />
@@ -149,6 +271,45 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/requirements.txt" timestamp="1526471874972">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/meetings.rst" timestamp="1528287707303">
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/index.rst" timestamp="1527757110756">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="19" column="88" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="89" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/.env" timestamp="1527073026294">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="70" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/ADRS_Linear_SVM.py" timestamp="1530479784986">
+        <mark key="[" line="106" column="14" />
+        <mark key="]" line="106" column="15" />
+        <mark key="^" line="106" column="14" />
+        <mark key="." line="106" column="15" />
+      </file>
+      <file name="/Python Console" timestamp="1539171240468">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1539165961555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/migrations/0002_auto_20180906_1857.py" timestamp="1536311867283">
         <mark key="[" line="16" column="77" />
@@ -174,6 +335,12 @@
         <mark key="." line="85" column="11" />
         <mark key="^" line="85" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_4/topografoi_openlayers.html" timestamp="1529760853025">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/index.rst" timestamp="1527691553501">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -185,6 +352,30 @@
         <mark key="]" line="191" column="39" />
         <mark key="." line="191" column="40" />
         <mark key="^" line="191" column="40" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/env.example" timestamp="1536252616665">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="60" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/index.rst" timestamp="1528384634814">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1539172213218">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/env.example" timestamp="1526462522142">
         <mark key="[" line="13" column="0" />
@@ -210,6 +401,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/env.example" timestamp="1529492220261">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env" timestamp="1526462525996">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="14" column="20" />
@@ -222,11 +419,30 @@
         <mark key="^" line="111" column="7" />
         <mark key="." line="111" column="7" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/admin.py" timestamp="1532513847897">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/gbi_bot.rst" timestamp="1527015919992">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1539351343825">
+        <mark key="'" line="333" column="23" />
+        <mark key="[" line="339" column="47" />
+        <mark key="]" line="339" column="51" />
+        <mark key="." line="339" column="51" />
+        <mark key="^" line="339" column="51" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/cm_xls.py" timestamp="1527458807428">
         <mark key="[" line="3" column="0" />
@@ -234,11 +450,50 @@
         <mark key="^" line="5" column="72" />
         <mark key="." line="5" column="72" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/micro_services/parser.rst" timestamp="1527583995996">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="88" />
+        <mark key="." line="6" column="88" />
+        <mark key="^" line="6" column="88" />
+      </file>
+      <file name="/jgmoutafisdb.project_2018.gr_railroadsystem [ntua_postgis]" timestamp="1536497238302">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/requirements.txt" timestamp="1527013877038">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/utils.py" timestamp="1532105048605">
+        <mark key="[" line="376" column="24" />
+        <mark key="]" line="377" column="7" />
+        <mark key="^" line="377" column="7" />
+        <mark key="." line="377" column="7" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/serializers.py" timestamp="1533632199821">
+        <mark key="[" line="43" column="44" />
+        <mark key="]" line="43" column="63" />
+        <mark key="." line="43" column="63" />
+        <mark key="^" line="43" column="63" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1538581999979">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="^" line="242" column="81" />
+        <mark key="." line="239" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/cleanup_scripts.rst" timestamp="1528703762075">
         <mark key="[" line="307" column="41" />
         <mark key="]" line="307" column="82" />
         <mark key="^" line="307" column="82" />
         <mark key="." line="307" column="82" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/api/views.py" timestamp="1528989691274">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/micro_services/gateway.rst" timestamp="1527591834478">
         <mark key="[" line="64" column="0" />
@@ -246,14 +501,32 @@
         <mark key="^" line="326" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1537458160118">
+        <mark key="[" line="749" column="68" />
+        <mark key="]" line="749" column="68" />
+        <mark key="." line="749" column="68" />
+        <mark key="^" line="749" column="68" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/Pipfile" timestamp="1533903907719">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="21" />
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/env.example" timestamp="1526473873292">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="7" column="8" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/scripts/corridor.py" timestamp="1539090962977">
         <mark key="'" line="586" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/index.rst" timestamp="1528466387798">
+        <mark key="[" line="72" column="2" />
+        <mark key="]" line="70" column="39" />
+        <mark key="^" line="70" column="39" />
+        <mark key="." line="70" column="39" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/models.py" timestamp="1533636964382">
         <mark key="[" line="6" column="0" />
@@ -263,6 +536,12 @@
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.isort.cfg" timestamp="1535726503985">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/media/uploads/.gitignore" timestamp="1533023681338">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/requirements.txt" timestamp="1526473970420">
         <mark key="[" line="3" column="0" />
@@ -282,6 +561,18 @@
         <mark key="." line="382" column="52" />
         <mark key="^" line="382" column="52" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/.env" timestamp="1525246657600">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="7" column="84" />
+        <mark key="^" line="7" column="84" />
+        <mark key="." line="7" column="84" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/support_services/silks_status_page.rst" timestamp="1527758211636">
         <mark key="[" line="27" column="3" />
         <mark key="]" line="27" column="5" />
@@ -294,11 +585,35 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/README.md" timestamp="1529492979818">
+        <mark key="[" line="78" column="42" />
+        <mark key="]" line="81" column="29" />
+        <mark key="^" line="81" column="29" />
+        <mark key="." line="81" column="29" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/.env.example" timestamp="1525963205367">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="21" />
         <mark key="^" line="18" column="2" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_consumer_bot.rst" timestamp="1528384364871">
+        <mark key="[" line="120" column="104" />
+        <mark key="]" line="120" column="103" />
+        <mark key="." line="120" column="103" />
+        <mark key="^" line="120" column="103" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/races/service.py" timestamp="1526474471892">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/micro_services/runners.rst" timestamp="1527586619307">
+        <mark key="[" line="57" column="88" />
+        <mark key="]" line="57" column="87" />
+        <mark key="^" line="57" column="87" />
+        <mark key="." line="57" column="87" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/serializers.py" timestamp="1533636927317">
         <mark key="[" line="10" column="38" />
@@ -312,6 +627,18 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/.env" timestamp="1529052628447">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1529492096753">
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="24" />
+        <mark key="^" line="71" column="24" />
+        <mark key="." line="71" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/.env" timestamp="1526398270661">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -324,11 +651,35 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1528705050723">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="47" column="4" />
+        <mark key="^" line="47" column="4" />
+        <mark key="." line="47" column="4" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/environments/stolos.env" timestamp="1536331850624">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="65" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/utils.py" timestamp="1525351037484">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="23" column="78" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_polygon_g.sql" timestamp="1525380944481">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="116" column="33" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/requirements/prod.txt" timestamp="1528985111899">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/micro_services/crawler.rst" timestamp="1527264278954">
         <mark key="[" line="23" column="0" />
@@ -376,6 +727,18 @@
         <mark key="^" line="62" column="32" />
         <mark key="." line="62" column="32" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/flask_upload_server/.env" timestamp="1529054593463">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/django-skeleton/Pipfile" timestamp="1532083692332">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="18" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_4/topografoi_googlemaps.html" timestamp="1529765466727">
         <mark key="[" line="22" column="52" />
         <mark key="]" line="24" column="51" />
@@ -388,11 +751,35 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/views.py" timestamp="1539178726653">
+        <mark key="[" line="130" column="41" />
+        <mark key="]" line="130" column="53" />
+        <mark key="." line="130" column="53" />
+        <mark key="^" line="130" column="53" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/silk_locations.cfg-sample" timestamp="1526646057965">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="41" />
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="41" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/env.example" timestamp="1526471938755">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/urls.py" timestamp="1537260348648">
+        <mark key="[" line="40" column="71" />
+        <mark key="]" line="40" column="71" />
+        <mark key="." line="40" column="71" />
+        <mark key="^" line="40" column="71" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements.txt" timestamp="1529489465091">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/micro_services/races.rst" timestamp="1527586627483">
         <mark key="[" line="56" column="86" />
@@ -406,11 +793,35 @@
         <mark key="^" line="11" column="76" />
         <mark key="." line="11" column="76" />
       </file>
+      <file name="$USER_HOME$/Programs/db_project_2018/geometry_function_queries.sql" timestamp="1536515289939">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="39" column="23" />
+        <mark key="^" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/fuzzybot/fuzzybot/strategies.py" timestamp="1526401878676">
         <mark key="[" line="107" column="11" />
         <mark key="]" line="107" column="18" />
         <mark key="^" line="107" column="18" />
         <mark key="." line="107" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tests.py" timestamp="1536341721882">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/bot_index.rst" timestamp="1527147731676">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/encoders.py" timestamp="1537781130409">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="6" column="66" />
       </file>
       <file name="$USER_HOME$/Programs/db_project_2018/project_2018_visualization.html" timestamp="1536517240897">
         <mark key="[" line="30" column="13" />
@@ -418,11 +829,23 @@
         <mark key="^" line="30" column="15" />
         <mark key="." line="30" column="15" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/urls.py" timestamp="1539075276449">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/flask_upload_server/requirements.txt" timestamp="1529055009887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+        <mark key="^" line="46" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/processors.py" timestamp="1525269880074">
         <mark key="[" line="46" column="0" />
@@ -430,11 +853,23 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_services/nrc_bot.rst" timestamp="1528702893764">
+        <mark key="[" line="72" column="97" />
+        <mark key="]" line="72" column="38" />
+        <mark key="^" line="72" column="38" />
+        <mark key="." line="72" column="38" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/env.example" timestamp="1528985086411">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="11" column="10" />
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/apps.py" timestamp="1535038376977">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.dockerignore" timestamp="1535726540021">
         <mark key="[" line="2" column="1" />
@@ -442,11 +877,35 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_line_g.sql" timestamp="1525379334042">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia_racing_silks/flask_upload_server/app.py" timestamp="1528893109174">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="17" column="22" />
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/MapGenerator.js" timestamp="1537882797724">
+        <mark key="[" line="141" column="57" />
+        <mark key="]" line="141" column="56" />
+        <mark key="^" line="141" column="56" />
+        <mark key="." line="141" column="56" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/config.yml" timestamp="1526472605404">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1539159893153">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/setup.cfg" timestamp="1525246560773">
         <mark key="[" line="11" column="15" />
@@ -466,6 +925,15 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
+      <file name="/jgmoutafisdb.project_2018.GR_RailRoadSystem [ntua_postgis]" timestamp="1536493345365">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1539181514048">
+        <mark key="[" line="189" column="37" />
+        <mark key="]" line="189" column="45" />
+        <mark key="^" line="189" column="45" />
+        <mark key="." line="189" column="45" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_status/.env" timestamp="1527769742931">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="78" />
@@ -478,8 +946,28 @@
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/components/NavigationBar.html" timestamp="1531922546497">
+        <mark key="[" line="22" column="75" />
+        <mark key="]" line="22" column="74" />
+        <mark key="." line="22" column="74" />
+        <mark key="^" line="22" column="74" />
+      </file>
+      <file name="/Django Console" timestamp="1539588222171">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1532968148181">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dea61306-89a2-40b6-8a8b-fe299c231af3/console_1.sql" timestamp="1536310396747">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler.rst" timestamp="1527673914505">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/db_functions.py" timestamp="1533722344856">
         <mark key="[" line="0" column="58" />
@@ -488,6 +976,27 @@
         <mark key="." line="8" column="26" />
       </file>
       <file name="/dummy.sql" timestamp="1536514896631">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/errors.py" timestamp="1533194464599">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import_report.html" timestamp="1533212153207">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180620.xml" timestamp="1529491098187">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="24" column="66" />
+        <mark key="." line="24" column="66" />
+      </file>
+      <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1539359923487">
@@ -514,6 +1023,18 @@
         <mark key="^" line="325" column="0" />
         <mark key="." line="325" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/flask_upload_server/app.py" timestamp="1529058890728">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/templates/workspace_templates/workspace_create_report.html" timestamp="1533542547162">
         <mark key="[" line="17" column="65" />
         <mark key="]" line="17" column="85" />
@@ -532,11 +1053,29 @@
         <mark key="^" line="84" column="82" />
         <mark key="." line="84" column="82" />
       </file>
+      <file name="$USER_HOME$/Programs/db_project_2018/project_visualization/project_2018_visualization.html" timestamp="1536523465128">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/setup.cfg" timestamp="1535729082486">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="6" column="14" />
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/docs/index.rst" timestamp="1527249790379">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/utils.py" timestamp="1525251959582">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="30" column="7" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/templates/workspace_templates/workspace_list_template.html" timestamp="1533542391644">
         <mark key="[" line="13" column="28" />
@@ -553,545 +1092,6 @@
         <mark key="]" line="6" column="27" />
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/services.py" timestamp="1524834811378">
-        <mark key="[" line="67" column="84" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
-        <mark key="^" line="20" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_2/queries/q1_create_tables.sql" timestamp="1525381874047">
-        <mark key="[" line="125" column="22" />
-        <mark key="]" line="125" column="26" />
-        <mark key="^" line="273" column="30" />
-        <mark key="." line="273" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live horses feed/index.rst" timestamp="1527256522675">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/utils.py" timestamp="1529490687651">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539359818540">
-        <mark key="[" line="140" column="73" />
-        <mark key="]" line="141" column="147" />
-        <mark key="." line="141" column="147" />
-        <mark key="^" line="141" column="147" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1533910205188">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="190" column="1" />
-        <mark key="^" line="190" column="1" />
-        <mark key="." line="190" column="1" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/docker/Dockerfile" timestamp="1525444839879">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="18" column="5" />
-        <mark key="^" line="12" column="40" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/.env" timestamp="1525943037632">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/requirements.txt" timestamp="1525351254140">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/serializers.py" timestamp="1538656060771">
-        <mark key="[" line="86" column="98" />
-        <mark key="]" line="87" column="26" />
-        <mark key="^" line="87" column="26" />
-        <mark key="." line="87" column="26" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/docs/bots/bot_index.rst" timestamp="1527015880560">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/serializers.py" timestamp="1536739417011">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="5" column="49" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/forms.py" timestamp="1536324528119">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="24" column="22" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_service/nrcsib/processors.py" timestamp="1525966585438">
-        <mark key="[" line="13" column="89" />
-        <mark key="]" line="13" column="68" />
-        <mark key="." line="13" column="68" />
-        <mark key="^" line="13" column="68" />
-      </file>
-      <file name="$USER_HOME$/Programs/db_project_2018/spatial_queries.sql" timestamp="1536514882496">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="67" column="23" />
-        <mark key="^" line="89" column="57" />
-        <mark key="." line="89" column="57" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/cleanup_scripts/clean-gbi.py" timestamp="1526647709375">
-        <mark key="[" line="54" column="25" />
-        <mark key="]" line="50" column="79" />
-        <mark key="^" line="54" column="24" />
-        <mark key="." line="59" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/runners/runners/service.py" timestamp="1526474484291">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539359860526">
-        <mark key="'" line="596" column="12" />
-        <mark key="i" line="167" column="55" />
-        <mark key="[" line="571" column="0" />
-        <mark key="]" line="571" column="0" />
-        <mark key="." line="571" column="0" />
-        <mark key="^" line="37" column="31" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/settings.py" timestamp="1529492212324">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="33" column="51" />
-        <mark key="." line="28" column="29" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/users/tests/test_logout.py" timestamp="1536341781779">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="22" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/requirements.txt" timestamp="1526471874972">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/meetings.rst" timestamp="1528287707303">
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="56" column="7" />
-        <mark key="." line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/fuzzybot/index.rst" timestamp="1527757110756">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="19" column="88" />
-        <mark key="." line="19" column="41" />
-        <mark key="^" line="19" column="89" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.pmu_service/.env" timestamp="1527073026294">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="70" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6631_Thlepiskophsh/Project/ADRS_Linear_SVM.py" timestamp="1530479784986">
-        <mark key="[" line="106" column="14" />
-        <mark key="]" line="106" column="15" />
-        <mark key="^" line="106" column="14" />
-        <mark key="." line="106" column="15" />
-      </file>
-      <file name="/Python Console" timestamp="1539171240468">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1539165961555">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_4/topografoi_openlayers.html" timestamp="1529760853025">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="39" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/env.example" timestamp="1536252616665">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="3" column="47" />
-        <mark key="^" line="3" column="47" />
-        <mark key="." line="3" column="47" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.phumelela_service/env.example" timestamp="1525871423252">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="5" column="60" />
-        <mark key="^" line="5" column="60" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/index.rst" timestamp="1528384634814">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="22" column="2" />
-        <mark key="." line="22" column="2" />
-        <mark key="^" line="22" column="2" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/common/utils.py" timestamp="1539172213218">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/env.example" timestamp="1529492220261">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/admin.py" timestamp="1532513847897">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="3" column="33" />
-        <mark key="^" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1539351343825">
-        <mark key="'" line="333" column="23" />
-        <mark key="[" line="339" column="47" />
-        <mark key="]" line="339" column="51" />
-        <mark key="." line="339" column="51" />
-        <mark key="^" line="339" column="51" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/micro_services/parser.rst" timestamp="1527583995996">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="88" />
-        <mark key="." line="6" column="88" />
-        <mark key="^" line="6" column="88" />
-      </file>
-      <file name="/jgmoutafisdb.project_2018.gr_railroadsystem [ntua_postgis]" timestamp="1536497238302">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/silks_scheduler/requirements.txt" timestamp="1527013877038">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/scripts/utils.py" timestamp="1532105048605">
-        <mark key="[" line="376" column="24" />
-        <mark key="]" line="377" column="7" />
-        <mark key="^" line="377" column="7" />
-        <mark key="." line="377" column="7" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/repository_wrapper/api_v1/serializers.py" timestamp="1533632199821">
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="43" column="63" />
-        <mark key="." line="43" column="63" />
-        <mark key="^" line="43" column="63" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1538581999979">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="^" line="242" column="81" />
-        <mark key="." line="239" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/silkbot/meetings/api/views.py" timestamp="1528989691274">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="24" />
-        <mark key="^" line="31" column="24" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1537458160118">
-        <mark key="[" line="749" column="68" />
-        <mark key="]" line="749" column="68" />
-        <mark key="." line="749" column="68" />
-        <mark key="^" line="749" column="68" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/meetings/env.example" timestamp="1526473873292">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="7" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/index.rst" timestamp="1528466387798">
-        <mark key="[" line="72" column="2" />
-        <mark key="]" line="70" column="39" />
-        <mark key="^" line="70" column="39" />
-        <mark key="." line="70" column="39" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/media/uploads/.gitignore" timestamp="1533023681338">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/.env" timestamp="1525246657600">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/renderers.py" timestamp="1537527076961">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="7" column="84" />
-        <mark key="^" line="7" column="84" />
-        <mark key="." line="7" column="84" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/README.md" timestamp="1529492979818">
-        <mark key="[" line="78" column="42" />
-        <mark key="]" line="81" column="29" />
-        <mark key="^" line="81" column="29" />
-        <mark key="." line="81" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/pmu_services/pmu_consumer_bot.rst" timestamp="1528384364871">
-        <mark key="[" line="120" column="104" />
-        <mark key="]" line="120" column="103" />
-        <mark key="." line="120" column="103" />
-        <mark key="^" line="120" column="103" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/races/service.py" timestamp="1526474471892">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/micro_services/runners.rst" timestamp="1527586619307">
-        <mark key="[" line="57" column="88" />
-        <mark key="]" line="57" column="87" />
-        <mark key="^" line="57" column="87" />
-        <mark key="." line="57" column="87" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/.env" timestamp="1529052628447">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/hrsib/services.py" timestamp="1529492096753">
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="24" />
-        <mark key="^" line="71" column="24" />
-        <mark key="." line="71" column="24" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/hellashorses_bot.rst" timestamp="1528705050723">
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="47" column="4" />
-        <mark key="^" line="47" column="4" />
-        <mark key="." line="47" column="4" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/environments/stolos.env" timestamp="1536331850624">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="65" />
-        <mark key="^" line="4" column="64" />
-        <mark key="." line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/create_polygon_g.sql" timestamp="1525380944481">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="13" column="52" />
-        <mark key="^" line="116" column="33" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/requirements/prod.txt" timestamp="1528985111899">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/flask_upload_server/.env" timestamp="1529054593463">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/django-skeleton/Pipfile" timestamp="1532083692332">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="18" column="16" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/repository_wrapper/api_v1/views.py" timestamp="1539178726653">
-        <mark key="[" line="130" column="41" />
-        <mark key="]" line="130" column="53" />
-        <mark key="." line="130" column="53" />
-        <mark key="^" line="130" column="53" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/env.example" timestamp="1526471938755">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/urls.py" timestamp="1537260348648">
-        <mark key="[" line="40" column="71" />
-        <mark key="]" line="40" column="71" />
-        <mark key="." line="40" column="71" />
-        <mark key="^" line="40" column="71" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements.txt" timestamp="1529489465091">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/Programs/db_project_2018/geometry_function_queries.sql" timestamp="1536515289939">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="39" column="23" />
-        <mark key="^" line="20" column="37" />
-        <mark key="." line="20" column="37" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tests.py" timestamp="1536341721882">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/bot_index.rst" timestamp="1527147731676">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="9" column="16" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/encoders.py" timestamp="1537781130409">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="6" column="66" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/urls.py" timestamp="1539075276449">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/q3_apply_queries.sql" timestamp="1525388721001">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="35" />
-        <mark key="." line="46" column="35" />
-        <mark key="^" line="46" column="35" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/bots/nrc_services/nrc_bot.rst" timestamp="1528702893764">
-        <mark key="[" line="72" column="97" />
-        <mark key="]" line="72" column="38" />
-        <mark key="^" line="72" column="38" />
-        <mark key="." line="72" column="38" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/apps.py" timestamp="1535038376977">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/GIS_Master/6671_Xwrikes_Baseis/Askhsh_3/queries/create_line_g.sql" timestamp="1525379334042">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/static/js/MapGenerator.js" timestamp="1537882797724">
-        <mark key="[" line="141" column="57" />
-        <mark key="]" line="141" column="56" />
-        <mark key="^" line="141" column="56" />
-        <mark key="." line="141" column="56" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/races/config.yml" timestamp="1526472605404">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/.env" timestamp="1539159893153">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-      </file>
-      <file name="/jgmoutafisdb.project_2018.GR_RailRoadSystem [ntua_postgis]" timestamp="1536493345365">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1539181514048">
-        <mark key="[" line="189" column="37" />
-        <mark key="]" line="189" column="45" />
-        <mark key="^" line="189" column="45" />
-        <mark key="." line="189" column="45" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/components/NavigationBar.html" timestamp="1531922546497">
-        <mark key="[" line="22" column="75" />
-        <mark key="]" line="22" column="74" />
-        <mark key="." line="22" column="74" />
-        <mark key="^" line="22" column="74" />
-      </file>
-      <file name="/Django Console" timestamp="1539359618380">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1532968148181">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/silks_scheduler.rst" timestamp="1527673914505">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/api_v1/errors.py" timestamp="1533194464599">
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="37" column="3" />
-        <mark key="^" line="37" column="3" />
-        <mark key="." line="37" column="3" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/mcda/templates/mcda/layer_import_report.html" timestamp="1533212153207">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/test_resources/Card_Channel_HR_CH_20180620.xml" timestamp="1529491098187">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="24" column="66" />
-        <mark key="." line="24" column="66" />
-      </file>
-      <file name="/jgmoutafisdb.project_2018.gr_majorroadsystem [ntua_postgis]" timestamp="1536499386144">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/flask_upload_server/app.py" timestamp="1529058890728">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.live_horses_feed/gateway/config.yml" timestamp="1526472544571">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-      </file>
-      <file name="$USER_HOME$/Programs/db_project_2018/project_visualization/project_2018_visualization.html" timestamp="1536523465128">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="22" column="29" />
-        <mark key="^" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silkbot/docs/index.rst" timestamp="1527249790379">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="45" column="14" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/producer/nrcsib/utils.py" timestamp="1525251959582">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="30" column="7" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/setup.cfg" timestamp="1529059072927">
         <mark key="[" line="1" column="22" />
@@ -1295,7 +1295,6 @@
         <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>100</entry>
         <entry>75</entry>
         <entry>6</entry>
         <entry>ew</entry>

@@ -72,11 +72,10 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539359818540">
-        <mark key="[" line="140" column="73" />
-        <mark key="]" line="141" column="147" />
-        <mark key="." line="141" column="147" />
-        <mark key="^" line="141" column="147" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539596672685">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1539273913077">
         <mark key="[" line="5" column="17" />
@@ -1231,34 +1230,34 @@
         <text>from django.contrib.gis.gdal import GDALRaster</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RGVmYXVsdCBzdG9yYWdlIHVybCBmaXggYXR0ZW1wdC4K</text>
+        <text encoding="base64">ICAgICAgICByZXNpc3RhbmNlX21hcC5yYXN0ZXJfZGF0YSA9IEdEQUxSYXN0ZXIoJ2h0dHBzOi8vZ2lseXRpY3Mtc3RhdGljLnMzLmFtYXpvbmF3cy5jb20vcmFzdGVycy9BdmVsZ2VtLUJyZWRlbmUvVGVzdF9zY2VuYXJpby9yZXNpc3RhbmNlX21hcC50aWYnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RGVmYXVsdCBzdG9yYWdlIHVybCBmaXggYXR0ZW1wdC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnRmlsZSBwYXRoczpcbnt9XG57fScuZm9ybWF0KHJhc3Rlcl9kc3QsIHBuZ19kc3QpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBuZ19kc3QgPSBnZXRfb3JfY3JlYXRlX2Jhc2VfaW1hZ2UocG5nX2RzdCkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnRmlsZSBwYXRoczpcbnt9XG57fScuZm9ybWF0KHJhc3Rlcl9kc3QsIHBuZ19kc3QpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhc3Rlcl9kc3QgPSBnZXRfb3JfY3JlYXRlX2Jhc2VfaW1hZ2UocmFzdGVyX2RzdCkK</text>
+        <text encoding="base64">ICAgIHBuZ19kc3QgPSBnZXRfb3JfY3JlYXRlX2Jhc2VfaW1hZ2UocG5nX2RzdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdSZXRyaWV2aW5nIG9yIGNyZWF0aW5nIGJhc2UgaW1hZ2VzLi4uJykK</text>
+        <text encoding="base64">ICAgIHJhc3Rlcl9kc3QgPSBnZXRfb3JfY3JlYXRlX2Jhc2VfaW1hZ2UocmFzdGVyX2RzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgd2l0aCBkZWZhdWx0X3N0b3JhZ2Uub3BlbihyYXN0ZXJfZGF0YSwgJ3JiKycpIGFzIHJhc3Rlcl9kYXRhOgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdSZXRyaWV2aW5nIG9yIGNyZWF0aW5nIGJhc2UgaW1hZ2VzLi4uJykK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKGRlZmF1bHRfc3RvcmFnZS5wYXRoKHJhc3Rlcl9kYXRhKSkK</text>
+        <text encoding="base64">ICAgICMgd2l0aCBkZWZhdWx0X3N0b3JhZ2Uub3BlbihyYXN0ZXJfZGF0YSwgJ3JiKycpIGFzIHJhc3Rlcl9kYXRhOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBzZXR0aW5ncy5CVUNLRVRfRklMRVNUT1JFOgo=</text>
+        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKGRlZmF1bHRfc3RvcmFnZS5wYXRoKHJhc3Rlcl9kYXRhKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539601124409">
-        <mark key="[" line="68" column="15" />
-        <mark key="]" line="68" column="15" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539679951892">
+        <mark key="[" line="181" column="45" />
+        <mark key="]" line="181" column="45" />
         <mark key="^" line="68" column="15" />
-        <mark key="." line="68" column="15" />
+        <mark key="." line="181" column="45" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1539273913077">
         <mark key="[" line="5" column="17" />
@@ -216,13 +216,13 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539621149578">
-        <mark key="'" line="635" column="12" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539679900166">
+        <mark key="'" line="598" column="12" />
         <mark key="i" line="186" column="55" />
-        <mark key="[" line="600" column="27" />
-        <mark key="]" line="600" column="32" />
-        <mark key="." line="600" column="32" />
-        <mark key="^" line="600" column="32" />
+        <mark key="[" line="277" column="24" />
+        <mark key="]" line="277" column="30" />
+        <mark key="." line="277" column="30" />
+        <mark key="^" line="277" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -431,7 +431,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/gilytics/settings.py" timestamp="1539619378358" />
       <file name="$USER_HOME$/PycharmProjects/silks/vermantia-racing-channels.hr_silks/requirements_dev.txt" timestamp="1529055864182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
@@ -1206,7 +1205,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1215,47 +1214,34 @@
         <text>np.nanmin(nd_array), np.nanmax(nd_array)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q2hhbmdlIEdEQUwgcmFzdGVyIHdyaXRlIGZsYWcgdG8gVHJ1ZS4K</text>
+        <text encoding="base64">ICAgICAgICBjb3JyaWRvci5zY2VuYXJpby5wcm9qZWN0LmVuZF9wb2ludCwgY29ycmlkb3Iuc2NlbmFyaW8uaW50ZXJtZWRpYXRlX3BvaW50LCB0aHJlc2hvbGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb3JyaWRvci5zY2VuYXJpby5wcm9qZWN0LmVuZF9wb2ludCwgY29ycmlkb3Iuc2NlbmFyaW8uaW50ZXJtZWRpYXRlX3BvaW50LCB0aHJlc2hvbGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3JyaWRvci5zY2VuYXJpby5wcm9qZWN0LmVuZF9wb2ludCwgY29ycmlkb3Iuc2NlbmFyaW8uaW50ZXJtZWRpYXRlX3BvaW50LCB0aHJlc2hvbGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdSYXN0ZXJpemUgbnVtcHkgYXJyYXkuLi4nKQo=</text>
+        <text encoding="base64">ICAgIFtzdGFydF9wb2ludCwgZW5kX3BvaW50XQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>logger.info('Defining pixel edge values for interpolation and png colormap to use...')
-    if 'resistance' in png_dst:
-        edge_values = (np.nanmin(nd_array), np.nanmax(nd_array))
-        new_edge_values = (0, 255)
-        current_colormap = settings.RESISTANCE_COLORMAP
-    else:
-        edge_values = (np.nan, np.nanmin(nd_array), np.nanmax(nd_array))
-        new_edge_values = (0, 1, 255)
-        current_colormap = settings.CORRIDOR_COLORMAP
-    logger.debug('Edge Values: {} New Edge Values: {}'.format(edge_values, new_edge_values))</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgSW5pdGlhbGl6ZSB0aGUgbGlzdCBvZiBwb2ludHMuCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>logger.info('Defining png colormap to use...')
-        if 'resistance' in png_dst.name:
-            current_colormap = settings.RESISTANCE_COLORMAP
-        else:
-            current_colormap = settings.CORRIDOR_COLORMAP</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRlcl9wb2ludDogICAgSW50ZXJtZWRpYXRlIHBvaW50IG9mIHRoZSBzY2VuYXJpbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NhbGVfYXJyYXkgPSAK</text>
+        <text encoding="base64">ICAgICAgICBwb2ludF9saXN0LmFwcGVuZChpbnRlcl9wb2ludCkK</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGlmIGludGVyX3BvaW50Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ZXM9MQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcl9wb2ludDogICBJbnRlcm1lZGlhdGUgUG9pbnQgQ29vcmRpbmF0ZXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

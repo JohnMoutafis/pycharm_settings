@@ -216,13 +216,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539688638656">
-        <mark key="'" line="624" column="12" />
-        <mark key="i" line="212" column="55" />
-        <mark key="[" line="104" column="33" />
-        <mark key="]" line="104" column="33" />
-        <mark key="." line="104" column="33" />
-        <mark key="^" line="104" column="39" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/utils.py" timestamp="1539690450138">
+        <mark key="'" line="633" column="12" />
+        <mark key="i" line="221" column="55" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.silks_scheduler/docs/services/live_horses_feed/parser.rst" timestamp="1528288450327">
         <mark key="[" line="38" column="15" />
@@ -1214,37 +1213,39 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>combine_images_in_place</text>
+        <text>base_img_1 = Image.new('RGBA', size=img_1.size, color=(0, 0, 0, 0))
+        base_img_1.paste(img_1, (0, 0))
+        base_img_1.paste(img_2, (0, 0))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZV9pbWdfMi5zYXZlKGRlc3RpbmF0aW9uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZV9pbWdfMi5wYXN0ZShiYXNlX2ltZ18xKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5ibGVuZChpbWdfMSwgaW1nXzIsIGFscGhhPTAuNSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBpZHhfdGlmID0gcmFzdGVyX2Rlc3RpbmF0aW9uLmZpbmQoJy50aWYnKQogICAgICAgIGlkeF9wbmcgPSBwbmdfZGVzdGluYXRpb24uZmluZCgnLnBuZycp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5uZXcoJ1JHQkEnLCBzaXplPWltZ18xLnNpemUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JyaWRvci5zY2VuYXJpby5wcm9qZWN0LmVuZF9wb2ludCwgY29ycmlkb3Iuc2NlbmFyaW8uaW50ZXJtZWRpYXRlX3BvaW50LCB0aHJlc2hvbGQK</text>
+        <text encoding="base64">ICAgICAgICBpbWdfMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JyaWRvci5zY2VuYXJpby5wcm9qZWN0LmVuZF9wb2ludCwgY29ycmlkb3Iuc2NlbmFyaW8uaW50ZXJtZWRpYXRlX3BvaW50LCB0aHJlc2hvbGQK</text>
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JyaWRvci5zY2VuYXJpby5wcm9qZWN0LmVuZF9wb2ludCwgY29ycmlkb3Iuc2NlbmFyaW8uaW50ZXJtZWRpYXRlX3BvaW50LCB0aHJlc2hvbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFtzdGFydF9wb2ludCwgZW5kX3BvaW50XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgSW5pdGlhbGl6ZSB0aGUgbGlzdCBvZiBwb2ludHMuCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBpZHhfdGlmID0gcmFzdGVyX2Rlc3RpbmF0aW9uLmZpbmQoJy50aWYnKQogICAgICAgIGlkeF9wbmcgPSBwbmdfZGVzdGluYXRpb24uZmluZCgnLnBuZycp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

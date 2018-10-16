@@ -72,11 +72,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539679951892">
-        <mark key="[" line="181" column="45" />
-        <mark key="]" line="181" column="45" />
-        <mark key="^" line="68" column="15" />
-        <mark key="." line="181" column="45" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/tasks.py" timestamp="1539684950310">
+        <mark key="[" line="195" column="95" />
+        <mark key="]" line="196" column="47" />
+        <mark key="^" line="196" column="47" />
+        <mark key="." line="196" column="47" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/requirements.txt" timestamp="1539273913077">
         <mark key="[" line="5" column="17" />
@@ -945,6 +945,9 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
+      <file name="/Django Console" timestamp="1539684712775">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1532968148181">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1210,7 +1213,10 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>np.nanmin(nd_array), np.nanmax(nd_array)</text>
+        <text>corridor_array_si = generate_corridor(
+            corridor.scenario.resistancemap.raster_data, corridor.scenario.project.start_point,
+            corridor.scenario.intermediate_point, threshold
+        )</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb3JyaWRvci5zY2VuYXJpby5wcm9qZWN0LmVuZF9wb2ludCwgY29ycmlkb3Iuc2NlbmFyaW8uaW50ZXJtZWRpYXRlX3BvaW50LCB0aHJlc2hvbGQK</text>

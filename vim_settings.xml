@@ -302,7 +302,7 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1539718968205">
+      <file name="/Python Console" timestamp="1539846590660">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1539617949371">
@@ -545,11 +545,11 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1539693861073">
-        <mark key="[" line="285" column="98" />
-        <mark key="]" line="286" column="79" />
-        <mark key="." line="286" column="79" />
-        <mark key="^" line="286" column="79" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/api_v1/views.py" timestamp="1539848601041">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="161" column="92" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/silks/opap-horseraces-silks.nrc_silks/.env" timestamp="1525246657600">
         <mark key="[" line="0" column="13" />
@@ -922,9 +922,9 @@
       <file name="/jgmoutafisdb.project_2018.GR_RailRoadSystem [ntua_postgis]" timestamp="1536493345365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1539181514048">
-        <mark key="[" line="189" column="37" />
-        <mark key="]" line="189" column="45" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics_app/gilytics/modules/mcda/models.py" timestamp="1539846816275">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="23" />
         <mark key="^" line="189" column="45" />
         <mark key="." line="189" column="45" />
       </file>
@@ -1210,44 +1210,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>response.data.get('layer_min_resistance')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>delete_image_from_path</text>
+        <text>response.data.get('layer_min_resistance')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyID0gCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyaXZlciA9ICdwbmcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnLnBuZycgaW4gZHN0Lm5hbWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKiprd2FyZ3M6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyaXZlciA9ICd0aWZmJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKmFyZ3M6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJy50aWYnIGluIGRzdC5uYW1lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q2hhbmdlIEdEQUwgcmFzdGVyIHdyaXRlIGZsYWcgdG8gVHJ1ZS4K</text>
+        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
       </register>
       <register name="w" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text>delete_image_from_path(si_raster_path)
-        delete_image_from_path(ie_raster_path)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

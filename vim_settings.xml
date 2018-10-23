@@ -9,9 +9,17 @@
       <file name="/Django Console" timestamp="1540278476060">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540279670179">
+        <mark key="[" line="148" column="5" />
+        <mark key="]" line="148" column="90" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text>git clone https://github.com/magicmonty/bash-git-prompt.git .bash-git-prompt --depth=1</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>

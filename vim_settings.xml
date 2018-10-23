@@ -21,11 +21,11 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540290922099">
-        <mark key="[" line="62" column="112" />
-        <mark key="]" line="62" column="112" />
-        <mark key="^" line="62" column="112" />
-        <mark key="." line="62" column="112" />
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540299350823">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="^" line="188" column="0" />
+        <mark key="." line="188" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -37,7 +37,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>/Programs</text>
       </register>
     </registers>
     <search>
@@ -77,6 +77,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

@@ -21,8 +21,8 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540290878455">
-        <mark key="[" line="62" column="137" />
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540290922099">
+        <mark key="[" line="62" column="112" />
         <mark key="]" line="62" column="112" />
         <mark key="^" line="62" column="112" />
         <mark key="." line="62" column="112" />
@@ -37,7 +37,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>$</text>
       </register>
     </registers>
     <search>

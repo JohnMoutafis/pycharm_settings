@@ -21,9 +21,11 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540279670179">
-        <mark key="[" line="148" column="5" />
-        <mark key="]" line="148" column="90" />
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540290878455">
+        <mark key="[" line="62" column="137" />
+        <mark key="]" line="62" column="112" />
+        <mark key="^" line="62" column="112" />
+        <mark key="." line="62" column="112" />
       </file>
     </filemarks>
     <jumps />

@@ -1,8 +1,8 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Noto Sans Mono" />
+    <option name="FONT_FACE" value="Ubuntu" />
     <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="11" />
+    <option name="FONT_SIZE" value="12" />
     <option name="NAVIGATE_TO_PREVIEW" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>

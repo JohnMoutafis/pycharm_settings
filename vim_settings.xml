@@ -6,7 +6,25 @@
       <file name="/Dummy.txt" timestamp="1540223370425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1540278476060">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540309952508">
+        <mark key="[" line="478" column="9" />
+        <mark key="]" line="479" column="7" />
+        <mark key="^" line="479" column="7" />
+        <mark key="." line="479" column="7" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1540306817195">
+        <mark key="[" line="180" column="44" />
+        <mark key="]" line="180" column="44" />
+        <mark key="^" line="180" column="44" />
+        <mark key="." line="180" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540307056755">
+        <mark key="[" line="309" column="98" />
+        <mark key="]" line="310" column="79" />
+        <mark key="^" line="310" column="79" />
+        <mark key="." line="310" column="79" />
+      </file>
+      <file name="/Django Console" timestamp="1540307591364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1540283329781">
@@ -38,11 +56,17 @@
       <register name="0" type="4">
         <text>sudo pip install virtualenv virtualenvwrapper.</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcobGVuKHBvaW50X2luZGV4ZXMpKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKGluZGV4KQo=</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>/Programs</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
@@ -85,6 +109,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

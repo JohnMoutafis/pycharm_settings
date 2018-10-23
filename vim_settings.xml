@@ -9,6 +9,12 @@
       <file name="/Django Console" timestamp="1540278476060">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1540283329781">
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="23" column="56" />
+        <mark key="^" line="23" column="56" />
+        <mark key="." line="23" column="56" />
+      </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540279670179">
         <mark key="[" line="148" column="5" />
         <mark key="]" line="148" column="90" />
@@ -17,7 +23,13 @@
     <jumps />
     <registers>
       <register name="0" type="4">
-        <text>git clone https://github.com/magicmonty/bash-git-prompt.git .bash-git-prompt --depth=1</text>
+        <text>sudo pip install virtualenv virtualenvwrapper.</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -26,7 +38,10 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>

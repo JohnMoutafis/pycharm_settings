@@ -15,6 +15,12 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/Pipfile" timestamp="1540284881281">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540279670179">
         <mark key="[" line="148" column="5" />
         <mark key="]" line="148" column="90" />
@@ -48,6 +54,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

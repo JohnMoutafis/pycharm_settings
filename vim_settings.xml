@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1540391948621">
+      <file name="/Dummy.txt" timestamp="1540395231704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540390260985">
@@ -34,6 +34,10 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540395091369">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/Pipfile" timestamp="1540289113711">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="3" column="2" />
@@ -51,16 +55,22 @@
         <mark key="]" line="27" column="60" />
         <mark key="." line="27" column="60" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="467" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>point_list = [start_point, end_point]
-    if inter_points:
-        for point in inter_points:
-            point_list.append(point)</text>
+        <text>{
+    type: &quot;MultiPoint&quot;,
+    coordinates: []
+};</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICkKCg==</text>
@@ -93,7 +103,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>corridor_array_ie</text>
+        <text>;</text>
       </register>
     </registers>
     <search>

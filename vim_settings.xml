@@ -6,28 +6,10 @@
       <file name="/Dummy.txt" timestamp="1540473864483">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540465205784">
-        <mark key="'" line="489" column="0" />
-        <mark key="[" line="389" column="37" />
-        <mark key="]" line="389" column="47" />
-        <mark key="^" line="389" column="47" />
-        <mark key="." line="389" column="47" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1540391861084">
-        <mark key="[" line="185" column="42" />
-        <mark key="]" line="186" column="35" />
-        <mark key="^" line="186" column="35" />
-        <mark key="." line="186" column="35" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540473615812">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1540466118158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1540463436895">
+      <file name="/fragment.py" timestamp="1540482172258">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1540311145222">
@@ -35,6 +17,39 @@
         <mark key="]" line="27" column="44" />
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/.env" timestamp="1540299592860">
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="60" />
+        <mark key="." line="27" column="60" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540482666745">
+        <mark key="'" line="388" column="12" />
+        <mark key="[" line="390" column="22" />
+        <mark key="]" line="390" column="46" />
+        <mark key="^" line="390" column="46" />
+        <mark key="." line="390" column="46" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1540391861084">
+        <mark key="[" line="185" column="42" />
+        <mark key="]" line="186" column="35" />
+        <mark key="^" line="186" column="35" />
+        <mark key="." line="186" column="35" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540481948856">
+        <mark key="[" line="322" column="83" />
+        <mark key="]" line="322" column="80" />
+        <mark key="." line="322" column="80" />
+        <mark key="^" line="322" column="80" />
+      </file>
+      <file name="/Django Console" timestamp="1540463436895">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540395091369">
         <mark key="[" line="8" column="25" />
@@ -52,60 +67,47 @@
         <mark key="^" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/.env" timestamp="1540299592860">
-        <mark key="[" line="27" column="59" />
-        <mark key="]" line="27" column="60" />
-        <mark key="." line="27" column="60" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="467" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" />
+      <jump line="388" column="12" filename="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>{
-    type: &quot;MultiPoint&quot;,
-    coordinates: []
-};</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoLmFwcGx5X2FzeW5jKFtzY2VuYXJpby5pZCwgcmVxdWVzdC5kYXRhLmdldCgnZXBzaWxvbicsIEZhbHNlKV0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1iaW5lZF9jb29yZHMgPSBwYXRoXzEuY29vcmRzICsgcGF0aF8yLmNvb3Jkc1sxOl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoKHNjZW5hcmlvLmlkLCByZXF1ZXN0LmRhdGEuZ2V0KCdlcHNpbG9uJywgRmFsc2UpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfb3B0aW1hbF9wYXRoKHNjZW5hcmlvLmlkLCByZXF1ZXN0LmRhdGEuZ2V0KCdlcHNpbG9uJywgRmFsc2UpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfY29ycmlkb3IoY29ycmlkb3IuaWQsIHRocmVzaG9sZCkK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfcmVzaXN0YW5jZV9tYXAocmVzaXN0YW5jZV9tYXAuaWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGUuYWRkKGNhY2hlX2tleSwgVHJ1ZSwgNjAqMjApCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5jcmVhdGVfY29ycmlkb3IoY29ycmlkb3IuaWQsIHRocmVzaG9sZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZS5hZGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FjaGUuYWRkKGNhY2hlX2tleSwgVHJ1ZSwgNjAqMjApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZS5hZGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>linemerge</text>
       </register>
     </registers>
     <search>

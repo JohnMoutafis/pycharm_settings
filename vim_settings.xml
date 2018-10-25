@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1540395231704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540390260985">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540454169620">
         <mark key="'" line="484" column="0" />
-        <mark key="[" line="354" column="11" />
-        <mark key="]" line="353" column="0" />
-        <mark key="." line="353" column="0" />
-        <mark key="^" line="353" column="0" />
+        <mark key="[" line="505" column="40" />
+        <mark key="]" line="505" column="47" />
+        <mark key="." line="505" column="47" />
+        <mark key="^" line="505" column="47" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1540391861084">
         <mark key="[" line="185" column="42" />
@@ -103,7 +103,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
     </registers>
     <search>

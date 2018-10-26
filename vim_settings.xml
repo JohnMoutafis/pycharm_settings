@@ -19,11 +19,11 @@
       <file name="/Python Console" timestamp="1540551030767">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1540551800631">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="^" line="202" column="93" />
-        <mark key="." line="207" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1540552902716">
+        <mark key="[" line="197" column="64" />
+        <mark key="]" line="198" column="15" />
+        <mark key="^" line="198" column="15" />
+        <mark key="." line="198" column="15" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540550963030">
         <mark key="[" line="490" column="69" />
@@ -78,37 +78,37 @@
         <text>int(round((1800000 * path.transform(31370, clone=True).length)/1000))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVfaW1hZ2VfZnJvbV9wYXRoKHNpX3BuZ19wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRleCArPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVfaW1hZ2VfZnJvbV9wYXRoKHNpX3Jhc3Rlcl9wYXRoKQo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIGluZGV4IDwgbGVuKGNvcnJpZG9yX3NlZ21lbnRzKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGVfaW1hZ2VfZnJvbV9wYXRoKHNpX3BuZ19wYXRoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGVfaW1hZ2VfZnJvbV9wYXRoKHNpX3Jhc3Rlcl9wYXRoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lfcmFzdGVyX2RzdCwgc2lfcG5nX2RzdCwgY29ycmlkb3Jfc2VnbWVudHNbaW5kZXgtMV0sIGJvdW5kcwo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaV9yYXN0ZXJfcGF0aCwgc2lfcG5nX3BhdGggPSByYXN0ZXJpemVfbnVtcHlfYXJyYXkoCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaV9wbmdfZHN0ID0gcG5nX2Rlc3RpbmF0aW9uWzppZHhfcG5nXSArICdfc2knICsgcG5nX2Rlc3RpbmF0aW9uW2lkeF9wbmc6XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lfcmFzdGVyX2RzdCwgc2lfcG5nX2RzdCwgY29ycmlkb3Jfc2VnbWVudHNbaW5kZXgtMV0sIGJvdW5kcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaV9yYXN0ZXJfZHN0ID0gcmFzdGVyX2Rlc3RpbmF0aW9uWzppZHhfdGlmXSArICdfc2knICsgcmFzdGVyX2Rlc3RpbmF0aW9uW2lkeF90aWY6XQo=</text>
+        <text encoding="base64">ICAgICAgICBzaV9yYXN0ZXJfcGF0aCwgc2lfcG5nX3BhdGggPSByYXN0ZXJpemVfbnVtcHlfYXJyYXkoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaV9yYXN0ZXJfZHN0ID0gcmFzdGVyX2Rlc3RpbmF0aW9uWzppZHhfdGlmXSArICdfc2knICsgcmFzdGVyX2Rlc3RpbmF0aW9uW2lkeF90aWY6XQo=</text>
+        <text encoding="base64">ICAgICAgICBzaV9wbmdfZHN0ID0gcG5nX2Rlc3RpbmF0aW9uWzppZHhfcG5nXSArICdfc2knICsgcG5nX2Rlc3RpbmF0aW9uW2lkeF9wbmc6XQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>r</text>
       </register>
     </registers>
     <search>
@@ -154,6 +154,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

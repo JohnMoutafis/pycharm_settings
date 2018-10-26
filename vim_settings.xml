@@ -29,12 +29,12 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540538701057">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540539733468">
         <mark key="'" line="388" column="12" />
-        <mark key="[" line="390" column="40" />
-        <mark key="]" line="390" column="41" />
-        <mark key="^" line="390" column="46" />
-        <mark key="." line="390" column="41" />
+        <mark key="[" line="392" column="50" />
+        <mark key="]" line="393" column="11" />
+        <mark key="^" line="393" column="11" />
+        <mark key="." line="393" column="11" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1540391861084">
         <mark key="[" line="185" column="42" />
@@ -47,9 +47,6 @@
         <mark key="]" line="322" column="80" />
         <mark key="." line="322" column="80" />
         <mark key="^" line="322" column="80" />
-      </file>
-      <file name="/Django Console" timestamp="1540463436895">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540395091369">
         <mark key="[" line="8" column="25" />

@@ -3,16 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1540565113099">
+      <file name="/Dummy.txt" timestamp="1540831599825">
         <mark key="'" line="0" column="23" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540562965695">
+      <file name="/Python Console" timestamp="1540830283535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1540557642282">
+      <file name="/fragment.py" timestamp="1540831728395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -24,10 +24,11 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/.env" timestamp="1540299592860">
-        <mark key="[" line="27" column="59" />
-        <mark key="]" line="27" column="60" />
-        <mark key="." line="27" column="60" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/.env" timestamp="1540829340206">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
         <mark key="[" line="7" column="35" />
@@ -35,20 +36,17 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540827264168">
-        <mark key="[" line="230" column="4" />
-        <mark key="]" line="231" column="85" />
-        <mark key="." line="231" column="89" />
-        <mark key="^" line="231" column="89" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540832370651">
+        <mark key="[" line="638" column="28" />
+        <mark key="]" line="638" column="28" />
+        <mark key="." line="638" column="28" />
+        <mark key="^" line="638" column="29" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
         <mark key="[" line="321" column="98" />
         <mark key="]" line="322" column="79" />
         <mark key="^" line="322" column="79" />
         <mark key="." line="322" column="79" />
-      </file>
-      <file name="/Django Console" timestamp="1540556787659">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
@@ -68,11 +66,11 @@
         <mark key="^" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/gilytics/settings.py" timestamp="1540827914495">
-        <mark key="[" line="277" column="25" />
-        <mark key="]" line="277" column="28" />
-        <mark key="." line="277" column="28" />
-        <mark key="^" line="277" column="28" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/gilytics/settings.py" timestamp="1540829304060">
+        <mark key="[" line="234" column="22" />
+        <mark key="]" line="234" column="22" />
+        <mark key="." line="234" column="22" />
+        <mark key="^" line="234" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -82,40 +80,40 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>'DEBUG' if DEBUG else 'INFO',</text>
+        <text>config('SENTRY_DSN', default=''),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdtYWxha2EnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSB3ZWlnaHRfdmFsdWVzW2xheWVyX2luc3RhbmNlLndlaWdodCAtIChtaW5fcmVzaXN0YW5jZSArIDEpXQo=</text>
+        <text encoding="base64">QUxMT1dFRF9DSURSLmFwcGVuZCgnbWFtYW5zb3UnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">cHJpbnQoQUxMT1dFRF9DSURSKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSB3ZWlnaHRfdmFsdWVzW2xheWVyX2luc3RhbmNlLndlaWdodCAtIG1pbl9yZXNpc3RhbmNlXQo=</text>
+        <text encoding="base64">cHJpbnQodHlwZShBTExPV0VEX0NJRFIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGxheWVyX2luc3RhbmNlLndlaWdodCA8IDAgb3IgbWluX3Jlc2lzdGFuY2UgPiAwOgo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSB3ZWlnaHRfdmFsdWVzW2xheWVyX2luc3RhbmNlLndlaWdodCAtIChtaW5fcmVzaXN0YW5jZSArIDEpXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1pbl9yZXNpc3RhbmNlID0gbGF5ZXJfaW5zdGFuY2UucHJvamVjdC5wcmVmZXJlbmNlcy5sYXllcl9taW5fcmVzaXN0YW5jZQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdlaWdodF92YWx1ZXMgPSBsaXN0KHJhbmdlKDEsIGxheWVyX2luc3RhbmNlLnByb2plY3QucHJlZmVyZW5jZXMud2VpZ2h0X2ludGVydmFscyArIDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSB3ZWlnaHRfdmFsdWVzW2xheWVyX2luc3RhbmNlLndlaWdodCAtIG1pbl9yZXNpc3RhbmNlXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Rml4IE9wdGltYWwgUGF0aCB2aXN1YWxpemF0aW9uIGlzc3VlcyAob2xkIHBhdGggY2xlYXJhbmNlKS4K</text>
+        <text encoding="base64">ICAgIGlmIGxheWVyX2luc3RhbmNlLndlaWdodCA8IDAgb3IgbWluX3Jlc2lzdGFuY2UgPiAwOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>0</text>
       </register>
     </registers>
     <search>

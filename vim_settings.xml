@@ -68,6 +68,12 @@
         <mark key="^" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/gilytics/settings.py" timestamp="1540827914495">
+        <mark key="[" line="277" column="25" />
+        <mark key="]" line="277" column="28" />
+        <mark key="." line="277" column="28" />
+        <mark key="^" line="277" column="28" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="467" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" />
@@ -76,7 +82,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">d2VpZ2h0ID0gbGF5ZXJfaW5zdGFuY2Uud2VpZ2h0CiAgICBpZiB3ZWlnaHQgPCAwOgogICAgICAgIHJldHVybiAod2VpZ2h0IC0gbGF5ZXJfaW5zdGFuY2UucmVzaXN0YW5jZV92YWx1ZSkgKiBsYXllcl9pbnN0YW5jZS5jYXRlZ29yeS53ZWlnaHQKCiAgICByZXR1cm4gKHdlaWdodCArIGxheWVyX2luc3RhbmNlLnJlc2lzdGFuY2VfdmFsdWUpICogbGF5ZXJfaW5zdGFuY2UuY2F0ZWdvcnkud2VpZ2h0</text>
+        <text>'DEBUG' if DEBUG else 'INFO',</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
@@ -109,7 +115,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>False</text>
       </register>
     </registers>
     <search>

@@ -35,11 +35,17 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540825813048">
-        <mark key="[" line="442" column="25" />
-        <mark key="]" line="442" column="44" />
-        <mark key="." line="442" column="44" />
-        <mark key="^" line="442" column="44" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1540827264168">
+        <mark key="[" line="230" column="4" />
+        <mark key="]" line="231" column="85" />
+        <mark key="." line="231" column="89" />
+        <mark key="^" line="231" column="89" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
+        <mark key="[" line="321" column="98" />
+        <mark key="]" line="322" column="79" />
+        <mark key="^" line="322" column="79" />
+        <mark key="." line="322" column="79" />
       </file>
       <file name="/Django Console" timestamp="1540556787659">
         <mark key="[" line="0" column="0" />
@@ -70,43 +76,40 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>RemovePrimitives()</text>
+        <text encoding="base64">d2VpZ2h0ID0gbGF5ZXJfaW5zdGFuY2Uud2VpZ2h0CiAgICBpZiB3ZWlnaHQgPCAwOgogICAgICAgIHJldHVybiAod2VpZ2h0IC0gbGF5ZXJfaW5zdGFuY2UucmVzaXN0YW5jZV92YWx1ZSkgKiBsYXllcl9pbnN0YW5jZS5jYXRlZ29yeS53ZWlnaHQKCiAgICByZXR1cm4gKHdlaWdodCArIGxheWVyX2luc3RhbmNlLnJlc2lzdGFuY2VfdmFsdWUpICogbGF5ZXJfaW5zdGFuY2UuY2F0ZWdvcnkud2VpZ2h0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IE9wdGltYWwgUGF0aCB2aXN1YWxpemF0aW9uIGlzc3VlcyAob2xkIHBhdGggY2xlYXJhbmNlKS4K</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKG5wLnVuaXF1ZShhKSkK</text>
+        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSB3ZWlnaHRfdmFsdWVzW2xheWVyX2luc3RhbmNlLndlaWdodCAtIChtaW5fcmVzaXN0YW5jZSArIDEpXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAuaW50ZXJwKG5kX2FycmF5LCBlZGdlX3ZhbHVlcywgbmV3X2VkZ2VfdmFsdWVzKS5hc3R5cGUoZHR5cGU9bnAudWludDgpCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text># Array to store the Corridor Calculation.
-            base_array = np.zeros(cost_surface.shape, dtype=np.float32)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSB3ZWlnaHRfdmFsdWVzW2xheWVyX2luc3RhbmNlLndlaWdodCAtIG1pbl9yZXNpc3RhbmNlXQo=</text>
       </register>
-      <register name="5" type="4">
-        <text># Array to store the Corridor Calculation.
-    base_array = np.zeros(cost_surface.shape, dtype=np.float32)
-    base_array.fill(np.nan)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIGxheWVyX2luc3RhbmNlLndlaWdodCA8IDAgb3IgbWluX3Jlc2lzdGFuY2UgPiAwOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBucC5uYW4K</text>
+        <text encoding="base64">ICAgIG1pbl9yZXNpc3RhbmNlID0gbGF5ZXJfaW5zdGFuY2UucHJvamVjdC5wcmVmZXJlbmNlcy5sYXllcl9taW5fcmVzaXN0YW5jZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXNrLAo=</text>
+        <text encoding="base64">ICAgIHdlaWdodF92YWx1ZXMgPSBsaXN0KHJhbmdlKDEsIGxheWVyX2luc3RhbmNlLnByb2plY3QucHJlZmVyZW5jZXMud2VpZ2h0X2ludGVydmFscyArIDEpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5wLndoZXJlKAo=</text>
+        <text encoding="base64">Rml4IE9wdGltYWwgUGF0aCB2aXN1YWxpemF0aW9uIGlzc3VlcyAob2xkIHBhdGggY2xlYXJhbmNlKS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>[</text>
       </register>
     </registers>
     <search>
@@ -117,6 +120,7 @@
       <history-search />
       <history-cmd>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

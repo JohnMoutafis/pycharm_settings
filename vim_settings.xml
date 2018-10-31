@@ -12,9 +12,6 @@
       <file name="/Python Console" timestamp="1540830283535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
-        <mark key="[" line="321" column="98" />
-      </file>
       <file name="/fragment.py" timestamp="1540831728395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -26,24 +23,6 @@
         <mark key="]" line="27" column="44" />
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
-        <mark key="[" line="863" column="26" />
-        <mark key="]" line="863" column="26" />
-        <mark key="^" line="863" column="26" />
-        <mark key="." line="863" column="26" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/Pipfile" timestamp="1540814231086">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="3" column="2" />
-        <mark key="^" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540299350823">
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="^" line="188" column="0" />
-        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/.env" timestamp="1540829340206">
         <mark key="[" line="10" column="10" />
@@ -57,6 +36,33 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
+        <mark key="[" line="321" column="98" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
+        <mark key="[" line="863" column="26" />
+        <mark key="]" line="863" column="26" />
+        <mark key="^" line="863" column="26" />
+        <mark key="." line="863" column="26" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/Pipfile" timestamp="1540814231086">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1540996764127">
+        <mark key="[" line="287" column="50" />
+        <mark key="]" line="288" column="63" />
+        <mark key="." line="288" column="63" />
+        <mark key="^" line="288" column="63" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1540299350823">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="^" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="467" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" />
@@ -65,7 +71,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>config('SENTRY_DSN', default=''),</text>
+        <text>logger.info('Perform fetch request at endpoint: {}'.format(url))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3X2VkZ2VfdmFsdWVzID0gKDAsIDEsIDI1NSkK</text>
@@ -99,7 +105,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Multiple Intermediate Points: Fix Corridor segments colorization.</text>
+        <text>debug</text>
       </register>
     </registers>
     <search>

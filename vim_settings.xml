@@ -18,11 +18,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541076349210">
-        <mark key="[" line="39" column="59" />
-        <mark key="]" line="22" column="68" />
-        <mark key="^" line="22" column="68" />
-        <mark key="." line="22" column="68" />
+      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541078095679">
+        <mark key="[" line="40" column="75" />
+        <mark key="]" line="40" column="77" />
+        <mark key="^" line="40" column="77" />
+        <mark key="." line="40" column="77" />
       </file>
       <file name="$USER_HOME$/dotfiles/notes.md" timestamp="1541062774794">
         <mark key="[" line="5" column="3" />
@@ -41,11 +41,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/dotfiles/gestures/libinput-gestures.conf" timestamp="1541077803278">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/dotfiles/gestures/libinput-gestures.conf" timestamp="1541078028207">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="47" />
       </file>
       <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541072061091">
         <mark key="[" line="36" column="13" />

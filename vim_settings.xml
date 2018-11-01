@@ -35,6 +35,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/dotfiles/gestures/libinput-gestures.conf" timestamp="1541075156316">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541072061091">
         <mark key="[" line="36" column="13" />
         <mark key="]" line="36" column="13" />
@@ -118,28 +123,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">Z2VzdHVyZSBzd2lwZSBsZWZ0IDIgeGRvdG9vbCBrZXkgTGVmdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpCg==</text>
+        <text encoding="base64">Z2VzdHVyZSBzd2lwZSByaWdodCAyIHhkb3Rvb2wga2V5IFJpZ2h0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yX3Byb21wdD0K</text>
+        <text encoding="base64">IyBHZW5lcmFsIE5hdmlnYXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbG9yX3Byb21wdD15ZXMK</text>
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYSBjYXNlIHdvdWxkIHRlbmQgdG8gc3VwcG9ydCBzZXRmIHJhdGhlciB0aGFuIHNldGFmLikK</text>
+        <text encoding="base64">ICAgIGZpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgKElTTy9JRUMtNjQyOSkuIChMYWNrIG9mIHN1Y2ggc3VwcG9ydCBpcyBleHRyZW1lbHkgcmFyZSwgYW5kIHN1Y2gK</text>
+        <text encoding="base64">ICAgIGNvbG9yX3Byb21wdD0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgV2UgaGF2ZSBjb2xvciBzdXBwb3J0OyBhc3N1bWUgaXQncyBjb21wbGlhbnQgd2l0aCBFY21hLTQ4Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

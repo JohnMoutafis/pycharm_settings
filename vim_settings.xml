@@ -35,11 +35,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541068613532">
-        <mark key="[" line="52" column="28" />
-        <mark key="]" line="52" column="28" />
-        <mark key="." line="52" column="28" />
-        <mark key="^" line="47" column="8" />
+      <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541072061091">
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="13" />
+        <mark key="^" line="36" column="42" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/.env" timestamp="1540829340206">
         <mark key="[" line="10" column="10" />
@@ -73,11 +73,11 @@
         <mark key="." line="30" column="63" />
         <mark key="^" line="30" column="63" />
       </file>
-      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541069581266">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541072438688">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="18" />
         <mark key="^" line="40" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="." line="37" column="18" />
       </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
@@ -107,7 +107,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>#======================
@@ -118,28 +118,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWxpYXMgYWxlcnQ9J25vdGlmeS1zZW5kIC0tdXJnZW5jeT1sb3cgLWkgIiQoWyAkPyA9IDAgXSAmJiBlY2hvIHRlcm1pbmFsIHx8IGVjaG8gZXJyb3IpIiAiJChoaXN0b3J5fHRhaWwgLW4xfHNlZCAtZSAnXCcncy9eXHMqWzAtOV1cK1xzKi8vO3MvWzsmfF1ccyphbGVydCQvLydcJycpIicK</text>
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBlbmFibGUgcHJvZ3JhbW1hYmxlIGNvbXBsZXRpb24gZmVhdHVyZXMgKHlvdSBkb24ndCBuZWVkIHRvIGVuYWJsZQo=</text>
+        <text encoding="base64">ICAgIGZpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yX3Byb21wdD0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWxpYXMgYWxlcnQ9J25vdGlmeS1zZW5kIC0tdXJnZW5jeT1sb3cgLWkgIiQoWyAkPyA9IDAgXSAmJiBlY2hvIHRlcm1pbmFsIHx8IGVjaG8gZXJyb3IpIiAiJChoaXN0b3J5fHRhaWwgLW4xfHNlZCAtZSAnXCcncy9eXHMqWzAtOV1cK1xzKi8vO3MvWzsmfF1ccyphbGVydCQvLydcJycpIicK</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgIHNsZWVwIDEwOyBhbGVydAo=</text>
+        <text encoding="base64">ICAgIGNvbG9yX3Byb21wdD15ZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBBZGQgYW4gImFsZXJ0IiBhbGlhcyBmb3IgbG9uZyBydW5uaW5nIGNvbW1hbmRzLiAgVXNlIGxpa2Ugc286Cg==</text>
+        <text encoding="base64">ICAgICMgYSBjYXNlIHdvdWxkIHRlbmQgdG8gc3VwcG9ydCBzZXRmIHJhdGhlciB0aGFuIHNldGFmLikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgKElTTy9JRUMtNjQyOSkuIChMYWNrIG9mIHN1Y2ggc3VwcG9ydCBpcyBleHRyZW1lbHkgcmFyZSwgYW5kIHN1Y2gK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWxpYXMgbD0nbHMgLUNGJwo=</text>
+        <text encoding="base64">ICAgICMgV2UgaGF2ZSBjb2xvciBzdXBwb3J0OyBhc3N1bWUgaXQncyBjb21wbGlhbnQgd2l0aCBFY21hLTQ4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

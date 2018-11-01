@@ -7,6 +7,7 @@
       <mapping pattern="silks_status.rst" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="gr_majorroadsystem.json" type="PLAIN_TEXT" />
+      <mapping pattern="bash-git-prompt-config" type="PLAIN_TEXT" />
       <mapping pattern="gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="aliases" type="PLAIN_TEXT" />
       <mapping pattern="nrc_ftp_sync_serivce.rst" type="PLAIN_TEXT" />

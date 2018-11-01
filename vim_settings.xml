@@ -18,11 +18,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541064523213">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="18" column="22" />
+      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541067885560">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
       </file>
       <file name="$USER_HOME$/dotfiles/notes.md" timestamp="1541062774794">
         <mark key="[" line="5" column="3" />
@@ -68,10 +68,10 @@
         <mark key="." line="30" column="63" />
         <mark key="^" line="30" column="63" />
       </file>
-      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541067088826">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541067941459">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
@@ -104,36 +104,34 @@
         <text>p</text>
       </register>
       <register name="0" type="4">
-        <text>#======================
-#       UTILITY
-#======================</text>
+        <text>https://github.com/magicmonty/bash-git-prompt.git</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWxpYXMgYWxlcnQ9J25vdGlmeS1zZW5kIC0tdXJnZW5jeT1sb3cgLWkgIiQoWyAkPyA9IDAgXSAmJiBlY2hvIHRlcm1pbmFsIHx8IGVjaG8gZXJyb3IpIiAiJChoaXN0b3J5fHRhaWwgLW4xfHNlZCAtZSAnXCcncy9eXHMqWzAtOV1cK1xzKi8vO3MvWzsmfF1ccyphbGVydCQvLydcJycpIicK</text>
+        <text encoding="base64">IyBTRVRVUDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgIHNsZWVwIDEwOyBhbGVydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBBZGQgYW4gImFsZXJ0IiBhbGlhcyBmb3IgbG9uZyBydW5uaW5nIGNvbW1hbmRzLiAgVXNlIGxpa2Ugc286Cg==</text>
+        <text encoding="base64">IyAyLiBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL21hZ2ljbW9udHkvYmFzaC1naXQtcHJvbXB0LmdpdCAuYmFzaC1naXQtcHJvbXB0IC0tZGVwdGg9MQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAxLiBjZCB+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBzb21lIG1vcmUgbHMgYWxpYXNlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAyLiBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL21hZ2ljbW9udHkvYmFzaC1naXQtcHJvbXB0LmdpdCAuYmFzaC1naXQtcHJvbXB0IC0tZGVwdGg9MQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAxLiBjZCB+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBJTlNUQUxMIGJhc2hfZ2l0X3Byb21wdDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -189,6 +187,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

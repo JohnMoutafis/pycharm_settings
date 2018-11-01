@@ -18,11 +18,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541067885560">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="38" />
+      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541076349210">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="22" column="68" />
+        <mark key="^" line="22" column="68" />
+        <mark key="." line="22" column="68" />
       </file>
       <file name="$USER_HOME$/dotfiles/notes.md" timestamp="1541062774794">
         <mark key="[" line="5" column="3" />
@@ -30,21 +30,34 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/dotfiles/README.md" timestamp="1541076717098">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/dotfiles/bash-git-prompt-config" timestamp="1541068810997">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/dotfiles/gestures/libinput-gestures.conf" timestamp="1541075156316">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/dotfiles/gestures/libinput-gestures.conf" timestamp="1541077803278">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="45" />
+        <mark key="^" line="10" column="45" />
       </file>
       <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541072061091">
         <mark key="[" line="36" column="13" />
         <mark key="]" line="36" column="13" />
         <mark key="." line="36" column="13" />
         <mark key="^" line="36" column="42" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/gestures/enable_gestures.sh" timestamp="1541077151910">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/.env" timestamp="1540829340206">
         <mark key="[" line="10" column="10" />
@@ -112,39 +125,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="0" type="4">
-        <text>#======================
-#       UTILITY
-#======================</text>
+        <text>xdotool key ctrl+alt+Left</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2VzdHVyZSBzd2lwZSBsZWZ0IDIgeGRvdG9vbCBrZXkgTGVmdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2VzdHVyZSBzd2lwZSByaWdodCAyIHhkb3Rvb2wga2V5IFJpZ2h0Cg==</text>
+        <text encoding="base64">ICAgIGNkIGxpYmlucHV0LWdlc3R1cmVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBHZW5lcmFsIE5hdmlnYXRpb24K</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpCg==</text>
+        <text encoding="base64">Z2VzdHVyZSBzd2lwZSBsZWZ0IDIgeGRvdG9vbCBrZXkgTGVmdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbG9yX3Byb21wdD0K</text>
+        <text encoding="base64">Z2VzdHVyZSBzd2lwZSByaWdodCAyIHhkb3Rvb2wga2V5IFJpZ2h0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">IyBHZW5lcmFsIE5hdmlnYXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

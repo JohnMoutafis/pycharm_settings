@@ -39,7 +39,7 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1540996764127">
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1541003218001">
         <mark key="]" line="30" column="63" />
         <mark key="." line="30" column="63" />
         <mark key="^" line="30" column="63" />
@@ -154,6 +154,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

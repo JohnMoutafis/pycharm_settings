@@ -59,11 +59,11 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/.env" timestamp="1540829340206">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-        <mark key="^" line="10" column="10" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/.env" timestamp="1541083809004">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
         <mark key="[" line="7" column="35" />
@@ -97,6 +97,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/gilytics/settings.py" timestamp="1541084089664">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,44 +124,44 @@
       <jump line="8" column="0" filename="$USER_HOME$/dotfiles/aliases" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gU3BlbGxDaGVja2luZ0luc3BlY3Rpb24K</text>
       </register>
       <register name="+" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>xdotool key ctrl+alt+Left</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gU3BlbGxDaGVja2luZ0luc3BlY3Rpb24K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNkIGxpYmlucHV0LWdlc3R1cmVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgIGNkIGxpYmlucHV0LWdlc3R1cmVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2VzdHVyZSBzd2lwZSBsZWZ0IDIgeGRvdG9vbCBrZXkgTGVmdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2VzdHVyZSBzd2lwZSByaWdodCAyIHhkb3Rvb2wga2V5IFJpZ2h0Cg==</text>
+        <text encoding="base64">Z2VzdHVyZSBzd2lwZSBsZWZ0IDIgeGRvdG9vbCBrZXkgTGVmdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBHZW5lcmFsIE5hdmlnYXRpb24K</text>
+        <text encoding="base64">Z2VzdHVyZSBzd2lwZSByaWdodCAyIHhkb3Rvb2wga2V5IFJpZ2h0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

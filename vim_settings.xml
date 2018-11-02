@@ -143,31 +143,31 @@
         <text>xdotool key ctrl+alt+Left</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIFtjdXJsIC1YR0VUICdodHRwczovL3NoLnJ1c3R1cC5ycycgLXNTZiB8IHNoLCBJbnN0YWxsaW5nIFJ1c3QgdXNpbmcgUnVzdFVwLi4uXQo=</text>
+        <text encoding="base64">V2Vya3pldWcgPSAiPT0wLjE0LjEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogV2hlbiBhbGlhc2VzIGFyZSBkb25lLCBtYWtlIGluc3RhbGxhdGlvbnMgaGVyZS4K</text>
+        <text encoding="base64">TWFya3VwU2FmZSA9ICI9PTEuMCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogUnVzdCBhbmQgY2FyZ28gaW5zdGFsbC4K</text>
+        <text encoding="base64">IkppbmphMiIgPSAiPT0yLjEwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gU3BlbGxDaGVja2luZ0luc3BlY3Rpb24K</text>
+        <text encoding="base64">Rmxhc2stQ2FjaGluZyA9ICI9PTEuNC4wIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rmxhc2sgPSAiPT0xLjAuMiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">InVybGxpYjMiID0gIj09MS4yNCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNkIGxpYmlucHV0LWdlc3R1cmVzCg==</text>
+        <text encoding="base64">cmVxdWVzdHMgPSAiPT0yLjIwLjAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">cmVkaXMgPSAiPT0yLjEwLjYiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHl0aG9uLWRlY291cGxlID0gIj09My4xIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

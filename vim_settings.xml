@@ -32,6 +32,12 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/README.md" timestamp="1541167133819">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="30" />
+      </file>
       <file name="$USER_HOME$/dotfiles/gestures/enable_gestures.sh" timestamp="1541077151910">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -43,6 +49,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/base.html" timestamp="1541165737538">
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="39" />
+        <mark key="." line="52" column="39" />
+        <mark key="^" line="52" column="39" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
         <mark key="[" line="321" column="98" />
@@ -59,33 +71,34 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541163475234">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541167006283">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541163704486">
+      <file name="/Dummy.txt" timestamp="1541167801527">
         <mark key="'" line="0" column="23" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" timestamp="1541164122663">
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" timestamp="1541166887233">
         <mark key="'" line="10" column="28" />
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/api.py" timestamp="1541163118510">
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/api.py" timestamp="1541165795761">
         <mark key="'" line="11" column="53" />
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="42" />
-        <mark key="^" line="12" column="42" />
-        <mark key="." line="12" column="42" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541078095679">
         <mark key="[" line="40" column="75" />
@@ -134,11 +147,12 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/utils.py" timestamp="1541162664034">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="26" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/utils.py" timestamp="1541166637795">
+        <mark key="'" line="7" column="34" />
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="42" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.env" timestamp="1541164020427">
         <mark key="'" line="3" column="31" />
@@ -199,6 +213,7 @@
       <jump line="11" column="53" filename="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/api.py" />
       <jump line="8" column="32" filename="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" />
       <jump line="9" column="28" filename="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" />
+      <jump line="9" column="34" filename="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -208,7 +223,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>6379</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text>REDIS_URL=localhost
@@ -216,31 +231,31 @@ REDIS_PORT=6379
 REDIS_DB=0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBAYXBwLnJvdXRlKCcvJykK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgcmV0dXJuIHIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBydW5fc2ltcGxlKCdsb2NhbGhvc3QnLCA1MDAwLCBydW4oKSwgdXNlX2RlYnVnZ2VyPVRydWUsIHVzZV9yZWxvYWRlcj1UcnVlKQo=</text>
+        <text encoding="base64">IyAgICAgci5oZWFkZXJzLnNldCgnQ2FjaGUtQ29udHJvbCcsICJwdWJsaWM7IG1heC1hZ2U9NzIwMCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHdlcmt6ZXVnLnNlcnZpbmcgaW1wb3J0IHJ1bl9zaW1wbGUK</text>
+        <text encoding="base64">IyAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLkRFQlVHOgo=</text>
+        <text encoding="base64">IyAgICAgICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ21haW4nOgo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgICBjb250ZXh0PXNlcnZpY2VzLmdldF9sYW5kaW5nX3BhZ2VfZm9yX2hvc3QoaG9zdD1Ob25lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNhY2hlLmNhY2hlZCh0aW1lb3V0PTYwICogMiwgKQo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAnYmFzZS5odG1sJywK</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyAgICAgICAgIHJlbmRlcl90ZW1wbGF0ZSgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

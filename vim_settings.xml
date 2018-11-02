@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1540830283535">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1540831728395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -13,6 +16,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1541154373687">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/README.md" timestamp="1541076717098">
         <mark key="[" line="8" column="4" />
@@ -38,6 +44,9 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
+        <mark key="[" line="321" column="98" />
+      </file>
       <file name="$USER_HOME$/.dotfiles/install.conf.yaml" timestamp="1541087364311">
         <mark key="[" line="32" column="54" />
         <mark key="]" line="33" column="5" />
@@ -50,10 +59,8 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541151248110">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1541146002492">
         <mark key="'" line="0" column="23" />
@@ -61,12 +68,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" timestamp="1541151939547">
-        <mark key="'" line="4" column="51" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" timestamp="1541154181397">
+        <mark key="'" line="5" column="51" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="38" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541078095679">
         <mark key="[" line="40" column="75" />
@@ -109,11 +116,12 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.env" timestamp="1541151827453">
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.env" timestamp="1541154141292">
+        <mark key="'" line="3" column="31" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
@@ -133,9 +141,9 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/env.example" timestamp="1541151812978">
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/env.example" timestamp="1541154121711">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="21" />
+        <mark key="]" line="2" column="21" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -162,6 +170,7 @@
       <jump line="19" column="62" filename="$USER_HOME$/dotfiles/aliases" />
       <jump line="8" column="0" filename="$USER_HOME$/dotfiles/aliases" />
       <jump line="2" column="51" filename="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" />
+      <jump line="2" column="31" filename="$USER_HOME$/Programs/intelligems/thor-lp-flask/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

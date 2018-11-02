@@ -147,12 +147,12 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/utils.py" timestamp="1541166637795">
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/utils.py" timestamp="1541177426211">
         <mark key="'" line="7" column="34" />
         <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="42" />
-        <mark key="^" line="5" column="42" />
-        <mark key="." line="5" column="42" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="39" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.env" timestamp="1541164020427">
         <mark key="'" line="3" column="31" />
@@ -223,7 +223,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Environment</text>
       </register>
       <register name="0" type="4">
         <text>REDIS_URL=localhost

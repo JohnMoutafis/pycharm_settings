@@ -3,32 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1541146002492">
-        <mark key="'" line="0" column="23" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1540830283535">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1540831728395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541078095679">
-        <mark key="[" line="40" column="75" />
-        <mark key="]" line="40" column="77" />
-        <mark key="^" line="40" column="77" />
-        <mark key="." line="40" column="77" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/notes.md" timestamp="1541062774794">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="28" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/cache.py" timestamp="1541151964293">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/README.md" timestamp="1541076717098">
         <mark key="[" line="8" column="4" />
@@ -36,22 +20,11 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/dotfiles/bash-git-prompt-config" timestamp="1541068810997">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/gestures/libinput-gestures.conf" timestamp="1541078028207">
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="10" column="47" />
-        <mark key="." line="10" column="47" />
-        <mark key="^" line="10" column="47" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541072061091">
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="13" />
-        <mark key="^" line="36" column="42" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/utils.py" timestamp="1541151393283">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/dotfiles/gestures/enable_gestures.sh" timestamp="1541077151910">
         <mark key="[" line="5" column="0" />
@@ -65,20 +38,82 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/.dotfiles/install.conf.yaml" timestamp="1541087364311">
+        <mark key="[" line="32" column="54" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541072438688">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="18" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="37" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541151248110">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541146002492">
+        <mark key="'" line="0" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" timestamp="1541151939547">
+        <mark key="'" line="4" column="51" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541078095679">
+        <mark key="[" line="40" column="75" />
+        <mark key="]" line="40" column="77" />
+        <mark key="^" line="40" column="77" />
+        <mark key="." line="40" column="77" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/notes.md" timestamp="1541062774794">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/bash-git-prompt-config" timestamp="1541068810997">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/gestures/libinput-gestures.conf" timestamp="1541078028207">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/client.py" timestamp="1541151950402">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541072061091">
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="13" />
+        <mark key="^" line="36" column="42" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
-        <mark key="[" line="321" column="98" />
-      </file>
-      <file name="$USER_HOME$/.dotfiles/install.conf.yaml" timestamp="1541087364311">
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.env" timestamp="1541151827453">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
@@ -92,25 +127,23 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/repository_wrapper/api_v1/services.py" timestamp="1541003218001">
-        <mark key="]" line="30" column="63" />
-        <mark key="." line="30" column="63" />
-        <mark key="^" line="30" column="63" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541072438688">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="18" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="37" column="18" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/gilytics/settings.py" timestamp="1541084089664">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="^" line="47" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/env.example" timestamp="1541151812978">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/setup.cfg" timestamp="1541151157983">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -128,6 +161,7 @@
       <jump line="18" column="77" filename="$USER_HOME$/dotfiles/aliases" />
       <jump line="19" column="62" filename="$USER_HOME$/dotfiles/aliases" />
       <jump line="8" column="0" filename="$USER_HOME$/dotfiles/aliases" />
+      <jump line="2" column="51" filename="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -137,37 +171,39 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>REDIS_URL = config('REDIS_URL', default='localhost')</text>
       </register>
       <register name="0" type="4">
-        <text>xdotool key ctrl+alt+Left</text>
+        <text>BASE_URL=https://thor-be.host
+API_NAMESPACE=/api/v1/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V2Vya3pldWcgPSAiPT0wLjE0LjEiCg==</text>
+        <text encoding="base64">ciA9IHJlZGlzLlN0cmljdFJlZGlzKGhvc3Q9UkVESVNfVVJMLCBwb3J0PTYzNzksIGRiPTApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TWFya3VwU2FmZSA9ICI9PTEuMCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IkppbmphMiIgPSAiPT0yLjEwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Rmxhc2stQ2FjaGluZyA9ICI9PTEuNC4wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Rmxhc2sgPSAiPT0xLjAuMiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">InVybGxpYjMiID0gIj09MS4yNCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWVzdHMgPSAiPT0yLjIwLjAiCg==</text>
+        <text encoding="base64">ZnJvbSBkZWNvdXBsZSBpbXBvcnQgY29uZmlnCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVkaXMgPSAiPT0yLjEwLjYiCg==</text>
+      <register name="8" type="4">
+        <text>BASE_URL = config('BASE_URL', default='https://thor-be.host')
+API_NAMESPACE = config('API_NAMESPACE', default='/api/v1/')</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHl0aG9uLWRlY291cGxlID0gIj09My4xIgo=</text>
+        <text encoding="base64">ZnJvbSBmbGFza19jYWNoaW5nIGltcG9ydCBDYWNoZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -212,7 +248,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">

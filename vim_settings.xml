@@ -59,10 +59,16 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541157214180">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541146002492">
+      <file name="/Dummy.txt" timestamp="1541157352255">
         <mark key="'" line="0" column="23" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -129,6 +135,7 @@
         <mark key="^" line="863" column="26" />
         <mark key="." line="863" column="26" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/thor-lp-flask-Pj5l5gSV/lib/python3.6/site-packages/werkzeug/serving.py" timestamp="1541157046655" />
       <file name="$USER_HOME$/Programs/intelligems/gilytics/Pipfile" timestamp="1540814231086">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="3" column="2" />
@@ -180,39 +187,38 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>REDIS_URL = config('REDIS_URL', default='localhost')</text>
+        <text>client</text>
       </register>
       <register name="0" type="4">
         <text>BASE_URL=https://thor-be.host
 API_NAMESPACE=/api/v1/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ciA9IHJlZGlzLlN0cmljdFJlZGlzKGhvc3Q9UkVESVNfVVJMLCBwb3J0PTYzNzksIGRiPTApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWRlZD1UcnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VfZXZhbGV4PUZhbHNlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3J0PTUwMDAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkZWNvdXBsZSBpbXBvcnQgY29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICBob3N0PScwLjAuMC4wJywK</text>
       </register>
-      <register name="8" type="4">
-        <text>BASE_URL = config('BASE_URL', default='https://thor-be.host')
-API_NAMESPACE = config('API_NAMESPACE', default='/api/v1/')</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Zz1UcnVlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19jYWNoaW5nIGltcG9ydCBDYWNoZQo=</text>
+        <text encoding="base64">ICAgIGFwcC5ydW4oCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

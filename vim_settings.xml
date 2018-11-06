@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1541496839511">
+      <file name="/Python Console" timestamp="1541519221451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1540831728395">
@@ -12,7 +12,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1541420596587">
+      <file name="/a.dummy" timestamp="1541520570487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/README.md" timestamp="1541076717098">
@@ -51,11 +51,11 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/base.html" timestamp="1541505062825">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="27" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/base.html" timestamp="1541520337950">
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="39" />
+        <mark key="." line="52" column="39" />
+        <mark key="^" line="52" column="39" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
         <mark key="[" line="321" column="98" />
@@ -72,16 +72,22 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541514983083">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="18" column="31" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541521914189">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
       </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541513593499">
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/page.html" timestamp="1541519043494">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541520704408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/Pipfile" timestamp="1541506328829">
@@ -94,6 +100,8 @@
         <mark key="[" line="265" column="68" />
         <mark key="]" line="265" column="94" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/template-five.html" timestamp="1541519100750" />
+      <file name="$USER_HOME$/.virtualenvs/thor-lp-flask-Pj5l5gSV/lib/python3.6/site-packages/aioredis/commands/__init__.py" timestamp="1541521757711" />
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" timestamp="1541505145287">
         <mark key="'" line="43" column="15" />
         <mark key="[" line="12" column="54" />
@@ -163,6 +171,12 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/header.html" timestamp="1541519247355">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
         <mark key="]" line="863" column="26" />
@@ -175,11 +189,11 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/services.py" timestamp="1541499543119">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="27" column="4" />
-        <mark key="^" line="25" column="69" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/services.py" timestamp="1541521223849">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/gilytics/settings.py" timestamp="1541084089664">
         <mark key="[" line="44" column="0" />
@@ -193,11 +207,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/client.py" timestamp="1541513504991">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
-        <mark key="^" line="12" column="31" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/client.py" timestamp="1541519901844">
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="58" />
+        <mark key="^" line="12" column="71" />
+        <mark key="." line="12" column="58" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/Dockerfile" timestamp="1541508271271">
         <mark key="[" line="6" column="38" />
@@ -248,37 +262,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2</text>
       </register>
       <register name="0" type="4">
-        <text>'Content-Type': 'text/html'</text>
+        <text>css/bootstrap.min.css'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVfYXN5bmM9VHJ1ZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5zaXplPTEwLCBtYXhzaXplPTUwCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlX2RpcnM9WycuJ10sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5zaXplPTEwMCwgbWF4c2l6ZT01MDAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzPWhlYWRlcnMK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHslIHN0YXRpYyAnY3NzL2Jvb3RzdHJhcC5taW4uY3NzJyAlfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRlbXBsYXRlX2RpcnM9WycuL3RlbXBsYXRlcyddLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZWRpcywgaG9zdD1Ob25lKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBhd2FpdCBhcHAucmVuZGVyKCdiYXNlLmh0bWwnLCBjb250ZXh0PWF3YWl0IGNsaWVudC5nZXRfbGFuZGluZ19wYWdlX2Zvcl9ob3N0KAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNhY2hlZAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhjYWNoZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjYWNoZWQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGNhY2hlZDoK</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZWQgPSBhd2FpdCBjYWNoZV9jb25uLmdldChjYWNoZV9rZXkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

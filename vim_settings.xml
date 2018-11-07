@@ -76,11 +76,11 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541592375666">
-        <mark key="[" line="42" column="59" />
-        <mark key="]" line="42" column="77" />
-        <mark key="." line="42" column="77" />
-        <mark key="^" line="42" column="77" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541604566162">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
@@ -181,11 +181,11 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/services.py" timestamp="1541592501410">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-        <mark key="^" line="62" column="9" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/services.py" timestamp="1541604527731">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
+        <mark key="^" line="12" column="55" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/gilytics/settings.py" timestamp="1541084089664">
         <mark key="[" line="44" column="0" />
@@ -257,37 +257,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>session</text>
       </register>
       <register name="0" type="4">
         <text>use_reloader</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2xvYmFsIGNhY2hlX2Nvbm5lY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHJlcXVlc3RzLlNlc3Npb24oKSBhcyBzZXNzaW9uOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zmxhc2sgPSAiPT0xLjAuMiIK</text>
+        <text encoding="base64">Z2xvYmFsIGNhY2hlX2Nvbm5lY3Rpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVkaXMgPSAiPT0yLjEwLjYiCg==</text>
+        <text encoding="base64">Zmxhc2sgPSAiPT0xLjAuMiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMuVW5hdmFpbGFibGUK</text>
+        <text encoding="base64">cmVkaXMgPSAiPT0yLjEwLjYiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMuTm90Rm91bmQK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMuVW5hdmFpbGFibGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJhaXNlczoK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMuTm90Rm91bmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJhaXNlczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzZXR0aW5ncyBpbXBvcnQK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

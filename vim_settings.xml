@@ -80,6 +80,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541676244059">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="73" />
+        <mark key="." line="15" column="73" />
+        <mark key="^" line="15" column="73" />
+      </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,11 +111,12 @@
         <mark key="[" line="265" column="68" />
         <mark key="]" line="265" column="94" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" timestamp="1541591576936">
-        <mark key="'" line="38" column="15" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" timestamp="1541676777575">
+        <mark key="'" line="42" column="15" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="30" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541078095679">
         <mark key="[" line="40" column="75" />
@@ -165,11 +172,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/views.py" timestamp="1541668392108">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/views.py" timestamp="1541675636199">
+        <mark key="[" line="51" column="76" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/header.html" timestamp="1541519247355">
         <mark key="[" line="4" column="32" />
@@ -265,34 +272,34 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>1</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWVzdHMgPSAiPT0yLjIwLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>
+        <text encoding="base64">ICAgIGppbmphLnJlbmRlcl9hc3luYygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzcG9uc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWVzdHMgPSAiPT0yLjIwLjAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGNhY2hlX2Nvbm5lY3Rpb24uc2V0KG5hbWU9Y2FjaGVfa2V5LCB2YWx1ZT1qc29uLmR1bXBzKHJlc3BvbnNlKSwgZXg9NjApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

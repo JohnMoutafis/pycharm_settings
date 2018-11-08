@@ -80,6 +80,10 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541671282428">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
@@ -268,10 +272,7 @@
         <text>t</text>
       </register>
       <register name="0" type="4">
-        <text>self.jinja.render(
-                'base.html', request=request, headers=headers,
-                context=json.loads(await self.cache_connection.get(cache_key))
-            )</text>
+        <text />
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>

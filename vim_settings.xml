@@ -59,6 +59,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="35" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="40" />
+        <mark key="^" line="39" column="40" />
+        <mark key="." line="39" column="40" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/base.html" timestamp="1541520337950">
         <mark key="[" line="52" column="13" />
         <mark key="]" line="52" column="39" />

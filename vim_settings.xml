@@ -74,6 +74,11 @@
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
         <mark key="[" line="321" column="98" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542191466194">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+      </file>
       <file name="$USER_HOME$/.dotfiles/install.conf.yaml" timestamp="1541087364311">
         <mark key="[" line="32" column="54" />
         <mark key="]" line="33" column="5" />
@@ -278,31 +283,31 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5kZWNvcmF0b3JzIGltcG9ydCBkZXRhaWxfcm91dGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGppbmphLnJlbmRlcl9hc3luYygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgIGppbmphLnJlbmRlcl9hc3luYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWVzdHMgPSAiPT0yLjIwLjAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzcG9uc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>
+        <text encoding="base64">cmVxdWVzdHMgPSAiPT0yLjIwLjAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>

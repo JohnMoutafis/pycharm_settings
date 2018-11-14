@@ -151,11 +151,11 @@
         <mark key="." line="33" column="5" />
         <mark key="^" line="33" column="5" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/tasks.py" timestamp="1542213233709">
-        <mark key="[" line="83" column="33" />
-        <mark key="]" line="83" column="18" />
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/tasks.py" timestamp="1542213536330">
+        <mark key="[" line="82" column="26" />
+        <mark key="]" line="82" column="26" />
         <mark key="^" line="83" column="18" />
-        <mark key="." line="83" column="18" />
+        <mark key="." line="82" column="26" />
       </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541072438688">
         <mark key="[" line="37" column="18" />
@@ -311,7 +311,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="0" type="4">
         <text>device_fingerprint</text>

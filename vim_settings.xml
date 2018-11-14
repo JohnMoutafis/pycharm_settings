@@ -212,6 +212,12 @@
         <mark key="^" line="863" column="26" />
         <mark key="." line="863" column="26" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/models.py" timestamp="1542209855754">
+        <mark key="[" line="181" column="54" />
+        <mark key="]" line="182" column="7" />
+        <mark key="^" line="182" column="7" />
+        <mark key="." line="182" column="7" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/Pipfile" timestamp="1540814231086">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="3" column="2" />
@@ -236,7 +242,7 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542196126593">
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542209578974">
         <mark key="[" line="116" column="28" />
         <mark key="]" line="116" column="93" />
         <mark key="^" line="116" column="93" />
@@ -300,10 +306,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>l</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBkYXRhICs9IHVzZXJfYWdlbnQuaXNfdG91Y2hfY2FwYWJsZQ==</text>
+        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgaW1wcmVzc2lvbnMoc2VsZik6CiAgICAgICAgY2FjaGVfa2V5ID0gZidjYW1wYWlnbl97c2VsZi5pZH1fbGF0ZXN0X3RvdGFsX2ltcHJlc3Npb25zJwogICAgICAgIGNhY2hlZF92YWx1ZSA9IGNhY2hlLmdldChjYWNoZV9rZXksIE5vbmUpCiAgICAgICAgaWYgY2FjaGVkX3ZhbHVlIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gaW50KGNhY2hlZF92YWx1ZSkKCiAgICAgICAgYW5hbHl0aWNzX3ZhbHVlID0gc2VsZi5nZXRfY2FjaGVkX29yX2ZldGNoX2FuYWx5dGljcygnaW1wcmVzc2lvbicsICdpbXByZXNzaW9ucycpCiAgICAgICAgY2FjaGUuc2V0KGNhY2hlX2tleSwgc3RyKGFuYWx5dGljc192YWx1ZSksIHRpbWVvdXQ9NjAgKiAxNSkKICAgICAgICByZXR1cm4gYW5hbHl0aWNzX3ZhbHVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGRqYW5nb191c2VyX2FnZW50cwo=</text>

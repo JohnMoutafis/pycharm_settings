@@ -89,15 +89,16 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/madinadv3/lib/python3.6/site-packages/pynamodb/models.py" timestamp="1542213176085" />
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
         <mark key="]" line="863" column="26" />
         <mark key="^" line="863" column="26" />
         <mark key="." line="863" column="26" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542212162258">
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="271" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542213212480">
+        <mark key="[" line="92" column="4" />
+        <mark key="]" line="92" column="21" />
         <mark key="." line="271" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/client.py" timestamp="1541519901844">
@@ -150,8 +151,11 @@
         <mark key="." line="33" column="5" />
         <mark key="^" line="33" column="5" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/tasks.py" timestamp="1542212237949">
-        <mark key="[" line="78" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/tasks.py" timestamp="1542213233709">
+        <mark key="[" line="83" column="33" />
+        <mark key="]" line="83" column="18" />
+        <mark key="^" line="83" column="18" />
+        <mark key="." line="83" column="18" />
       </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541072438688">
         <mark key="[" line="37" column="18" />
@@ -310,7 +314,7 @@
         <text>)</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgaW1wcmVzc2lvbnMoc2VsZik6CiAgICAgICAgY2FjaGVfa2V5ID0gZidjYW1wYWlnbl97c2VsZi5pZH1fbGF0ZXN0X3RvdGFsX2ltcHJlc3Npb25zJwogICAgICAgIGNhY2hlZF92YWx1ZSA9IGNhY2hlLmdldChjYWNoZV9rZXksIE5vbmUpCiAgICAgICAgaWYgY2FjaGVkX3ZhbHVlIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gaW50KGNhY2hlZF92YWx1ZSkKCiAgICAgICAgYW5hbHl0aWNzX3ZhbHVlID0gc2VsZi5nZXRfY2FjaGVkX29yX2ZldGNoX2FuYWx5dGljcygnaW1wcmVzc2lvbicsICdpbXByZXNzaW9ucycpCiAgICAgICAgY2FjaGUuc2V0KGNhY2hlX2tleSwgc3RyKGFuYWx5dGljc192YWx1ZSksIHRpbWVvdXQ9NjAgKiAxNSkKICAgICAgICByZXR1cm4gYW5hbHl0aWNzX3ZhbHVlCg==</text>
+        <text>device_fingerprint</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

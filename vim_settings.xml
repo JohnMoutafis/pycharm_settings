@@ -96,7 +96,7 @@
         <mark key="^" line="863" column="26" />
         <mark key="." line="863" column="26" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542213212480">
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542214223513">
         <mark key="[" line="92" column="4" />
         <mark key="]" line="92" column="21" />
         <mark key="." line="271" column="0" />
@@ -151,11 +151,10 @@
         <mark key="." line="33" column="5" />
         <mark key="^" line="33" column="5" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/tasks.py" timestamp="1542213536330">
-        <mark key="[" line="82" column="26" />
-        <mark key="]" line="82" column="26" />
-        <mark key="^" line="83" column="18" />
-        <mark key="." line="82" column="26" />
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/tasks.py" timestamp="1542214432555">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541072438688">
         <mark key="[" line="37" column="18" />
@@ -317,31 +316,31 @@
         <text>device_fingerprint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBxdWVyeQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRldmljZV9maW5nZXJwcmludF9pbmRleCA9IERldmljZUZpbmdlcnByaW50SW5kZXgoKSAgIyBHU0kgZm9yIHRoZSBkZXZpY2Utc3BlY2lmaWMgcXVlcmllcwo=</text>
+        <text encoding="base64">ICAgIGRlZiBxdWVyeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRldmljZV9maW5nZXJwcmludF9pbmRleCA9IERldmljZUZpbmdlcnByaW50SW5kZXgoKSAgIyBHU0kgZm9yIHRoZSBkZXZpY2Utc3BlY2lmaWMgcXVlcmllcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IFVuaWNvZGVBdHRyaWJ1dGUocmFuZ2Vfa2V5PVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRldmljZV9maW5nZXJwcmludCA9IFVuaWNvZGVBdHRyaWJ1dGUoaGFzaF9rZXk9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IFVuaWNvZGVBdHRyaWJ1dGUocmFuZ2Vfa2V5PVRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

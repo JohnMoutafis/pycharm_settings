@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1542272679235">
+      <file name="/Python Console" timestamp="1542643258006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1540831728395">
@@ -11,6 +11,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542642482524">
+        <mark key="[" line="107" column="51" />
+        <mark key="]" line="107" column="50" />
+        <mark key="^" line="107" column="50" />
+        <mark key="." line="107" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1541587466215">
         <mark key="[" line="0" column="0" />
@@ -74,8 +80,10 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1540827347152">
-        <mark key="[" line="321" column="98" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1542643663358">
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="0" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542202015116">
         <mark key="[" line="41" column="59" />
@@ -113,7 +121,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542628804503">
+      <file name="/Dummy.txt" timestamp="1542646341536">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -188,10 +196,11 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1542640421779">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="12" />
-        <mark key="." line="171" column="12" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1542646313786">
+        <mark key="[" line="143" column="81" />
+        <mark key="]" line="143" column="53" />
+        <mark key="." line="143" column="53" />
+        <mark key="^" line="143" column="53" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/utils.py" timestamp="1542207081825">
         <mark key="[" line="3" column="36" />
@@ -284,38 +293,38 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>]</text>
       </register>
       <register name="0" type="4">
-        <text>GEOSERVER_OWS_ENDPOINT=http://gylitics-staging-1489714874.eu-west-1.elb.amazonaws.com/geoserver/ows
-GEOSERVER_REST_ENDPOINT=http://gylitics-staging-1489714874.eu-west-1.elb.amazonaws.com/geoserver/rest</text>
+        <text>logger.info(json.dumps(feature.get('geometry')))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXJsbGliMz09MS4yNC4xCg==</text>
+        <text encoding="base64">ICAgIEl0IGFsc28gZmxhdHRlbnMgdGhlIGlucHV0IGdlb21ldHJpZXMgdG8gMkQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2l4PT0xLjExLjAK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGdlb21ldHJpZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">czN0cmFuc2Zlcj09MC4xLjEzCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhqc29uLmR1bXBzKGZlYXR1cmUuZ2V0KCdnZW9tZXRyeScpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHl0aG9uLWRhdGV1dGlsPT0yLjcuNQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyh0eXBlKGpzb24uZHVtcHMoZmVhdHVyZS5nZXQoJ2dlb21ldHJ5JykpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">am1lc3BhdGg9PTAuOS4zCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZG9jdXRpbHM9PTAuMTQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ym90b2NvcmU9PTEuMTIuNDAK</text>
+      <register name="7" type="4">
+        <text>tmp_geom = geom.intersection(project_area).ogr
+            ogr.Fla</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ym90bzM9PTEuOS40MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VvbS5mbGF0dGVuVG8yRCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZ2VvbS5jb29yZF9kaW0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

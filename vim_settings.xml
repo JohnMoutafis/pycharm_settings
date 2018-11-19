@@ -50,12 +50,6 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/Pipfile" timestamp="1541672526146">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/setup.cfg" timestamp="1542628618947">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="9" column="27" />
@@ -63,11 +57,7 @@
         <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/settings.py" timestamp="1541676777575">
-        <mark key="'" line="42" column="15" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="30" />
+        <mark key="'" line="37" column="15" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/client.py" timestamp="1541151950402">
         <mark key="[" line="5" column="0" />
@@ -167,12 +157,6 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/app.py" timestamp="1541676244059">
-        <mark key="[" line="15" column="65" />
-        <mark key="]" line="15" column="73" />
-        <mark key="." line="15" column="73" />
-        <mark key="^" line="15" column="73" />
-      </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
@@ -241,12 +225,6 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/services.py" timestamp="1541668043677">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="9" column="50" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/gilytics/settings.py" timestamp="1541084089664">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -258,13 +236,6 @@
         <mark key="]" line="5" column="9" />
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/Dockerfile" timestamp="1541585979920">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/setup.cfg" timestamp="1541580666538">
         <mark key="[" line="7" column="6" />

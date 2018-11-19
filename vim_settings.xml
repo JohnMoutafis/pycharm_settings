@@ -89,6 +89,11 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" timestamp="1542639770288">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="12" />
+        <mark key="." line="171" column="12" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
         <mark key="]" line="863" column="26" />
@@ -138,6 +143,9 @@
         <mark key="]" line="52" column="39" />
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1542639234410">
+        <mark key="[" line="75" column="41" />
       </file>
       <file name="$USER_HOME$/.dotfiles/install.conf.yaml" timestamp="1541087364311">
         <mark key="[" line="32" column="54" />
@@ -224,12 +232,6 @@
         <mark key="]" line="3" column="2" />
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/gilytics/settings.py" timestamp="1541084089664">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="47" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/env.example" timestamp="1541580344770">
         <mark key="[" line="0" column="0" />

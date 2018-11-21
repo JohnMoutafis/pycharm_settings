@@ -90,4 +90,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Programs/intelligems/madinad-data-scripts" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
 </application>

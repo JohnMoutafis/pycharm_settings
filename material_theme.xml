@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.10.6" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="isContrastMode" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="userId" value="-34d0bc43:16737221430:-8000" />
+    <option name="isHighContrast" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
+  </component>
+</application>

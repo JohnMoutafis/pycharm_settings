@@ -53,10 +53,11 @@
         <mark key="^" line="38" column="40" />
         <mark key="." line="38" column="40" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1542643663358">
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1542795023799">
+        <mark key="[" line="216" column="8" />
+        <mark key="]" line="216" column="8" />
+        <mark key="." line="216" column="8" />
+        <mark key="^" line="216" column="8" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542202015116">
         <mark key="[" line="41" column="59" />
@@ -119,7 +120,6 @@
         <mark key="." line="143" column="53" />
         <mark key="^" line="143" column="53" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/scripts_api/cache.py" timestamp="1542722874096" />
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/settings.py" timestamp="1542707418372">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -334,7 +334,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text encoding="base64">VGhlbiA=</text>
       </register>
       <register name="0" type="4">
         <text>logger.info(json.dumps(feature.get('geometry')))</text>

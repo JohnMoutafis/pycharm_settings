@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542897732437">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542900009944">
+        <mark key="[" line="64" column="82" />
+        <mark key="]" line="65" column="11" />
+        <mark key="." line="65" column="11" />
+        <mark key="^" line="65" column="11" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
@@ -15,7 +15,7 @@
         <mark key="^" line="101" column="40" />
         <mark key="." line="101" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1541587466215">
+      <file name="/a.dummy" timestamp="1542899580544">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/README.md" timestamp="1541076717098">
@@ -70,6 +70,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/serializers.py" timestamp="1542899887978">
+        <mark key="[" line="51" column="61" />
+        <mark key="]" line="54" column="43" />
+        <mark key="." line="54" column="43" />
+        <mark key="^" line="54" column="43" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/env.example" timestamp="1542707476203">
         <mark key="'" line="2" column="13" />
@@ -337,38 +343,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>pass</text>
       </register>
       <register name="0" type="4">
-        <text>GEOSERVER_OWS_ENDPOINT=http://gylitics-staging-1489714874.eu-west-1.elb.amazonaws.com/geoserver/ows
-GEOSERVER_REST_ENDPOINT=http://gylitics-staging-1489714874.eu-west-1.elb.amazonaws.com/geoserver/rest</text>
+        <text>ImpressionTimePassed</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0aW1lX2xhcHNlZChzZWxmLCByZXF1ZXN0KToK</text>
+        <text encoding="base64">ICAgIGltZWxhcHNlID0gJ3RpbWVsYXBzZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBhY3Rpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5kZWNvcmF0b3JzIGltcG9ydCAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLmNhbXBhaWduX2lkLgo=</text>
+        <text encoding="base64">ICAgIGRlZiB0aW1lX2xhcHNlZChzZWxmLCByZXF1ZXN0KToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QVBJX05BTUVTUEFDRT0vYXBpL3YxLwo=</text>
+        <text encoding="base64">ICAgIEBhY3Rpb24oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QkFTRV9VUkw9aHR0cHM6Ly90aG9yLWJlLmhvc3QK</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5kZWNvcmF0b3JzIGltcG9ydCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLmNhbXBhaWduX2lkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

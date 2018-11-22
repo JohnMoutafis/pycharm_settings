@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542895204311">
+        <mark key="[" line="27" column="26" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
         <mark key="]" line="101" column="40" />

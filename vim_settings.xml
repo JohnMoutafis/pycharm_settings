@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542895889481">
-        <mark key="[" line="53" column="78" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542897732437">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="18" column="30" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
@@ -336,38 +337,38 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGhlbiA=</text>
+        <text>i</text>
       </register>
       <register name="0" type="4">
         <text>GEOSERVER_OWS_ENDPOINT=http://gylitics-staging-1489714874.eu-west-1.elb.amazonaws.com/geoserver/ows
 GEOSERVER_REST_ENDPOINT=http://gylitics-staging-1489714874.eu-west-1.elb.amazonaws.com/geoserver/rest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLmNhbXBhaWduX2lkLgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QVBJX05BTUVTUEFDRT0vYXBpL3YxLwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QkFTRV9VUkw9aHR0cHM6Ly90aG9yLWJlLmhvc3QK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiB0aW1lX2xhcHNlZChzZWxmLCByZXF1ZXN0KToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBhY3Rpb24oKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">QVBJX05BTUVTUEFDRSA9IGNvbmZpZygnQVBJX05BTUVTUEFDRScsIGRlZmF1bHQ9Jy9hcGkvdjEvJykK</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5kZWNvcmF0b3JzIGltcG9ydCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QkFTRV9VUkwgPSBjb25maWcoJ0JBU0VfVVJMJywgZGVmYXVsdD0naHR0cHM6Ly90ZXN0LnRob3ItYmUuaG9zdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLmNhbXBhaWduX2lkLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhvciBMYW5kaW5nIFBhZ2VzIC0gRmxhc2sgZWRpdGlvbgo=</text>
+        <text encoding="base64">QVBJX05BTUVTUEFDRT0vYXBpL3YxLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEl0IGFsc28gZmxhdHRlbnMgdGhlIGlucHV0IGdlb21ldHJpZXMgdG8gMkQuCg==</text>
+        <text encoding="base64">QkFTRV9VUkw9aHR0cHM6Ly90aG9yLWJlLmhvc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGdlb21ldHJpZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

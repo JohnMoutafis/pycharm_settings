@@ -152,6 +152,12 @@
         <mark key="^" line="863" column="26" />
         <mark key="." line="863" column="26" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Element.js" timestamp="1543231343811">
+        <mark key="[" line="523" column="0" />
+        <mark key="]" line="525" column="41" />
+        <mark key="^" line="525" column="41" />
+        <mark key="." line="525" column="41" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542214223513">
         <mark key="[" line="92" column="4" />
         <mark key="]" line="92" column="21" />
@@ -406,6 +412,8 @@
       <history-cmd>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>403</entry>
+        <entry>525</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

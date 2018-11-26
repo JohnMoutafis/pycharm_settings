@@ -152,6 +152,12 @@
         <mark key="^" line="863" column="26" />
         <mark key="." line="863" column="26" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/settings/base.py" timestamp="1543237038876">
+        <mark key="[" line="57" column="5" />
+        <mark key="]" line="57" column="42" />
+        <mark key="." line="54" column="11" />
+        <mark key="^" line="54" column="11" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Element.js" timestamp="1543233967841">
         <mark key="[" line="422" column="26" />
         <mark key="]" line="422" column="26" />
@@ -368,10 +374,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">bWlkZGxld2FyZSA=</text>
       </register>
       <register name="0" type="4">
-        <text>ImpressionTimePassed</text>
+        <text>wagtail.core.middleware.SiteMiddleware</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>

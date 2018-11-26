@@ -83,6 +83,9 @@
         <mark key="." line="54" column="52" />
         <mark key="^" line="54" column="51" />
       </file>
+      <file name="/main.auth_user [db]" timestamp="1543228848358">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/urls.py" timestamp="1542900926741">
         <mark key="[" line="9" column="62" />
         <mark key="]" line="9" column="62" />
@@ -214,7 +217,7 @@
         <mark key="." line="33" column="5" />
         <mark key="^" line="33" column="5" />
       </file>
-      <file name="/Django Console" timestamp="1542819239327">
+      <file name="/Django Console" timestamp="1543228586979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/tasks.py" timestamp="1542284395073">
@@ -230,6 +233,9 @@
         <mark key="." line="37" column="18" />
       </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1543228849126">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/page.html" timestamp="1541519043494">

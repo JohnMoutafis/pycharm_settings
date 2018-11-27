@@ -96,10 +96,10 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/mysite/pages/models.py" timestamp="1543322069274">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/mysite/pages/models.py" timestamp="1543324086273">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/main.auth_permission [Django default]" timestamp="1543318234718">
         <mark key="[" line="0" column="0" />
@@ -159,12 +159,6 @@
       </file>
       <file name="/main.auth_group [Django default]" timestamp="1543318226590">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/settings/base.py" timestamp="1543245776035">
-        <mark key="[" line="164" column="25" />
-        <mark key="]" line="164" column="28" />
-        <mark key="." line="164" column="28" />
-        <mark key="^" line="164" column="28" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Element.js" timestamp="1543233967841">
         <mark key="[" line="422" column="26" />
@@ -395,31 +389,31 @@
         <text>wagtail.core.middleware.SiteMiddleware</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB3YWd0YWlsLmFkbWluIGltcG9ydCB3aWRnZXRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB3YWd0YWlsLmFkbWluLgo=</text>
+        <text encoding="base64">YWRtaW5fd2lkZ2V0cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB3YWd0YWlsLmNvcmUgaW1wb3J0IGhvb2tzCg==</text>
+        <text encoding="base64">d2FndGFpbGFkbWluX3dpZGdldHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aG9va3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB3YWd0YWlsLndhZ3RhaWxjb3JlIGltcG9ydCBob29rcwo=</text>
+        <text encoding="base64">ZnJvbSB3YWd0YWlsLmFkbWluLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSB3YWd0YWlsLmNvcmUgaW1wb3J0IGhvb2tzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">aG9va3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltZWxhcHNlID0gJ3RpbWVsYXBzZScK</text>
+        <text encoding="base64">ZnJvbSB3YWd0YWlsLndhZ3RhaWxjb3JlIGltcG9ydCBob29rcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

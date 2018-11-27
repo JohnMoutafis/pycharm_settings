@@ -54,10 +54,8 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/requirements.txt" timestamp="1542626057625">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/main.wagtailcore_grouppagepermission [Django default]" timestamp="1543318291383">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
         <mark key="[" line="38" column="32" />
@@ -92,12 +90,8 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/env.example" timestamp="1542707476203">
-        <mark key="'" line="2" column="13" />
+      <file name="/main.auth_permission [Django default]" timestamp="1543318234718">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/setup.cfg" timestamp="1542628618947">
         <mark key="[" line="7" column="17" />
@@ -141,16 +135,14 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/settings.py" timestamp="1542707418372">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
         <mark key="]" line="863" column="26" />
         <mark key="^" line="863" column="26" />
         <mark key="." line="863" column="26" />
+      </file>
+      <file name="/main.auth_group [Django default]" timestamp="1543318226590">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/settings/base.py" timestamp="1543245776035">
         <mark key="[" line="164" column="25" />
@@ -163,11 +155,6 @@
         <mark key="]" line="422" column="26" />
         <mark key="^" line="422" column="26" />
         <mark key="." line="422" column="26" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542214223513">
-        <mark key="[" line="92" column="4" />
-        <mark key="]" line="92" column="21" />
-        <mark key="." line="271" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/client.py" timestamp="1541519901844">
         <mark key="[" line="12" column="58" />
@@ -247,10 +234,9 @@
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1543228849126">
+      <file name="/dummy.sql" timestamp="1543318291525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/MapGenerator.js" timestamp="1543233835973" />
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/page.html" timestamp="1541519043494">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="3" column="11" />
@@ -274,6 +260,9 @@
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
+      </file>
+      <file name="/main.auth_group_permissions [Django default]" timestamp="1543318220435">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -310,11 +299,6 @@
         <mark key="]" line="8" column="58" />
         <mark key="^" line="8" column="58" />
         <mark key="." line="8" column="58" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/models.py" timestamp="1542211476930">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/Pipfile" timestamp="1540814231086">
         <mark key="[" line="3" column="3" />

@@ -58,6 +58,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/mysite/lib/python3.6/site-packages/wagtail/core/models.py" timestamp="1543320861675" />
+      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/requirements.txt" timestamp="1542626057625">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
         <mark key="[" line="38" column="32" />
         <mark key="]" line="38" column="40" />
@@ -90,6 +95,11 @@
         <mark key="]" line="9" column="62" />
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/mysite/pages/models.py" timestamp="1543322069274">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/main.auth_permission [Django default]" timestamp="1543318234718">
         <mark key="[" line="0" column="0" />
@@ -136,6 +146,11 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/settings.py" timestamp="1542707418372">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
         <mark key="]" line="863" column="26" />
@@ -156,6 +171,11 @@
         <mark key="]" line="422" column="26" />
         <mark key="^" line="422" column="26" />
         <mark key="." line="422" column="26" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542214223513">
+        <mark key="[" line="92" column="4" />
+        <mark key="]" line="92" column="21" />
+        <mark key="." line="271" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/client.py" timestamp="1541519901844">
         <mark key="[" line="12" column="58" />
@@ -207,6 +227,11 @@
         <mark key="]" line="52" column="39" />
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/mysite/home/models.py" timestamp="1543321865102">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1542639234410">
         <mark key="[" line="75" column="41" />
@@ -301,6 +326,11 @@
         <mark key="^" line="8" column="58" />
         <mark key="." line="8" column="58" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/models.py" timestamp="1542211476930">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/Pipfile" timestamp="1540814231086">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="3" column="2" />
@@ -365,31 +395,31 @@
         <text>wagtail.core.middleware.SiteMiddleware</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltZWxhcHNlID0gJ3RpbWVsYXBzZScK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSB3YWd0YWlsLmFkbWluLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSB3YWd0YWlsLmNvcmUgaW1wb3J0IGhvb2tzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aG9va3MK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSB3YWd0YWlsLndhZ3RhaWxjb3JlIGltcG9ydCBob29rcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0aW1lX2xhcHNlZChzZWxmLCByZXF1ZXN0KToK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBhY3Rpb24oKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5kZWNvcmF0b3JzIGltcG9ydCAK</text>
+        <text encoding="base64">ICAgIGltZWxhcHNlID0gJ3RpbWVsYXBzZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLmNhbXBhaWduX2lkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

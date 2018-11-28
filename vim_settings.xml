@@ -109,6 +109,12 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/conf.py" timestamp="1543415536865">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/README.md" timestamp="1542707195780">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -188,7 +194,7 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1542900541168">
+      <file name="/Python Console" timestamp="1543415412248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/wagtail_hooks.py" timestamp="1543330161411">
@@ -214,6 +220,11 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/utils/translator_priviledges.py" timestamp="1543414832665">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.stolos.yml" timestamp="1541428204915">
         <mark key="[" line="13" column="13" />
@@ -364,6 +375,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/wagtail_hooks.py" timestamp="1543415782349">
+        <mark key="[" line="143" column="71" />
+        <mark key="]" line="143" column="72" />
+        <mark key="^" line="143" column="71" />
+        <mark key="." line="143" column="72" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="467" column="0" filename="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/utils.py" />
@@ -405,41 +422,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
-        <text>allowed_language_codes = [name.split('-')[-1] for name in user_groups]
-        excluded_language_codes = [
-            lang for lang in Language.objects.live().values_list('code', flat=True)
-            if lang not in allowed_language_codes
-        ]</text>
+        <text>STRICT_TRANSLATE_PERMISSIONS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB3YWd0YWlsdHJhbnMuY29uZiBpbXBvcnQgZ2V0X3dhZ3RhaWx0cmFuc19zZXR0aW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZWRfbGFuZ3VhZ2VfY29kZXMuYXBwZW5kKGV4Y2x1ZGVfbGFuZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlzX3ByaXZpbGVnZWRfdXNlcih1c2VyX2dyb3VwcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkuc2VsZWN0X3JlbGF0ZWQoJ2xhbmd1YWdlJykub3JkZXJfYnkoJ2xhbmd1YWdlX19wb3NpdGlvbicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJfZ3JvdXBzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYW5ndWFnZV9fY29kZV9faW49ZXhjbHVkZWRfbGFuZ3VhZ2VfY29kZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB3YWd0YWlsLmNvcmUgaW1wb3J0IGhvb2tzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2Uuc3BlY2lmaWMuZ2V0X3RyYW5zbGF0aW9ucyhvbmx5X2xpdmU9RmFsc2UpLmV4Y2x1ZGUoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbbmFtZS5zcGxpdCgnLScpWy0xXSBmb3IgbmFtZSBpbiB1c2VyX2dyb3VwX25hbWVzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3RoZXJfbGFuZ3VhZ2VzID0gKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF1bMF0K</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnd2FndGFpbHRyYW5zX2Ryb3Bkb3duX2VkaXRfaG9vaycK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gaXNfcGFyZW50OiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

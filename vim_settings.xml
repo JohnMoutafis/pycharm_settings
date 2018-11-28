@@ -15,7 +15,7 @@
         <mark key="^" line="101" column="40" />
         <mark key="." line="101" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1543336141208">
+      <file name="/a.dummy" timestamp="1543419183488">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/models.py" timestamp="1542900499982">
@@ -221,10 +221,11 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/utils/translator_priviledges.py" timestamp="1543414832665">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/utils/translator_priviledges.py" timestamp="1543419068934">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.stolos.yml" timestamp="1541428204915">
         <mark key="[" line="13" column="13" />
@@ -375,11 +376,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/wagtail_hooks.py" timestamp="1543418529510">
-        <mark key="[" line="73" column="67" />
-        <mark key="]" line="74" column="11" />
-        <mark key="^" line="74" column="11" />
-        <mark key="." line="74" column="11" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/wagtail_hooks.py" timestamp="1543419232009">
+        <mark key="[" line="96" column="33" />
+        <mark key="]" line="97" column="11" />
+        <mark key="^" line="97" column="11" />
+        <mark key="." line="97" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -422,37 +423,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dHJhbnNsYXRvcl9wcml2aWxlZGdlcyA=</text>
       </register>
       <register name="0" type="4">
-        <text>STRICT_TRANSLATE_PERMISSIONS</text>
+        <text>A list of group names.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb3dlZF9sYW5ndWFnZV9jb2RlcyA9IFtuYW1lLnNwbGl0KCctJylbLTFdIGZvciBuYW1lIGluIHVzZXJfZ3JvdXBzXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93ZWRfbGFuZ3VhZ2VfY29kZXMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkuc2VsZWN0X3JlbGF0ZWQoJ2xhbmd1YWdlJykub3JkZXJfYnkoJ2xhbmd1YWdlX19wb3NpdGlvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYW5ndWFnZV9fY29kZV9faW49ZXhjbHVkZWRfbGFuZ3VhZ2VfY29kZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLm9yZGVyX2J5KCdwb3NpdGlvbicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2Uuc3BlY2lmaWMuZ2V0X3RyYW5zbGF0aW9ucyhvbmx5X2xpdmU9RmFsc2UpLmV4Y2x1ZGUoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29kZV9faW49ZXhjbHVkZWRfbGFuZ3VhZ2VfY29kZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3RoZXJfbGFuZ3VhZ2VzID0gKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYW5ndWFnZS5vYmplY3RzLmxpdmUoKS5leGNsdWRlKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyX2xhbmd1YWdlcyA9IHNldCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gaXNfcGFyZW50OiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

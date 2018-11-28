@@ -109,7 +109,7 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/conf.py" timestamp="1543415536865">
+      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/conf.py" timestamp="1543418521596">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="32" />
         <mark key="^" line="6" column="41" />
@@ -375,11 +375,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/wagtail_hooks.py" timestamp="1543415782349">
-        <mark key="[" line="143" column="71" />
-        <mark key="]" line="143" column="72" />
-        <mark key="^" line="143" column="71" />
-        <mark key="." line="143" column="72" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/wagtail_hooks.py" timestamp="1543418529510">
+        <mark key="[" line="73" column="67" />
+        <mark key="]" line="74" column="11" />
+        <mark key="^" line="74" column="11" />
+        <mark key="." line="74" column="11" />
       </file>
     </filemarks>
     <jumps>

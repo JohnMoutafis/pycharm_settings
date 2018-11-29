@@ -15,7 +15,7 @@
         <mark key="^" line="101" column="40" />
         <mark key="." line="101" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1543419183488">
+      <file name="/a.dummy" timestamp="1543506551145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/models.py" timestamp="1542900499982">
@@ -171,6 +171,12 @@
       <file name="/main.auth_group [Django default]" timestamp="1543333102592">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/settings/base.py" timestamp="1543506668959">
+        <mark key="[" line="160" column="42" />
+        <mark key="]" line="161" column="47" />
+        <mark key="^" line="161" column="47" />
+        <mark key="." line="161" column="47" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Element.js" timestamp="1543233967841">
         <mark key="[" line="422" column="26" />
         <mark key="]" line="422" column="26" />
@@ -242,6 +248,12 @@
       <file name="$USER_HOME$/.virtualenvs/mysite/lib/python3.6/site-packages/wagtailtrans/wagtail_hooks.py" timestamp="1543336904620">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/mysite/requirements.txt" timestamp="1543506601661">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/base.html" timestamp="1541520337950">
         <mark key="[" line="52" column="13" />
@@ -429,31 +441,31 @@
         <text>A list of group names.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsb3dlZF9sYW5ndWFnZV9jb2RlcyA9IFtuYW1lLnNwbGl0KCctJylbLTFdIGZvciBuYW1lIGluIHVzZXJfZ3JvdXBzXQo=</text>
+        <text encoding="base64">d2FndGFpbHRyYW5zPT0yLjAuNAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93ZWRfbGFuZ3VhZ2VfY29kZXMgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb3dlZF9sYW5ndWFnZV9jb2RlcyA9IFtuYW1lLnNwbGl0KCctJylbLTFdIGZvciBuYW1lIGluIHVzZXJfZ3JvdXBzXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93ZWRfbGFuZ3VhZ2VfY29kZXMgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLm9yZGVyX2J5KCdwb3NpdGlvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29kZV9faW49ZXhjbHVkZWRfbGFuZ3VhZ2VfY29kZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLm9yZGVyX2J5KCdwb3NpdGlvbicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYW5ndWFnZS5vYmplY3RzLmxpdmUoKS5leGNsdWRlKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29kZV9faW49ZXhjbHVkZWRfbGFuZ3VhZ2VfY29kZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyX2xhbmd1YWdlcyA9IHNldCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYW5ndWFnZS5vYmplY3RzLmxpdmUoKS5leGNsdWRlKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyX2xhbmd1YWdlcyA9IHNldCgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -200,7 +200,7 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1543482699535">
+      <file name="/Python Console" timestamp="1543571240273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/wagtail_hooks.py" timestamp="1543330161411">
@@ -245,9 +245,11 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/mysite/lib/python3.6/site-packages/wagtailtrans/wagtail_hooks.py" timestamp="1543336904620">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="44" />
+      <file name="$USER_HOME$/.virtualenvs/mysite/lib/python3.6/site-packages/wagtailtrans/wagtail_hooks.py" timestamp="1543571431335">
+        <mark key="[" line="74" column="26" />
+        <mark key="]" line="74" column="35" />
+        <mark key="." line="74" column="35" />
+        <mark key="^" line="74" column="35" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/requirements.txt" timestamp="1543569341459">
         <mark key="[" line="18" column="19" />
@@ -435,37 +437,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>rc1</text>
+        <text>request</text>
       </register>
       <register name="0" type="4">
         <text>A list of group names.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2FndGFpbHRyYW5zPT0yLjAuNAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGlzX3BhcmVudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsb3dlZF9sYW5ndWFnZV9jb2RlcyA9IFtuYW1lLnNwbGl0KCctJylbLTFdIGZvciBuYW1lIGluIHVzZXJfZ3JvdXBzXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93ZWRfbGFuZ3VhZ2VfY29kZXMgCg==</text>
+        <text encoding="base64">d2FndGFpbHRyYW5zPT0yLjAuNAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb3dlZF9sYW5ndWFnZV9jb2RlcyA9IFtuYW1lLnNwbGl0KCctJylbLTFdIGZvciBuYW1lIGluIHVzZXJfZ3JvdXBzXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLm9yZGVyX2J5KCdwb3NpdGlvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93ZWRfbGFuZ3VhZ2VfY29kZXMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29kZV9faW49ZXhjbHVkZWRfbGFuZ3VhZ2VfY29kZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYW5ndWFnZS5vYmplY3RzLmxpdmUoKS5leGNsdWRlKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLm9yZGVyX2J5KCdwb3NpdGlvbicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyX2xhbmd1YWdlcyA9IHNldCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29kZV9faW49ZXhjbHVkZWRfbGFuZ3VhZ2VfY29kZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYW5ndWFnZS5vYmplY3RzLmxpdmUoKS5leGNsdWRlKAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

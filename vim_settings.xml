@@ -115,6 +115,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/main.wagtailcore_page [Django default]" timestamp="1543573736082">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/README.md" timestamp="1542707195780">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -295,7 +298,7 @@
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1543336626711">
+      <file name="/dummy.sql" timestamp="1543573738161">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/page.html" timestamp="1541519043494">

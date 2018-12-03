@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542900953320">
-        <mark key="[" line="86" column="74" />
-        <mark key="]" line="86" column="74" />
-        <mark key="." line="86" column="74" />
-        <mark key="^" line="47" column="31" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
         <mark key="]" line="101" column="40" />
@@ -20,9 +14,6 @@
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/models.py" timestamp="1542900499982">
         <mark key="[" line="102" column="47" />
-        <mark key="]" line="103" column="34" />
-        <mark key="^" line="103" column="34" />
-        <mark key="." line="103" column="34" />
       </file>
       <file name="$USER_HOME$/dotfiles/README.md" timestamp="1541076717098">
         <mark key="[" line="8" column="4" />
@@ -80,20 +71,14 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/serializers.py" timestamp="1543225347378">
-        <mark key="[" line="54" column="51" />
-        <mark key="]" line="54" column="52" />
-        <mark key="." line="54" column="52" />
-        <mark key="^" line="54" column="51" />
-      </file>
       <file name="/main.auth_user [db]" timestamp="1543228848358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/urls.py" timestamp="1542900926741">
-        <mark key="[" line="9" column="62" />
-        <mark key="]" line="9" column="62" />
-        <mark key="^" line="9" column="62" />
-        <mark key="." line="9" column="62" />
+        <mark key="[" line="2" column="62" />
+        <mark key="]" line="2" column="62" />
+        <mark key="^" line="2" column="62" />
+        <mark key="." line="2" column="62" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/pages/models.py" timestamp="1543324086273">
         <mark key="[" line="3" column="0" />
@@ -346,6 +331,12 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/models.py" timestamp="1543834972291">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="89" column="32" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="35" />
@@ -434,37 +425,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>Analytics</text>
       </register>
       <register name="0" type="4">
         <text>A list of group names.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlzX3BhcmVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2FndGFpbHRyYW5zPT0yLjAuNAo=</text>
+        <text encoding="base64">ZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsb3dlZF9sYW5ndWFnZV9jb2RlcyA9IFtuYW1lLnNwbGl0KCctJylbLTFdIGZvciBuYW1lIGluIHVzZXJfZ3JvdXBzXQo=</text>
+        <text encoding="base64">ICAgICAgICBBbmFseXRpY3MuY3JlYXRlX3RhYmxlKHdhaXQ9VHJ1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93ZWRfbGFuZ3VhZ2VfY29kZXMgCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBBbmFseXRpY3MuZXhpc3RzKCkgYW5kIG5vdCBzZXR0aW5ncy5ESkFOR09fVEVTVF9NT0RFOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLm9yZGVyX2J5KCdwb3NpdGlvbicpCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgb3VyIHRhYmxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29kZV9faW49ZXhjbHVkZWRfbGFuZ3VhZ2VfY29kZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYW5ndWFnZS5vYmplY3RzLmxpdmUoKS5leGNsdWRlKAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXZlbnRfY291bnRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

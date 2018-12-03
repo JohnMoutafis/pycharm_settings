@@ -3,13 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1543837209782">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
         <mark key="]" line="101" column="40" />
         <mark key="^" line="101" column="40" />
         <mark key="." line="101" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1543569351894">
+      <file name="/a.dummy" timestamp="1543836794792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/models.py" timestamp="1542900499982">
@@ -48,11 +53,6 @@
       <file name="/main.wagtailcore_grouppagepermission [Django default]" timestamp="1543318291383">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/requirements.txt" timestamp="1542626057625">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
         <mark key="[" line="38" column="32" />
         <mark key="]" line="38" column="40" />
@@ -74,16 +74,23 @@
       <file name="/main.auth_user [db]" timestamp="1543228848358">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/serializers.py" timestamp="1543837915205">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" timestamp="1543837918023">
+        <mark key="[" line="29" column="72" />
+        <mark key="]" line="30" column="61" />
+        <mark key="^" line="30" column="61" />
+        <mark key="." line="30" column="61" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/urls.py" timestamp="1542900926741">
         <mark key="[" line="2" column="62" />
         <mark key="]" line="2" column="62" />
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="62" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/mysite/pages/models.py" timestamp="1543324086273">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/main.auth_permission [Django default]" timestamp="1543336626603">
         <mark key="[" line="0" column="0" />
@@ -115,6 +122,10 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/core/utils/fingerprint_utils.py" timestamp="1543836860283">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541072061091">
         <mark key="[" line="36" column="13" />
         <mark key="]" line="36" column="13" />
@@ -145,11 +156,6 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/settings.py" timestamp="1542707418372">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
         <mark key="]" line="863" column="26" />
@@ -170,11 +176,6 @@
         <mark key="]" line="422" column="26" />
         <mark key="^" line="422" column="26" />
         <mark key="." line="422" column="26" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/models.py" timestamp="1542214223513">
-        <mark key="[" line="92" column="4" />
-        <mark key="]" line="92" column="21" />
-        <mark key="." line="271" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/client.py" timestamp="1541519901844">
         <mark key="[" line="12" column="58" />
@@ -251,11 +252,6 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/mysite/home/models.py" timestamp="1543321865102">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1542639234410">
         <mark key="[" line="75" column="41" />
       </file>
@@ -273,6 +269,12 @@
         <mark key="]" line="87" column="71" />
         <mark key="." line="87" column="71" />
         <mark key="^" line="87" column="71" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/urls.py" timestamp="1543837655035">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541072438688">
         <mark key="[" line="37" column="18" />
@@ -292,7 +294,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543572187318">
+      <file name="/Dummy.txt" timestamp="1543838064918">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -303,6 +305,12 @@
         <mark key="]" line="4" column="41" />
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/madinadv3/urls.py" timestamp="1543837749951">
+        <mark key="[" line="44" column="70" />
+        <mark key="]" line="44" column="70" />
+        <mark key="." line="44" column="70" />
+        <mark key="^" line="44" column="70" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541078095679">
         <mark key="[" line="40" column="75" />
@@ -331,11 +339,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/models.py" timestamp="1543834972291">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="89" column="32" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/models.py" timestamp="1543837535244">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
         <mark key="[" line="7" column="35" />
@@ -360,11 +368,6 @@
         <mark key="]" line="8" column="58" />
         <mark key="^" line="8" column="58" />
         <mark key="." line="8" column="58" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/models.py" timestamp="1542211476930">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/Pipfile" timestamp="1540814231086">
         <mark key="[" line="3" column="3" />
@@ -416,6 +419,7 @@
       <jump line="0" column="17" filename="/Dummy.txt" />
       <jump line="1" column="13" filename="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/env.example" />
       <jump line="20" column="84" filename="$USER_HOME$/Programs/intelligems/mysite/pages/wagtail_hooks.py" />
+      <jump line="14" column="56" filename="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -425,37 +429,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Analytics</text>
+        <text>AnalyticsView</text>
       </register>
       <register name="0" type="4">
-        <text>A list of group names.</text>
+        <text>full_path_url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInYnJvd3Nlci1oaXN0b3J5JywgQikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAnLyg/UDxmaWx0ZXJfdHlwZT4uKikkJywgV2Vic2l0ZUFuYWx5dGljc1ZpZXcuYXNfdmlldygpKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
+        <text encoding="base64">ICAgIHVybChyJ153ZWJzaXRlLyg/UDxwaz4uKikvZXZlbnQtdHlwZS8oP1A8ZXZlbnRfdHlwZT4uKiknICsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBbmFseXRpY3MuY3JlYXRlX3RhYmxlKHdhaXQ9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAnLyg/UDxmaWx0ZXJfdHlwZT4uKikkJywgQ3JlYXRpdmVBbmFseXRpY3NWaWV3LmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBBbmFseXRpY3MuZXhpc3RzKCkgYW5kIG5vdCBzZXR0aW5ncy5ESkFOR09fVEVTVF9NT0RFOgo=</text>
+        <text encoding="base64">ICAgIHVybChyJ15jcmVhdGl2ZS8oP1A8cGs+LiopL2V2ZW50LXR5cGUvKD9QPGV2ZW50X3R5cGU+LiopJyArCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAnLyg/UDxmaWx0ZXJfdHlwZT4uKikkJywgQ2FtcGFpZ25BbmFseXRpY3NWaWV3LmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDcmVhdGUgb3VyIHRhYmxlCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15jYW1wYWlnbi8oP1A8cGs+LiopL2V2ZW50LXR5cGUvKD9QPGV2ZW50X3R5cGU+LiopJyArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ150aW1lLXBhc3NlZC8kJywgSW1wcmVzc2lvblRpbWVQYXNzZWRWaWV3LmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXZlbnRfY291bnRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgciA9IHJlZGlzLlN0cmljdFJlZGlzLmZyb21fdXJsKHVybD1zZXR0aW5ncy5SRURJU19VUkwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

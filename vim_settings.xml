@@ -38,6 +38,12 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/config.js" timestamp="1543940601109">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+      </file>
       <file name="$USER_HOME$/dotfiles/gestures/enable_gestures.sh" timestamp="1541077151910">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -189,6 +195,11 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/index.js" timestamp="1543940405172">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1543571240273">
         <mark key="[" line="0" column="0" />
       </file>
@@ -276,6 +287,9 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/.env" timestamp="1543940264840">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541072438688">
         <mark key="[" line="37" column="18" />
         <mark key="]" line="37" column="18" />
@@ -284,6 +298,12 @@
       </file>
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/.env" timestamp="1543939628581">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/dummy.sql" timestamp="1543573738161">
         <mark key="[" line="0" column="0" />
@@ -357,6 +377,12 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1543940631376">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/header.html" timestamp="1541519247355">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="23" />
@@ -420,46 +446,48 @@
       <jump line="1" column="13" filename="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/env.example" />
       <jump line="20" column="84" filename="$USER_HOME$/Programs/intelligems/mysite/pages/wagtail_hooks.py" />
       <jump line="14" column="56" filename="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" />
+      <jump line="0" column="14" filename="$USER_HOME$/Programs/intelligems/solar_house/src/config.js" />
+      <jump line="5" column="16" filename="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">ICAtIFtjdXJsIC1YR0VUICdodHRwczovL3NoLnJ1c3R1cC5ycycgLXNTZiB8IHNoLCBJbnN0YWxsaW5nIFJ1c3QgdXNpbmcgUnVzdFVwLi4uXQo=</text>
       </register>
       <register name="+" type="4">
-        <text>&quot;&quot;</text>
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>AnalyticsView</text>
+        <text encoding="base64">ZW52X3ZhcmlhYmxlcyA=</text>
       </register>
       <register name="0" type="4">
         <text>full_path_url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInYnJvd3Nlci1oaXN0b3J5JywgQikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnLyg/UDxmaWx0ZXJfdHlwZT4uKikkJywgV2Vic2l0ZUFuYWx5dGljc1ZpZXcuYXNfdmlldygpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybChyJ153ZWJzaXRlLyg/UDxwaz4uKikvZXZlbnQtdHlwZS8oP1A8ZXZlbnRfdHlwZT4uKiknICsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGRvdGVudiBmcm9tICdkb3RlbnYnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnLyg/UDxmaWx0ZXJfdHlwZT4uKikkJywgQ3JlYXRpdmVBbmFseXRpY3NWaWV3LmFzX3ZpZXcoKSksCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnZG90ZW52JykuY29uZmlnKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15jcmVhdGl2ZS8oP1A8cGs+LiopL2V2ZW50LXR5cGUvKD9QPGV2ZW50X3R5cGU+LiopJyArCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZW52X3ZhcmlhYmxlcy5MQUxBTEEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnLyg/UDxmaWx0ZXJfdHlwZT4uKikkJywgQ2FtcGFpZ25BbmFseXRpY3NWaWV3LmFzX3ZpZXcoKSksCg==</text>
+        <text encoding="base64">aW1wb3J0IGVudl92YXJpYWJsZXMgZnJvbSAnLi4vY29uZmlnLmpzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15jYW1wYWlnbi8oP1A8cGs+LiopL2V2ZW50LXR5cGUvKD9QPGV2ZW50X3R5cGU+LiopJyArCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnZG90ZW52JykuY29uZmlnKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHVybChyJ150aW1lLXBhc3NlZC8kJywgSW1wcmVzc2lvblRpbWVQYXNzZWRWaWV3LmFzX3ZpZXcoKSksCg==</text>
+      <register name="8" type="4">
+        <text>''</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgciA9IHJlZGlzLlN0cmljdFJlZGlzLmZyb21fdXJsKHVybD1zZXR0aW5ncy5SRURJU19VUkwpCg==</text>
+      <register name="9" type="4">
+        <text>dotenv</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

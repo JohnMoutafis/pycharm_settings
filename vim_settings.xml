@@ -8,11 +8,11 @@
         <mark key="]" line="29" column="40" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544023802820">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544025016810">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
@@ -396,17 +396,17 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544023384005">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="60" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="2" column="21" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544024952593">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544023874865">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544024760272">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/header.html" timestamp="1541519247355">
         <mark key="[" line="4" column="32" />
@@ -483,7 +483,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>}</text>
       </register>
       <register name="0" type="4">
         <text>import React from 'react'
@@ -491,31 +491,31 @@ import MAPBOX_TOKEN from '../../config'
 import ReactMapboxGl, { ZoomControl } from &quot;react-mapbox-gl&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IE1hcENvbnRhaW5lciBmcm9tICJjb250YWluZXJzL01hcC9NYXBDb250YWluZXIiOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE1hcENvbnRhaW5lciBmcm9tICcnCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE1hcCBmcm9tICIuLi9jb21wb25lbnRzL01hcC9NYXAiOwo=</text>
+        <text encoding="base64">Ly8gICBhY2Nlc3NUb2tlbjogTUFQQk9YX1RPS0VOCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFwLmFkZENvbnRyb2wobmV3IG1hcGJveGdsLkdlb2xvY2F0ZUNvbnRyb2woKSk7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgTWFwID0gUmVhY3RNYXBib3hHbCh7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgejogLTEK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0TWFwYm94R2wsIHsgWm9vbUNvbnRyb2wgfSBmcm9tICJyZWFjdC1tYXBib3gtZ2wiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8Wm9vbUNvbnRyb2wgLz4qL30K</text>
+        <text encoding="base64">aW1wb3J0IE1hcENvbnRhaW5lciBmcm9tICIuL01hcC9NYXBDb250YWluZXIiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFwQ29udGFpbmVyLmFkZENvbnRyb2wobmV3IG1hcGJveGdsLk5hdmlnYXRpb25Db250cm9sKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IE1hcENvbnRhaW5lciBmcm9tICJjb250YWluZXJzL01hcC9NYXBDb250YWluZXIiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -385,11 +385,20 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1543952169664">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544010039405">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="40" column="26" />
+        <mark key="m" line="29" column="0" />
+        <mark key="]" line="39" column="23" />
+        <mark key="n" line="29" column="0" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="39" column="23" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544007909373">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="8" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/header.html" timestamp="1541519247355">
         <mark key="[" line="4" column="32" />
@@ -456,6 +465,7 @@
       <jump line="14" column="56" filename="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" />
       <jump line="0" column="14" filename="$USER_HOME$/Programs/intelligems/solar_house/src/config.js" />
       <jump line="5" column="16" filename="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -465,37 +475,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>opaths</text>
+        <text>.</text>
       </register>
       <register name="0" type="4">
         <text>REACT_APP_MAPBOX_TOKEN=opaths</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXZlbnQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE1BUEJPWF9UT0tFTiBmcm9tICcuLi9jb25maWcnOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5tYXAuZ2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtNQVBCT1hfVE9LRU59Cg==</text>
+        <text encoding="base64">ICAgIG1hcC5hZGRDb250cm9sKGFwQm94R2VvY29kZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuUkVBQ1RfQVBQX01BUEJPWF9UT0tFTikK</text>
+        <text encoding="base64">ICAgIG1hcC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuUkVBQ1RfQVBQX0xBTEFMQSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coTEFMQUxBKTsK</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzc05hbWU9IkFwcC1pbnRybyI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IExBTEFMQSBmcm9tICcuLi9jb25maWcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtMQUxBTEF9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

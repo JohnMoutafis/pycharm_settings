@@ -8,11 +8,10 @@
         <mark key="]" line="29" column="40" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544025016810">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544025900933">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
@@ -396,11 +395,12 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544024952593">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544026111936">
+        <mark key="'" line="27" column="35" />
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544024760272">
         <mark key="[" line="1" column="0" />
@@ -474,6 +474,7 @@
       <jump line="0" column="14" filename="$USER_HOME$/Programs/intelligems/solar_house/src/config.js" />
       <jump line="5" column="16" filename="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
+      <jump line="27" column="35" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -483,7 +484,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">YnlDb250cm9sc0RlZmF1bHQ9e30ga2V5YmluZGluZ3M9e30gbW9kZXM9e30gb25EcmF3QWN0aW9uYWJsZT17fSBvbkRyYXdDb21iaW5lPXt9IG9uRHJhd0NyZWF0ZT17fSBvbkRyYXdEZWxldGU9e30gb25EcmF3TW9kZUNoYW5nZT17fSBvbkRyYXdSZW5kZXI9e30gb25EcmF3U2VsZWN0aW9uQ2hhbmdlPXt9IG9uRHJhd1VuY29tYmluZT17fSBvbkRyYXdVcGRhdGU9e30gcG9zaXRpb249e30gdG91Y2hCdWZmZXI9e30gdG91Y2hFbmFibGVkPXt9IHN0eWxlcz17fS8+</text>
       </register>
       <register name="0" type="4">
         <text>import React from 'react'
@@ -491,31 +492,31 @@ import MAPBOX_TOKEN from '../../config'
 import ReactMapboxGl, { ZoomControl } from &quot;react-mapbox-gl&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IERyYXdDb250cm9sIGZyb20gJ3JlYWN0LW1hcGJveC1nbC1kcmF3JzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKQo=</text>
+        <text encoding="base64">ICAgICAgICA8RHJhd0NvbnRyb2wgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gfSk7Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICBhY2Nlc3NUb2tlbjogTUFQQk9YX1RPS0VOCg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc3QgTWFwID0gUmVhY3RNYXBib3hHbCh7Cg==</text>
+        <text encoding="base64">Ly8gfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0TWFwYm94R2wsIHsgWm9vbUNvbnRyb2wgfSBmcm9tICJyZWFjdC1tYXBib3gtZ2wiOwo=</text>
+        <text encoding="base64">Ly8gICBhY2Nlc3NUb2tlbjogTUFQQk9YX1RPS0VOCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IE1hcENvbnRhaW5lciBmcm9tICIuL01hcC9NYXBDb250YWluZXIiOwo=</text>
+        <text encoding="base64">Ly8gY29uc3QgTWFwID0gUmVhY3RNYXBib3hHbCh7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IE1hcENvbnRhaW5lciBmcm9tICJjb250YWluZXJzL01hcC9NYXBDb250YWluZXIiOwo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0TWFwYm94R2wsIHsgWm9vbUNvbnRyb2wgfSBmcm9tICJyZWFjdC1tYXBib3gtZ2wiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -390,12 +390,12 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544015566256">
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544017640729">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="44" column="21" />
-        <mark key="." line="44" column="21" />
-        <mark key="^" line="44" column="21" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="27" column="56" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544013191316">
         <mark key="[" line="8" column="10" />
@@ -478,37 +478,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>r</text>
       </register>
       <register name="0" type="4">
         <text>34.5945159073</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFwQ29udGFpbmVyLmFkZENvbnRyb2wobmV3IG1hcGJveGdsLk5hdmlnYXRpb25Db250cm9sKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgejogLTEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2VudGVyOiBbbG5nLCBsYXRdLAo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8Wm9vbUNvbnRyb2wgLz4qL30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGF0OiAzOC45NjAyLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMubWFwQ29udGFpbmVyLmFkZENvbnRyb2wobmV3IG1hcGJveGdsLk5hdmlnYXRpb25Db250cm9sKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG5nOiAzMi44ODQwNSwK</text>
+        <text encoding="base64">ICAgICAgLy8gY2VudGVyOiBbbG5nLCBsYXRdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgem9vbTogMwo=</text>
+        <text encoding="base64">ICAgICAgbGF0OiAzOC45NjAyLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgem9vbTogem9vbQo=</text>
+        <text encoding="base64">ICAgICAgbG5nOiAzMi44ODQwNSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMubWFwLmZpdEJvdW5kcyhbWzIwLjE1MDAxNTkwMzQsIDM0LjkxOTk4NzY5NzldLCBbMjYuNjA0MTk1NTkwOSwgNDEuODI2OTA0NjA4N11dKTsK</text>
+        <text encoding="base64">ICAgICAgem9vbTogMwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICgsIDI2LjYwNDE5NTU5MDksIDQxLjgyNjkwNDYwODcpCg==</text>
+        <text encoding="base64">ICAgICAgem9vbTogem9vbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gWzE5LjE1NTM3NzE0OTYsMzQuNTk0NTE1OTA3M10sWzI4LjcxMzQ4MjYxODMsMzQuNTk0NTE1OTA3M10sWzI4LjcxMzQ4MjYxODMsNDEuODk5OTkzNDQ1XSxbMTkuMTU1Mzc3MTQ5Niw0MS44OTk5OTM0NDVdLFsxOS4xNTUzNzcxNDk2LDM0LjU5NDUxNTkwNzNdCg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMubWFwLmZpdEJvdW5kcyhbWzIwLjE1MDAxNTkwMzQsIDM0LjkxOTk4NzY5NzldLCBbMjYuNjA0MTk1NTkwOSwgNDEuODI2OTA0NjA4N11dKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -526,6 +526,7 @@
         <entry>403</entry>
         <entry>525</entry>
         <entry>ew</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

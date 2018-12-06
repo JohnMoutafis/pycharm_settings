@@ -399,12 +399,12 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544095989607">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="24" column="56" />
-        <mark key="]" line="24" column="64" />
-        <mark key="^" line="24" column="64" />
-        <mark key="." line="24" column="64" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544097292568">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="10" />
+        <mark key="." line="25" column="10" />
+        <mark key="^" line="25" column="97" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544024760272">
         <mark key="[" line="1" column="0" />
@@ -489,37 +489,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>TERRAIN</text>
+        <text>}</text>
       </register>
       <register name="0" type="4">
         <text>react-mui-mapbox-geocoder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdG9wOiAwLAo=</text>
+        <text encoding="base64">aW1wb3J0IHtHb29nbGVMYXllcn0gZnJvbSAicmVhY3QtbGVhZmxldC1nb29nbGUiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8R29vZ2xlTGF5ZXIgZ29vZ2xla2V5PXtHT09HTEVfVE9LRU59IG1hcHR5cGU9eydTQVRFTExJVEUnfS8+Ki99Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdsZWFmbGV0L2Rpc3QvbGVhZmxldC5jc3MnCg==</text>
+        <text encoding="base64">aW1wb3J0IFRpbGVMYXllciBmcm9tICJyZWFjdC1sZWFmbGV0L2VzL1RpbGVMYXllciI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR29vZ2xlTGF5ZXIgfSBmcm9tICdyZWFjdC1sZWFmbGV0LWdvb2dsZScK</text>
+        <text encoding="base64">ICAgICAgdG9wOiAwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR29vZ2xlTGF5ZXIgfSBmcm9tICdyZWFjdC1sZWFmbGV0LWdvb2dsZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgey8qPE1hcCBib3VuZHM9e3RoaXMuc3RhdGUuYm91bmRzfSBtYXhCb3VuZHM9e3RoaXMuc3RhdGUuYm91bmRzfT4qL30K</text>
+        <text encoding="base64">aW1wb3J0ICdsZWFmbGV0L2Rpc3QvbGVhZmxldC5jc3MnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gPC9NYXA+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgR29vZ2xlTGF5ZXIgfSBmcm9tICdyZWFjdC1sZWFmbGV0LWdvb2dsZScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgR29vZ2xlTGF5ZXIgfSBmcm9tICdyZWFjdC1sZWFmbGV0LWdvb2dsZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgey8qPE1hcCBib3VuZHM9e3RoaXMuc3RhdGUuYm91bmRzfSBtYXhCb3VuZHM9e3RoaXMuc3RhdGUuYm91bmRzfT4qL30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

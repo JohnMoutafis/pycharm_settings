@@ -219,7 +219,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1543571240273">
+      <file name="/Python Console" timestamp="1544098509040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/wagtail_hooks.py" timestamp="1543330161411">
@@ -399,12 +399,12 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544097292568">
-        <mark key="'" line="17" column="18" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="10" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="25" column="97" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544098531156">
+        <mark key="'" line="19" column="18" />
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544024760272">
         <mark key="[" line="1" column="0" />
@@ -489,10 +489,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
-        <text>react-mui-mapbox-geocoder</text>
+        <text>34.5945159073</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHtHb29nbGVMYXllcn0gZnJvbSAicmVhY3QtbGVhZmxldC1nb29nbGUiOwo=</text>

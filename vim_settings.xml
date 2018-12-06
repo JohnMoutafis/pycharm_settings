@@ -395,12 +395,12 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544026111936">
-        <mark key="'" line="27" column="35" />
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544088187306">
+        <mark key="'" line="28" column="35" />
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="69" column="7" />
+        <mark key="." line="69" column="7" />
+        <mark key="^" line="69" column="7" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544024760272">
         <mark key="[" line="1" column="0" />
@@ -484,39 +484,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YnlDb250cm9sc0RlZmF1bHQ9e30ga2V5YmluZGluZ3M9e30gbW9kZXM9e30gb25EcmF3QWN0aW9uYWJsZT17fSBvbkRyYXdDb21iaW5lPXt9IG9uRHJhd0NyZWF0ZT17fSBvbkRyYXdEZWxldGU9e30gb25EcmF3TW9kZUNoYW5nZT17fSBvbkRyYXdSZW5kZXI9e30gb25EcmF3U2VsZWN0aW9uQ2hhbmdlPXt9IG9uRHJhd1VuY29tYmluZT17fSBvbkRyYXdVcGRhdGU9e30gcG9zaXRpb249e30gdG91Y2hCdWZmZXI9e30gdG91Y2hFbmFibGVkPXt9IHN0eWxlcz17fS8+</text>
+        <text>{</text>
       </register>
       <register name="0" type="4">
-        <text>import React from 'react'
-import MAPBOX_TOKEN from '../../config'
-import ReactMapboxGl, { ZoomControl } from &quot;react-mapbox-gl&quot;;</text>
+        <text>geocoderOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IERyYXdDb250cm9sIGZyb20gJ3JlYWN0LW1hcGJveC1nbC1kcmF3JzsK</text>
+        <text encoding="base64">ICAgICAgb25TZWxlY3Q6IHJlc3VsdCA9PiB0aGlzLl9nb1RvR2VvY29kZXJSZXN1bHQocmVzdWx0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8RHJhd0NvbnRyb2wgLz4K</text>
+        <text encoding="base64">ICAgICAgb25TZWxlY3Q6IHtyZXN1bHQgPT4gdGhpcy5fZ29Ub0dlb2NvZGVyUmVzdWx0KHJlc3VsdCl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNob3dMb2FkZXI9e3RydWV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlucHV0UGxhY2Vob2xkZXI9IlNlYXJjaCBBZGRyZXNzIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFjY2Vzc1Rva2VuPXtNQVBCT1hfVE9LRU59Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICBhY2Nlc3NUb2tlbjogTUFQQk9YX1RPS0VOCg==</text>
+        <text encoding="base64">aW1wb3J0IE1hcGJveEdlb2NvZGVyIGZyb20gJ0BtYXBib3gvbWFwYm94LWdsLWdlb2NvZGVyJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3QgTWFwID0gUmVhY3RNYXBib3hHbCh7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWFwLmFkZENvbnRyb2woZ2VvY29kZXIsICd0b3AtbGVmdCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0TWFwYm94R2wsIHsgWm9vbUNvbnRyb2wgfSBmcm9tICJyZWFjdC1tYXBib3gtZ2wiOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

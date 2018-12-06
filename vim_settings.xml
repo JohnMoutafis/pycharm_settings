@@ -8,10 +8,12 @@
         <mark key="]" line="29" column="40" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544094971472">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544106734677">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
@@ -138,10 +140,6 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/core/utils/fingerprint_utils.py" timestamp="1543836860283">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="24" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/MapboxLayer.js" timestamp="1544104538818">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="34" />
@@ -183,9 +181,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/package.json" timestamp="1544088965864">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="29" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/package.json" timestamp="1544105623006">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
@@ -327,11 +326,11 @@
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/.env" timestamp="1544104713214">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/.env" timestamp="1544107474195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="/dummy.sql" timestamp="1543573738161">
         <mark key="[" line="0" column="0" />
@@ -405,14 +404,14 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544104656803">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544106873333">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544024760272">
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544105800194">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -486,6 +485,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
       <jump line="27" column="35" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
       <jump line="20" column="18" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -495,37 +496,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>AIzaSyAJaTjY9O1xyE8Bd0n5Le4YVzBYqjaLYw0</text>
       </register>
       <register name="0" type="4">
         <text>mapbox-gl-leaflet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEdvb2dsZUxheWVyIGZyb20gInJlYWN0LWxlYWZsZXQtZ29vZ2xlIjsK</text>
+        <text encoding="base64">aW1wb3J0ICdsZWFmbGV0L2Rpc3QvbGVhZmxldC5jc3MnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEwubWEK</text>
+        <text encoding="base64">aW1wb3J0ICdsZWFmJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IE1hcEJveEdMTGF5ZXIgZnJvbSAiLi9NYXBib3hMYXllciI7Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gIm1hcGJveC1nbC1sZWFmbGV0IjsK</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8R29vZ2xlTGF5ZXIgZ29vZ2xla2V5PXtHT09HTEVfVE9LRU59IG1hcHR5cGU9eydTQVRFTExJVEUnfS8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1hcENvbnRhaW5lciBmcm9tICIuL01hcC9NYXBDb250YWluZXIiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF0dHJpYnV0aW9uPScmY29weTsgPGEgaHJlZj0iaHR0cDovL29zbS5vcmcvY29weXJpZ2h0Ij5PcGVuU3RyZWV0TWFwPC9hPiBjb250cmlidXRvcnMnCg==</text>
+        <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogImxhdGVzdCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVybD0naHR0cDovL3tzfS50aWxlLm9zbS5vcmcve3p9L3t4fS97eX0ucG5nJwo=</text>
+        <text encoding="base64">aW1wb3J0ICdsZWFmbGV0L2Rpc3QvbGVhZmxldC5jc3MnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgem9vbTogMjAK</text>
+        <text encoding="base64">aW1wb3J0IEdvb2dsZUxheWVyIGZyb20gInJlYWN0LWxlYWZsZXQtZ29vZ2xlIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2VudGVyOiBbMzguMjQ3MjU0Njc2MTUsIDIzLjkzNDQyOTg4Mzk1XSwK</text>
+        <text encoding="base64">aW1wb3J0IEdvb2dsZUxheWVyIGZyb20gInJlYWN0LWxlYWZsZXQtZ29vZ2xlIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

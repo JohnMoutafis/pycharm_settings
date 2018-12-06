@@ -8,11 +8,10 @@
         <mark key="]" line="29" column="40" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544090352357">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="14" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544094971472">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
@@ -400,11 +399,12 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544091154577">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="15" column="73" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544095187796">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544024760272">
         <mark key="[" line="1" column="0" />
@@ -479,6 +479,7 @@
       <jump line="5" column="16" filename="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
       <jump line="27" column="35" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
+      <jump line="20" column="18" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -488,34 +489,34 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
         <text>react-mui-mapbox-geocoder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR29vZ2xlTGF5ZXIgfSBmcm9tICdyZWFjdC1sZWFmbGV0LWdvb2dsZScK</text>
+        <text encoding="base64">ICAgICAgdG9wOiAwLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR29vZ2xlTGF5ZXIgfSBmcm9tICdyZWFjdC1sZWFmbGV0LWdvb2dsZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgey8qPE1hcCBib3VuZHM9e3RoaXMuc3RhdGUuYm91bmRzfSBtYXhCb3VuZHM9e3RoaXMuc3RhdGUuYm91bmRzfT4qL30K</text>
+        <text encoding="base64">aW1wb3J0ICdsZWFmbGV0L2Rpc3QvbGVhZmxldC5jc3MnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gPC9NYXA+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgR29vZ2xlTGF5ZXIgfSBmcm9tICdyZWFjdC1sZWFmbGV0LWdvb2dsZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgR29vZ2xlTGF5ZXIgfSBmcm9tICdyZWFjdC1sZWFmbGV0LWdvb2dsZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgey8qPE1hcCBib3VuZHM9e3RoaXMuc3RhdGUuYm91bmRzfSBtYXhCb3VuZHM9e3RoaXMuc3RhdGUuYm91bmRzfT4qL30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gPC9NYXA+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTWFwQ29udGFpbmVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

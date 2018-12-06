@@ -399,12 +399,12 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544095187796">
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544095989607">
         <mark key="'" line="18" column="18" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="24" column="64" />
+        <mark key="^" line="24" column="64" />
+        <mark key="." line="24" column="64" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544024760272">
         <mark key="[" line="1" column="0" />
@@ -489,7 +489,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>TERRAIN</text>
       </register>
       <register name="0" type="4">
         <text>react-mui-mapbox-geocoder</text>

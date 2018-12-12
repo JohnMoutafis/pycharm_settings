@@ -105,6 +105,18 @@
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="62" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_action_response.py" timestamp="1544614800774">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/__init__.py" timestamp="1544615533990">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="5" column="96" />
+        <mark key="^" line="5" column="96" />
+        <mark key="." line="5" column="96" />
+      </file>
       <file name="/main.auth_permission [Django default]" timestamp="1543336626603">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,11 +140,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" timestamp="1544613460528">
-        <mark key="[" line="100" column="70" />
-        <mark key="]" line="100" column="95" />
-        <mark key="^" line="100" column="95" />
-        <mark key="." line="100" column="95" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" timestamp="1544615572730">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="102" column="55" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/README.md" timestamp="1542707195780">
         <mark key="[" line="1" column="0" />
@@ -245,11 +258,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_processed.py" timestamp="1544613686701">
-        <mark key="[" line="29" column="33" />
-        <mark key="]" line="29" column="33" />
-        <mark key="^" line="29" column="33" />
-        <mark key="." line="29" column="33" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_processed.py" timestamp="1544615298538">
+        <mark key="'" line="0" column="80" />
+        <mark key="[" line="39" column="46" />
+        <mark key="]" line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+        <mark key="." line="39" column="46" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/serializers.py" timestamp="1542201906138">
         <mark key="[" line="44" column="8" />
@@ -347,11 +361,11 @@
       <file name="/dummy.sql" timestamp="1543573738161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/utils.py" timestamp="1544614097748">
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/utils.py" timestamp="1544614399123">
         <mark key="[" line="80" column="69" />
-        <mark key="]" line="77" column="30" />
-        <mark key="^" line="77" column="30" />
-        <mark key="." line="77" column="30" />
+        <mark key="]" line="82" column="84" />
+        <mark key="^" line="82" column="84" />
+        <mark key="." line="82" column="84" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/page.html" timestamp="1541519043494">
         <mark key="[" line="2" column="19" />
@@ -459,11 +473,11 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_response.py" timestamp="1544613998924">
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="33" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_response.py" timestamp="1544614433167">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="75" />
+        <mark key="." line="18" column="75" />
+        <mark key="^" line="18" column="75" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/setup.cfg" timestamp="1541580666538">
         <mark key="[" line="7" column="6" />
@@ -511,6 +525,11 @@
       <jump line="20" column="18" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" />
+      <jump line="0" column="76" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_action_response.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_action_response.py" />
+      <jump line="30" column="1" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_processed.py" />
+      <jump line="0" column="80" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_processed.py" />
+      <jump line="6" column="31" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -520,37 +539,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>AlternativePaymentResponse</text>
       </register>
       <register name="0" type="4">
-        <text>mapbox-gl-leaflet</text>
+        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgY2hhcmdlX21vZGUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3Jlc3BvbnNlLmJvZHlbJ2NoYXJnZU1vZGUnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdXNlRmx5dG86IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8TWFwQ29udHJvbC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcmVzcG9uc2UuYm9keVsnbGl2ZU1vZGUnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICwsLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBsaXZlX21vZGUoc2VsZik6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcmVzcG9uc2UuYm9keVsnY2hhcmdlTW9kZSddCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0eWxlID0gewo=</text>
+        <text encoding="base64">ICAgIGRlZiBjaGFyZ2VfbW9kZShzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

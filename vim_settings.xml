@@ -325,6 +325,12 @@
       <file name="/Django Console" timestamp="1543410968685">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1544784694432">
+        <mark key="[" line="233" column="48" />
+        <mark key="]" line="233" column="48" />
+        <mark key="^" line="233" column="48" />
+        <mark key="." line="233" column="48" />
+      </file>
       <file name="/JavaScript Console" timestamp="1543950828791">
         <mark key="[" line="0" column="0" />
       </file>
@@ -542,7 +548,7 @@
         <text>AlternativePaymentResponse</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgY2hhcmdlX21vZGUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3Jlc3BvbnNlLmJvZHlbJ2NoYXJnZU1vZGUnXQo=</text>
+        <text>customer='joesmith@gmail.com',</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

@@ -325,11 +325,11 @@
       <file name="/Django Console" timestamp="1543410968685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1544786311871">
-        <mark key="[" line="234" column="55" />
-        <mark key="]" line="236" column="39" />
-        <mark key="^" line="236" column="39" />
-        <mark key="." line="236" column="39" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1544788093896">
+        <mark key="[" line="196" column="99" />
+        <mark key="]" line="196" column="99" />
+        <mark key="^" line="196" column="99" />
+        <mark key="." line="196" column="99" />
       </file>
       <file name="/JavaScript Console" timestamp="1543950828791">
         <mark key="[" line="0" column="0" />
@@ -379,7 +379,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544622806139">
+      <file name="/Dummy.txt" timestamp="1544788120591">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -545,13 +545,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>AlternativePaymentResponse</text>
+        <text>.</text>
       </register>
       <register name="0" type="4">
         <text>customer='joesmith@gmail.com',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBheW1lbnQucmVzcG9uc2VfY29kZSwgJzEwMDAwJykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -560,22 +560,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcmVzcG9uc2UuYm9keVsnbGl2ZU1vZGUnXQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBsaXZlX21vZGUoc2VsZik6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcmVzcG9uc2UuYm9keVsnbGl2ZU1vZGUnXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBsaXZlX21vZGUoc2VsZik6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcmVzcG9uc2UuYm9keVsnY2hhcmdlTW9kZSddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjaGFyZ2VfbW9kZShzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcmVzcG9uc2UuYm9keVsnY2hhcmdlTW9kZSddCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

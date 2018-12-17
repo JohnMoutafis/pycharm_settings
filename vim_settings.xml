@@ -140,12 +140,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" timestamp="1544710909173">
-        <mark key="'" line="6" column="31" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="102" column="55" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" timestamp="1545054408265">
+        <mark key="'" line="85" column="32" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="85" column="32" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/README.md" timestamp="1542707195780">
         <mark key="[" line="1" column="0" />
@@ -243,7 +243,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1544543413290">
+      <file name="/Python Console" timestamp="1545054843183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/wagtail_hooks.py" timestamp="1543330161411">
@@ -330,11 +330,11 @@
       <file name="/Django Console" timestamp="1543410968685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1545042518542">
-        <mark key="[" line="193" column="47" />
-        <mark key="]" line="193" column="47" />
-        <mark key="^" line="193" column="47" />
-        <mark key="." line="193" column="47" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1545054818538">
+        <mark key="[" line="200" column="47" />
+        <mark key="]" line="201" column="49" />
+        <mark key="^" line="201" column="49" />
+        <mark key="." line="201" column="49" />
       </file>
       <file name="/JavaScript Console" timestamp="1543950828791">
         <mark key="[" line="0" column="0" />
@@ -384,7 +384,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545042629804">
+      <file name="/Dummy.txt" timestamp="1545054896467">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -544,6 +544,7 @@
       <jump line="30" column="1" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_processed.py" />
       <jump line="0" column="80" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_processed.py" />
       <jump line="6" column="31" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" />
+      <jump line="87" column="32" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -553,37 +554,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>Details</text>
       </register>
       <register name="0" type="4">
-        <text>customer='joesmith@gmail.com',</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShsb29rdXBfZGV0YWlscy5nZXQoJ3RhZ05hbWUnLCBOb25lKSk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIG9uOiAxMi8xNy8xOAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5OiBqb2hubW91dGFmaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBPYmplY3RpdmUgOiBUT0RPCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBUaXRsZSAgICAgOiBUT0RPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBheW1lbnQucmVzcG9uc2VfY29kZSwgJzEwMDAwJykK</text>
+        <text encoding="base64">IyBDcmVhdGVkIG9uOiAxMi8xNy8xOAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5OiBqb2hubW91dGFmaXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBPYmplY3RpdmUgOiBUT0RPCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUaXRsZSAgICAgOiBUT0RPCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

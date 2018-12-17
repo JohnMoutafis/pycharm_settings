@@ -283,10 +283,11 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/Programs/learning/R scripts/air_bnb_listings.R" timestamp="1545047392990">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Programs/learning/R scripts/air_bnb_listings.R" timestamp="1545055614668">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.stolos.yml" timestamp="1541428204915">
         <mark key="[" line="13" column="13" />
@@ -554,7 +555,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Details</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShsb29rdXBfZGV0YWlscy5nZXQoJ3RhZ05hbWUnLCBOb25lKSk=</text>

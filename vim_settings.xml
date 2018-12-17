@@ -283,6 +283,11 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
+      <file name="$USER_HOME$/Programs/learning/R scripts/air_bnb_listings.R" timestamp="1545047392990">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.stolos.yml" timestamp="1541428204915">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="46" />
@@ -396,6 +401,9 @@
         <mark key="]" line="44" column="70" />
         <mark key="." line="44" column="70" />
         <mark key="^" line="44" column="70" />
+      </file>
+      <file name="/R Console" timestamp="1545047409902">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541078095679">
         <mark key="[" line="40" column="75" />
@@ -551,31 +559,31 @@
         <text>customer='joesmith@gmail.com',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBheW1lbnQucmVzcG9uc2VfY29kZSwgJzEwMDAwJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIG9uOiAxMi8xNy8xOAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5OiBqb2hubW91dGFmaXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBPYmplY3RpdmUgOiBUT0RPCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcmVzcG9uc2UuYm9keVsnbGl2ZU1vZGUnXQo=</text>
+        <text encoding="base64">IyBUaXRsZSAgICAgOiBUT0RPCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBsaXZlX21vZGUoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBheW1lbnQucmVzcG9uc2VfY29kZSwgJzEwMDAwJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcmVzcG9uc2UuYm9keVsnY2hhcmdlTW9kZSddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -325,11 +325,11 @@
       <file name="/Django Console" timestamp="1543410968685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1544803861529">
-        <mark key="[" line="196" column="31" />
-        <mark key="]" line="196" column="33" />
-        <mark key="^" line="196" column="33" />
-        <mark key="." line="196" column="33" />
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1545042518542">
+        <mark key="[" line="193" column="47" />
+        <mark key="]" line="193" column="47" />
+        <mark key="^" line="193" column="47" />
+        <mark key="." line="193" column="47" />
       </file>
       <file name="/JavaScript Console" timestamp="1543950828791">
         <mark key="[" line="0" column="0" />
@@ -379,7 +379,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545038185216">
+      <file name="/Dummy.txt" timestamp="1545042629804">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -545,7 +545,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>U</text>
       </register>
       <register name="0" type="4">
         <text>customer='joesmith@gmail.com',</text>

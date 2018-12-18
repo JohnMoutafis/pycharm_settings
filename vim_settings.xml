@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1543837209782">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544106734677">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="2" column="0" />
@@ -135,11 +130,6 @@
       <file name="/main.wagtailcore_page [Django default]" timestamp="1543573736082">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/env.example" timestamp="1543951523137">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" timestamp="1545054408265">
         <mark key="'" line="85" column="32" />
         <mark key="[" line="0" column="0" />
@@ -195,16 +185,6 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/package.json" timestamp="1544105623006">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
         <mark key="]" line="863" column="26" />
@@ -237,11 +217,6 @@
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/index.js" timestamp="1543940405172">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/Python Console" timestamp="1545054843183">
         <mark key="[" line="0" column="0" />

@@ -9,7 +9,7 @@
         <mark key="^" line="101" column="40" />
         <mark key="." line="101" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1543836794792">
+      <file name="/a.dummy" timestamp="1545220315358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/Pipfile" timestamp="1542707645706">
@@ -48,6 +48,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/mistune_test/requirements.txt" timestamp="1545219982024">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/__init__.py" timestamp="1544615533990">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="96" />
@@ -71,6 +76,11 @@
       </file>
       <file name="/main.wagtailcore_page [Django default]" timestamp="1543573736082">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/env.example" timestamp="1543951523137">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" timestamp="1545054408265">
         <mark key="'" line="85" column="32" />
@@ -97,6 +107,16 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/package.json" timestamp="1544105623006">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="/main.auth_group [Django default]" timestamp="1543333102592">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,7 +132,12 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1545054843183">
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/index.js" timestamp="1543940405172">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1545219945159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/wagtail_hooks.py" timestamp="1543330161411">
@@ -246,6 +271,11 @@
         <mark key="." line="18" column="75" />
         <mark key="^" line="18" column="75" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1543837209782">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544106734677">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="2" column="0" />
@@ -256,12 +286,11 @@
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/models.py" timestamp="1542900499982">
         <mark key="[" line="102" column="47" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/mistune_test/mistune_parse_test.py" timestamp="1545217028153">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="5" column="34" />
+      <file name="$USER_HOME$/Programs/intelligems/mistune_test/mistune_parse_test.py" timestamp="1545220266720">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/dotfiles/README.md" timestamp="1541076717098">
         <mark key="[" line="8" column="4" />
@@ -405,7 +434,7 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545054896467">
+      <file name="/Dummy.txt" timestamp="1545220337178">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -539,37 +568,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text encoding="base64">YW5kIHNpbmNlIHRoZSBwYWdlIHN0cnVjdHVyZSBpcyA=</text>
       </register>
       <register name="0" type="4">
         <text>with open('markdown_files/promotional.en.md') as fin:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ID0geWFtbC5sb2FkX2FsbChmaW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlZF9maWxlc19kaWN0W2xhbmd1YWdlXSA9IG5leHQocGFyc2VkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaXN0KHRlc3QpKQo=</text>
+        <text encoding="base64">cG95bz09MC40LjIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpdGVtKQo=</text>
+        <text encoding="base64">ZnJvbSBwb3lvIGltcG9ydCBwYXJzZV9zdHJpbmcsIFBveW9FeGNlcHRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBpdGVtIGluIHRlc3Q6Cg==</text>
+        <text encoding="base64">IyAgICAgICAgIHByaW50KCdQeVlhbWwgRXJyb3I6IHt9Jy5mb3JtYXQoZXhjKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQodGVzdC4pCg==</text>
+        <text encoding="base64">IyAgICAgZXhjZXB0IHlhbWwuWUFNTEVycm9yIGFzIGV4YzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgICAgICBwcC5wcHJpbnQoaXRlbSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgJ19fbmFtZV9fJyA9PSAnX19tYWluX18nOgo=</text>
+        <text encoding="base64">IyAgICAgICAgIGZvciBpdGVtIGluIHlhbWwubG9hZF9hbGwoZmluKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvZGVjcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgIHByaW50KCdGcm9tIFB5WWFtbCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

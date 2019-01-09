@@ -162,11 +162,6 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/loki_cms/loki_crm_backend/settings/base.py" timestamp="1547038675915">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/serializers.py" timestamp="1542201906138">
         <mark key="[" line="44" column="8" />
         <mark key="]" line="44" column="12" />
@@ -447,7 +442,7 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547033554228">
+      <file name="/Dummy.txt" timestamp="1547040921394">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />

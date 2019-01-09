@@ -13,7 +13,7 @@
         <mark key="^" line="101" column="40" />
         <mark key="." line="101" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1545220315358">
+      <file name="/a.dummy" timestamp="1547046189605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/Pipfile" timestamp="1542707645706">
@@ -47,12 +47,6 @@
         <mark key="." line="30" column="61" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/python_test_project/lib/python3.6/site-packages/plotly/graph_objs/_scatter.py" timestamp="1547029277041" />
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_action_response.py" timestamp="1544614800774">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/mistune_test/requirements.txt" timestamp="1545219982024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -66,6 +60,12 @@
       </file>
       <file name="/main.auth_permission [Django default]" timestamp="1543336626603">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/loki_cms/modules/promo_pages/templatetags/ab_split_tags.py" timestamp="1547046734554">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/setup.cfg" timestamp="1542628618947">
         <mark key="[" line="7" column="17" />
@@ -127,6 +127,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/loki_cms/lib/python3.6/site-packages/wagtail/core/models.py" timestamp="1547046236261" />
       <file name="/main.auth_group [Django default]" timestamp="1543333102592">
         <mark key="[" line="0" column="0" />
       </file>
@@ -364,12 +365,6 @@
         <mark key="." line="72" column="8" />
         <mark key="^" line="72" column="8" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/utils.py" timestamp="1541514878340">
-        <mark key="'" line="23" column="34" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
         <mark key="[" line="863" column="26" />
         <mark key="]" line="863" column="26" />
@@ -442,11 +437,11 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547040921394">
+      <file name="/Dummy.txt" timestamp="1547046830067">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="16" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/pages/helpers.py" timestamp="1543336702287">
         <mark key="[" line="3" column="41" />
@@ -508,11 +503,10 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/loki_cms/modules/promo_pages/models.py" timestamp="1547044039867">
-        <mark key="[" line="20" column="94" />
-        <mark key="]" line="20" column="93" />
-        <mark key="^" line="20" column="93" />
-        <mark key="." line="20" column="93" />
+      <file name="$USER_HOME$/Programs/intelligems/loki_cms/modules/promo_pages/models.py" timestamp="1547046257096">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/env.example" timestamp="1541580344770">
         <mark key="[" line="0" column="0" />
@@ -582,37 +576,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>[]):</text>
       </register>
       <register name="0" type="4">
-        <text>DATABASE_URL=postgres://developer:developer@localhost:5432/loki</text>
+        <text>pick_random_title</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkIGVudi5leGFtcGxlIG9uIHByb2plY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9yYW5kb21fdGl0bGUocHJvbW9fcGFnZSk6CiAgICByZXR1cm4gcHJvbW9fcGFnZS5waWNrX3JhbmRvbV90aXRsZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERBVEFCQVNFU1snZGVmYXVsdCddID0gREFUQUJBU0VfVVJMCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmFuZG9tLmNob2ljZShzZWxmLmFiX3RpdGxlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ05BTUUnOiAnbG9raScgICMgdXNlZCBvbmx5IGluIHRlc3RpbmcgZW52cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdObyB0aXRsZSBmb3VuZCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMucG9zdGdyZXNxbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFiX3RpdGxlIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVmYXVsdCc6IHsK</text>
+        <text encoding="base64">ICAgIGRlZiBtYWtlX3JhbmRvbV9jaG9pY2Uoc2VsZik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

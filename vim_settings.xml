@@ -508,6 +508,12 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/loki_cms/modules/promo_pages/models.py" timestamp="1547044039867">
+        <mark key="[" line="20" column="94" />
+        <mark key="]" line="20" column="93" />
+        <mark key="^" line="20" column="93" />
+        <mark key="." line="20" column="93" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/env.example" timestamp="1541580344770">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="9" />
@@ -576,7 +582,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>developer</text>
+        <text>.</text>
       </register>
       <register name="0" type="4">
         <text>DATABASE_URL=postgres://developer:developer@localhost:5432/loki</text>

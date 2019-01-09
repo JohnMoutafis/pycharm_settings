@@ -93,13 +93,6 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" timestamp="1545054408265">
-        <mark key="'" line="85" column="32" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="85" column="32" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/client.py" timestamp="1541151950402">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="16" column="19" />
@@ -117,6 +110,12 @@
         <mark key="]" line="52" column="7" />
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/loki_cms/.env" timestamp="1547039038571">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="62" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
         <mark key="[" line="14" column="0" />
@@ -163,12 +162,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_processed.py" timestamp="1544615298538">
-        <mark key="'" line="0" column="80" />
-        <mark key="[" line="39" column="46" />
-        <mark key="]" line="39" column="46" />
-        <mark key="^" line="39" column="46" />
-        <mark key="." line="39" column="46" />
+      <file name="$USER_HOME$/Programs/intelligems/loki_cms/loki_crm_backend/settings/base.py" timestamp="1547038675915">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/serializers.py" timestamp="1542201906138">
         <mark key="[" line="44" column="8" />
@@ -217,6 +214,12 @@
         <mark key="]" line="87" column="71" />
         <mark key="." line="87" column="71" />
         <mark key="^" line="87" column="71" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/loki_cms/env.example" timestamp="1547039069823">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
+        <mark key="^" line="0" column="50" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/urls.py" timestamp="1543837655035">
         <mark key="[" line="2" column="19" />
@@ -269,13 +272,6 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/Map.js" timestamp="1544180603558">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_response.py" timestamp="1544614433167">
         <mark key="[" line="18" column="14" />
         <mark key="]" line="18" column="75" />
@@ -286,13 +282,6 @@
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="40" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/Map/MapContainer.js" timestamp="1544106734677">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/models.py" timestamp="1542900499982">
         <mark key="[" line="102" column="47" />
@@ -592,12 +581,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>developer</text>
       </register>
       <register name="0" type="4">
-        <text>.textpoint text{
-  font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300))) !important;
-}</text>
+        <text>DATABASE_URL=postgres://developer:developer@localhost:5432/loki</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -606,25 +593,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwLmNzcy5hcHBlbmRfY3NzKHsnZXh0ZXJuYWxfdXJsJzogJy9zdGF0aWMvdHlwb2dyYXBoeS5jc3MnfSkK</text>
+        <text encoding="base64">ICAgIERBVEFCQVNFU1snZGVmYXVsdCddID0gREFUQUJBU0VfVVJMCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZW5kX2Zyb21fZGlyZWN0b3J5KHN0YXRpY19mb2xkZXIsIHBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpY19mb2xkZXIgPSBvcy5wYXRoLmpvaW4ob3MuZ2V0Y3dkKCksICdzdGF0aWMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ05BTUUnOiAnbG9raScgICMgdXNlZCBvbmx5IGluIHRlc3RpbmcgZW52cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHN0YXRpY19maWxlKHBhdGgpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMucG9zdGdyZXNxbCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGFwcC5zZXJ2ZXIucm91dGUoJy9zdGF0aWMvPHBhdGg+JykK</text>
+        <text encoding="base64">ICAgICAgICAnZGVmYXVsdCc6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

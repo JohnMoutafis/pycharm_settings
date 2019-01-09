@@ -45,6 +45,12 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/Programs/python_test_project/app.py" timestamp="1547026037590">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/Pipfile" timestamp="1542707645706">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="15" />
@@ -136,6 +142,12 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/Programs/python_test_project/assets/typography.css" timestamp="1547026744354">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/conf.py" timestamp="1543572269780">
         <mark key="[" line="7" column="1" />
@@ -570,40 +582,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIHNpbmNlIHRoZSBwYWdlIHN0cnVjdHVyZSBpcyA=</text>
+        <text>calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)))</text>
       </register>
       <register name="0" type="4">
         <text>with open('markdown_files/promotional.en.md') as fin:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlZF9maWxlc19kaWN0W2xhbmd1YWdlXSA9IG5leHQocGFyc2VkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG95bz09MC40LjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwb3lvIGltcG9ydCBwYXJzZV9zdHJpbmcsIFBveW9FeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgIHByaW50KCdQeVlhbWwgRXJyb3I6IHt9Jy5mb3JtYXQoZXhjKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgZXhjZXB0IHlhbWwuWUFNTEVycm9yIGFzIGV4YzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlZF9maWxlc19kaWN0W2xhbmd1YWdlXSA9IG5leHQocGFyc2VkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICBwcC5wcHJpbnQoaXRlbSkK</text>
+        <text encoding="base64">cG95bz09MC40LjIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgIGZvciBpdGVtIGluIHlhbWwubG9hZF9hbGwoZmluKToK</text>
+        <text encoding="base64">ZnJvbSBwb3lvIGltcG9ydCBwYXJzZV9zdHJpbmcsIFBveW9FeGNlcHRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvZGVjcwo=</text>
+        <text encoding="base64">IyAgICAgICAgIHByaW50KCdQeVlhbWwgRXJyb3I6IHt9Jy5mb3JtYXQoZXhjKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgIHByaW50KCdGcm9tIFB5WWFtbCcpCg==</text>
+        <text encoding="base64">IyAgICAgZXhjZXB0IHlhbWwuWUFNTEVycm9yIGFzIGV4YzoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -613,13 +625,13 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>wq</entry>
         <entry>403</entry>
         <entry>525</entry>
         <entry>ew</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

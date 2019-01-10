@@ -51,6 +51,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/main.auth_user [Django default]" timestamp="1547118915326">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/__init__.py" timestamp="1544615533990">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="96" />
@@ -126,7 +129,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/main.auth_group [Django default]" timestamp="1543333102592">
+      <file name="/main.auth_group [Django default]" timestamp="1547118902400">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/client.py" timestamp="1541519901844">
@@ -251,7 +254,7 @@
       <file name="/R Console" timestamp="1545047721016">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/main.auth_group_permissions [Django default]" timestamp="1543336623767">
+      <file name="/main.auth_group_permissions [Django default]" timestamp="1547118906215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
@@ -381,6 +384,9 @@
         <mark key="^" line="422" column="26" />
         <mark key="." line="422" column="26" />
       </file>
+      <file name="/main.wagtailtrans_language [Django default]" timestamp="1547118648474">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/utils/translator_priviledges.py" timestamp="1543419068934">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="47" />
@@ -411,7 +417,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/Django Console" timestamp="1547025034911">
+      <file name="/Django Console" timestamp="1547118621852">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1545054818538">
@@ -426,7 +432,7 @@
       <file name="$USER_HOME$/dotfiles/notes.txt" timestamp="1541062234753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1546956512917">
+      <file name="/dummy.sql" timestamp="1547118928435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/utils.py" timestamp="1544614399123">

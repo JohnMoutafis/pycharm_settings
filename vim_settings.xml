@@ -46,7 +46,6 @@
         <mark key="^" line="30" column="61" />
         <mark key="." line="30" column="61" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/python_test_project/lib/python3.6/site-packages/plotly/graph_objs/_scatter.py" timestamp="1547029277041" />
       <file name="$USER_HOME$/Programs/intelligems/mistune_test/requirements.txt" timestamp="1545219982024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -127,7 +126,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/loki_cms/lib/python3.6/site-packages/wagtail/core/models.py" timestamp="1547046236261" />
       <file name="/main.auth_group [Django default]" timestamp="1543333102592">
         <mark key="[" line="0" column="0" />
       </file>
@@ -503,10 +501,11 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/loki_cms/modules/promo_pages/models.py" timestamp="1547046257096">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/loki_cms/modules/promo_pages/models.py" timestamp="1547115656112">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/env.example" timestamp="1541580344770">
         <mark key="[" line="0" column="0" />

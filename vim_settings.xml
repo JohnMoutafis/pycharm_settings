@@ -36,11 +36,11 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547466465477">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="25" column="39" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547472745603">
+        <mark key="[" line="30" column="92" />
+        <mark key="]" line="31" column="59" />
+        <mark key="^" line="31" column="59" />
+        <mark key="." line="31" column="59" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" timestamp="1543837918023">
         <mark key="[" line="29" column="72" />
@@ -121,11 +121,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547467105084">
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="15" column="3" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547472811956">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="29" column="30" />
+        <mark key="." line="29" column="30" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
         <mark key="[" line="14" column="0" />
@@ -614,10 +614,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>IDEAL payment issuers.</text>
+        <text>s</text>
       </register>
       <register name="0" type="4">
-        <text>lpp_9</text>
+        <text>ideal_issuers_info</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBhcG1faWQ6IEFuIGFsdGVybmF0aXZlIHBheW1lbnQgbWV0aG9kIGlkLgo=</text>

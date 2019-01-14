@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.virtualenvs/python_test_project/lib/python3.6/site-packages/dash/resources.py" timestamp="1547027632357">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="31" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
         <mark key="]" line="101" column="40" />
@@ -268,6 +264,11 @@
         <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/requirements.txt" timestamp="1547461733926">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_response.py" timestamp="1544614433167">
         <mark key="[" line="18" column="14" />

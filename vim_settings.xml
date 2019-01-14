@@ -36,10 +36,11 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547464581623">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547466465477">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="39" />
+        <mark key="^" line="25" column="39" />
+        <mark key="." line="25" column="39" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" timestamp="1543837918023">
         <mark key="[" line="29" column="72" />
@@ -424,7 +425,12 @@
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/thor-backend/lib/python3.6/site-packages/checkout_sdk/payments/payments_client.py" timestamp="1547464427737" />
+      <file name="$USER_HOME$/.virtualenvs/thor-backend/lib/python3.6/site-packages/checkout_sdk/payments/payments_client.py" timestamp="1547466197919">
+        <mark key="[" line="85" column="12" />
+        <mark key="]" line="85" column="52" />
+        <mark key="." line="85" column="52" />
+        <mark key="^" line="85" column="52" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/tasks.py" timestamp="1542639234410">
         <mark key="[" line="75" column="41" />
       </file>
@@ -434,7 +440,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/Django Console" timestamp="1547464464157">
+      <file name="/Django Console" timestamp="1547466287531">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1545054818538">
@@ -602,37 +608,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>lpp_9</text>
+        <text>IDEAL payment issuers.</text>
       </register>
       <register name="0" type="4">
         <text>lpp_9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFwbV9pZCkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBhcG1faWQ6IEFuIGFsdGVybmF0aXZlIHBheW1lbnQgbWV0aG9kIGlkLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkucGF5bWVudHMuYWx0ZXJuYXRpdmVfcGF5bWVudF9yZXF1ZXN0KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHNkay5BbHRlcm5hdGl2ZVBheW1lbnRNZXRob2RJZC5JREVBTCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkIGVudi5leGFtcGxlIG9uIHByb2plY3QK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzd2l0Y2hfYXBtX2lkX3VybHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9yYW5kb21fdGl0bGUocHJvbW9fcGFnZSk6CiAgICByZXR1cm4gcHJvbW9fcGFnZS5waWNrX3JhbmRvbV90aXRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcG1faWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFwbV9pZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcGkucGF5bWVudHMuYWx0ZXJuYXRpdmVfcGF5bWVudF9yZXF1ZXN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmFuZG9tLmNob2ljZShzZWxmLmFiX3RpdGxlKQo=</text>
+        <text encoding="base64">QWRkIGVudi5leGFtcGxlIG9uIHByb2plY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdObyB0aXRsZSBmb3VuZCcK</text>
+        <text encoding="base64">ZGVmIGdldF9yYW5kb21fdGl0bGUocHJvbW9fcGFnZSk6CiAgICByZXR1cm4gcHJvbW9fcGFnZS5waWNrX3JhbmRvbV90aXRsZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -698,6 +704,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

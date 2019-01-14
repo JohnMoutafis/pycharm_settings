@@ -36,11 +36,10 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547472745603">
-        <mark key="[" line="30" column="92" />
-        <mark key="]" line="31" column="59" />
-        <mark key="^" line="31" column="59" />
-        <mark key="." line="31" column="59" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547473920600">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" timestamp="1543837918023">
         <mark key="[" line="29" column="72" />
@@ -92,6 +91,12 @@
       <file name="/main.wagtailcore_page [Django default]" timestamp="1546956511508">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/.gitignore" timestamp="1547474817219">
+        <mark key="[" line="120" column="13" />
+        <mark key="]" line="120" column="13" />
+        <mark key="." line="120" column="13" />
+        <mark key="^" line="120" column="13" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/env.example" timestamp="1543951523137">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
@@ -121,11 +126,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547472811956">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="29" column="30" />
-        <mark key="." line="29" column="30" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547474250219">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="29" column="65" />
+        <mark key="^" line="29" column="65" />
+        <mark key="." line="29" column="65" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
         <mark key="[" line="14" column="0" />
@@ -172,6 +177,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/.env" timestamp="1547473599351">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="70" />
+        <mark key="^" line="0" column="70" />
+        <mark key="." line="0" column="70" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/serializers.py" timestamp="1542201906138">
         <mark key="[" line="44" column="8" />
         <mark key="]" line="44" column="12" />
@@ -201,6 +212,11 @@
         <mark key="]" line="74" column="35" />
         <mark key="." line="74" column="35" />
         <mark key="^" line="74" column="35" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/environments/.gitkeep" timestamp="1547474786878">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/base.html" timestamp="1541520337950">
         <mark key="[" line="52" column="13" />
@@ -407,6 +423,12 @@
       <file name="/main.wagtailtrans_language [Django default]" timestamp="1547118648474">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/environments/.gitignore" timestamp="1547474684532">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
       <file name="/auth_user [Django default]" timestamp="1547202929430">
         <mark key="[" line="0" column="0" />
       </file>
@@ -470,7 +492,7 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547464116707">
+      <file name="/Dummy.txt" timestamp="1547474295496">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -614,37 +636,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>None</text>
       </register>
       <register name="0" type="4">
         <text>ideal_issuers_info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBhcG1faWQ6IEFuIGFsdGVybmF0aXZlIHBheW1lbnQgbWV0aG9kIGlkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNkay5BbHRlcm5hdGl2ZVBheW1lbnRNZXRob2RJZC5JREVBTCkK</text>
+        <text encoding="base64">Kgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzd2l0Y2hfYXBtX2lkX3VybHMpCg==</text>
+        <text encoding="base64">IS5naXRpZ25vcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ZW52aXJvbm1lbnRzLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhcG1faWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFwbV9pZCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXBpLnBheW1lbnRzLmFsdGVybmF0aXZlX3BheW1lbnRfaW5mbygnbGFsYWxhJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkucGF5bWVudHMuYWx0ZXJuYXRpdmVfcGF5bWVudF9yZXF1ZXN0KCkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBhcG1faWQ6IEFuIGFsdGVybmF0aXZlIHBheW1lbnQgbWV0aG9kIGlkLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkIGVudi5leGFtcGxlIG9uIHByb2plY3QK</text>
+        <text encoding="base64">ICAgIHByaW50KHNkay5BbHRlcm5hdGl2ZVBheW1lbnRNZXRob2RJZC5JREVBTCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9yYW5kb21fdGl0bGUocHJvbW9fcGFnZSk6CiAgICByZXR1cm4gcHJvbW9fcGFnZS5waWNrX3JhbmRvbV90aXRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzd2l0Y2hfYXBtX2lkX3VybHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

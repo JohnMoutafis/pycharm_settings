@@ -36,11 +36,11 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547462591919">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="24" column="48" />
-        <mark key="." line="24" column="48" />
-        <mark key="^" line="24" column="48" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547463244933">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="51" />
+        <mark key="." line="26" column="51" />
+        <mark key="^" line="26" column="51" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" timestamp="1543837918023">
         <mark key="[" line="29" column="72" />
@@ -598,7 +598,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>[]):</text>
+        <text encoding="base64">SURFQUwg</text>
       </register>
       <register name="0" type="4">
         <text>pip install -r requirements.txt \

@@ -36,11 +36,11 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547546760616">
-        <mark key="[" line="117" column="4" />
-        <mark key="]" line="117" column="37" />
-        <mark key="." line="119" column="92" />
-        <mark key="^" line="119" column="92" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547549500440">
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="33" />
+        <mark key="." line="124" column="33" />
+        <mark key="^" line="124" column="33" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" timestamp="1543837918023">
         <mark key="[" line="29" column="72" />
@@ -127,12 +127,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547547427461">
-        <mark key="'" line="101" column="70" />
-        <mark key="[" line="90" column="77" />
-        <mark key="]" line="91" column="76" />
-        <mark key="." line="91" column="76" />
-        <mark key="^" line="91" column="76" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547549290014">
+        <mark key="'" line="107" column="70" />
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="78" column="68" />
+        <mark key="." line="78" column="68" />
+        <mark key="^" line="78" column="68" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
         <mark key="[" line="14" column="0" />
@@ -497,7 +497,7 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547485047114">
+      <file name="/Dummy.txt" timestamp="1547549545869">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -654,34 +654,31 @@
         <text>CheckoutProcessAltPaymentSerializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogKE5vdCBVc2VkKSBBIHJlcXVlc3QgdHlwZSBvYmplY3QuCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBhcmdzOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogKE5vdCBVc2VkKSBBIHJlcXVlc3QgdHlwZSBvYmplY3QuCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCByZXF1ZXN0cy5leGNlcHRpb25zLkhUVFBFcnJvciBhcyBleGM6Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>class CheckoutComCreateAltTokenSerializer(serializers.Serializer):
-    domain = serializers.PrimaryKeyRelatedField(queryset=Domain.objects.all(), many=False)
-    value = serializers.IntegerField()
-    charge_mode = serializers.CharField(default='3')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

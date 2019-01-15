@@ -488,11 +488,11 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/models.py" timestamp="1547553592393">
-        <mark key="[" line="157" column="42" />
-        <mark key="]" line="157" column="50" />
-        <mark key="^" line="157" column="50" />
-        <mark key="." line="157" column="50" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/models.py" timestamp="1547554805184">
+        <mark key="[" line="160" column="26" />
+        <mark key="]" line="160" column="38" />
+        <mark key="^" line="160" column="38" />
+        <mark key="." line="160" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1547549545869">
         <mark key="'" line="0" column="17" />
@@ -655,7 +655,7 @@
         <text>t</text>
       </register>
       <register name="0" type="4">
-        <text>so_status</text>
+        <text>order_date</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBhcmdzOgo=</text>

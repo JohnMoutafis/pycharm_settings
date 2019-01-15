@@ -36,11 +36,11 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547484134150">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="4" />
-        <mark key="." line="116" column="4" />
-        <mark key="^" line="118" column="47" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547546760616">
+        <mark key="[" line="117" column="4" />
+        <mark key="]" line="117" column="37" />
+        <mark key="." line="119" column="92" />
+        <mark key="^" line="119" column="92" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" timestamp="1543837918023">
         <mark key="[" line="29" column="72" />
@@ -127,11 +127,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547485033505">
-        <mark key="[" line="49" column="82" />
-        <mark key="]" line="50" column="73" />
-        <mark key="." line="50" column="73" />
-        <mark key="^" line="50" column="73" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547547427461">
+        <mark key="'" line="101" column="70" />
+        <mark key="[" line="90" column="77" />
+        <mark key="]" line="91" column="76" />
+        <mark key="." line="91" column="76" />
+        <mark key="^" line="91" column="76" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
         <mark key="[" line="14" column="0" />
@@ -343,11 +344,11 @@
       <file name="/main.wagtailcore_grouppagepermission [Django default]" timestamp="1543318291383">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1547483525074">
-        <mark key="[" line="311" column="16" />
-        <mark key="]" line="312" column="76" />
-        <mark key="^" line="51" column="13" />
-        <mark key="." line="51" column="13" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1547546881709">
+        <mark key="[" line="57" column="6" />
+        <mark key="]" line="57" column="40" />
+        <mark key="^" line="60" column="70" />
+        <mark key="." line="60" column="70" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
         <mark key="[" line="38" column="32" />
@@ -637,6 +638,7 @@
       <jump line="6" column="31" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" />
       <jump line="87" column="32" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Programs/intelligems/mistune_test/mistune_parse_test.py" />
+      <jump line="76" column="70" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -646,10 +648,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>serializer.validated_data.get('domain').url</text>
+        <text>t</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c3VjY2Vzc191cmw9ZiJ7ZG9tYWluLnVybH0vdGhhbmt5b3UtaW50e3F1ZXJ5X3BhcmFtc19zdHJ9IiwKICAgICAgICAgICAgICAgIGZhaWxfdXJsPWYie2RvbWFpbi51cmx9L2NoZWNrb3V0e3F1ZXJ5X3BhcmFtc19zdHJ9JmZhaWxlZD0xIiw=</text>
+        <text>CheckoutProcessAltPaymentSerializer</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogKE5vdCBVc2VkKSBBIHJlcXVlc3QgdHlwZSBvYmplY3QuCg==</text>

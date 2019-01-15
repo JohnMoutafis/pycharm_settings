@@ -128,11 +128,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547549290014">
-        <mark key="'" line="107" column="70" />
-        <mark key="[" line="76" column="17" />
-        <mark key="]" line="78" column="68" />
-        <mark key="." line="78" column="68" />
-        <mark key="^" line="78" column="68" />
+        <mark key="'" line="30" column="70" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
         <mark key="[" line="14" column="0" />
@@ -295,10 +291,11 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/requirements.txt" timestamp="1547461733926">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/requirements.txt" timestamp="1547553383862">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+        <mark key="^" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/thor-backend/lib/python3.6/site-packages/checkout_sdk/enums.py" timestamp="1547464361757">
         <mark key="[" line="193" column="13" />
@@ -343,12 +340,6 @@
       </file>
       <file name="/main.wagtailcore_grouppagepermission [Django default]" timestamp="1543318291383">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1547546881709">
-        <mark key="[" line="57" column="6" />
-        <mark key="]" line="57" column="40" />
-        <mark key="^" line="60" column="70" />
-        <mark key="." line="60" column="70" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
         <mark key="[" line="38" column="32" />
@@ -497,6 +488,12 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/models.py" timestamp="1547553592393">
+        <mark key="[" line="157" column="42" />
+        <mark key="]" line="157" column="50" />
+        <mark key="^" line="157" column="50" />
+        <mark key="." line="157" column="50" />
+      </file>
       <file name="/Dummy.txt" timestamp="1547549545869">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
@@ -520,6 +517,12 @@
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/thor_backend/settings.py" timestamp="1547553427364">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="4" />
+        <mark key="^" line="88" column="15" />
+        <mark key="." line="88" column="4" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -639,6 +642,7 @@
       <jump line="87" column="32" filename="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payments_client.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Programs/intelligems/mistune_test/mistune_parse_test.py" />
       <jump line="76" column="70" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" />
+      <jump line="37" column="14" filename="$USER_HOME$/Programs/intelligems/thor-backend/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -651,7 +655,7 @@
         <text>t</text>
       </register>
       <register name="0" type="4">
-        <text>CheckoutProcessAltPaymentSerializer</text>
+        <text>so_status</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBhcmdzOgo=</text>
@@ -747,6 +751,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

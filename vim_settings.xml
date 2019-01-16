@@ -56,11 +56,11 @@
       <file name="/main.auth_user [Django default]" timestamp="1547120811514">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1547658862206">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="3" column="95" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1547660170153">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/__init__.py" timestamp="1544615533990">
         <mark key="[" line="5" column="68" />
@@ -682,37 +682,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>L</text>
       </register>
       <register name="0" type="4">
         <text>item.get('sale_order__order_date')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXRlbS5nZXQoJ2J5X2RheV9zYWxlcycpKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBjc3Zfcm93cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZXMgPSBsaXN0KHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXRlbS5nZXQoJ2J5X2RheV9zYWxlcycpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBsZW4odmFsdWVzKSA+IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXMgPSBsaXN0KHZhbHVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IHZhbHVlcy5wb3AoMCkK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBsZW4odmFsdWVzKSA+IDA6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNzdl9yb3dzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IHZhbHVlcy5wb3AoMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGVfcmFuZ2UpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNzdl9yb3dzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGVfcmFuZ2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIChvcmRlcikK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXRyaWV2ZShzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIChvcmRlcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

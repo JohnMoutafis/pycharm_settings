@@ -540,11 +540,11 @@
         <mark key="^" line="88" column="15" />
         <mark key="." line="88" column="4" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547648326722">
-        <mark key="[" line="473" column="32" />
-        <mark key="]" line="473" column="32" />
-        <mark key="^" line="473" column="32" />
-        <mark key="." line="473" column="32" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547649518561">
+        <mark key="[" line="478" column="13" />
+        <mark key="]" line="477" column="67" />
+        <mark key="^" line="477" column="67" />
+        <mark key="." line="477" column="67" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -674,7 +674,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>h</text>
       </register>
       <register name="0" type="4">
         <text>DaySalesReportSerializer</text>

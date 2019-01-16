@@ -56,11 +56,11 @@
       <file name="/main.auth_user [Django default]" timestamp="1547120811514">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1547655067354">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="7" column="8" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1547656050122">
+        <mark key="[" line="8" column="89" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/__init__.py" timestamp="1544615533990">
         <mark key="[" line="5" column="68" />
@@ -492,7 +492,7 @@
         <mark key="^" line="201" column="49" />
         <mark key="." line="201" column="49" />
       </file>
-      <file name="/Django Console" timestamp="1547557673024">
+      <file name="/Django Console" timestamp="1547656054751">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1543950828791">

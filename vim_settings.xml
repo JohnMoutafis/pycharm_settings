@@ -120,11 +120,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="97" column="11" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/serializers.py" timestamp="1547557995973">
-        <mark key="[" line="205" column="6" />
-        <mark key="]" line="205" column="27" />
-        <mark key="^" line="210" column="46" />
-        <mark key="." line="210" column="46" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/serializers.py" timestamp="1547636831829">
+        <mark key="[" line="215" column="6" />
+        <mark key="]" line="215" column="29" />
+        <mark key="^" line="230" column="19" />
+        <mark key="." line="230" column="19" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/views.py" timestamp="1545137778381">
         <mark key="[" line="51" column="76" />
@@ -504,8 +504,11 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/models.py" timestamp="1547558477799">
-        <mark key="[" line="484" column="27" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/models.py" timestamp="1547637105927">
+        <mark key="[" line="440" column="26" />
+        <mark key="]" line="440" column="25" />
+        <mark key="^" line="440" column="25" />
+        <mark key="." line="440" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1547558835116">
         <mark key="'" line="0" column="17" />
@@ -536,6 +539,12 @@
         <mark key="]" line="88" column="4" />
         <mark key="^" line="88" column="15" />
         <mark key="." line="88" column="4" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547636888690">
+        <mark key="[" line="469" column="33" />
+        <mark key="]" line="470" column="3" />
+        <mark key="^" line="470" column="3" />
+        <mark key="." line="470" column="3" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -668,7 +677,7 @@
         <text>)</text>
       </register>
       <register name="0" type="4">
-        <text>FieldHistorySerializer</text>
+        <text>DaySalesReportSerializer</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbGlmIChvcmRlcikK</text>

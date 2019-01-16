@@ -540,11 +540,12 @@
         <mark key="^" line="88" column="15" />
         <mark key="." line="88" column="4" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547649518561">
-        <mark key="[" line="478" column="13" />
-        <mark key="]" line="477" column="67" />
-        <mark key="^" line="477" column="67" />
-        <mark key="." line="477" column="67" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547652228499">
+        <mark key="'" line="481" column="30" />
+        <mark key="[" line="476" column="84" />
+        <mark key="]" line="477" column="69" />
+        <mark key="^" line="477" column="69" />
+        <mark key="." line="477" column="69" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -665,6 +666,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/Programs/intelligems/mistune_test/mistune_parse_test.py" />
       <jump line="76" column="70" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" />
       <jump line="37" column="14" filename="$USER_HOME$/Programs/intelligems/thor-backend/requirements.txt" />
+      <jump line="479" column="30" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -677,7 +679,7 @@
         <text>h</text>
       </register>
       <register name="0" type="4">
-        <text>DaySalesReportSerializer</text>
+        <text>from django.db.models.aggregates import Sum</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>

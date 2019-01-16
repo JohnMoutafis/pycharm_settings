@@ -504,7 +504,7 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/models.py" timestamp="1547637105927">
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/models.py" timestamp="1547648184272">
         <mark key="[" line="440" column="26" />
         <mark key="]" line="440" column="25" />
         <mark key="^" line="440" column="25" />
@@ -540,11 +540,11 @@
         <mark key="^" line="88" column="15" />
         <mark key="." line="88" column="4" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547636888690">
-        <mark key="[" line="469" column="33" />
-        <mark key="]" line="470" column="3" />
-        <mark key="^" line="470" column="3" />
-        <mark key="." line="470" column="3" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547648326722">
+        <mark key="[" line="473" column="32" />
+        <mark key="]" line="473" column="32" />
+        <mark key="^" line="473" column="32" />
+        <mark key="." line="473" column="32" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -680,31 +680,31 @@
         <text>DaySalesReportSerializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIChvcmRlcikK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXRyaWV2ZShzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIChvcmRlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gRmllbGRIaXN0b3J5Lm9iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">ICAgIGRlZiByZXRyaWV2ZShzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBhcmdzOgo=</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gRmllbGRIaXN0b3J5Lm9iamVjdHMuYWxsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBhcmdzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogKE5vdCBVc2VkKSBBIHJlcXVlc3QgdHlwZSBvYmplY3QuCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogKE5vdCBVc2VkKSBBIHJlcXVlc3QgdHlwZSBvYmplY3QuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

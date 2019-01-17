@@ -505,7 +505,7 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547743912382">
+      <file name="/Dummy.txt" timestamp="1547744629757">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -535,12 +535,12 @@
         <mark key="^" line="153" column="51" />
         <mark key="." line="153" column="4" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547742676569">
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547744623111">
         <mark key="'" line="501" column="17" />
-        <mark key="[" line="475" column="17" />
-        <mark key="]" line="475" column="36" />
-        <mark key="." line="475" column="36" />
-        <mark key="^" line="475" column="36" />
+        <mark key="[" line="501" column="53" />
+        <mark key="]" line="501" column="77" />
+        <mark key="." line="501" column="77" />
+        <mark key="^" line="501" column="77" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />

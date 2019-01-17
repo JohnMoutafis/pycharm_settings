@@ -486,7 +486,7 @@
         <mark key="^" line="201" column="49" />
         <mark key="." line="201" column="49" />
       </file>
-      <file name="/Django Console" timestamp="1547734568665">
+      <file name="/Django Console" timestamp="1547735207119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1543950828791">
@@ -534,11 +534,11 @@
         <mark key="^" line="88" column="15" />
         <mark key="." line="88" column="4" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547734829449">
-        <mark key="[" line="495" column="74" />
-        <mark key="]" line="495" column="60" />
-        <mark key="^" line="495" column="74" />
-        <mark key="." line="495" column="60" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547735598364">
+        <mark key="[" line="499" column="99" />
+        <mark key="]" line="499" column="97" />
+        <mark key="^" line="499" column="97" />
+        <mark key="." line="499" column="97" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -669,7 +669,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
       <register name="0" type="4">
         <text>ideal-issuers-info</text>

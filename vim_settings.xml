@@ -56,11 +56,12 @@
       <file name="/main.auth_user [Django default]" timestamp="1547120811514">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1547720227426">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="40" />
-        <mark key="^" line="11" column="40" />
-        <mark key="." line="11" column="40" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1547742716827">
+        <mark key="'" line="11" column="40" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="36" />
+        <mark key="^" line="31" column="36" />
+        <mark key="." line="31" column="36" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/__init__.py" timestamp="1544615533990">
         <mark key="[" line="5" column="68" />
@@ -504,7 +505,7 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547740671254">
+      <file name="/Dummy.txt" timestamp="1547742773854">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -534,12 +535,12 @@
         <mark key="^" line="88" column="15" />
         <mark key="." line="88" column="4" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547740764800">
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547742676569">
         <mark key="'" line="501" column="17" />
-        <mark key="[" line="471" column="38" />
-        <mark key="]" line="471" column="20" />
-        <mark key="." line="471" column="20" />
-        <mark key="^" line="471" column="20" />
+        <mark key="[" line="475" column="17" />
+        <mark key="]" line="475" column="36" />
+        <mark key="." line="475" column="36" />
+        <mark key="^" line="475" column="36" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -662,6 +663,7 @@
       <jump line="37" column="14" filename="$USER_HOME$/Programs/intelligems/thor-backend/requirements.txt" />
       <jump line="479" column="30" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" />
       <jump line="503" column="17" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" />
+      <jump line="11" column="40" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -671,41 +673,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>t</text>
       </register>
       <register name="0" type="4">
-        <text>sales_orders = SalePosition.objects.filter(
-            product__sku_no__exact=sku, is_main_product=True
-        ).values('sale_order_id')</text>
+        <text>datetime.datetime.strptime(start_date, '%Y-%m-%d')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2t1OiAK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBlbmRfZGF0ZTogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBzdGFydF9kYXRlOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzYWxlc19vcmRlcnMgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kX2RhdGUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZShlbmRfZGF0ZSwgJyVZLSVtLSVkJykuZGF0ZSgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>SalePosition.objects.filter(
-            product__sku_no__exact=sku, is_main_product=True
-        ).values('sale_order_id')</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZSA9IGRhdGV0aW1lLmRhdGV0aW1lLnN0cnB0aW1lKCwgJyVZLSVtLSVkJykuZGF0ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5lcnJvcnMsIHN0YXR1cz1zdGF0dXMuSFRUUF80MDBfQkFEX1JFUVVFU1QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkub25seSgncHJvZHVjdF9fc2t1X25vJywgJ3F1YW50aXR5JyksIHRvX2F0dHI9J3NhbGVwb3NpdGlvbnMnCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZXJpYWxpemVyLmlzX3ZhbGlkKCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWN0X19za3Vfbm89c2t1Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5zZXJpYWxpemVyX2NsYXNzKGRhdGE9cmVxdWVzdC5kYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5c2V0PVNhbGVQb3NpdGlvbi5vYmplY3RzLmZpbHRlcihzYWxlX29yZGVyX19pbj1zYWxlc19vcmRlcnMpLmV4Y2x1ZGUoCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2t1OiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

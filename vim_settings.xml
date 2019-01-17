@@ -143,10 +143,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547557482048">
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1547722540013">
         <mark key="'" line="30" column="70" />
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="35" />
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="56" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
         <mark key="[" line="14" column="0" />
@@ -509,12 +509,6 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/models.py" timestamp="1547648184272">
-        <mark key="[" line="158" column="26" />
-        <mark key="]" line="158" column="25" />
-        <mark key="^" line="158" column="25" />
-        <mark key="." line="158" column="25" />
-      </file>
       <file name="/Dummy.txt" timestamp="1547720305207">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
@@ -544,12 +538,6 @@
         <mark key="]" line="88" column="4" />
         <mark key="^" line="88" column="15" />
         <mark key="." line="88" column="4" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547720267051">
-        <mark key="[" line="487" column="79" />
-        <mark key="]" line="487" column="78" />
-        <mark key="^" line="487" column="78" />
-        <mark key="." line="487" column="78" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -683,7 +671,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
-        <text>day_sales_report_query_to_csv</text>
+        <text>ideal-issuers-info</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

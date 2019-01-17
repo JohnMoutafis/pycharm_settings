@@ -505,7 +505,7 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547742773854">
+      <file name="/Dummy.txt" timestamp="1547743912382">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -529,11 +529,11 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/thor_backend/settings.py" timestamp="1547553427364">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="4" />
-        <mark key="^" line="88" column="15" />
-        <mark key="." line="88" column="4" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/thor_backend/settings.py" timestamp="1547743893612">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="4" />
+        <mark key="^" line="153" column="51" />
+        <mark key="." line="153" column="4" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1547742676569">
         <mark key="'" line="501" column="17" />

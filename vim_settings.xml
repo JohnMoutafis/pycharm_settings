@@ -14,12 +14,12 @@
         <mark key="^" line="101" column="40" />
         <mark key="." line="101" column="40" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/bluesnap/bluesnap.py" timestamp="1548091342153">
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/bluesnap/bluesnap.py" timestamp="1548094395142">
         <mark key="'" line="34" column="20" />
-        <mark key="[" line="30" column="68" />
-        <mark key="]" line="31" column="60" />
-        <mark key="." line="31" column="60" />
-        <mark key="^" line="31" column="60" />
+        <mark key="[" line="58" column="50" />
+        <mark key="]" line="59" column="21" />
+        <mark key="." line="59" column="21" />
+        <mark key="^" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mistune_test/mistune_parse_test.py" timestamp="1545220266720">
         <mark key="[" line="15" column="51" />
@@ -620,7 +620,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>messages</text>
       </register>
       <register name="0" type="4">
         <text>customer_data.get('first_name')</text>

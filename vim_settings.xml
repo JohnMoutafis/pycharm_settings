@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1543837209782">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/models.py" timestamp="1542796819862">
         <mark key="[" line="101" column="40" />
         <mark key="]" line="101" column="40" />
@@ -14,6 +19,29 @@
         <mark key="]" line="51" column="11" />
         <mark key="." line="51" column="11" />
         <mark key="^" line="51" column="11" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/mistune_test/mistune_parse_test.py" timestamp="1545220266720">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/README.md" timestamp="1541076717098">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/utils.py" timestamp="1541151393283">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/Programs/python_test_project/app.py" timestamp="1547029899812">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/Pipfile" timestamp="1542707645706">
         <mark key="[" line="11" column="10" />
@@ -39,11 +67,35 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1548089386856">
+        <mark key="[" line="301" column="54" />
+        <mark key="]" line="301" column="69" />
+        <mark key="." line="301" column="69" />
+        <mark key="^" line="301" column="69" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547549500440">
         <mark key="[" line="124" column="12" />
         <mark key="]" line="124" column="33" />
         <mark key="." line="124" column="33" />
         <mark key="^" line="124" column="33" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="40" />
+        <mark key="^" line="38" column="40" />
+        <mark key="." line="38" column="40" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1547482753535">
+        <mark key="[" line="216" column="8" />
+        <mark key="]" line="216" column="8" />
+        <mark key="." line="216" column="8" />
+        <mark key="^" line="216" column="8" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542202015116">
+        <mark key="[" line="41" column="59" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" timestamp="1543837918023">
         <mark key="[" line="29" column="72" />
@@ -51,10 +103,22 @@
         <mark key="^" line="30" column="61" />
         <mark key="." line="30" column="61" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/serializers.py" timestamp="1543837915205">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/mistune_test/requirements.txt" timestamp="1545219982024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/urls.py" timestamp="1542900926741">
+        <mark key="[" line="2" column="62" />
+        <mark key="]" line="2" column="62" />
+        <mark key="^" line="2" column="62" />
+        <mark key="." line="2" column="62" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1547830164784">
         <mark key="'" line="11" column="40" />
@@ -109,11 +173,29 @@
         <mark key="]" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/README.md" timestamp="1542707195780">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/client.py" timestamp="1541151950402">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/MapboxLayer.js" timestamp="1544104538818">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541072061091">
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="13" />
+        <mark key="^" line="36" column="42" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/pages/wagtail_hooks.py" timestamp="1543411316680">
         <mark key="[" line="3" column="0" />
@@ -125,6 +207,12 @@
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="0" />
         <mark key="." line="216" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/errors.py" timestamp="1541582704944">
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="72" column="8" />
+        <mark key="." line="72" column="8" />
+        <mark key="^" line="72" column="8" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/views.py" timestamp="1545137778381">
         <mark key="[" line="51" column="76" />
@@ -148,6 +236,24 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
+        <mark key="[" line="863" column="26" />
+        <mark key="]" line="863" column="26" />
+        <mark key="^" line="863" column="26" />
+        <mark key="." line="863" column="26" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/settings/base.py" timestamp="1543506668959">
+        <mark key="[" line="160" column="42" />
+        <mark key="]" line="161" column="47" />
+        <mark key="^" line="161" column="47" />
+        <mark key="." line="161" column="47" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Element.js" timestamp="1543233967841">
+        <mark key="[" line="422" column="26" />
+        <mark key="]" line="422" column="26" />
+        <mark key="^" line="422" column="26" />
+        <mark key="." line="422" column="26" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/client.py" timestamp="1541519901844">
         <mark key="[" line="12" column="58" />
         <mark key="]" line="12" column="58" />
@@ -164,6 +270,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/environments/.gitignore" timestamp="1547474684532">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/wagtail_hooks.py" timestamp="1543330161411">
         <mark key="[" line="7" column="33" />
@@ -201,11 +313,23 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/utils/translator_priviledges.py" timestamp="1543419068934">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="16" column="47" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/.stolos.yml" timestamp="1541428204915">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/README.md" timestamp="1541167133819">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/mysite/lib/python3.6/site-packages/wagtailtrans/wagtail_hooks.py" timestamp="1543571431335">
         <mark key="[" line="74" column="26" />
@@ -213,10 +337,22 @@
         <mark key="." line="74" column="35" />
         <mark key="^" line="74" column="35" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/mysite/requirements.txt" timestamp="1543572733378">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/environments/.gitkeep" timestamp="1547474786878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/thor-backend/lib/python3.6/site-packages/checkout_sdk/payments/payments_client.py" timestamp="1547466197919">
+        <mark key="[" line="85" column="12" />
+        <mark key="]" line="85" column="52" />
+        <mark key="." line="85" column="52" />
+        <mark key="^" line="85" column="52" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/base.html" timestamp="1541520337950">
         <mark key="[" line="52" column="13" />
@@ -224,11 +360,23 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
+      <file name="$USER_HOME$/Programs/python_test_project/static/typography.css" timestamp="1547029613462">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/.dotfiles/install.conf.yaml" timestamp="1541087364311">
         <mark key="[" line="32" column="54" />
         <mark key="]" line="33" column="5" />
         <mark key="." line="33" column="5" />
         <mark key="^" line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1545054818538">
+        <mark key="[" line="200" column="47" />
+        <mark key="]" line="201" column="49" />
+        <mark key="^" line="201" column="49" />
+        <mark key="." line="201" column="49" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/campaigns/tasks.py" timestamp="1542284395073">
         <mark key="[" line="87" column="64" />
@@ -260,193 +408,17 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/page.html" timestamp="1541519043494">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/madinadv3/urls.py" timestamp="1543837749951">
-        <mark key="[" line="44" column="70" />
-        <mark key="]" line="44" column="70" />
-        <mark key="." line="44" column="70" />
-        <mark key="^" line="44" column="70" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/utils.py" timestamp="1542207081825">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="36" />
-        <mark key="^" line="3" column="55" />
-        <mark key="." line="3" column="36" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/requirements.txt" timestamp="1547553383862">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
-        <mark key="^" line="37" column="26" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/thor-backend/lib/python3.6/site-packages/checkout_sdk/enums.py" timestamp="1547464361757">
-        <mark key="[" line="193" column="13" />
-        <mark key="]" line="193" column="17" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_response.py" timestamp="1544614433167">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="75" />
-        <mark key="." line="18" column="75" />
-        <mark key="^" line="18" column="75" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/views.py" timestamp="1543837209782">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/mistune_test/mistune_parse_test.py" timestamp="1545220266720">
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="16" column="30" />
-        <mark key="^" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/README.md" timestamp="1541076717098">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="63" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/utils.py" timestamp="1541151393283">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/Programs/python_test_project/app.py" timestamp="1547029899812">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="38" column="40" />
-        <mark key="^" line="38" column="40" />
-        <mark key="." line="38" column="40" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/api_v1/views.py" timestamp="1547482753535">
-        <mark key="[" line="216" column="8" />
-        <mark key="]" line="216" column="8" />
-        <mark key="." line="216" column="8" />
-        <mark key="^" line="216" column="8" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/views.py" timestamp="1542202015116">
-        <mark key="[" line="41" column="59" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/serializers.py" timestamp="1543837915205">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="16" />
-        <mark key="^" line="41" column="40" />
-        <mark key="." line="41" column="40" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/analytics/api_v1/urls.py" timestamp="1542900926741">
-        <mark key="[" line="2" column="62" />
-        <mark key="]" line="2" column="62" />
-        <mark key="^" line="2" column="62" />
-        <mark key="." line="2" column="62" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/README.md" timestamp="1542707195780">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="21" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/solar_house/src/components/Map/MapboxLayer.js" timestamp="1544104538818">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/aliases" timestamp="1541072061091">
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="13" />
-        <mark key="^" line="36" column="42" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/errors.py" timestamp="1541582704944">
-        <mark key="[" line="72" column="8" />
-        <mark key="]" line="72" column="8" />
-        <mark key="." line="72" column="8" />
-        <mark key="^" line="72" column="8" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/RenderCesium.js" timestamp="1540563547670">
-        <mark key="[" line="863" column="26" />
-        <mark key="]" line="863" column="26" />
-        <mark key="^" line="863" column="26" />
-        <mark key="." line="863" column="26" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/mysite/mysite/settings/base.py" timestamp="1543506668959">
-        <mark key="[" line="160" column="42" />
-        <mark key="]" line="161" column="47" />
-        <mark key="^" line="161" column="47" />
-        <mark key="." line="161" column="47" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Element.js" timestamp="1543233967841">
-        <mark key="[" line="422" column="26" />
-        <mark key="]" line="422" column="26" />
-        <mark key="^" line="422" column="26" />
-        <mark key="." line="422" column="26" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/environments/.gitignore" timestamp="1547474684532">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/utils/translator_priviledges.py" timestamp="1543419068934">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="47" />
-        <mark key="^" line="16" column="47" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/README.md" timestamp="1541167133819">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/mysite/requirements.txt" timestamp="1543572733378">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/thor-backend/lib/python3.6/site-packages/checkout_sdk/payments/payments_client.py" timestamp="1547466197919">
-        <mark key="[" line="85" column="12" />
-        <mark key="]" line="85" column="52" />
-        <mark key="." line="85" column="52" />
-        <mark key="^" line="85" column="52" />
-      </file>
-      <file name="$USER_HOME$/Programs/python_test_project/static/typography.css" timestamp="1547029613462">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/tests/test_payments_client.py" timestamp="1545054818538">
-        <mark key="[" line="200" column="47" />
-        <mark key="]" line="201" column="49" />
-        <mark key="^" line="201" column="49" />
-        <mark key="." line="201" column="49" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/utils.py" timestamp="1544614399123">
         <mark key="[" line="80" column="69" />
         <mark key="]" line="82" column="84" />
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/page.html" timestamp="1541519043494">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1547744629757">
         <mark key="'" line="0" column="17" />
@@ -459,6 +431,12 @@
         <mark key="]" line="4" column="41" />
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/madinadv3/urls.py" timestamp="1543837749951">
+        <mark key="[" line="44" column="70" />
+        <mark key="]" line="44" column="70" />
+        <mark key="." line="44" column="70" />
+        <mark key="^" line="44" column="70" />
       </file>
       <file name="$USER_HOME$/dotfiles/install.conf.yaml" timestamp="1541078095679">
         <mark key="[" line="40" column="75" />
@@ -502,6 +480,28 @@
         <mark key="^" line="10" column="49" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/analytics/api_v1/utils.py" timestamp="1542207081825">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="55" />
+        <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/requirements.txt" timestamp="1547553383862">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+        <mark key="^" line="37" column="26" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/thor-backend/lib/python3.6/site-packages/checkout_sdk/enums.py" timestamp="1547464361757">
+        <mark key="[" line="193" column="13" />
+        <mark key="]" line="193" column="17" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.js" timestamp="1544105800194">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -541,6 +541,12 @@
         <mark key="]" line="5" column="9" />
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_response.py" timestamp="1544614433167">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="75" />
+        <mark key="." line="18" column="75" />
+        <mark key="^" line="18" column="75" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/setup.cfg" timestamp="1541580666538">
         <mark key="[" line="7" column="6" />
@@ -609,12 +615,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>pass</text>
       </register>
       <register name="0" type="4">
-        <text>date_range = [
-        start_date + datetime.timedelta(days=day) for day in range((end_date - start_date).days)
-    ]</text>
+        <text>customer_data.get('first_name')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFNoaXBwaW5nQ29udGFjdEluZm8sIEJpbGxpbmdDb250YWN0SW5mbywK</text>

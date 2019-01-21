@@ -69,11 +69,11 @@
         <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1548091097770">
-        <mark key="'" line="305" column="37" />
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
-        <mark key="^" line="303" column="37" />
+        <mark key="'" line="307" column="37" />
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
+        <mark key="^" line="305" column="37" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547549500440">
         <mark key="[" line="124" column="12" />

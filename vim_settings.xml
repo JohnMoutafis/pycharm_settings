@@ -249,6 +249,12 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/admin.py" timestamp="1548176120418">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+      </file>
       <file name="$USER_HOME$/dotfiles/bashrc" timestamp="1541072438688">
         <mark key="[" line="37" column="18" />
         <mark key="]" line="37" column="18" />
@@ -272,6 +278,12 @@
         <mark key="]" line="44" column="70" />
         <mark key="." line="44" column="70" />
         <mark key="^" line="44" column="70" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/api/views.py" timestamp="1548176150748">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="10" column="50" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/translated_elements/models.py" timestamp="1548175688416">
         <mark key="'" line="7" column="33" />

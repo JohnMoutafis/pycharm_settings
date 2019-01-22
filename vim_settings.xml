@@ -68,13 +68,6 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1548095194022">
-        <mark key="'" line="306" column="37" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
-        <mark key="^" line="297" column="63" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1547549500440">
         <mark key="[" line="124" column="12" />
         <mark key="]" line="124" column="33" />
@@ -121,6 +114,12 @@
         <mark key="]" line="2" column="62" />
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="62" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/thor-backend/lib/python3.6/site-packages/bluesnap/resources.py" timestamp="1548150795837">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1547830164784">
         <mark key="'" line="11" column="40" />

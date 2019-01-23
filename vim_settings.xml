@@ -279,11 +279,11 @@
         <mark key="." line="44" column="70" />
         <mark key="^" line="44" column="70" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/api/views.py" timestamp="1548235448575">
-        <mark key="[" line="33" column="53" />
-        <mark key="]" line="34" column="15" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="34" column="15" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/api/views.py" timestamp="1548239424103">
+        <mark key="[" line="58" column="6" />
+        <mark key="]" line="58" column="43" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="58" column="18" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/translated_elements/models.py" timestamp="1548175688416">
         <mark key="'" line="7" column="33" />
@@ -309,6 +309,12 @@
         <mark key="]" line="37" column="26" />
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/api/serializers.py" timestamp="1548239726271">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="56" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/payment_response.py" timestamp="1544614433167">
         <mark key="[" line="18" column="14" />
@@ -385,6 +391,12 @@
         <mark key="]" line="13" column="58" />
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/thor_backend/urls.py" timestamp="1548240208440">
+        <mark key="[" line="42" column="80" />
+        <mark key="]" line="42" column="85" />
+        <mark key="^" line="42" column="85" />
+        <mark key="." line="42" column="85" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad-data-scripts/madinad-data-scripts/README.md" timestamp="1542707195780">
         <mark key="[" line="1" column="0" />
@@ -487,6 +499,9 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548239746301">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/pages/helpers.py" timestamp="1543336702287">
         <mark key="[" line="3" column="41" />
@@ -649,10 +664,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>allow_blank</text>
       </register>
       <register name="0" type="4">
-        <text>language = models.ForeignKey(Language, on_delete=models.CASCADE)</text>
+        <text>SplitTestableTranslatedElementsViewSet</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxhbmd1YWdlID0gCg==</text>

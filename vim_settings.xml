@@ -279,11 +279,11 @@
         <mark key="." line="44" column="70" />
         <mark key="^" line="44" column="70" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/api/views.py" timestamp="1548176150748">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="50" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/api/views.py" timestamp="1548235448575">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="34" column="15" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="34" column="15" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/translated_elements/models.py" timestamp="1548175688416">
         <mark key="'" line="7" column="33" />
@@ -440,7 +440,6 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/cms/holiday_season/models.py" timestamp="1548170651750" />
       <file name="$USER_HOME$/Programs/intelligems/forks/wagtailtrans/src/wagtailtrans/utils/translator_priviledges.py" timestamp="1543419068934">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="47" />
@@ -650,7 +649,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>language = models.ForeignKey(Language, on_delete=models.CASCADE)</text>

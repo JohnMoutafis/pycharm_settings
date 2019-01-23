@@ -500,7 +500,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548248859711">
+      <file name="/Dummy.txt" timestamp="1548258656727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/pages/helpers.py" timestamp="1543336702287">
@@ -527,11 +527,11 @@
         <mark key="^" line="114" column="96" />
         <mark key="." line="114" column="96" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1548257156565">
-        <mark key="[" line="490" column="68" />
-        <mark key="]" line="490" column="90" />
-        <mark key="." line="490" column="90" />
-        <mark key="^" line="490" column="90" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1548258450963">
+        <mark key="[" line="492" column="39" />
+        <mark key="]" line="492" column="87" />
+        <mark key="." line="492" column="87" />
+        <mark key="^" line="492" column="87" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -670,37 +670,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text>SplitTestableTranslatedElementsViewSet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0ZV9jcmVhdGVkJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzbyA9IHNlbGYuZ2V0X29iamVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhbmd1YWdlID0gCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbyA9IHNlbGYuZ2V0X29iamVjdCgpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgbGFuZ3VhZ2VfY29kZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxhbmd1YWdlID0gCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgbGFuZ3VhZ2VfY29kZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

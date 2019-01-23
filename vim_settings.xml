@@ -527,6 +527,12 @@
         <mark key="^" line="114" column="96" />
         <mark key="." line="114" column="96" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1548242777070">
+        <mark key="[" line="474" column="55" />
+        <mark key="]" line="473" column="23" />
+        <mark key="^" line="473" column="23" />
+        <mark key="." line="473" column="23" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="15" column="15" />
@@ -664,7 +670,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>allow_blank</text>
+        <text>.</text>
       </register>
       <register name="0" type="4">
         <text>SplitTestableTranslatedElementsViewSet</text>

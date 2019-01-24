@@ -57,11 +57,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/translated_elements/tests.py" timestamp="1548337884131">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="19" column="63" />
-        <mark key="." line="19" column="63" />
-        <mark key="^" line="19" column="63" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/translated_elements/tests.py" timestamp="1548338563567">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="64" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1548325340578">
         <mark key="'" line="53" column="31" />
@@ -499,7 +498,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548325823113">
+      <file name="/Dummy.txt" timestamp="1548338772090">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/pages/helpers.py" timestamp="1543336702287">
@@ -562,9 +561,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/models.py" timestamp="1548325680116">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/models.py" timestamp="1548338603822">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="35" />
         <mark key="^" line="15" column="33" />
         <mark key="." line="8" column="0" />
       </file>
@@ -597,6 +596,12 @@
         <mark key="]" line="5" column="9" />
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/tests.py" timestamp="1548338645190">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="70" />
+        <mark key="." line="12" column="70" />
+        <mark key="^" line="12" column="70" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/setup.cfg" timestamp="1541580666538">
         <mark key="[" line="7" column="6" />
@@ -673,91 +678,34 @@
         <text>=</text>
       </register>
       <register name="0" type="4">
-        <text>SplitTestableTranslatedElementsViewSet</text>
+        <text>SplitTestableTranslatedElement</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
+        <text encoding="base64">ZnJvbSBtb2R1bGVzLmNvcmUudHJhbnNsYXRlZF9lbGVtZW50cy5tb2RlbHMgaW1wb3J0IFRyYW5zbGF0ZWRFbGVtZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxhbmd1YWdlID0gbW9kZWxzLkZvcmVpZ25LZXkoTGFuZ3VhZ2UsIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBiYXNlLm1vZGVscyBpbXBvcnQgR2VuZXJpY1RyYW5zbGF0ZWRFbGVtZW50Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3dpdGhfZW5nbGlzaF90ZXh0KHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhbmd1YWdlID0gbW9kZWxzLkZvcmVpZ25LZXkoTGFuZ3VhZ2UsIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBiYXNlLm1vZGVscyBpbXBvcnQgR2VuZXJpY1RyYW5zbGF0ZWRFbGVtZW50Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>class GenericTranslatedElement(BaseModel):
-    &quot;&quot;&quot;
-    Generic Translated Element model containing commonly shared methods and fields.
-    &quot;&quot;&quot;
-    class Meta:
-        abstract = True
-
-    def english_text(self):
-        text_body = None
-
-        if hasattr(self, 'textelement_set') and self.textelement_set.first():
-            obj = self.textelement_set.first()
-            text_body = obj.get_text_body_for_language_code('en').first()
-        elif hasattr(self, 'product_multilang_names') and self.product_multilang_names.first():
-            obj = self.product_multilang_names.first()
-            text_body = obj.product_name_for_language_code('en').first()
-        elif hasattr(self, 'product_descriptions') and self.product_descriptions.first():
-            obj = self.product_descriptions.first()
-            text_body = obj.description_for_language_code('en').first()
-        elif hasattr(self, 'product_short_descriptions') and \
-                self.product_short_descriptions.first():
-            obj = self.product_short_descriptions.first()
-            text_body = obj.short_description_for_language_code('en').first()
-        elif hasattr(self, 'product_set') and self.product_set.first():
-            # long product name - crappy decision but that's it
-            obj = self.product_set.first()
-            text_body = obj.long_product_name_for_language_code('en').first()
-        elif hasattr(self, 'staticpagepagetype_set') and self.staticpagepagetype_set.first():
-            obj = self.staticpagepagetype_set.first()
-            text_body = obj.html_content_for_language_code('en').first()
-        elif hasattr(self, 'confirmationpagetype_set') and self.confirmationpagetype_set.first():
-            obj = self.confirmationpagetype_set.first()
-            text_body = obj.html_content_for_language_code('en').first()
-        elif hasattr(self, 'confirmationupsellpagetype_set') and \
-                self.confirmationupsellpagetype_set.first():
-            obj = self.confirmationupsellpagetype_set.first()
-            text_body = obj.html_content_for_language_code('en').first()
-        elif hasattr(self, 'translated_titles') and self.translated_titles.first():
-            # landing pages title
-            obj = self.translated_titles.first()
-            text_body = obj.title_for_language_code('en').first()
-        elif hasattr(self, 'translated_descriptions') and self.translated_descriptions.first():
-            # landing pages description
-            obj = self.translated_descriptions.first()
-            text_body = obj.description_for_language_code('en').first()
-        elif hasattr(self, 'holiday_season_last_day_text') and \
-                self.holiday_season_last_day_text.first():
-            obj = self.holiday_season_last_day_text.first()
-            text_body = obj.last_day_text_for_language_code('en').first()
-        elif hasattr(self, 'holiday_season_period_before_last_day_text') and \
-                self.holiday_season_period_before_last_day_text.first():
-            obj = self.holiday_season_period_before_last_day_text.first()
-            text_body = obj.period_before_last_day_text_for_language_code('en').first()
-
-        if text_body:
-            return text_body.value
-
-        return None</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

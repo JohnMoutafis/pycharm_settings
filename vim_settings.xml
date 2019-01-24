@@ -57,12 +57,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1548324072287">
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1548325340578">
         <mark key="'" line="53" column="31" />
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/__init__.py" timestamp="1544615533990">
         <mark key="[" line="5" column="68" />
@@ -285,13 +285,6 @@
         <mark key="^" line="58" column="18" />
         <mark key="." line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/translated_elements/models.py" timestamp="1548175688416">
-        <mark key="'" line="7" column="33" />
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-      </file>
       <file name="$USER_HOME$/Programs/intelligems/gilytics/modules/mcda/static/js/Toolbar.js" timestamp="1540395216891">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="35" />
@@ -494,13 +487,13 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/base/models.py" timestamp="1548175642608">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/base/models.py" timestamp="1548325625864">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
         <mark key="^" line="3" column="5" />
-        <mark key="." line="39" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548323301483">
+      <file name="/Dummy.txt" timestamp="1548325823113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/pages/helpers.py" timestamp="1543336702287">
@@ -527,11 +520,11 @@
         <mark key="^" line="114" column="96" />
         <mark key="." line="114" column="96" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1548323285586">
-        <mark key="[" line="531" column="40" />
-        <mark key="]" line="531" column="47" />
-        <mark key="." line="531" column="47" />
-        <mark key="^" line="531" column="47" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1548324745813">
+        <mark key="[" line="536" column="69" />
+        <mark key="]" line="536" column="85" />
+        <mark key="." line="536" column="85" />
+        <mark key="^" line="536" column="85" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -563,11 +556,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/models.py" timestamp="1548175800766">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="33" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/models.py" timestamp="1548325680116">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/templates/header.html" timestamp="1541519247355">
         <mark key="[" line="4" column="32" />
@@ -671,37 +664,94 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2FsZV9vcmRlcl9fYWZmaWxpYXRlX2ZpcmVkLCA=</text>
+        <text>=</text>
       </register>
       <register name="0" type="4">
         <text>SplitTestableTranslatedElementsViewSet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIGxhbmd1YWdlID0gbW9kZWxzLkZvcmVpZ25LZXkoTGFuZ3VhZ2UsIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0ZV9jcmVhdGVkJwo=</text>
+        <text encoding="base64">ZnJvbSBiYXNlLm1vZGVscyBpbXBvcnQgR2VuZXJpY1RyYW5zbGF0ZWRFbGVtZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzbyA9IHNlbGYuZ2V0X29iamVjdCgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxhbmd1YWdlID0gCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgbGFuZ3VhZ2VfY29kZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBiYXNlLm1vZGVscyBpbXBvcnQgR2VuZXJpY1RyYW5zbGF0ZWRFbGVtZW50Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>class GenericTranslatedElement(BaseModel):
+    &quot;&quot;&quot;
+    Generic Translated Element model containing commonly shared methods and fields.
+    &quot;&quot;&quot;
+    class Meta:
+        abstract = True
+
+    def english_text(self):
+        text_body = None
+
+        if hasattr(self, 'textelement_set') and self.textelement_set.first():
+            obj = self.textelement_set.first()
+            text_body = obj.get_text_body_for_language_code('en').first()
+        elif hasattr(self, 'product_multilang_names') and self.product_multilang_names.first():
+            obj = self.product_multilang_names.first()
+            text_body = obj.product_name_for_language_code('en').first()
+        elif hasattr(self, 'product_descriptions') and self.product_descriptions.first():
+            obj = self.product_descriptions.first()
+            text_body = obj.description_for_language_code('en').first()
+        elif hasattr(self, 'product_short_descriptions') and \
+                self.product_short_descriptions.first():
+            obj = self.product_short_descriptions.first()
+            text_body = obj.short_description_for_language_code('en').first()
+        elif hasattr(self, 'product_set') and self.product_set.first():
+            # long product name - crappy decision but that's it
+            obj = self.product_set.first()
+            text_body = obj.long_product_name_for_language_code('en').first()
+        elif hasattr(self, 'staticpagepagetype_set') and self.staticpagepagetype_set.first():
+            obj = self.staticpagepagetype_set.first()
+            text_body = obj.html_content_for_language_code('en').first()
+        elif hasattr(self, 'confirmationpagetype_set') and self.confirmationpagetype_set.first():
+            obj = self.confirmationpagetype_set.first()
+            text_body = obj.html_content_for_language_code('en').first()
+        elif hasattr(self, 'confirmationupsellpagetype_set') and \
+                self.confirmationupsellpagetype_set.first():
+            obj = self.confirmationupsellpagetype_set.first()
+            text_body = obj.html_content_for_language_code('en').first()
+        elif hasattr(self, 'translated_titles') and self.translated_titles.first():
+            # landing pages title
+            obj = self.translated_titles.first()
+            text_body = obj.title_for_language_code('en').first()
+        elif hasattr(self, 'translated_descriptions') and self.translated_descriptions.first():
+            # landing pages description
+            obj = self.translated_descriptions.first()
+            text_body = obj.description_for_language_code('en').first()
+        elif hasattr(self, 'holiday_season_last_day_text') and \
+                self.holiday_season_last_day_text.first():
+            obj = self.holiday_season_last_day_text.first()
+            text_body = obj.last_day_text_for_language_code('en').first()
+        elif hasattr(self, 'holiday_season_period_before_last_day_text') and \
+                self.holiday_season_period_before_last_day_text.first():
+            obj = self.holiday_season_period_before_last_day_text.first()
+            text_body = obj.period_before_last_day_text_for_language_code('en').first()
+
+        if text_body:
+            return text_body.value
+
+        return None</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

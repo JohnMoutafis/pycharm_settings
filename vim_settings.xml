@@ -57,12 +57,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1547830164784">
-        <mark key="'" line="11" column="40" />
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="15" column="7" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1548324072287">
+        <mark key="'" line="53" column="31" />
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/payments/__init__.py" timestamp="1544615533990">
         <mark key="[" line="5" column="68" />
@@ -500,7 +500,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548258656727">
+      <file name="/Dummy.txt" timestamp="1548323301483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/pages/helpers.py" timestamp="1543336702287">
@@ -527,11 +527,11 @@
         <mark key="^" line="114" column="96" />
         <mark key="." line="114" column="96" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1548258450963">
-        <mark key="[" line="492" column="39" />
-        <mark key="]" line="492" column="87" />
-        <mark key="." line="492" column="87" />
-        <mark key="^" line="492" column="87" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/views.py" timestamp="1548323285586">
+        <mark key="[" line="531" column="40" />
+        <mark key="]" line="531" column="47" />
+        <mark key="." line="531" column="47" />
+        <mark key="^" line="531" column="47" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/cache.py" timestamp="1541592023989">
         <mark key="[" line="9" column="0" />
@@ -661,6 +661,7 @@
       <jump line="34" column="20" filename="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/bluesnap/bluesnap.py" />
       <jump line="305" column="37" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" />
       <jump line="7" column="33" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/translated_elements/models.py" />
+      <jump line="46" column="31" filename="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -670,7 +671,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">c2FsZV9vcmRlcl9fYWZmaWxpYXRlX2ZpcmVkLCA=</text>
       </register>
       <register name="0" type="4">
         <text>SplitTestableTranslatedElementsViewSet</text>

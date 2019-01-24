@@ -57,6 +57,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/translated_elements/tests.py" timestamp="1548337884131">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="19" column="63" />
+        <mark key="." line="19" column="63" />
+        <mark key="^" line="19" column="63" />
+      </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/crm/sale_orders/api/utils.py" timestamp="1548325340578">
         <mark key="'" line="53" column="31" />
         <mark key="[" line="10" column="0" />
@@ -670,16 +676,16 @@
         <text>SplitTestableTranslatedElementsViewSet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhbmd1YWdlID0gbW9kZWxzLkZvcmVpZ25LZXkoTGFuZ3VhZ2UsIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBiYXNlLm1vZGVscyBpbXBvcnQgR2VuZXJpY1RyYW5zbGF0ZWRFbGVtZW50Cg==</text>
+        <text encoding="base64">ICAgIGxhbmd1YWdlID0gbW9kZWxzLkZvcmVpZ25LZXkoTGFuZ3VhZ2UsIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBiYXNlLm1vZGVscyBpbXBvcnQgR2VuZXJpY1RyYW5zbGF0ZWRFbGVtZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -688,9 +694,12 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBiYXNlLm1vZGVscyBpbXBvcnQgR2VuZXJpY1RyYW5zbGF0ZWRFbGVtZW50Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>class GenericTranslatedElement(BaseModel):
     &quot;&quot;&quot;
     Generic Translated Element model containing commonly shared methods and fields.
@@ -749,9 +758,6 @@
             return text_body.value
 
         return None</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

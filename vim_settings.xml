@@ -150,7 +150,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/jgmoutafisdb.project_2018.gr_major_airports [postgres_ntua]" timestamp="1548446425474">
+      <file name="/jgmoutafisdb.project_2018.gr_major_airports [postgres_ntua]" timestamp="1548447645278">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-lp-flask/thor_lp/client.py" timestamp="1541519901844">
@@ -313,7 +313,7 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
-      <file name="/jgmoutafisdb.project_2018.gr_administrativeareas [postgres_ntua]" timestamp="1548446444627">
+      <file name="/jgmoutafisdb.project_2018.gr_administrativeareas [postgres_ntua]" timestamp="1548447640089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/core/split_testable_translated_elements/api/serializers.py" timestamp="1548422970781">
@@ -403,6 +403,12 @@
         <mark key="]" line="13" column="58" />
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
+      </file>
+      <file name="$USER_HOME$/Programs/learning/postgres_ntua/spatial_connection_queries.sql" timestamp="1548448177007">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/thor_backend/urls.py" timestamp="1548240208440">
         <mark key="[" line="42" column="80" />
@@ -509,7 +515,7 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
-      <file name="/dummy.sql" timestamp="1548446465530">
+      <file name="/dummy.sql" timestamp="1548448063801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/base/models.py" timestamp="1548325625864">
@@ -694,7 +700,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>detail=False</text>
+        <text>gr_administrativeareas</text>
       </register>
       <register name="0" type="4">
         <text>CheckoutCreateAltTokenSerializer</text>
@@ -703,28 +709,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
+        <text encoding="base64">U0VUIHNlYXJjaF9wYXRoIFRPIHByb2plY3RfMjAxODsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBsYW5ndWFnZV9jb2RlKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBsYW5ndWFnZV9jb2RlKHNlbGYpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgbGFuZ3VhZ2VfY29kZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zZXJpYWxpemVyX2NsYXNzCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgbGFuZ3VhZ2VfY29kZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

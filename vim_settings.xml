@@ -404,11 +404,11 @@
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
       </file>
-      <file name="$USER_HOME$/Programs/learning/postgres_ntua/spatial_connection_queries.sql" timestamp="1548448177007">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+      <file name="$USER_HOME$/Programs/learning/postgres_ntua/spatial_connection_queries.sql" timestamp="1548450260640">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/thor-backend/thor_backend/urls.py" timestamp="1548240208440">
         <mark key="[" line="42" column="80" />
@@ -700,37 +700,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>gr_administrativeareas</text>
+        <text>d</text>
       </register>
       <register name="0" type="4">
         <text>CheckoutCreateAltTokenSerializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhaXJwb3J0cy5pZCBhcyBhaXJwb3J0X2lkLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VUIHNlYXJjaF9wYXRoIFRPIHByb2plY3RfMjAxODsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VUIHNlYXJjaF9wYXRoIFRPIHByb2plY3RfMjAxODsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBsYW5ndWFnZV9jb2RlKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsYW5ndWFnZV9jb2RlKHNlbGYpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgbGFuZ3VhZ2VfY29kZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5sYW5ndWFnZS5jb2RlCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -33,7 +33,7 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1548347006230">
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1548414472408">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
@@ -340,11 +340,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1548412556420">
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="73" column="28" />
-        <mark key="^" line="73" column="28" />
-        <mark key="." line="73" column="28" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1548414404321">
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="20" />
+        <mark key="^" line="360" column="16" />
+        <mark key="." line="374" column="20" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
         <mark key="[" line="38" column="32" />
@@ -483,6 +483,9 @@
         <mark key="]" line="201" column="49" />
         <mark key="^" line="201" column="49" />
         <mark key="." line="201" column="49" />
+      </file>
+      <file name="/Django Console" timestamp="1548414209127">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/forks/checkout-sdk-python/checkout_sdk/utils.py" timestamp="1544614399123">
         <mark key="[" line="80" column="69" />
@@ -673,10 +676,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>upsell_products</text>
+        <text>'</text>
       </register>
       <register name="0" type="4">
-        <text>upsell_products = UpsellItemsSerializer(many=True, required=False, allow_null=True)</text>
+        <text>calculate_final_charging_amount</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -685,25 +688,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVwc2VsbF9wcm9kdWN0cyA9IHNlbGYudmFsaWRhdGVkX2RhdGEuZ2V0KCd1cHNlbGxfcHJvZHVjdHMnKQo=</text>
+        <text encoding="base64">ICAgIHBheW1lbnRfdG9rZW4gPSBzZXJpYWxpemVycy5DaGFyRmllbGQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAncHVyY2hhc2luZ19wcm9kdWN0X3ZhcmlhbnRfcHJvbW90aW9ucycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1cmNoYXNpbmdfcHJvZHVjdF92YXJpYW50X3Byb21vdGlvbnMgPSBzZWxmLnZhbGlkYXRlZF9kYXRhLmdldCgK</text>
+        <text encoding="base64">ICAgIGVtYWlsID0gc2VyaWFsaXplcnMuRW1haWxGaWVsZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1cmNoYXNpbmdfcHJvbW90aW9ucyA9IHNlbGYudmFsaWRhdGVkX2RhdGEuZ2V0KCdwdXJjaGFzaW5nX3Byb21vdGlvbnMnKQo=</text>
+        <text encoding="base64">Y2xhc3MgQ2hlY2tvdXRQcm9jZXNzQWx0UGF5bWVudFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuU2VyaWFsaXplcik6Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGhhc193YXJyYW50eSA9IHNlbGYudmFsaWRhdGVkX2RhdGEuZ2V0KCdoYXNfd2FycmFudHknKQo=</text>
+      <register name="7" type="4">
+        <text>lpp_id = serializers.CharField(default='lpp_9')
+    issuer_id = serializers.CharField(allow_blank=True, allow_null=True)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbHVlID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gJ0VVUicK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIF9leHRyYWN0X21haW5fcHJvZHVjdF9vZl9wdXJjaGFzZShzZWxmLCBwcm9tb3Rpb25zLCB1cHNlbGxzLCB2YXJpYW50X3Byb21vdGlvbnMpOgogICAgICAgIHRyeToKICAgICAgICAgICAgaWYgcHJvbW90aW9ucyBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIG1haW5fcHJvZHVjdCA9IHByb21vdGlvbnNbMF0ucHJvZHVjdAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbWFpbl9wcm9kdWN0ID0gdmFyaWFudF9wcm9tb3Rpb25zWzBdLnByb2R1Y3RfdmFyaWFudC5wcm9kdWN0CiAgICAgICAgZXhjZXB0IEluZGV4RXJyb3I6CiAgICAgICAgICAgIGZpcnN0X3Vwc2VsbCA9IHVwc2VsbHNbMF0KICAgICAgICAgICAgaWYgZmlyc3RfdXBzZWxsLmdldCgncHJvZHVjdCcsIE5vbmUpIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgbWFpbl9wcm9kdWN0ID0gZmlyc3RfdXBzZWxsLmdldCgncHJvZHVjdCcpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBtYWluX3Byb2R1Y3QgPSBmaXJzdF91cHNlbGwuZ2V0KCd1cHNlbGxfaXRlbScpLnVwc2VsbAogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2luZy5lcnJvcihlKQogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oZidDYW5ub3QgY2FsY3VsYXRlIGZpbmFsIGNoYXJnaW5nIGFtb3VudCB3aXRob3V0IG1haW4gcHJvZHVjdCBrbm93bjoge2V9JykKCiAgICAgICAgcmV0dXJuIG1haW5fcHJvZHVjdAo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSB2YXJpYW50X3Byb21vdGlvbnM6IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

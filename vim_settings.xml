@@ -33,10 +33,11 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1548414983141">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1548416699487">
+        <mark key="[" line="246" column="100" />
+        <mark key="]" line="247" column="3" />
+        <mark key="^" line="247" column="3" />
+        <mark key="." line="247" column="3" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinad/madinadv3/modules/browser_history/api_v1/views.py" timestamp="1543837918023">
         <mark key="[" line="29" column="72" />
@@ -136,10 +137,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1548415053681">
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="88" column="12" />
-        <mark key="." line="88" column="12" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1548416870498">
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
         <mark key="[" line="14" column="0" />
@@ -345,11 +347,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1548415150572">
-        <mark key="[" line="355" column="55" />
-        <mark key="]" line="355" column="50" />
-        <mark key="^" line="355" column="50" />
-        <mark key="." line="355" column="50" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1548416735272">
+        <mark key="[" line="658" column="0" />
+        <mark key="]" line="658" column="15" />
+        <mark key="." line="658" column="15" />
+        <mark key="^" line="652" column="18" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
         <mark key="[" line="38" column="32" />
@@ -504,7 +506,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548338772090">
+      <file name="/Dummy.txt" timestamp="1548416884850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/mysite/pages/helpers.py" timestamp="1543336702287">
@@ -681,45 +683,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>detail=False</text>
       </register>
       <register name="0" type="4">
-        <text>calculate_final_charging_amount</text>
+        <text>CheckoutCreateAltTokenSerializer</text>
       </register>
-      <register name="1" type="4">
-        <text>try:
-                payment_response = create_alternative_payment_request(
-                    apm_id=serializer.validated_data.get('lpp_id'),
-                    payment_token=serializer.validated_data.get('payment_token'),
-                    user_data=user_data, customer=serializer.validated_data.get('email')
-                ).http_response
-                return Response(payment_response.body, status=payment_response.status)
-            except requests.exceptions.HTTPError as exc:</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zZXJpYWxpemVyX2NsYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENoZWNrb3V0Q3JlYXRlQWx0VG9rZW5TZXJpYWxpemVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBheW1lbnRfdG9rZW4gPSBzZXJpYWxpemVycy5DaGFyRmllbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFjdGlvbiA9PSAnY3JlYXRlX2lkZWFsX3Rva2VuJzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc2VyaWFsaXplcl9jbGFzcyhzZWxmKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVtYWlsID0gc2VyaWFsaXplcnMuRW1haWxGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENoZWNrb3V0UHJvY2Vzc0FsdFBheW1lbnRTZXJpYWxpemVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQ2hlY2tvdXRQcm9jZXNzQWx0UGF5bWVudFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuU2VyaWFsaXplcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYuYWN0aW9uID09ICdpZGVhbF9jaGVja291dCc6Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>lpp_id = serializers.CharField(default='lpp_9')
-    issuer_id = serializers.CharField(allow_blank=True, allow_null=True)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gJ0VVUicK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5lcnJvcnMsIHN0YXR1cz1zdGF0dXMuSFRUUF80MDBfQkFEX1JFUVVFU1QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

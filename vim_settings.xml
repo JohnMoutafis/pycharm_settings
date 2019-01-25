@@ -33,7 +33,7 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1548414472408">
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/integrations/payment_providers/checkoutdotcom/checkoutcom.py" timestamp="1548414983141">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
@@ -135,6 +135,11 @@
         <mark key="]" line="0" column="62" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/api.py" timestamp="1548415053681">
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="12" />
+        <mark key="." line="88" column="12" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/solar_house/src/containers/App.css" timestamp="1544012034166">
         <mark key="[" line="14" column="0" />
@@ -340,11 +345,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1548414404321">
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="374" column="20" />
-        <mark key="^" line="360" column="16" />
-        <mark key="." line="374" column="20" />
+      <file name="$USER_HOME$/Programs/intelligems/thor-backend/modules/payments/checkout/serializers.py" timestamp="1548415150572">
+        <mark key="[" line="355" column="55" />
+        <mark key="]" line="355" column="50" />
+        <mark key="^" line="355" column="50" />
+        <mark key="." line="355" column="50" />
       </file>
       <file name="$USER_HOME$/Programs/intelligems/madinadv3/modules/ad_serving/api_v1/views.py" timestamp="1541764483035">
         <mark key="[" line="38" column="32" />
@@ -676,38 +681,45 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text>calculate_final_charging_amount</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>try:
+                payment_response = create_alternative_payment_request(
+                    apm_id=serializer.validated_data.get('lpp_id'),
+                    payment_token=serializer.validated_data.get('payment_token'),
+                    user_data=user_data, customer=serializer.validated_data.get('email')
+                ).http_response
+                return Response(payment_response.body, status=payment_response.status)
+            except requests.exceptions.HTTPError as exc:</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBheW1lbnRfdG9rZW4gPSBzZXJpYWxpemVycy5DaGFyRmllbGQoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBheW1lbnRfdG9rZW4gPSBzZXJpYWxpemVycy5DaGFyRmllbGQoKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVtYWlsID0gc2VyaWFsaXplcnMuRW1haWxGaWVsZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGVtYWlsID0gc2VyaWFsaXplcnMuRW1haWxGaWVsZCgpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Y2xhc3MgQ2hlY2tvdXRQcm9jZXNzQWx0UGF5bWVudFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuU2VyaWFsaXplcik6Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>lpp_id = serializers.CharField(default='lpp_9')
     issuer_id = serializers.CharField(allow_blank=True, allow_null=True)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gJ0VVUicK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB2YXJpYW50X3Byb21vdGlvbnM6IAo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gJ0VVUicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
